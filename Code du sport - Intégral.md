@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2006-05-25
+Version Consolidée au 2006-07-06
 
 # Partie législative
 
@@ -7151,6 +7151,28 @@ manifestations concernées par les dispositions du premier alinéa sont précis�
 	  - Code du sport. - art. L131-19 (V)
 
 
+###### Article L331-4-1
+
+Les fédérations mentionnées à l'article L. 131-14 peuvent être assistées, dans le cadre de leurs actions de prévention des
+violences à l'occasion des manifestations sportives à caractère amateur, par des membres de la réserve civile de la police
+nationale mentionnée à l'article 4 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2003-239 du 18 mars 2003 - art. 4 (V)
+	  - Code du sport. - art. L131-14 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-784 du 5 juillet 2006 - art. 1 () JORF 6 juillet 2006
+
+
 ##### Section 2 : Autorisations préalables
 
 ###### Article L331-5
@@ -7416,6 +7438,31 @@ de 1 500 spectateurs dans les conditions prévues à l'article 3-2 de cette loi.
 	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 
+###### Article L332-2-1
+
+Lorsqu'un système de vidéosurveillance est installé dans une enceinte où une manifestation sportive se déroule, les personnes
+chargées de son exploitation, conformément à l'autorisation préfectorale délivrée en application de l'article 10 de la loi n°
+95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, et l'organisateur de la manifestation
+sportive s'assurent, préalablement au déroulement de ladite manifestation, du bon fonctionnement du système de
+vidéosurveillance. 
+
+Est puni de 15 000 euros d'amende le fait de méconnaître l'obligation fixée au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°95-73 du 21 janvier 1995 - art. 10 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-784 du 5 juillet 2006 - art. 5 () JORF 6 juillet 2006
+
+
 ###### Article L332-3
 
 Le fait d'introduire ou de tenter d'introduire par force ou par fraude dans une enceinte sportive, lors du déroulement ou de
@@ -7597,14 +7644,17 @@ pénétrant sur l'aire de compétition d'une enceinte sportive, est puni d'un an
 
 ###### Article L332-11
 
-Les personnes coupables de l'une des infractions définies aux articles L. 332-3 à L. 332-10 du présent code encourent
-également la peine complémentaire d'interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se déroule une
-manifestation sportive, pour une durée qui ne peut excéder cinq ans.
+Les personnes coupables de l'une des infractions définies aux articles L. 332-3 à L. 332-10 et L. 332-19 du présent code
+encourent également la peine complémentaire d'interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se
+déroule une manifestation sportive, pour une durée qui ne peut excéder cinq ans. La personne condamnée à cette peine est
+astreinte par le tribunal à répondre, au moment des manifestations sportives, aux convocations de toute autorité ou de toute
+personne qualifiée désignée par la juridiction. Dès le prononcé de la condamnation, la juridiction de jugement précise les
+obligations découlant pour le condamné de cette astreinte. 
 
 Cette peine complémentaire est également applicable aux personnes coupables de l'une des infractions définies aux articles
-222-11 à 222-13, 322-1 à 322-4, 322-6, 322-11 et 433-6 du code pénal lorsque cette infraction a été commise dans une enceinte
-où se déroule une manifestation sportive ou, à l'extérieur de l'enceinte, en relation directe avec une manifestation
-sportive.
+222-11 à 222-13, 322-1 à 322-4, 
+322-6, 322-11 et 433-6 du code pénal lorsque cette infraction a été commise dans une enceinte où se déroule une manifestation
+sportive ou, à l'extérieur de l'enceinte, en relation directe avec une manifestation sportive.
 
 **Liens relatifs à cet article**
 
@@ -7631,13 +7681,18 @@ sportive.
 
 	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
+	**Modifié par**:
+
+	  - Loi n°2006-784 du 5 juillet 2006 - art. 2 () JORF 6 juillet 2006
+
 	**Cite**:
 
-	  - Code pénal - art. 322-11 (V)
-	  - Code pénal - art. 322-6 (M)
+	  - Code pénal - art. 222-11 (V)
+	  - Code pénal - art. 322-1 (V)
+	  - Code pénal - art. 322-6 (V)
 	  - Code pénal - art. 433-6 (V)
-	  - Code pénal 222-11 à 222-13, 322-1 à 322-4, 322-6, 322-11, 433-6
-	  - Code du sport L332-3 à L332-10
+	  - Code du sport. - art. L332-19 (V)
+	  - Code du sport. - art. L332-3 (V)
 
 
 ###### Article L332-12
@@ -7669,13 +7724,9 @@ peine complémentaire prévue à cet article peut également être prononcée.
 ###### Article L332-13
 
 Toute personne qui pénètre ou se rend, en violation de la peine d'interdiction prévue aux articles L. 332-11 et L. 332-12,
-dans ou aux abords d'une enceinte où se déroule une manifestation sportive est punie de deux ans d'emprisonnement et de 30
-000 euros d'amende.
-
-La personne condamnée à la peine complémentaire définie au premier alinéa de l'article L. 332-11 peut être astreinte par le
-tribunal à répondre, au moment des manifestations sportives, aux convocations de toute autorité ou de toute personne
-qualifiée qu'il désigne. Le fait de se soustraire sans motif légitime aux obligations ainsi imposées est puni de deux ans
-d'emprisonnement et de 30 000 euros d'amende.
+dans ou aux abords d'une enceinte où se déroule une manifestation sportive ou qui, sans motif légitime, se soustrait à
+l'obligation de répondre aux convocations qui lui ont été adressées au moment des manifestations sportives est punie de deux
+ans d'emprisonnement et de 30 000 euros d'amende.
 
 **Liens relatifs à cet article**
 
@@ -7689,10 +7740,13 @@ d'emprisonnement et de 30 000 euros d'amende.
 
 	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
+	**Modifié par**:
+
+	  - Loi n°2006-784 du 5 juillet 2006 - art. 2 () JORF 6 juillet 2006
+
 	**Cite**:
 
-	  - Code du sport. - art. L332-11 (M)
-	  - Code du sport. - art. L332-12 (V)
+	  - Code du sport. - art. L332-11 (V)
 
 
 ###### Article L332-14
@@ -7755,14 +7809,18 @@ prononcer à son encontre une mesure d'interdiction de pénétrer ou de se rendr
 manifestations se déroulent ou sont retransmises en public.
 
 L'arrêté, valable sur le territoire national, fixe le type de manifestations sportives concernées. Il ne peut excéder une
-durée de trois mois.
+durée de trois mois. 
 
 Le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent également imposer, par le même arrêté,
 à la personne faisant l'objet de cette mesure l'obligation de répondre, au moment des manifestations sportives objet de
-l'interdiction, aux convocations de toute autorité ou de toute personne qualifiée qu'il désigne.
+l'interdiction, aux convocations de toute autorité ou de toute personne qualifiée qu'il désigne. 
 
 Le fait, pour la personne, de ne pas se conformer à l'un ou à l'autre des arrêtés pris en application des alinéas précédents
-est puni de 3 750 euros d'amende.
+est puni de 3 750 euros d'amende. 
+
+Le préfet du département et, à Paris, le préfet de police peut communiquer aux fédérations sportives agréées en application
+de l'article L. 131-8 et aux associations de supporters mentionnées à l'article L. 332-17 l'identité des personnes faisant
+l'objet de la mesure d'interdiction mentionnée au premier alinéa. 
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
@@ -7788,6 +7846,15 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	**Codifié par**:
 
 	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2006-784 du 5 juillet 2006 - art. 3 () JORF 6 juillet 2006
+
+	**Cite**:
+
+	  - Code du sport. - art. L131-8 (V)
+	  - Code du sport. - art. L332-17 (V)
 
 
 ###### Article L332-17
@@ -7820,6 +7887,146 @@ aux articles L. 312-14 à L. 312-17 et L. 332-3 à L. 332-10.
 
 	  - Code du sport. - art. L312-14 (V)
 	  - Code du sport. - art. L332-3 (V)
+
+
+###### Article L332-18
+
+Peut être dissous par décret, après avis de la Commission nationale consultative de prévention des violences lors des
+manifestations sportives, toute association ou groupement de fait ayant pour objet le soutien à une association sportive
+mentionnée à l'article L. 122-1, dont des membres ont commis en réunion, en relation ou à l'occasion d'une manifestation
+sportive, des actes répétés constitutifs de dégradations de biens, de violence sur des personnes ou d'incitation à la haine
+ou à la discrimination contre des personnes à raison de leur origine, de leur orientation sexuelle, de leur sexe ou de leur
+appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée. 
+
+Les représentants des associations ou groupements de fait et les dirigeants de club concernés peuvent présenter leurs
+observations à la commission. 
+
+Cette commission comprend : 
+
+1° Deux membres du Conseil d'Etat, dont le président de la commission, désignés par le vice-président du Conseil d'Etat ; 
+
+2° Deux magistrats de l'ordre judiciaire, désignés par le premier président de la Cour de cassation ; 
+
+3° Un représentant du Comité national olympique et sportif français, un représentant des fédérations sportives et un
+représentant des ligues professionnelles, nommés par le ministre chargé des sports ; 
+
+4° Une personnalité choisie en raison de sa compétence en matière de violences lors des manifestations sportives, nommée par
+le ministre chargé des sports. 
+
+Les conditions de fonctionnement de la commission sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-784 du 5 juillet 2006 - art. 4 () JORF 6 juillet 2006
+
+	**Cité par**:
+
+	  - Décret n°2006-1550 du 8 décembre 2006 - art. 2 (Ab)
+	  - Code de la sécurité intérieure - art. L212-2 (VD)
+	  - Code du sport. - art. L332-16 (V)
+	  - Code du sport. - art. L332-19 (M)
+	  - Code du sport. - art. R332-11 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L122-1 (V)
+
+
+###### Article L332-19
+
+Le fait de participer au maintien ou à la reconstitution, ouverte ou déguisée, d'une association ou d'un groupement dissous
+en application de l'article L. 332-18 est puni d'un an d'emprisonnement et de 15 000 euros d'amende. 
+
+Le fait d'organiser le maintien ou la reconstitution, ouverte ou déguisée, d'une association ou d'un groupement dissous en
+application de l'article L. 332-18 est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. 
+
+Les peines prévues aux premier et deuxième alinéas sont portées respectivement à trois ans d'emprisonnement et 45 000 euros
+d'amende et à cinq ans d'emprisonnement et 75 000 euros d'amende si les infractions à l'origine de la dissolution de
+l'association ou du groupement ont été commises à raison de l'origine de la victime, de son orientation sexuelle, de son sexe
+ou de son appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-784 du 5 juillet 2006 - art. 6 () JORF 6 juillet 2006
+
+	**Cité par**:
+
+	  - Code de la sécurité intérieure - art. L212-2 (VD)
+	  - Code du sport. - art. L332-11 (V)
+	  - Code du sport. - art. L332-20 (V)
+	  - Code du sport. - art. L332-21 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L332-18 (V)
+
+
+###### Article L332-20
+
+Les personnes morales reconnues pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des
+infractions définies par le présent chapitre encourent les peines suivantes : 
+
+1° L'amende dans les conditions prévues à l'article 131-38 du code pénal ; 
+
+2° Dans les cas prévus par les articles L. 312-14, L. 312-15, L. 312-16, 
+L. 332-8, L. 332-9, L. 332-10, L. 332-11 (deuxième alinéa) et L. 332-19 du présent code, les peines mentionnées à l'article
+131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2006-784 du 5 juillet 2006 - art. 6 () JORF 6 juillet 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
+	  - Code du sport. - art. L312-14 (V)
+	  - Code du sport. - art. L332-19 (V)
+	  - Code du sport. - art. L332-8 (V)
+
+
+###### Article L332-21
+
+Les personnes physiques ou morales coupables des infractions prévues par l'article L. 332-19 encourent également les peines
+suivantes : 
+
+1° La confiscation des biens mobiliers et immobiliers appartenant à ou utilisés par l'association ou le groupement maintenu
+ou reconstitué ; 
+
+2° La confiscation des uniformes, insignes, emblèmes, armes et tous matériels utilisés ou destinés à être utilisés par
+l'association ou le groupement maintenu ou reconstitué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-784 du 5 juillet 2006 - art. 6 () JORF 6 juillet 2006
+
+	**Cite**:
+
+	  - Code du sport. - art. L332-19 (V)
 
 
 #### Chapitre III : Retransmission des manifestations sportives
