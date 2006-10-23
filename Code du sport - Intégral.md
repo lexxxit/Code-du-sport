@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2006-07-06
+Version Consolidée au 2006-10-24
 
 # Partie législative
 
@@ -3758,6 +3758,78 @@ cette licence ;
 
 	  - Code du sport. - art. L222-6 (V)
 	  - Code du sport. - art. L222-7 (V)
+
+
+#### Chapitre III : Autres dispositions applicables aux sportifs
+
+###### Article L223-1
+
+Les arbitres et juges exercent leur mission arbitrale en toute indépendance et impartialité, dans le respect des règlements
+édictés par la fédération sportive mentionnée à l'article L. 131-14, compétente pour la discipline et auprès de laquelle ils
+sont licenciés. Cette fédération assure le contrôle de l'exercice de cette mission selon les règles et procédures
+préalablement définies conformément à ses statuts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-1294 du 23 octobre 2006 - art. 1 () JORF 24 octobre 2006
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L311-3 (VD)
+	  - Code général des impôts, CGI. - art. 92 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L131-14 (V)
+
+
+###### Article L223-2
+
+Les arbitres et juges sont considérés comme chargés d'une mission de service public au sens des articles 221-4, 222-3, 222-8,
+222-10, 222-12, 222-13 et 433-3 du code pénal et les atteintes dont ils peuvent être les victimes dans l'exercice ou à
+l'occasion de l'exercice de leur mission sont réprimées par les peines aggravées prévues par ces articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-1294 du 23 octobre 2006 - art. 1 () JORF 24 octobre 2006
+
+	**Cite**:
+
+	  - Code pénal - art. 221-4 (V)
+	  - Code pénal - art. 222-3 (V)
+	  - Code pénal - art. 433-3 (V)
+
+
+###### Article L223-3
+
+Les arbitres et juges ne peuvent être regardés, dans l'accomplissement de leur mission, comme liés à la fédération par un
+lien de subordination caractéristique du contrat de travail au sens de l'article L. 121-1 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+	**Créé par**:
+
+	  - Loi n°2006-1294 du 23 octobre 2006 - art. 1 () JORF 24 octobre 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L121-1 (Ab)
 
 
 ### TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE
