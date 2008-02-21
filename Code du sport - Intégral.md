@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2007-11-30
+Version Consolidée au 2008-02-22
 
 # Partie législative
 
@@ -18970,11 +18970,18 @@ de compétences capitalisables. La liste des titres et diplômes permettant à l
 ###### Article D212-74
 
 Peuvent s'inscrire, sous réserve des exigences particulières instituées au profit des sportifs de haut niveau au 4° de
-l'article D. 212-73, aux épreuves ou examens conduisant à la délivrance des brevets d'Etat :
+l'article D. 212-73, aux épreuves ou examens conduisant à la délivrance des brevets d'Etat : 
 
-1° Au brevet d'Etat du premier degré, les candidats âgés de plus de dix-huit ans ;
+1° Au brevet d'Etat du premier degré, les candidats âgés de plus de dix-huit ans ; 
 
-2° Au brevet d'Etat du deuxième degré, les candidats titulaires du brevet d'Etat du premier degré depuis deux ans au moins ;
+2° Au brevet d'Etat du deuxième degré : 
+
+a) Les candidats titulaires du brevet d'Etat du premier degré depuis deux ans au moins ; 
+
+b) Dans les options relatives à des champs disciplinaires qui ne font pas l'objet d'arrêtés portant création de mentions du
+diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport spécialité performance sportive, les candidats
+titulaires, depuis deux ans au moins, du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré au
+titre des spécialités sportives disciplinaires ou pluridisciplinaires relatives aux mêmes champs ; 
 
 3° Au brevet d'Etat du troisième degré, les candidats titulaires du brevet d'Etat du deuxième degré depuis quatre ans au
 moins.
@@ -18983,12 +18990,11 @@ moins.
 
 	**Anciens textes**:
 
-	  - Art. 7 du décret n°91-260 du 7 mars 1991 relatif à l'organisation et aux conditions de préparation et de délivrance du brevet d'Etat d'éducateur sportif
 	  - Décret n°91-260 du 7 mars 1991 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2008-151 du 19 février 2008 - art. 1
 
 	**Cité par**:
 
@@ -18998,7 +19004,7 @@ moins.
 
 	**Cite**:
 
-	  - Code du sport. - art. D212-73 (V)
+	  - Code du sport. - art. D212-73
 
 
 ##### Sous-paragraphe 2 : Certificat de pré-qualification
