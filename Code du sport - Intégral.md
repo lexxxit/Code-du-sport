@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2008-07-05
+Version Consolidée au 2008-07-11
 
 # Partie législative
 
@@ -8641,7 +8641,7 @@ Sont applicables en Polynésie française les dispositions de l'article L. 333-9
 	  - Code du sport. - art. L333-9 (V)
 
 
-#### Chapitre V : Dispositions applicables en Nouvelle-Calédonie.
+#### Chapitre V : Dispositions relatives à la Nouvelle-Calédonie
 
 ##### Section 1 : Dispositions générales
 
@@ -8973,12 +8973,6 @@ République.
 
 	  - Loi n°2008-650 du 3 juillet 2008 - art. 16
 
-
-#### Chapitre V : Dispositions relatives à la Nouvelle-Calédonie
-
-##### Section 1 : Dispositions générales
-
-##### Section 2 : Infractions en matière de lutte contre le dopage et de protection de la santé des sportifs
 
 # Partie réglementaire - Décrets
 
@@ -13970,85 +13964,86 @@ pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 ###### Article D142-28
 
-Sont membres de droit du conseil supérieur :
+Sont membres de droit du conseil supérieur : 
 
-1° Le président de la Fédération française de ski ;
+1° Le président de la Fédération française de ski ; 
 
-2° Le président de la Fédération française de la montagne et de l'escalade ;
+2° Le président de la Fédération française de la montagne et de l'escalade ; 
 
-3° Le président de la Fédération française des clubs alpins et de montagne ;
+3° Le président de la Fédération française des clubs alpins et de montagne ; 
 
-4° Le président de la Fédération française de la randonnée pédestre ;
+4° Le président de la Fédération française de la randonnée pédestre ; 
 
-5° Le président de la Fédération française de canoë-kayak ;
+5° Le président de la Fédération française de canoë-kayak ; 
 
-6° Le président de la Fédération sportive et gymnique du travail ;
+6° Le président de la Fédération sportive et gymnique du travail ; 
 
-7° Le président du Syndicat des moniteurs de ski français ;
+7° Le président du Syndicat des moniteurs de ski français ; 
 
-8° Le président du Syndicat national des guides ;
+8° Le président du Syndicat national des guides ; 
 
-9° Le président du Syndicat national des accompagnateurs en montagne ;
+9° Le président du Syndicat national des accompagnateurs en montagne ; 
 
-10° Le président du Syndicat national des gardiens de refuge et des gîtes d'étape ;
+10° Le président du Syndicat national des gardiens de refuge et des gîtes d'étape ; 
 
-11° Le président de l'Association nationale des entraîneurs de ski alpin ;
+11° Le président de l'Association nationale des entraîneurs de ski alpin ; 
 
-12° Le président de l'Association nationale des professionnels de la sécurité des pistes ;
+12° Le président de l'Association nationale des professionnels de la sécurité des pistes ; 
 
-13° Le président du Syndicat national des téléphériques de France ;
+13° Le président du Syndicat national des téléphériques de France ; 
 
-14° Le président de l'Association nationale des maires de stations de montagne ;
+14° Le président de l'Association nationale des maires de stations de montagne ; 
 
-15° Le président de l'Association nationale pour l'étude de la neige et des avalanches ;
+15° Le président de l'Association nationale pour l'étude de la neige et des avalanches ; 
 
-16° Le président de la Commission supérieure des sites, perspectives et paysages ;
+16° Le président de la Commission supérieure des sites, perspectives et paysages ; 
 
-17° Le président du Conseil supérieur du tourisme ;
+17° Le président du Conseil supérieur du tourisme ; 
 
-18° Le directeur de l'Ecole nationale de ski et d'alpinisme de Chamonix ;
+18° Le directeur de l'Ecole nationale de ski et d'alpinisme de Chamonix ; 
 
-19° Le directeur technique du centre d'éducation populaire et de sport de Franche-Comté ;
+19° Le directeur technique du centre d'éducation populaire et de sport de Franche-Comté ; 
 
-20° Le directeur des sports ;
+20° Le directeur des sports ; 
 
-21° Le directeur de la jeunesse ;
+21° Le directeur de la jeunesse ; 
 
-22° Le directeur du tourisme ;
+22° Le directeur du tourisme ; 
 
-23° Le directeur général de la gendarmerie nationale ;
+23° Le directeur général de la gendarmerie nationale ; 
 
-24° Le directeur de la défense et de la sécurité civiles ;
+24° Le        directeur de la sécurité civile ; 
 
-25° Le délégué interministériel à l'aménagement et à la compétitivité des territoires ;
+25° Le délégué interministériel à l'aménagement et à la compétitivité des territoires ; 
 
-26° Le directeur de l'Office national des forêts ;
+26° Le directeur de l'Office national des forêts ; 
 
-27° Le président de l'Union nationale des associations de tourisme ;
+27° Le président de l'Union nationale des associations de tourisme ; 
 
-28° Le président de l'Union des centres sportifs de plein air ;
+28° Le président de l'Union des centres sportifs de plein air ; 
 
-29° Le président de Jeunesse au plein air ;
+29° Le président de Jeunesse au plein air ; 
 
-30° Le directeur des études et de l'aménagement touristique de la montagne ;
+30° Le directeur des études et de l'aménagement touristique de la montagne ; 
 
 31° Six représentants de l'Etat nommés par arrêté du ministre chargé des sports, dont cinq sur proposition des ministres de
-l'intérieur et de la défense et des ministres chargés de l'éducation, de l'environnement et des transports ;
+l'intérieur et de la défense et des ministres chargés de l'éducation, de l'environnement et des transports ; 
 
-32° Six personnalités qualifiées nommées pour trois ans par arrêté du ministre chargé des sports.
+32° Six personnalités qualifiées nommées pour trois ans par arrêté du ministre chargé des sports. 
 
 Les membres mentionnés du 1° au 31° peuvent se faire représenter.
 
+**Nota:**
+
+Décret n° 2009-631 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
+supérieur des sports de montagne).
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Art. 4 du décret n°83-144 du 24 février 1983 portant création du Conseil supérieur des sports de montagne
-	  - Art. 5 du décret n°83-144 du 24 février 1983 portant création du Conseil supérieur des sports de montagne
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2008-682 du 9 juillet 2008 - art. 9 (V)
 
 
 ###### Article D142-29
@@ -31410,25 +31405,31 @@ et de l'emploi.
 
 Une commission de l'information et de la sécurité donne un avis ou fait des propositions au président du Conseil supérieur
 des sports de montagne sur les questions relatives à l'information, à la prévention et à la sécurité dans le domaine des
-sports de montagne.
+sports de montagne. 
 
 Elle peut initier ou conduire des travaux, des études et des recherches sur ces questions.
 
 A cette fin, elle est assistée par le Système national d'observation de la sécurité en montagne (SNOSM) dont la mission est
-de collecter, traiter et analyser les données relatives aux accidents en montagne.
+de collecter, traiter et analyser les données relatives aux accidents en montagne. 
 
 Les travaux de cet organisme sont validés par un comité de pilotage dont la présidence est assurée selon une alternance
-annuelle par le directeur de la défense et de la sécurité civiles et par le directeur des sports.
+annuelle par le        directeur de la sécurité civile et par le directeur des sports. 
 
 Le Système national d'observation de la sécurité en montagne fournit à la commission de l'information et de la sécurité deux
 rapports (saison hivernale et saison estivale) relatifs à l'accidentologie et lui propose les axes d'actions prioritaires
 pour définir une politique de prévention des accidents.
 
+**Nota:**
+
+Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
+l'information et de la sécurité du conseil supérieur des sports de montagne).
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2008-682 du 9 juillet 2008 - art. 9 (V)
 
 	**Cité par**:
 
@@ -31438,131 +31439,136 @@ pour définir une politique de prévention des accidents.
 ###### Article A142-16
 
 La commission de l'information et de la sécurité du Conseil supérieur des sports de montagne est composée des personnes
-suivantes :
+suivantes : 
 
-1° Le directeur de la défense et de la sécurité civiles, président ;
+1° Le        directeur de la sécurité civile, président ; 
 
 2° Un représentant du ministre chargé de la défense, qualifié quant aux activités conduites en montagne désigné par le
-ministre chargé de la défense ;
+ministre chargé de la défense ; 
 
-3° Un représentant du ministre chargé des transports, désigné par le ministre chargé des transports ;
+3° Un représentant du ministre chargé des transports, désigné par le ministre chargé des transports ; 
 
-4° Un représentant du ministre chargé de la santé, désigné par le ministre de la santé ;
+4° Un représentant du ministre chargé de la santé, désigné par le ministre de la santé ; 
 
-5° Le directeur général de la gendarmerie nationale ;
+5° Le directeur général de la gendarmerie nationale ; 
 
-6° Le directeur général de la police nationale ;
+6° Le directeur général de la police nationale ; 
 
-7° Le délégué aux risques majeurs ;
+7° Le délégué aux risques majeurs ; 
 
-8° Le directeur des sports ;
+8° Le directeur des sports ; 
 
-9° Le directeur de l'enseignement scolaire ;
+9° Le directeur de l'enseignement scolaire ; 
 
-10° Le directeur du tourisme ;
+10° Le directeur du tourisme ; 
 
-11° Le président de la commission de la sécurité des consommateurs ;
+11° Le président de la commission de la sécurité des consommateurs ; 
 
-12° Le président de l'Association nationale des élus de la montagne ;
+12° Le président de l'Association nationale des élus de la montagne ; 
 
-13° Le président de l'Association nationale des maires des stations de montagne ;
+13° Le président de l'Association nationale des maires des stations de montagne ; 
 
-14° Un représentant du comité de massif du massif des Alpes, désigné par sa commission permanente ;
+14° Un représentant du comité de massif du massif des Alpes, désigné par sa commission permanente ; 
 
-15° Un représentant du comité de massif du Massif central, désigné par sa commission permanente ;
+15° Un représentant du comité de massif du Massif central, désigné par sa commission permanente ; 
 
-16° Un représentant du comité de massif du massif jurassien, désigné par sa commission permanente ;
+16° Un représentant du comité de massif du massif jurassien, désigné par sa commission permanente ; 
 
-17° Un représentant du comité de massif du massif des Pyrénées, désigné par sa commission permanente ;
+17° Un représentant du comité de massif du massif des Pyrénées, désigné par sa commission permanente ; 
 
-18° Un représentant du comité de massif du massif vosgien, désigné par sa commission permanente ;
+18° Un représentant du comité de massif du massif vosgien, désigné par sa commission permanente ; 
 
-19° Le président du comité pour le développement, l'aménagement et la protection du massif de Corse ;
+19° Le président du comité pour le développement, l'aménagement et la protection du massif de Corse ; 
 
-20° Le directeur général de l'Institut de veille sanitaire ;
+20° Le directeur général de l'Institut de veille sanitaire ; 
 
-21° Le directeur général de Météo-France ;
+21° Le directeur général de Météo-France ; 
 
-22° Le directeur général d'Observation, développement et ingénierie touristiques France ;
+22° Le directeur général d'Observation, développement et ingénierie touristiques France ; 
 
-23° Le directeur de l'Ecole nationale de ski et d'alpinisme ;
+23° Le directeur de l'Ecole nationale de ski et d'alpinisme ; 
 
-24° Le président de l'Association nationale des chefs de services interministériels de défense et de protection civiles ;
+24° Le président de l'Association nationale des chefs de services interministériels de défense et de protection civiles ; 
 
-25° Le président de l'Association nationale des directeurs et directeurs adjoints des services d'incendie et de secours ;
+25° Le président de l'Association nationale des directeurs et directeurs adjoints des services d'incendie et de secours ; 
 
-26° Le président de l'Association des directeurs des services de pistes ;
+26° Le président de l'Association des directeurs des services de pistes ; 
 
-27° Le président de l'Association nationale des professionnels de la sécurité des pistes ;
+27° Le président de l'Association nationale des professionnels de la sécurité des pistes ; 
 
-28° Le président de l'Association nationale pour l'étude de la neige et des avalanches ;
+28° Le président de l'Association nationale pour l'étude de la neige et des avalanches ; 
 
-29° Le président du Centre d'études et de recherches sur la neige et les avalanches ;
+29° Le président du Centre d'études et de recherches sur la neige et les avalanches ; 
 
-30° Le président du service d'aide médicale urgente de France ;
+30° Le président du service d'aide médicale urgente de France ; 
 
-31° Le président de l'Association nationale des médecins du secours en montagne ;
+31° Le président de l'Association nationale des médecins du secours en montagne ; 
 
-32° Le président de l'association Médecins de montagne ;
+32° Le président de l'association Médecins de montagne ; 
 
-33° Le directeur du Centre national de ski nordique ;
+33° Le directeur du Centre national de ski nordique ; 
 
-34° Le président de Nordique France ;
+34° Le président de Nordique France ; 
 
-35° Le président de la fédération française des clubs alpins et de montagne ;
+35° Le président de la fédération française des clubs alpins et de montagne ; 
 
-36° Le président de la fédération française de ski ;
+36° Le président de la fédération française de ski ; 
 
-37° Le président de la fédération française de la montagne et de l'escalade ;
+37° Le président de la fédération française de la montagne et de l'escalade ; 
 
-38° Le président de la fédération française de randonnée pédestre ;
+38° Le président de la fédération française de randonnée pédestre ; 
 
-39° Le président de la fédération française de spéléologie ;
+39° Le président de la fédération française de spéléologie ; 
 
-40° Le président de la fédération française de cyclisme ;
+40° Le président de la fédération française de cyclisme ; 
 
-41° Le président de la fédération française de vol libre ;
+41° Le président de la fédération française de vol libre ; 
 
-42° Le président de la fédération française de canoë-kayak ;
+42° Le président de la fédération française de canoë-kayak ; 
 
-43° Le président de la fédération française des industries du sport et des loisirs ;
+43° Le président de la fédération française des industries du sport et des loisirs ; 
 
-44° Le président de la fédération professionnelle des entreprises du sport et des loisirs ;
+44° Le président de la fédération professionnelle des entreprises du sport et des loisirs ; 
 
-45° Le président du Syndicat national des accompagnateurs en montagne ;
+45° Le président du Syndicat national des accompagnateurs en montagne ; 
 
-46° Le président du Syndicat national des guides de montagne ;
+46° Le président du Syndicat national des guides de montagne ; 
 
-47° Le président du Syndicat national des gardiens de refuge ;
+47° Le président du Syndicat national des gardiens de refuge ; 
 
-48° Le président du Syndicat national des moniteurs de ski français ;
+48° Le président du Syndicat national des moniteurs de ski français ; 
 
-49° Le président du Syndicat national des moniteurs cyclistes français ;
+49° Le président du Syndicat national des moniteurs cyclistes français ; 
 
-50° Le président du Syndicat national des moniteurs de vol libre ;
+50° Le président du Syndicat national des moniteurs de vol libre ; 
 
-51° Le président du Syndicat national des professionnels de l'escalade et du canyon ;
+51° Le président du Syndicat national des professionnels de l'escalade et du canyon ; 
 
-52° Le président du Syndicat national des professionnels de la spéléologie et du canyon ;
+52° Le président du Syndicat national des professionnels de la spéléologie et du canyon ; 
 
-53° Le président du Syndicat national des téléphériques de France ;
+53° Le président du Syndicat national des téléphériques de France ; 
 
-54° Le président de l'union nationale des centres sportifs de plein air ;
+54° Le président de l'union nationale des centres sportifs de plein air ; 
 
-55° Un représentant des associations locales de secours en montagne, désigné par le directeur de la défense et de la sécurité
-civiles ;
+55° Un représentant des associations locales de secours en montagne, désigné par le        directeur de la sécurité civile ; 
 
-56° Le président de la fédération française des sociétés d'assurances ;
+56° Le président de la fédération française des sociétés d'assurances ; 
 
-57° Le président du groupement des entreprises des mutuelles d'assurances.
+57° Le président du groupement des entreprises des mutuelles d'assurances. 
 
 Les membres mentionnés aux 1°, 5° à 13°, 19° à 28°, 30° à 54°, 56° et 57° peuvent se faire représenter.
 
+**Nota:**
+
+Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
+caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
+l'information et de la sécurité du conseil supérieur des sports de montagne).
+
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2008-682 du 9 juillet 2008 - art. 9 (V)
 
 
 ###### Article A142-17
@@ -32094,45 +32100,49 @@ que la définition des prérogatives attachées à ces niveaux.
 
 ###### Article A142-35
 
-Sont membres de droit du comité :
+Sont membres de droit du comité : 
 
-1° Le président de la Fédération française d'études et de sports sous-marins ;
+1° Le président de la Fédération française d'études et de sports sous-marins ; 
 
-2° Le président de la fédération sportive et gymnique du travail ;
+2° Le président de la fédération sportive et gymnique du travail ; 
 
-3° Le président de l'Union nationale des centres sportifs de plein air ;
+3° Le président de l'Union nationale des centres sportifs de plein air ; 
 
-4° Un membre de la fédération française d'études et de sports sous-marins désignés par le président de cette fédération ;
+4° Un membre de la fédération française d'études et de sports sous-marins désignés par le président de cette fédération ; 
 
-5° Le président de chacune des deux organisations professionnelles les plus représentatives des moniteurs de plongée ;
+5° Le président de chacune des deux organisations professionnelles les plus représentatives des moniteurs de plongée ; 
 
-6° Le président de l'organisation professionnelle la plus représentative des entreprises de plongée ;
+6° Le président de l'organisation professionnelle la plus représentative des entreprises de plongée ; 
 
-7° Le directeur des sports ;
+7° Le directeur des sports ; 
 
-8° Le directeur de la défense et de la sécurité civiles ;
+8° Le        directeur de la sécurité civile ; 
 
-9° Un représentant du ministre de la défense ;
+9° Un représentant du ministre de la défense ; 
 
-10° Un représentant du ministre chargé de la mer ;
+10° Un représentant du ministre chargé de la mer ; 
 
-11° Le directeur de l'Institut national de la plongée professionnelle.
+11° Le directeur de l'Institut national de la plongée professionnelle. 
 
-En outre, le ministre chargé des sports désigne :
+En outre, le ministre chargé des sports désigne : 
 
-12° Un directeur de centre d'éducation populaire et de sport ;
+12° Un directeur de centre d'éducation populaire et de sport ; 
 
-13° Un professeur de sport spécialiste de la plongée subaquatique.
+13° Un professeur de sport spécialiste de la plongée subaquatique. 
 
-Les personnes mentionnées aux 1° à 3° et 5° à 8° peuvent se faire représenter.
+Les personnes mentionnées aux 1° à 3° et 5° à 8° peuvent se faire représenter. 
 
 Le président du comité peut faire appel, à titre consultatif, à toute personne compétente sur les questions traitées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2008-682 du 9 juillet 2008 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Arrêté du 14 mai 2009 - art. 1 (V)
 
 
 ###### Article A142-36
