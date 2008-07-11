@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2008-07-11
+Version Consolidée au 2008-07-12
 
 # Partie législative
 
@@ -36112,38 +36112,51 @@ l'éducation populaire et du sport est fixée par l'arrêté du 20 novembre 2006
 
 ###### Article A212-76
 
-Il est créé une spécialité « performance sportive » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et
+Il est créé une spécialité " performance sportive " du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et
 du sport qui confère à son titulaire les compétences suivantes attestées par le référentiel de certification :
 
-― préparer le projet stratégique de performance dans un champ disciplinaire ;
+- préparer le projet stratégique de performance dans un champ disciplinaire ;
 
-― piloter un système d'entraînement ;
+- piloter un système d'entraînement ;
 
-― diriger le projet sportif ;
+- diriger le projet sportif ;
 
-― évaluer le système d'entraînement ;
+- évaluer le système d'entraînement ;
 
-― organiser des actions de formation de formateurs dans le cadre des réseaux professionnels de l'organisation.
+- organiser des actions de formation de formateurs dans le cadre des réseaux professionnels de l'organisation. 
 
-Le référentiel professionnel et le référentiel de certification mentionnés aux articles D. 212-53 et D. 212-54 figurent
-respectivement aux annexes II-3 et II-4.
+Le référentiel professionnel et le référentiel de certification mentionnés aux articles D. 212-53 et D. 212-54 susvisé
+figurent respectivement aux annexes II-3-1 et II-4-1. 
 
 Lorsque la formation est suivie dans le cadre de la formation initiale, sa durée minimale est de 1 200 heures dont 700 heures
-en centre de formation.
+en centre de formation. 
 
 La présente sous-section a pour objet de déterminer les modalités de préparation et de délivrance de cette spécialité du
 diplôme d'Etat supérieur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Anciens textes**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 20 novembre 2006 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Arrêté du 1er juillet 2008 - art. 2
 
 	**Cité par**:
 
 	  - Arrêté du 18 décembre 2008 (V)
 	  - Arrêté du 29 juin 2009 (V)
+
+	**Abrogé par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 4
+
+	**Cite**:
+
+	  - Code du sport. - art. D212-53
+	  - Code du sport. - art. D212-54
 
 
 ###### Article A212-77
@@ -53217,584 +53230,1161 @@ D. ― Conduire des actions de formation :
 	  - Code du sport. - art. A212-49 (M)
 
 
+###### Article Annexe II-3-1 (art. A212-76)
+
+REFERENTIEL PROFESSIONNEL
+
+Si les pratiques sportives en France répondent aujourd'hui à différents attentes sociales (la santé, les loisirs, la
+sociabilité, l'éducation...), celles qui s'exercent dans un cadre compétitif restent un fondement identitaire du secteur. 
+
+Elles fondent l'originalité de l'organisation juridique du sport français, système mixte relevant des logiques associatives
+et de puissance publique à travers la délégation donnée à certaines fédérations. 
+
+Cette délégation induit un mode d'organisation préparatoire à la compétition particulier : l'entraînement. 
+
+Aussi, la construction d'une filière de diplômes dans le domaine de l'entraînement sportif en adéquation avec les évolutions
+des métiers et des attentes des acteurs constitue un préalable pour maintenir la place de la France sur la scène sportive
+internationale, notamment à l'heure où le renouvellement des cadres techniques va connaître une accélération. 
+
+Cette rénovation a débuté par la construction d'un nouveau diplôme, le brevet professionnel de la jeunesse, de l'éducation
+populaire et du sport (BPJEPS), au regard des besoins clairement exprimés par le secteur : " des animateurs développant des
+compétences couvrant l'ensemble des champs de l'animation et du sport au niveau IV ". Dans le champ sportif, cela couvre
+également la préparation au premier niveau de compétition. 
+
+Cette rénovation se poursuit aujourd'hui par la construction d'une certification de niveau II qui vise à structurer la
+filière par la reconnaissance d'une fonction professionnelle de direction dans le champ de l'entraînement. 
+
+1. Présentation du secteur professionnel 
+
+Le secteur de l'entraînement et de la préparation à la performance sportive repose sur les deux sous-secteurs suivants : le
+cadre fédéral et le cadre professionnel. 
+
+Concernant le secteur fédéral, on rappellera qu'il comprend notamment l'ensemble des associations sportives de statut " loi
+1901 " qui ont pour but la préparation, la participation et l'organisation de compétitions sportives dans le cadre de
+fédérations nationales agréées par l'Etat. De ce point de vue, ce secteur est essentiellement constitué des fédérations
+sportives dites " unisport ", olympiques (29 fédérations) ou non olympiques (59 fédérations). 
+
+Dans ce cadre, le nombre total de ces associations s'élève à environ 85 000, dont 75 000 clubs actifs dans le champ du sport
+olympique. Sur ce total, il apparaît qu'environ 30 % des associations sportives compétitives emploient un ou plusieurs
+salariés, du fait notamment que : 
+
+- seul un tiers d'entre elles disposent d'un nombre de licenciés supérieurs à 100 ; 
+
+- 70 % des clubs présentent un budget inférieur à 30 000 euros. 
+
+On notera qu'il est difficile d'évaluer le volume d'emploi de ce secteur notamment en raison de la part significative
+d'emplois à temps partiel. 
+
+Concernant le nombre de pratiquants, on constate que ce secteur est celui qui délivre la plus grande part des licences
+sportives. Il regroupe en effet 7 900 000 licenciés (58 % de l'ensemble de licenciés) dont 670 000 pour les fédérations
+olympiques. 
+
+Concernant plus particulièrement le sport professionnel, l'étude produite par l'AFRAPS-RUNOPES (1) fait valoir les volumes
+suivants : 543 entraîneurs, 200 préparateurs physiques et 40 préparateurs mentaux. 
+
+(1) Le Roux (N.), Camy (J.) (2002), L'Emploi sportif, Editions AFRAPS RUNOPES. 
+
+2. Description du métier 
+
+2.1. Appellations 
+
+Un certain nombre d'appellations ont aujourd'hui cours : directeur, directeur sportif, directeur technique, cadre technique,
+entraîneur cadre... 
+
+2.2. Entreprises et structures employeuses 
+
+Les activités s'exercent notamment dans le cadre d'associations sportives affiliées à une fédération sportive ou
+d'entreprises du secteur sportif professionnel. 
+
+2.3. Publics concernés 
+
+Ces professionnels peuvent être amenés à intervenir avec tous les publics compétiteurs. 
+
+2.4. Champ et nature des interventions 
+
+Si les fonctions de direction sont par nature multiples et complexes, elles s'avèrent particulièrement singulières dans le
+champ de l'entraînement dans la mesure où : 
+
+- l'activité de ce champ est fondée sur une logique de recherche de performances matérialisées par des résultats sportifs ; 
+
+- elle s'appuie naturellement sur des formes d'expertise croisées d'ordre institutionnel, économique, disciplinaire,
+technique... ; 
+
+- elle s'inscrit dans un faisceau de relations et de réseaux de nature complexe qui nécessite des compétences visant à créer
+des synergies en vue d'optimiser la performance sportive. La complexité du contexte d'exercice amène ce professionnel à
+devoir gérer, en permanence, des contraintes contradictoires, des dilemmes (2) ; 
+
+- les directeurs sportifs exercent leurs activités professionnelles sous l'autorité (la subordination juridique) d'un conseil
+d'administration, d'un président ou d'une personne déléguée à cet effet. Cette posture particulière vis-à-vis des élus avec
+lesquels il se situe dans une relation d'interdépendance impose des compétences particulières en terme de " gestion de
+relations avec une autorité élue " ; 
+
+- ils sont responsables de la qualité des relations individuelles et / ou collectives avec les compétiteurs. 
+
+Dans ce cadre, les modes d'intervention de ce professionnel s'inscrivent dans une logique de travail collectif et partenarial
+pour : 
+
+- préparer le projet stratégique de performance dans un champ disciplinaire ; 
+
+- piloter un système d'entraînement ; 
+
+- diriger le projet sportif ; 
+
+- évaluer un système d'entraînement ; 
+
+- organiser des actions de formation de formateurs dans le cadre des réseaux professionnels de l'organisation. 
+
+(2) Cf. rapport d'étude sur les référentiels professionnel et de formation des entraîneurs nationaux Chef de projet
+performance  (2006), MJSVA-INSEP. 
+
+2.5. Situation fonctionnelle 
+
+Le métier est exercé par des femmes et des hommes travaillant majoritairement à temps plein. Ces derniers exercent parfois
+leur métier selon des horaires adaptés aux réalités fonctionnelles de l'organisation. 
+
+Les situations statutaires sont généralement " salariés en CDD " et ces professionnels expriment le sentiment d'être en
+situation précaire. 
+
+2.6. Autonomie et responsabilité 
+
+Les activités de ce professionnel relèvent d'une délégation permanente de responsabilités dans la mise en œuvre collective,
+technique et financière du projet d'activités de l'organisation. 
+
+2.7. Débouchés et évolutions de carrière 
+
+L'accès à ces emplois, précédé d'une expérience dans l'entraînement sportif et d'une pratique personnelle de la discipline,
+correspond pour certains professionnels à l'aboutissement de la carrière. Pour d'autres, ces postes constituent une étape
+vers des emplois intégrant une dimension de recherche ou de management plus affirmée dans le secteur. 
+
+3. Fiche descriptive d'activités 
+
+Les activités professionnelles concernées sont classées en cinq grands groupes d'activités professionnelles non hiérarchisées
+entre elles : 
+
+A. - Préparer le projet stratégique de performance dans un champ disciplinaire : 
+
+- il analyse les caractéristiques économiques, sociales, politiques et culturelles de la discipline de référence ; 
+
+- il analyse les facteurs de la performance sportive individuelle ou collective dans son champ d'expertise ; 
+
+- il met en place une veille stratégique sur le champ disciplinaire ; 
+
+- il analyse l'impact des politiques publiques sur l'activité de l'organisation ; 
+
+- il procède à des échanges dans le cadre de réseaux d'acteurs ; 
+
+- il construit ses outils d'analyse de la performance dans son champ disciplinaire ; 
+
+- il formalise des diagnostics stratégiques pour les élus de l'organisation ; 
+
+- il partage les analyses stratégiques avec les instances dirigeantes ; 
+
+- il mobilise les ressources internes dans la préparation d'un projet de développement sportif ; 
+
+- il anime une démarche d'ingénierie de projet ; 
+
+- il conçoit une politique de détection des jeunes sportifs ; 
+
+- il propose des scénarios de développement susceptibles de répondre à la demande des prescripteurs dans le cadre des
+objectifs sportifs ; 
+
+- il formalise un projet de développement ; 
+
+- il élabore les dossiers de financement ; 
+
+- il prévoit une stratégie de mise en œuvre du projet de développement ; 
+
+- il transmet l'information nécessaire à la prise de décision ; 
+
+- il prépare les travaux des assemblées décisionnelles.
+
+B. - Piloter un système d'entraînement : 
+
+- il organise le système de l'entraînement ; 
+
+- il organise les différentes délégations ; 
+
+- il définit les axes de la préparation physique des athlètes ; 
+
+- il définit les axes de la préparation mentale des athlètes dans le respect de l'intégrité morale et physique de la
+personne ; 
+
+- il conçoit une politique de suivi social et professionnel des sportifs dont il a la charge ; 
+
+- il anticipe les évolutions en besoin de personnel pour le projet sportif ; 
+
+- il accompagne l'équipe dans l'analyse de son organisation de travail ; 
+
+- il négocie le plan de formation du personnel ; 
+
+- il établit les budgets prévisionnels de la direction sportive ; 
+
+- il organise le fonctionnement financier de la direction sportive ; 
+
+- il organise la mise en œuvre des actions partenariales.
+
+C. - Diriger le projet sportif : 
+
+- il dirige le système d'entraînement dans la discipline ; 
+
+- il prescrit les organisations de travail des équipes ; 
+
+- il veille au respect des différents protocoles de travail établis ; 
+
+- il accompagne l'athlète vers l'optimisation de la performance ; 
+
+- il encadre les athlètes dans le cadre de la compétition ; 
+
+- il analyse le comportement de l'athlète dont il a la charge pendant la compétition ; 
+
+- il analyse la performance de l'athlète dont il a la charge pendant la compétition ; 
+
+- il analyse la performance des autres athlètes pendant la compétition ; 
+
+- il met en œuvre des médiations d'ordre stratégique, technique, physique ou relationnel ; 
+
+- il organise les échanges de pratique avec une équipe technique ; 
+
+- il gère les relations sociales au sein de la direction sportive ; 
+
+- il contrôle la mise en œuvre des procédures administratives au sein de la direction sportive ; 
+
+- il contrôle les différentes procédures d'exécution budgétaire au sein de la direction sportive ; 
+
+- il négocie avec les prestataires de l'organisation ; 
+
+- il encadre un groupe dans la pratique de l'activité pour laquelle il est compétent ; 
+
+- il réalise les gestes professionnels nécessaires à la sécurité des compétiteurs ; 
+
+- il réalise en sécurité des démonstrations techniques dans la discipline pour laquelle il est compétent ; 
+
+- il assure la sécurité des pratiquants et des tiers ; 
+
+- il vérifie la conformité du matériel technique nécessaire à la réalisation de l'activité dans laquelle il est compétent ; 
+
+- il vérifie la conformité des lieux de travail au regard des normes d'hygiène et de sécurité ; 
+
+- il conduit des actions de relation publique ; 
+
+- il gère la relation avec les médias.
+
+D. - Evaluer le système d'entraînement : 
+
+- il formalise les bilans sportifs ; 
+
+- il conduit l'évaluation du système de travail ; 
+
+- il procède à l'évaluation des membres de l'équipe technique ; 
+
+- il rend compte de la mise en œuvre de la délégation ; 
+
+- il évalue la pertinence du fonctionnement administratif de la direction sportive ; 
+
+- il analyse le compte de résultat et le bilan annuel ; 
+
+- il explique les écarts constatés entre les résultats et les objectifs fixés ; 
+
+- il propose aux instances dirigeantes de nouvelles perspectives de développement.
+
+E. - Organiser des actions de formation de formateurs dans le cadre des réseaux professionnels de l'organisation : 
+
+- il conçoit des actions de formation adaptées aux besoins des réseaux professionnels de l'organisation ; 
+
+- il coordonne la mise en œuvre des actions de formation de formateurs décidées ; 
+
+- il anime des actions de formation de formateurs ; 
+
+- il participe aux échanges professionnels dans le cadre de formation de formateur ; 
+
+- il établit les comptes rendus et les bilans pédagogiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er juillet 2008 - art. 3
+
+
 ###### Article Annexe II-4 (art. A212-49)
+
+RÉFÉRENTIEL DE CERTIFICATION 
 
 <table>
     <tbody>
       <tr>
-        <td align="center">UC 1 EC
+        <td align="left" valign="top">
 
+UC 1 EC
+
+</td>
+        <td valign="top" align="left">
+
+De concevoir un projet d'action
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+
+OI 11 EC
+
 </td>
-        <td align="center">De concevoir un projet d'action
+        <td align="left" valign="top">
 
+D'analyser les enjeux du contexte socioprofessionnel
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 11 EC
+        <td align="left" valign="top">
+
+OI 111 EC
 
 </td>
-        <td align="center">D'analyser les enjeux du contexte socioprofessionnel
+        <td align="left" valign="top">
 
+D'inscrire son action dans le cadre des orientations et des valeurs de l'organisation dans une perspective éducative
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 111 EC
+        <td valign="top" align="left">
 
+OI 112 EC
+
 </td>
-        <td align="center">D'inscrire son action dans le cadre des orientations et des valeurs de l'organisation dans une
-perspective éducative
+        <td align="left" valign="top">
+
+De participer à des diagnostics sur un territoire
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 112 EC
+        <td align="left" valign="top">
 
+OI 113 EC
+
 </td>
-        <td align="center">De participer à des diagnostics sur un territoire
+        <td align="left" valign="top">
+
+D'inscrire son action dans le cadre des politiques publiques locales
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 113 EC
+        <td align="left" valign="top">
 
+OI 114 EC
+
 </td>
-        <td align="center">D'inscrire son action dans le cadre des politiques publiques locales
+        <td align="left" valign="top">
 
+De prendre en compte les réalités sociales, éducatives et culturelles des publics concernés
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 114 EC
+        <td valign="top" align="left">
+
+OI 115 EC
 
 </td>
-        <td align="center">De prendre en compte les réalités sociales, éducatives et culturelles des publics concernés
+        <td align="left" valign="top">
 
+D'agir dans le cadre des réseaux professionnels et institutionnels locaux
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 115 EC
+        <td valign="top" align="left">
+
+OI 12 EC
 
 </td>
-        <td align="center">D'agir dans le cadre des réseaux professionnels et institutionnels locaux
+        <td align="left" valign="top">
 
+De formaliser les éléments d'un projet d'action
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 12 EC
+        <td align="left" valign="top">
+
+OI 121 EC
 
 </td>
-        <td align="center">De formaliser les éléments d'un projet d'action
+        <td valign="top" align="left">
 
+D'impliquer les bénévoles dans la conception
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 121 EC
+        <td valign="top" align="left">
+
+OI 122 EC
 
 </td>
-        <td align="center">D'impliquer les bénévoles dans la conception
+        <td align="left" valign="top">
 
+De définir les objectifs d'un projet d'action
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 122 EC
+        <td valign="top" align="left">
 
+OI 123 EC
+
 </td>
-        <td align="center">De définir les objectifs d'un projet d'action
+        <td align="left" valign="top">
+
+De proposer les démarches pédagogiques adaptées aux objectifs et aux publics
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 123 EC
+        <td align="left" valign="top">
 
+OI 124 EC
+
 </td>
-        <td align="center">De proposer les démarches pédagogiques adaptées aux objectifs et aux publics
+        <td valign="top" align="left">
+
+D'organiser la mise en œuvre de démarches participatives
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 124 EC
+        <td align="left" valign="top">
 
+OI 125 EC
+
 </td>
-        <td align="center">D'organiser la mise en œuvre de démarches participatives
+        <td align="left" valign="top">
 
+De concevoir des démarches d'évaluation
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 125 EC
+        <td align="left" valign="top">
+
+OI 13 EC
 
 </td>
-        <td align="center">De concevoir des démarches d'évaluation
+        <td align="left" valign="top">
 
+De définir les moyens nécessaires à la mise en œuvre d'un projet d'action
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 13 EC
+        <td valign="top" align="left">
+
+OI 131 EC
 
 </td>
-        <td align="center">De définir les moyens nécessaires à la mise en œuvre d'un projet d'action
+        <td valign="top" align="left">
 
+De composer une équipe d'intervenants
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 131 EC
+        <td align="left" valign="top">
 
+OI 132 EC
+
 </td>
-        <td align="center">De composer une équipe d'intervenants
+        <td align="left" valign="top">
+
+D'élaborer un budget prévisionnel
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 132 EC
+        <td valign="top" align="left">
 
+OI 133 EC
+
 </td>
-        <td align="center">D'élaborer un budget prévisionnel
+        <td align="left" valign="top">
+
+De négocier avec sa hiérarchie les financements d'un projet d'action
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 133 EC
+        <td valign="top" align="left">
 
+OI 134 EC
+
 </td>
-        <td align="center">De négocier avec sa hiérarchie les financements d'un projet d'action
+        <td align="left" valign="top">
+
+De prendre en compte l'impact de son action sur l'environnement professionnel
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 134 EC
+        <td valign="top" align="left">
 
+UC 2 EC
+
 </td>
-        <td align="center">De prendre en compte l'impact de son action sur l'environnement professionnel
+        <td valign="top" align="left">
+
+De coordonner la mise en œuvre d'un projet d'action
 
 </td>
       </tr>
       <tr>
-        <td align="center">UC 2 EC
+        <td align="left" valign="top">
 
+OI 21 EC
+
 </td>
-        <td align="center">De coordonner la mise en œuvre d'un projet d'action
+        <td align="left" valign="top">
 
+D'animer une équipe de travail
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 21 EC
+        <td valign="top" align="left">
+
+OI 211 EC
 
 </td>
-        <td align="center">D'animer une équipe de travail
+        <td align="left" valign="top">
 
+De participer au recrutement de l'équipe
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 211 EC
+        <td valign="top" align="left">
+
+OI 212 EC
 
 </td>
-        <td align="center">De participer au recrutement de l'équipe
+        <td align="left" valign="top">
 
+D'animer les réunions au sein de l'organisation
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 212 EC
+        <td align="left" valign="top">
 
+OI 213 EC
+
 </td>
-        <td align="center">D'animer les réunions au sein de l'organisation
+        <td align="left" valign="top">
+
+De mettre en œuvre les procédures de travail
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 213 EC
+        <td valign="top" align="left">
 
+OI 214 EC
+
 </td>
-        <td align="center">De mettre en œuvre les procédures de travail
+        <td align="left" valign="top">
+
+De participer aux actions de tutorat dans l'organisation
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 214 EC
+        <td valign="top" align="left">
 
+OI 215 EC
+
 </td>
-        <td align="center">De participer aux actions de tutorat dans l'organisation
+        <td valign="top" align="left">
 
+De faciliter les démarches participatives au sein de l'organisation
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 215 EC
+        <td align="left" valign="top">
+
+OI 216 EC
 
 </td>
-        <td align="center">De faciliter les démarches participatives au sein de l'organisation
+        <td align="left" valign="top">
 
+D'accompagner le développement des membres de l'équipe
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 216 EC
+        <td align="left" valign="top">
+
+OI 22 EC
 
 </td>
-        <td align="center">D'accompagner le développement des membres de l'équipe
+        <td align="left" valign="top">
 
+De promouvoir les actions programmées
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 22 EC
+        <td align="left" valign="top">
+
+OI 221 EC
 
 </td>
-        <td align="center">De promouvoir les actions programmées
+        <td align="left" valign="top">
 
+De représenter l'organisation
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 221 EC
+        <td align="left" valign="top">
+
+OI 222 EC
 
 </td>
-        <td align="center">De représenter l'organisation
+        <td align="left" valign="top">
 
+De concevoir une démarche de communication
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 222 EC
+        <td valign="top" align="left">
 
+OI 223 EC
+
 </td>
-        <td align="center">De concevoir une démarche de communication
+        <td align="left" valign="top">
+
+De participer aux actions des réseaux partenaires
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 223 EC
+        <td valign="top" align="left">
 
+OI 23 EC
+
 </td>
-        <td align="center">De participer aux actions des réseaux partenaires
+        <td valign="top" align="left">
+
+De gérer la logistique des programmes d'action
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 23 EC
+        <td valign="top" align="left">
 
+OI 231 EC
+
 </td>
-        <td align="center">De gérer la logistique des programmes d'action
+        <td align="left" valign="top">
 
+De contrôler le budget des actions programmées
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 231 EC
+        <td align="left" valign="top">
+
+OI 232 EC
 
 </td>
-        <td align="center">De contrôler le budget des actions programmées
+        <td align="left" valign="top">
 
+De gérer les partenariats financiers
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 232 EC
+        <td align="left" valign="top">
+
+OI 233 EC
 
 </td>
-        <td align="center">De gérer les partenariats financiers
+        <td align="left" valign="top">
 
+De planifier l'utilisation des espaces de pratiques et des moyens matériels
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 233 EC
+        <td valign="top" align="left">
 
+OI 234 EC
+
 </td>
-        <td align="center">De planifier l'utilisation des espaces de pratiques et des moyens matériels
+        <td align="left" valign="top">
+
+De rendre compte de l'utilisation des moyens financiers
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 234 EC
+        <td valign="top" align="left">
 
+OI 235 EC
+
 </td>
-        <td align="center">De rendre compte de l'utilisation des moyens financiers
+        <td align="left" valign="top">
+
+D'anticiper les besoins en termes logistique
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 235 EC
+        <td align="left" valign="top">
 
+OI 236 EC
+
 </td>
-        <td align="center">D'anticiper les besoins en termes logistique
+        <td align="left" valign="top">
+
+D'organiser la maintenance technique
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 236 EC
+        <td valign="top" align="left">
 
+OI 24 EC
+
 </td>
-        <td align="center">D'organiser la maintenance technique
+        <td valign="top" align="left">
+
+D'animer la démarche qualité
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 24 EC
+        <td valign="top" align="left">
 
+OI 241 EC
+
 </td>
-        <td align="center">D'animer la démarche qualité
+        <td align="left" valign="top">
 
+De veiller au respect des procédures de travail
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 241 EC
+        <td align="left" valign="top">
+
+OI 242 EC
 
 </td>
-        <td align="center">De veiller au respect des procédures de travail
+        <td valign="top" align="left">
 
+D'adapter le programme d'action en cas de nécessité
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 242 EC
+        <td valign="top" align="left">
+
+OI 243 EC
 
 </td>
-        <td align="center">D'adapter le programme d'action en cas de nécessité
+        <td valign="top" align="left">
 
+D'effectuer le bilan des actions réalisées
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 243 EC
+        <td align="left" valign="top">
 
+UC 3 EC
+
 </td>
-        <td align="center">D'effectuer le bilan des actions réalisées
+        <td align="left" valign="top">
+
+De conduire une démarche de perfectionnement sportif dans une discipline
 
 </td>
       </tr>
       <tr>
-        <td align="center">UC 3 EC
+        <td align="left" valign="top">
 
+OI 31 EC
+
 </td>
-        <td align="center">De conduire une démarche de perfectionnement sportif dans une discipline
+        <td align="left" valign="top">
+
+De conduire une démarche d'enseignement
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 31 EC
+        <td valign="top" align="left">
 
+OI 311 EC
+
 </td>
-        <td align="center">De conduire une démarche d'enseignement
+        <td valign="top" align="left">
 
+De définir une progression pédagogique dans une discipline
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 311 EC
+        <td align="left" valign="top">
+
+OI 312 EC
 
 </td>
-        <td align="center">De définir une progression pédagogique dans une discipline
+        <td valign="top" align="left">
 
+De conduire un enseignement dans une discipline
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 312 EC
+        <td valign="top" align="left">
+
+OI 313 EC
 
 </td>
-        <td align="center">De conduire un enseignement dans une discipline
+        <td align="left" valign="top">
 
+De réguler son intervention en fonction des réactions du public
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 313 EC
+        <td align="left" valign="top">
+
+OI 314 EC
 
 </td>
-        <td align="center">De réguler son intervention en fonction des réactions du public
+        <td valign="top" align="left">
 
+D'évaluer un cycle d'enseignement
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 314 EC
+        <td align="left" valign="top">
+
+OI 32 EC
 
 </td>
-        <td align="center">D'évaluer un cycle d'enseignement
+        <td valign="top" align="left">
 
+De conduire une démarche d'entraînement
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 32 EC
+        <td align="left" valign="top">
 
+OI 321 EC
+
 </td>
-        <td align="center">De conduire une démarche d'entraînement
+        <td align="left" valign="top">
+
+De définir le plan d'entraînement
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 321 EC
+        <td valign="top" align="left">
 
+OI 322 EC
+
 </td>
-        <td align="center">De définir le plan d'entraînement
+        <td valign="top" align="left">
+
+De conduire l'entraînement dans une discipline
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 322 EC
+        <td valign="top" align="left">
 
+OI 323 EC
+
 </td>
-        <td align="center">De conduire l'entraînement dans une discipline
+        <td valign="top" align="left">
 
+D'encadrer un groupe dans le cadre de la compétition
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 323 EC
+        <td align="left" valign="top">
+
+OI 324 EC
 
 </td>
-        <td align="center">D'encadrer un groupe dans le cadre de la compétition
+        <td align="left" valign="top">
 
+D'évaluer le cycle d'entraînement
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 324 EC
+        <td valign="top" align="left">
+
+OI 33 EC
 
 </td>
-        <td align="center">D'évaluer le cycle d'entraînement
+        <td align="left" valign="top">
 
+De conduire des actions de formation
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 33 EC
+        <td valign="top" align="left">
 
+OI 331 EC
+
 </td>
-        <td align="center">De conduire des actions de formation
+        <td valign="top" align="left">
+
+D'élaborer des scénarios padagogiques
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 331 EC
+        <td align="left" valign="top">
 
+OI 332 EC
+
 </td>
-        <td align="center">D'élaborer des scénarios padagogiques
+        <td valign="top" align="left">
+
+De préparer les supports de ses interventions
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 332 EC
+        <td align="left" valign="top">
 
+OI 333 EC
+
 </td>
-        <td align="center">De préparer les supports de ses interventions
+        <td valign="top" align="left">
+
+De mettre en œuvre une situation formative
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 333 EC
+        <td align="left" valign="top">
 
+OI 334 EC
+
 </td>
-        <td align="center">De mettre en œuvre une situation formative
+        <td valign="top" align="left">
+
+D'adapter son intervention aux réactions des stagiaires
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 334 EC
+        <td align="left" valign="top">
 
+OI 335 EC
+
 </td>
-        <td align="center">D'adapter son intervention aux réactions des stagiaires
+        <td valign="top" align="left">
 
+D'évaluer des actions de formation
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 335 EC
+        <td align="left" valign="top">
+
+UC 4 EC
 
 </td>
-        <td align="center">D'évaluer des actions de formation
+        <td align="left" valign="top">
 
+D'encadrer la discipline sportive X en sécurité
+
 </td>
       </tr>
       <tr>
-        <td align="center">UC 4 EC
+        <td align="left" valign="top">
+
+OI 41 EC
 
 </td>
-        <td align="center">D'encadrer la discipline sportive X en sécurité
+        <td valign="top" align="left">
 
+De réaliser en sécurité les démonstrations techniques
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 41 EC
+        <td align="left" valign="top">
 
+OI 411 EC
+
 </td>
-        <td align="center">De réaliser en sécurité les démonstrations techniques
+        <td align="left" valign="top">
+
+D'évaluer les risques objectifs liés à la pratique de la discipline
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 411 EC
+        <td valign="top" align="left">
 
+OI 412 EC
+
 </td>
-        <td align="center">D'évaluer les risques objectifs liés à la pratique de la discipline
+        <td align="left" valign="top">
+
+D'évaluer ses propres capacités à effectuer une démonstration technique
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 412 EC
+        <td valign="top" align="left">
 
+OI 413 EC
+
 </td>
-        <td align="center">D'évaluer ses propres capacités à effectuer une démonstration technique
+        <td align="left" valign="top">
 
+D'expliciter les différents éléments de la démonstration technique
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 413 EC
+        <td valign="top" align="left">
+
+OI 42 EC
 
 </td>
-        <td align="center">D'expliciter les différents éléments de la démonstration technique
+        <td align="left" valign="top">
 
+De réaliser les gestes professionnels nécessaires à la sécurité des pratiquants
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 42 EC
+        <td valign="top" align="left">
+
+OI 421 EC
 
 </td>
-        <td align="center">De réaliser les gestes professionnels nécessaires à la sécurité des pratiquants
+        <td valign="top" align="left">
 
+D'évaluer les risques objectifs liés à l'activité pour le pratiquant
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 421 EC
+        <td valign="top" align="left">
+
+OI 422 EC
 
 </td>
-        <td align="center">D'évaluer les risques objectifs liés à l'activité pour le pratiquant
+        <td align="left" valign="top">
 
+D'anticiper les risques potentiels pour le pratiquant
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 422 EC
+        <td valign="top" align="left">
+
+OI 423 EC
 
 </td>
-        <td align="center">D'anticiper les risques potentiels pour le pratiquant
+        <td valign="top" align="left">
 
+De maîtriser le comportement et les gestes à réaliser en cas d'incident ou d'accident
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 423 EC
+        <td align="left" valign="top">
 
+OI 43 EC
+
 </td>
-        <td align="center">de maîtriser le comportement et les gestes à réaliser en cas d'incident ou d'accident
+        <td valign="top" align="left">
+
+D'assurer la sécurité des pratiquants et des tiers
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 43 EC
+        <td valign="top" align="left">
 
+OI 431 EC
+
 </td>
-        <td align="center">D'assurer la sécurité des pratiquants et des tiers
+        <td align="left" valign="top">
+
+D'évaluer les risques objectifs liés au contexte de pratique
 
 </td>
       </tr>
       <tr>
-        <td align="center">OI 431 EC
+        <td valign="top" align="left">
 
+OI 432 EC
+
 </td>
-        <td align="center">D'évaluer les risques objectifs liés au contexte de pratique
+        <td valign="top" align="left">
 
+D'anticiper les risques juridiques liés à la pratique et au milieu dans lequel il se pratique
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 432 EC
+        <td align="left" valign="top">
+
+OI 433 EC
 
 </td>
-        <td align="center">D'anticiper les risques juridiques liés à la pratique et au milieu dans lequel il se pratique
+        <td valign="top" align="left">
 
+D'assurer la sécurité passive des équipements
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 433 EC
+        <td valign="top" align="left">
+
+OI 434 EC
 
 </td>
-        <td align="center">D'assurer la sécurité passive des équipements
+        <td valign="top" align="left">
 
+De prévenir les comportements à risque
+
 </td>
       </tr>
       <tr>
-        <td align="center">OI 434 EC
+        <td valign="top" align="left">
 
+OI 435 EC 
+
 </td>
-        <td align="center">De prévenir les comportements à risque.
+        <td align="left" valign="top">
+
+D'agir en cas de maltraitance des mineurs
 
 </td>
       </tr>
@@ -53803,13 +54393,942 @@ perspective éducative
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 1er juillet 2008 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. A212-49 (M)
+
+
+###### Article Annexe II-4-1 (art. A212-76)
+
+RÉFÉRENTIEL DE CERTIFICATION
+
+<table>
+  <tbody>
+    <tr>
+      <td valign="top" align="left">
+
+UC 1 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De construire la stratégie d'une organisation du secteur 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 11 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De préparer la prise de décision 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 111 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'organiser une veille en terme d'information dans le champ d'intervention de l'organisation dans le cadre de réseaux
+professionnels 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 112 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'analyser les caractéristiques économiques, sociales, politiques et culturelles du territoire de référence 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 113 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'analyser l'impact des politiques publiques sur l'activité de l'organisation 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 114 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De formaliser des diagnostics stratégiques pour les élus de l'organisation 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 12 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'élaborer un projet de développement 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 121 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De veiller au respect des objectifs, des valeurs et des méthodes de l'organisation dans une perspective éducative 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 122 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De mobiliser les ressources internes dans la préparation d'un projet de développement 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 123 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'animer une démarche d'ingénierie de projet 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 124 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De formaliser un projet de développement 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 125 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'élaborer les dossiers de financement 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 13 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De mobiliser les instances dirigeantes élues 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 131 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De transmettre l'information nécessaire à la prise de décision 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 132 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'exposer les alternatives stratégiques aux instances dirigeantes 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 133 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De préparer les travaux des assemblées décisionnelles 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+UC 2 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De gérer les ressources humaines et financières d'une organisation du secteur 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 21 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De gérer les ressources humaines d'une organisation du secteur 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 211 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De concevoir une stratégie de développement des ressources humaines 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 211 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'anticiper l'évolution des besoins en personnel 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 212 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De négocier le plan de formation du personnel 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 213 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De gérer les relations sociales au sein de l'organisation 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 214 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De contrôler la gestion administrative du personnel 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 215 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De procéder à l'évaluation des personnels 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 22 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De gérer les ressources financières d'une organisation du secteur 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 221 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'établir les budgets prévisionnels et les dossiers de financement 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 222 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'organiser le fonctionnement financier de l'organisation 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 223 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De négocier avec les prestataires de l'organisation 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 224 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De contrôler les différentes procédures d'exécution budgétaire 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 23 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De rendre compte de la mise en œuvre de la délégation 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 231 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'évaluer la pertinence des modes de fonctionnement de l'organisation 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 232 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'expliquer les écarts constatés entre les résultats et les objectifs fixés 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 233 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'élaborer des propositions d'évolutions possibles 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+UC 3 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De diriger un système d'entraînement dans une discipline 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 31 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De concevoir le plan de performance sportive 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 311 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'analyser les facteurs de la performance sportive 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 312 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De définir les objectifs de performance à court, moyen et long terme 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 313 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De choisir les indicateurs de réussite intermédiaire 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 314 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De définir une politique de détection des jeunes sportifs 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 315 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'organiser les échanges de pratique avec une équipe technique 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 32 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De planifier la préparation de la performance sportive 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 321 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'organiser la cohérence entre les différents temps de la préparation de la performance sportive 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 322 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De définir les axes de la préparation physique des athlètes 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 323 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De définir les axes de la préparation mentale des athlètes 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 324 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De concevoir une politique de suivi social et professionnel des sportifs 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 33 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'accompagner l'athlète vers l'optimisation de la performance 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 331 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De diriger l'entraînement dans la discipline 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 331 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De veiller au respect des différents protocoles de travail établis 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 332 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'encadrer les athlètes dans le cadre de la compétition 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 333 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'analyser le comportement de l'athlète pendant la compétition 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 334 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De mettre en œuvre des médiations d'ordre stratégique, technique, physique ou relationnel 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 335 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De gérer la relation avec les médias 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 34 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De conduire l'évaluation du projet de la performance 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 341 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De formaliser les bilans sportifs 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 342 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'analyser les écarts constatés entre les résultats et les objectifs fixés 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 343 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De proposer aux instances dirigeantes de nouvelles perspectives de développement 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 35 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'organiser des actions formatives dans le cadre des réseaux professionnels de l'organisation 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 351 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De concevoir des actions de formation adaptées aux besoins des réseaux professionnels de l'organisation 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 352 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De coordonner la mise en œuvre des actions de formation décidées 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 353 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'animer des actions de formation 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 354 EC 
+
+</td>
+      <td valign="top" align="left">
+
+De participer aux échanges professionnels dans le cadre de formation de formateurs 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 355 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'évaluer des actions de formations 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+UC 4 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'encadrer la discipline sportive en sécurité 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 41 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De réaliser en sécurité les démonstrations techniques 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 411 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'évaluer les risques objectifs liés à la pratique de la discipline 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 412 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'évaluer ses propres capacités à effectuer une démonstration technique 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 413 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'expliciter les différents éléments de la démonstration technique 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 42 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De réaliser les gestes professionnels nécessaires à la sécurité des pratiquants 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 421 EC 
+
+</td>
+      <td valign="top" align="left">
+
+D'évaluer les risques objectifs liés à l'activité pour le pratiquant 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 422 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'anticiper les risques potentiels pour le pratiquant 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 423 EC 
+
+</td>
+      <td align="left" valign="top">
+
+De maîtriser le comportement et les gestes à réaliser en cas d'incident ou d'accident 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 43 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'assurer la sécurité des pratiquants et des tiers 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" valign="top">
+
+OI 431 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'évaluer les risques objectifs liés au contexte de pratique 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 432 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'anticiper les risques juridiques liés à la pratique et le milieu dans lequel il se pratique 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 433 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'assurer la sécurité passive des équipements 
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" align="left">
+
+OI 434 EC 
+
+</td>
+      <td align="left" valign="top">
+
+D'agir en cas de maltraitance des mineurs
+
+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er juillet 2008 - art. 4
 
 
 ###### Article Annexe II-5 (art. A212-115)
