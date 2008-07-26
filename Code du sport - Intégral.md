@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2008-07-12
+Version Consolidée au 2008-07-27
 
 # Partie législative
 
@@ -32241,64 +32241,68 @@ lutte contre la violence dans le sport et d'établir un bilan des actions menée
 ###### Article A142-40
 
 La Commission nationale de prévention et de lutte contre la violence dans le sport est présidée conjointement par le ministre
-de l'intérieur et le ministre chargé des sports.
+de l'intérieur et le ministre chargé des sports. 
 
-Elle comprend :
+Elle comprend : 
 
-1° Quatre représentants du ministère de l'intérieur :
+1° Quatre représentants du ministère de l'intérieur : 
 
-a) Le directeur du cabinet du ministre ;
+a) Le directeur du cabinet du ministre ; 
 
-b) Le directeur général de la police nationale ;
+b) Le directeur général de la police nationale ; 
 
-c) Le préfet de police ;
+c) Le préfet de police ; 
 
-d) Le directeur central de la sécurité publique.
+d) Le directeur central de la sécurité publique. 
 
-2° Quatre représentants du ministère chargé des sports :
+2° Quatre représentants du ministère chargé des sports : 
 
-a) Le directeur du cabinet du ministre ;
+a) Le directeur du cabinet du ministre ; 
 
-b) Le directeur des sports ;
+b) Le directeur des sports ; 
 
-c) Le directeur de la jeunesse et de l'éducation populaire ;
+c) Le directeur de la jeunesse et de l'éducation populaire ; 
 
-d) Un agent de la direction des sports.
+d) Un agent de la direction des sports. 
 
-3° Quatre représentants des ministères partenaires :
+3° Quatre représentants des ministères partenaires : 
 
-a) Un représentant du ministère de la défense (gendarmerie nationale) ;
+a) Un représentant du ministère de la défense (gendarmerie nationale) ; 
 
-b) Un représentant du ministère de la justice ;
+b) Un représentant du ministère de la justice ; 
 
-c) Un représentant du ministère de l'éducation nationale ;
+c) Un représentant du ministère de l'éducation nationale ; 
 
-d) Un représentant du ministère délégué à la ville ;
+d) Un représentant du ministère délégué à la ville ; 
 
-4° Le président de la cellule interministérielle d'animation et de suivi des contrats locaux de sécurité.
+4° Le président de la cellule interministérielle d'animation et de suivi des contrats locaux de sécurité. 
 
-5° Six représentants du mouvement sportif :
+5° Six représentants du mouvement sportif : 
 
-a) Le président du Comité national olympique et sportif français ;
+a) Le président du Comité national olympique et sportif français ; 
 
 b) Les présidents ou leurs représentants de cinq fédérations sportives désignées par le Comité national olympique et sportif
-français.
+français. 
 
-6° Un représentant de l'Association des maires de France désigné par cette association.
+6° Un représentant de l'Association des maires de France désigné par cette association. 
 
-7° Un directeur de service municipal des sports.
+7° Un directeur de service municipal des sports. 
 
 8° Huit personnalités qualifiées désignées par le ministre de l'intérieur et la ministre de la jeunesse et des sports,
-choisies parmi les sportifs, les arbitres et juges sportifs, les présidents de clubs sportifs et les membres du milieu
-universitaire compétents dans le domaine du sport.
+choisies parmi les sportifs, les arbitres et juges sportifs, les présidents  d'associations ou sociétés sportives et les
+membres du milieu universitaire compétents dans le domaine du sport. 
 
 Les membres mentionnés aux 1° et 2° peuvent se faire représenter sauf celui mentionné au d) du 2°.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 14 mai 2009 - art. 1 (V)
 
 	**Cité par**:
 
@@ -34315,6 +34319,20 @@ au tableau présenté en annexe II-1.
 	  - Code du sport. - art. L212-1 (V)
 
 
+###### Article A212-1-1
+
+Pour chacune des options, spécialités ou mentions de chaque diplôme, titre à finalité professionnelle et certificat de
+qualification inscrit à l'annexe II-1 du présent code, sont mentionnées les conditions d'exercice de leurs titulaires. Ceux-
+ci bénéficient de ces conditions d'exercice dans la limite des réglementations particulières susceptibles de s'appliquer à
+l'activité considérée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 18 juillet 2008 - art. 2
+
+
 #####  Sous-section 2 : Brevet d'aptitude professionnelle d'assistant animateur technicien  de la jeunesse et des sports
 
 ###### Article A212-2
@@ -34423,12 +34441,12 @@ en cours de formation.
 
 ###### Article A212-7
 
-Nonobstant les dispositions de l'article L. 900-2 du code du travail relatif au bilan de compétences, l'équipe pédagogique
-procède à l'entrée en formation à un positionnement des acquis du candidat. Au préalable, le candidat aura fourni à l'équipe
-pédagogique un dossier comprenant au minimum une lettre de motivation, son curriculum vitae reprenant en particulier les
-étapes de sa formation et, le cas échéant, son expérience professionnelle, les certificats d'exercice établis par les
-employeurs, une copie conforme de ses diplômes et un certificat médical de non-contre-indication à la pratique des activités
-correspondant aux supports techniques choisis. 
+Nonobstant les dispositions des articles L. 6313-1 à L. 6313-11 du code du travail relatif au bilan de compétences, l'équipe
+pédagogique procède à l'entrée en formation à un positionnement des acquis du candidat. Au préalable, le candidat aura fourni
+à l'équipe pédagogique un dossier comprenant au minimum une lettre de motivation, son curriculum vitae reprenant en
+particulier les étapes de sa formation et, le cas échéant, son expérience professionnelle, les certificats d'exercice établis
+par les employeurs, une copie conforme de ses diplômes et un certificat médical de non-contre-indication à la pratique des
+activités correspondant aux supports techniques choisis. 
 
 Le jury, défini à l'article A. 212-14, valide, le cas échéant, les acquis du candidat au vu du positionnement établi par
 l'équipe pédagogique et décide, sur proposition de celle-ci, des allégements de formation correspondants.
@@ -34438,9 +34456,14 @@ conditions prévues à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-14
+	  - Code du travail - art. L6313-1
 
 	**Cité par**:
 
@@ -34652,8 +34675,8 @@ candidat telle que décrite dans le dossier mentionné à l'alinéa précédent.
 
 Lorsque la formation est organisée dans une spécialité pour une certification en unités capitalisables, le dossier de
 candidature est déposé un mois avant l'entrée en formation auprès du directeur régional de la jeunesse, des sports et de la
-vie associative qui a habilité l'organisme de formation pour cette spécialité conformément aux articles A. 212-18 et A.
-212-19. 
+vie associative qui a habilité l'organisme de formation pour cette spécialité conformément aux articles A. 212-20 à A.
+212-26. 
 
 Le dossier comprend les pièces suivantes : 
 
@@ -34668,15 +34691,19 @@ sport adapté.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 3
 
 	**Cité par**:
 
 	  - Arrêté du 18 décembre 2008 (V)
 	  - Code du sport. - art. A212-19 (M)
 	  - Code du sport. - art. A212-27 (Ab)
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-20
 
 
 ###### Article A212-18
@@ -34698,14 +34725,18 @@ conforme à celle fixée par l'arrêté du ministre chargé de la jeunesse et de
 ###### Article A212-19
 
 Lorsque la certification est réalisée au moyen d'un examen composé d'épreuves ponctuelles, le dossier de candidature, dont la
-composition est conforme à celle fixée à l'article A. 212-18, est déposé deux mois avant la date d'organisation de la
+composition est conforme à celle fixée à l'article A. 212-17, est déposé deux mois avant la date d'organisation de la
 première épreuve auprès du directeur régional de la jeunesse, des sports et de la vie associative, organisateur de l'examen.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-17
 
 
 #####  Paragraphe 2 : L'habilitation
@@ -34907,15 +34938,23 @@ sportives conformément à l'article D. 212-33.
 Les situations d'apprentissage recouvrant des phases d'animation, d'accompagnement ou d'encadrement d'une activité,
 déterminées dans le processus pédagogique, sont mises en œuvre par l'organisme habilité, sous la responsabilité d'un tuteur. 
 
-Les conditions de mise en œuvre respectent l'article L. 117-4 du code du travail en ce qui concerne les contrats
-d'apprentissage et l'article R. 981-10 du même code en ce qui concerne les contrats de qualification et tous les modes de
-formation alternée, initiale ou continue.
+Les conditions de mise en œuvre respectent les articles L. 6223-5 à L. 6223-8 et R. 6223-22 à R. 6223-23 du code du travail
+en ce qui concerne les contrats d'apprentissage et les articles D. 6324-3, D. 6325-7, D. 6332-91 et D. 6332-92 du même code
+en ce qui concerne les contrats de qualification et tous les modes de formation alternée, initiale ou continue.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 3
+
+	**Cite**:
+
+	  - Code du travail - art. D6324-3
+	  - Code du travail - art. D6325-7
+	  - Code du travail - art. D6332-91
+	  - Code du travail - art. L6223-5
+	  - Code du travail - art. R6223-22
 
 
 ###### Article A212-29
@@ -40396,7 +40435,7 @@ les disciplines suivantes :
 Une information des sportifs est à prévoir lors de l'examen médical quant au risque de développer ou d'aggraver (si
 préexistant) : 
 
-― un canal cervical étroit lors de la pratique des disciplines citées au précédent alinéa ; 
+― un canal cervical étroit lors de la pratique des disciplines citées au 7° ; 
 
 ― des pathologies du rachis lombaire, notamment une lyse isthmique avec ou sans spondylolisthésis lors de la pratique de
 certaines disciplines. 
@@ -40406,13 +40445,18 @@ de haut niveau ou sur la liste des sportifs Espoirs.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 4
 
 	**Cité par**:
 
 	  - Code du sport. - art. A231-4 (M)
+
+	**Cite**:
+
+	  - Code du sport. - art. R221-11
+	  - Code du sport. - art. R221-2
 
 
 ###### Article A231-4
@@ -42663,7 +42707,9 @@ indiqués en bonne place.
 	  - Arrêté du 28 février 2008 - art. (V)
 
 
-#####  Sous-section 4  Etablissements qui organisent la pratique ou dispensent  l'enseignement de la plongée autonome à l'air
+##### Section 3 : Etablissements qui organisent et dispensent l'enseignement de la plongée subaquatique.
+
+##### Sous-section 1 : Etablissements qui organisent et dispensent l'enseignement de la plongée autonome à l'air.
 
 ###### Article A322-71
 
@@ -42672,15 +42718,19 @@ subaquatique autonome à l'air sont soumis aux règles de technique et de sécur
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 	**Cité par**:
 
 	  - Arrêté du 22 janvier 2016 - art. (V)
 	  - Code du sport. - art. A212-198 (V)
 	  - Code du sport. - art. Annexe II-16-3 (art. A212-195) (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L322-2
 
 
 ###### Article A322-72
@@ -42697,16 +42747,21 @@ Les annexes III-14 à III-17 au présent code déterminent :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 	**Cité par**:
 
 	  - Code du sport. - art. A322-98 (V)
 
+	**Cite**:
 
-#####  Paragraphe 1  Directeur de plongée
+	  - Code du sport. - art. Annexe III-14
+	  - Code du sport. - art. Annexe III-15
+	  - Code du sport. - art. Annexe III-16 a
+	  - Code du sport. - art. Annexe III-17
+
 
 ###### Article A322-73
 
@@ -42716,9 +42771,9 @@ section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-74
@@ -42733,9 +42788,9 @@ Il faut entendre par exploration la pratique de la plongée en dehors de toute a
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-75
@@ -42749,12 +42804,10 @@ la plongée en milieu naturel.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
-
-#####  Paragraphe 2  Le guide de palanquée
 
 ###### Article A322-76
 
@@ -42765,9 +42818,9 @@ Une équipe est une palanquée réduite à deux plongeurs.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-77
@@ -42775,7 +42828,7 @@ Une équipe est une palanquée réduite à deux plongeurs.
 Le guide de palanquée dirige la palanquée en immersion. Il est responsable du déroulement de la plongée et s'assure que les
 caractéristiques de celle-ci sont adaptées aux circonstances et aux compétences des participants.
 
-L'encadrement de la palanquée est assuré par un guide de palanquée titulaire des qualifications mentionnées en annexe III-15
+L'encadrement de la palanquée est assuré par un guide de palanquée titulaire des qualifications mentionnées en annexe III-14
 et selon les conditions de pratique définies en annexe III-16 a, III-16 b du présent code. 
 
 En situation d'autonomie, les plongeurs majeurs de niveau égal ou supérieur au niveau 2 peuvent évoluer en palanquée sans
@@ -42783,17 +42836,24 @@ guide selon les conditions définies en annexe III-16 a, III-16 b.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 5
+
+	**Liens**:
+
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-14
+	  - Code du sport. - art. Annexe III-16 b
 
 	**Cité par**:
 
 	  - Code du sport. - art. Annexe III-15 (art. A322-77) (Ab)
 	  - Code du sport. - art. Annexe III-16 a (art. A322-82) (V)
 
-
-#####  Paragraphe 3  Matériel d'assistance et de secours
 
 ###### Article A322-78
 
@@ -42829,13 +42889,17 @@ entretenus.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 	**Cité par**:
 
 	  - Code du sport. - art. A322-101 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-17
 
 
 ###### Article A322-79
@@ -42844,12 +42908,10 @@ L'activité de plongée est matérialisée selon la réglementation en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
-
-#####  Paragraphe 4  Equipement des plongeurs
 
 ###### Article A322-80
 
@@ -42864,12 +42926,10 @@ respirable un équipier sans partage d'embout.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
-
-#####  Paragraphe 5  Espace d'évolution et les conditions d'évolution
 
 ###### Article A322-81
 
@@ -42887,19 +42947,27 @@ limite de 5 mètres.
 La plongée subaquatique autonome à l'air est limitée à 60 mètres. Un dépassement accidentel de cette profondeur de 60 mètres
 est autorisé dans la limite de 5 mètres. 
 
-En cas de réimmersion, tout plongeur en difficulté est accompagné d'un plongeur chargé de l'assister.
+En cas de réimmersion, tout plongeur en difficulté est accompagné d'un plongeur chargé de l'assister. 
 
-L'annexe III-14 fixe les conditions d'évolution des plongeurs en fonction de leur niveau.
+Les annexes III-16 a et III-16 b fixent les conditions d'évolution des plongeurs en fonction de leur niveau.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 5
+
+	**Liens**:
+
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 	**Cité par**:
 
 	  - Code du sport. - art. A322-101 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-16 a
 
 
 ###### Article A322-82
@@ -42909,9 +42977,9 @@ niveau 1 de plongeur, celle-ci peut évoluer dans l'espace médian sous la respo
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-83
@@ -42922,9 +42990,9 @@ la responsabilité d'un enseignant qualifié.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-84
@@ -42947,9 +43015,9 @@ l'autre, le niveau 4 de plongeur, prêtes à intervenir à tout moment à l'aide
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-85
@@ -42962,9 +43030,9 @@ médian.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-86
@@ -42977,12 +43045,10 @@ l'organisation et les paramètres de leur plongée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
-
-#####  Paragraphe 6  Dispositions générales
 
 ###### Article A322-87
 
@@ -42991,12 +43057,12 @@ qu'aux parcours balisés d'entraînement et de compétition d'orientation subaqu
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
-#####  Section 3  Etablissements qui organisent la pratique  ou dispensent l'enseignement de la plongée subaquatique
+##### Sous-section 2 : Etablissements qui organisent et dispensent l'enseignement de la plongée autonome aux mélanges autres que l'air.
 
 ###### Article A322-88
 
@@ -43007,9 +43073,14 @@ avec ces mélanges respiratoires sont soumis aux règles de technique et de séc
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-89
+	  - Code du sport. - art. L322-2
 
 	**Cité par**:
 
@@ -43027,9 +43098,9 @@ l'air ; Héliox, mélange respiratoire composé d'oxygène et d'hélium.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 	**Cité par**:
 
@@ -43044,12 +43115,15 @@ précisées par les annexes III-18 à III-20 a et III-20 b au présent code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
+	**Cite**:
 
-#####  Paragraphe 1  Limite d'utilisation des mélanges
+	  - Code du sport. - art. A322-88
+	  - Code du sport. - art. Annexe III-20 B (art. A322-101)
+
 
 ###### Article A322-91
 
@@ -43060,16 +43134,14 @@ définie ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 	**Cité par**:
 
 	  - Code du sport. - art. A322-98 (VD)
 
-
-#####  Paragraphe 2  Confection et analyse des mélanges
 
 ###### Article A322-92
 
@@ -43079,9 +43151,9 @@ doivent être compatibles pour une utilisation en oxygène pur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-93
@@ -43108,9 +43180,9 @@ L'utilisateur final complète ces informations par :
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-94
@@ -43124,9 +43196,9 @@ distributeur, en complément du nom du fabricant.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-95
@@ -43139,9 +43211,9 @@ permettant d'en mesurer la pression au cours de la plongée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-96
@@ -43151,9 +43223,9 @@ facilement en immersion et munis de systèmes détrompeurs destinés à préveni
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-97
@@ -43163,12 +43235,10 @@ plongeurs concernés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
-
-#####  Paragraphe 3  Usage des recycleurs
 
 ###### Article A322-98
 
@@ -43191,12 +43261,14 @@ respectant les conditions de la présente section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
+	**Cite**:
 
-#####  Paragraphe 4  Procédures de décompression
+	  - Code du sport. - art. A322-91
+
 
 ###### Article A322-99
 
@@ -43205,12 +43277,10 @@ ordinateur conçu pour la plongée aux mélanges.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
-
-#####  Paragraphe 5  Espace et conditions d'évolution
 
 ###### Article A322-100
 
@@ -43220,9 +43290,9 @@ constituent une palanquée au sens de la présente section. Une équipe est une 
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
 
 ###### Article A322-101
@@ -43247,9 +43317,13 @@ profondeur est toléré dans la limite de 5 mètres.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-19 A (art. A322-101)
 
 
 ###### Article A322-102
@@ -43258,33 +43332,49 @@ En cas de réimmersion, tout plongeur en difficulté doit être accompagné d'un
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-103
 
-Les qualifications « qualification nitrox » et « qualification nitrox confirmé » sont délivrées pour l'usage du nitrox.
+Les qualifications "qualification nitrox" et "qualification nitrox confirmé" sont délivrées pour l'usage du nitrox. 
 
-La « qualification nitrox » ne peut être délivrée qu'à partir du niveau 1 de plongeur.
+La "qualification nitrox" ne peut être délivrée qu'à partir du niveau 1 de plongeur. 
 
-La « qualification nitrox confirmé » ne peut être délivrée qu'à partir du niveau 2 de plongeur.
+La "qualification nitrox confirmé" ne peut être délivrée qu'à partir du niveau 2 de plongeur. 
 
-Les plongeurs majeurs de niveau égal ou supérieur au niveau 2 de plongeur, titulaires de la « qualification nitrox » ou de la
-« qualification nitrox confirmé », sont, sur autorisation du directeur de plongée, autorisés à plonger en autonomie dans
-l'espace médian.
+Les plongeurs majeurs de niveau égal ou supérieur au niveau 2 de plongeur, titulaires de la "qualification nitrox" ou de la
+"qualification nitrox confirmé", sont, sur autorisation du directeur de plongée, autorisés à plonger en autonomie dans
+l'espace médian. 
 
 En l'absence du directeur de plongée, les plongeurs titulaires du niveau 3 ou supérieur de plongeur ainsi que d'une
-« qualification nitrox » ou « qualification nitrox confirmé » peuvent plonger en autonomie entre eux et choisir le lieu,
-l'organisation et les paramètres de leur plongée, dans les conditions prévues aux annexes III-19 a et III-19 b et III-20 a et
-III-20 b au présent code.
+"qualification nitrox" ou "qualification nitrox confirmé" peuvent plonger en autonomie entre eux et choisir le lieu,
+l'organisation et les paramètres de leur plongée, dans les conditions prévues aux annexes III-19 a et III-19 b du présent
+code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 5
+
+	**Liens**:
+
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-19 A (art. A322-101)
 
 
 ###### Article A322-104
@@ -43303,9 +43393,13 @@ III-20 b au présent code.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-105
@@ -43317,12 +43411,14 @@ qualifications correspondant aux mélanges respirés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
+	**Abrogé par**:
 
-#####  Paragraphe 6  Directeur de plongée
+	  - Arrêté du 5 janvier 2012 - art. 1
+
 
 ###### Article A322-106
 
@@ -43332,9 +43428,13 @@ section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-107
@@ -43356,12 +43456,18 @@ réserve qu'il dispose de la qualification afférente au mélange respiratoire u
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
+	**Abrogé par**:
 
-#####  Paragraphe 7  Guide de palanquée
+	  - Arrêté du 5 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-89
+
 
 ###### Article A322-108
 
@@ -43370,9 +43476,13 @@ caractéristiques de celles-ci sont adaptées aux circonstances et aux compéten
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-109
@@ -43390,13 +43500,21 @@ détendeurs complets.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. Annexe III-18 (art. A322-109) (VT)
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-19 A (art. A322-101)
 
 
 ###### Article A322-110
@@ -43411,12 +43529,18 @@ s'appliquent à cette palanquée en immersion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
+	**Abrogé par**:
 
-#####  Paragraphe 8  Equipement des plongeurs
+	  - Arrêté du 5 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-16 a
+
 
 ###### Article A322-111
 
@@ -43428,12 +43552,14 @@ d'un équipement de plongée permettant d'alimenter un équipier sans partage d'
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
+	**Abrogé par**:
 
-#####  Paragraphe 9  Matériel d'assistance et de secours
+	  - Arrêté du 5 janvier 2012 - art. 1
+
 
 ###### Article A322-112
 
@@ -43469,9 +43595,13 @@ entretenus.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-113
@@ -43492,9 +43622,17 @@ d'un point fixe ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-12
 
 
 ###### Article A322-114
@@ -43503,12 +43641,14 @@ L'activité de plongée est matérialisée selon la réglementation en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
 
+	**Abrogé par**:
 
-#####  Paragraphe 10  Dispositions générales
+	  - Arrêté du 5 janvier 2012 - art. 1
+
 
 ###### Article A322-115
 
@@ -43518,9 +43658,13 @@ applicables à la plongée archéologique, qui dispose d'une réglementation sp�
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 18 juillet 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ##### Section 4 : Etablissements ouverts au public  pour l'utilisation d'équidés
@@ -45342,7 +45486,7 @@ la date de péremption de cette dernière.
 
 ###### Article A331-22
 
-Les disciplines mentionnées au deuxième alinéa de l'article R. 311-19 du code du sport sont regroupées dans quatre catégories
+Les disciplines mentionnées au deuxième alinéa de l'article R. 331-19 du code du sport sont regroupées dans quatre catégories
 correspondant aux annexes III-22 à III-25 : 
 
 ― les manifestations de véhicules terrestres à moteur dans lesquelles la vitesse est l'un des éléments essentiels du
@@ -45357,9 +45501,14 @@ chargé des sports à la Fédération française du sport automobile ou à la F�
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 5
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-22
+	  - Code du sport. - art. R331-19
 
 	**Cité par**:
 
@@ -45390,43 +45539,6 @@ secours incendie sont définies dans les annexes III-22 à III-25 relatives à c
 ##### Section 3 : Obligations d'assurance des organisateurs  de manifestations sportives
 
 ##### Sous-section 1 : Epreuves et compétitions sportives  sur la voie publique
-
-###### Article A331-24
-
-Les conditions générales des polices d'assurances souscrites par les organisateurs d'épreuves ou compétitions sportives, en
-application des prescriptions du décret susvisé, devront être conformes aux modèles annexés au III-18 du présent code.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 18 juillet 2008 - art. 5
-
-	**Cite**:
-
-	  - Code du sport. - art. Annexe III-18
-
-
-###### Article A331-25
-
-Le montant minimum des garanties prévues par les polices d'assurances visées à l'article précédent, pour la réparation des
-dommages matériels, est fixé à 10 000 euros par sinistre en ce qui concerne les épreuves ou compétitions sportives autres que
-celles comportant la participation de véhicules à moteur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 18 juillet 2008 - art. 5
-
 
 ###### Article A331-26
 
@@ -59304,6 +59416,8 @@ retournement
 
 ###### Article Annexe III-14
 
+**NIVEAUX DE PRATIQUE DES PLONGEURS  ET ÉQUIVALENCES DE PRÉROGATIVES**
+
 (art. A322-72 et A322-81).
 
 Cette annexe concerne les niveaux de pratique des plongeurs et équivalences de prérogatives entre les différents brevets de
@@ -59318,8 +59432,11 @@ jury.
 
 Les moniteurs titulaires du niveau 3 d'encadrement, adhérents d'un des organismes membre de droit du comité consultatif,
 peuvent établir un certificat de compétence à l'issue d'une ou de plusieurs plongées d'évaluation organisées dans le respect
-du présent code. Les plongeurs bénéficiaires de cette attestation obtiennent des prérogatives identiques à celles référencées
+du présent code. Les plongeurs bénéficiaires de ce certificat obtiennent des prérogatives identiques à celles référencées
 dans le tableau figurant à la présente annexe, mais ne dépassant pas celles du niveau 3 (P 3).
+
+Ce certificat reste la propriété du moniteur, il n'est pas remis au plongeur et n'est valable que dans le cadre de
+l'établissement qui l'a délivré. 
 
 <table>
     <tbody>
@@ -59498,9 +59615,9 @@ de plongée)
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 7
 
 	**Cité par**:
 
@@ -59508,195 +59625,195 @@ de plongée)
 	  - Code du sport. - art. A322-77 (V)
 
 
-###### Article Annexe III-15
+###### Article Annexe III-15 (art. A322-77)
 
-(Art. A322-72 et A322-77).
+(Art.A. 322-77 du code du sport) 
 
 <table>
   <tbody>
     <tr>
-      <td width="111">
+      <th>
 
-NIVEAU
+NIVEAU 
 
-de l'encadrement
+de l'encadrement 
+
+</th>
+      <th colspan="3">
+
+ENSEIGNEMENT BÉNÉVOLE 
+
+</th>
+      <th>
+
+ENSEIGNEMENT RÉMUNÉRÉ 
+
+</th>
+    </tr>
+    <tr>
+      <th>
+      </th><th>
+
+FFESSM 
+
+(Fédération française 
+
+d'études et de sports 
+
+sous-marins) 
+
+</th>
+      <th>
+
+CMAS 
+
+(Confédération mondiale 
+
+des activités 
+
+subaquatiques) 
+
+</th>
+      <th>
+
+FSGT 
+
+(Fédération sportive 
+
+et gymnique du travail) 
+
+</th>
+      <th>
+
+Brevets d'Etat 
+
+</th>
+    </tr>
+    <tr>
+      <td align="center">
+
+Niveau 1 (E1) 
 
 </td>
-      <td width="370" colspan="3">
+      <td align="center">
 
-ENSEIGNEMENT BENEVOLE
+Initiateur 
 
 </td>
-      <td width="133">
+      <td align="center">
+      </td><td align="center">
 
-ENSEIGNEMENT rémunéré
+Initiateur 
+
+</td>
+      <td align="center">
+    </td></tr>
+    <tr>
+      <td align="center">
+
+Niveau 2 (E2) 
+
+</td>
+      <td align="center">
+
+Initiateur + P4 ou P4 
+
+stagiaire pédagogique (*) 
+
+</td>
+      <td align="center">
+
+Moniteur 1 étoile 
+
+</td>
+      <td align="center">
+
+Aspirant fédéral 
+
+</td>
+      <td align="center">
+
+Stagiaire pédagogique (**). 
 
 </td>
     </tr>
     <tr>
-      <td width="111">
+      <td align="center">
+
+Niveau 3 (E3) 
 
 </td>
-      <td width="129">
+      <td align="center">
 
-FFESSM
-
-(Fédération française d'études et de sports sous-marins)
+Fédéral 1er degré 
 
 </td>
-      <td width="121">
+      <td align="center">
 
-CACMAS
-
-(Confédération mondiale des activités subaquatiques)
+Moniteur 2 étoiles 
 
 </td>
-      <td width="119">
+      <td align="center">
 
-FSGT
-
-(Fédération sportive et gymnique du travail)
+Fédéral 1er degré 
 
 </td>
-      <td width="133">
+      <td align="center">
 
-BREVETS D'ETAT
+Brevet d'Etat d'éducateur sportif du 1er degré (BEES 1). 
 
 </td>
     </tr>
     <tr>
-      <td width="111">
+      <td align="center">
 
-Niveau 1 (E1)
-
-</td>
-      <td width="129">
-
-Initiateur.
+Niveau 4 (E4) 
 
 </td>
-      <td width="121">
+      <td align="center">
+
+Fédéral 2e degré 
 
 </td>
-      <td width="119">
+      <td align="center">
 
-Initiateur.
-
-</td>
-      <td width="133">
+Moniteur 3 étoiles 
 
 </td>
-    </tr>
-    <tr>
-      <td width="111">
+      <td align="center">
 
-Niveau 2 (E2)
+Fédéral 2e degré 
 
 </td>
-      <td width="129">
+      <td align="center">
 
-Initiateur + P4 ou P4 stagiaire pédagogique (*).
-
-</td>
-      <td width="121">
-
-Moniteur 1 étoile.
-
-</td>
-      <td width="119">
-
-Aspirant fédéral.
-
-</td>
-      <td width="133">
-
-Stagiaire pédagogique (**)
+Brevet d'Etat d'éducateur sportif du 2e degré (BEES 2). 
 
 </td>
     </tr>
     <tr>
-      <td width="111">
+      <td align="center">
 
-Niveau 3 (E3)
-
-</td>
-      <td width="129">
-
-Fédéral 1er degré.
+Niveau 5 (E5) 
 
 </td>
-      <td width="121">
+      <td align="center">
+      </td><td align="center">
+      </td><td align="center">
+      </td><td align="center">
 
-Moniteur 2 étoiles.
-
-</td>
-      <td width="119">
-
-Fédéral 1er degré.
-
-</td>
-      <td width="133">
-
-Brevet d'Etat d'éducateur sportif du 1er degré (BEES 1).
+Brevet d'Etat d'éducateur sportif du 3e degré (BEES 3). 
 
 </td>
     </tr>
     <tr>
-      <td width="111">
-
-Niveau 4 (E4)
-
-</td>
-      <td width="129">
-
-Fédéral 2e degré.
-
-</td>
-      <td width="121">
-
-Moniteur 3 étoiles.
-
-</td>
-      <td width="119">
-
-Fédéral 2e degré.
-
-</td>
-      <td width="133">
-
-Brevet d'Etat d'éducateur sportif du 2e degré (BEES 2).
-
-</td>
-    </tr>
-    <tr>
-      <td width="111">
-
-Niveau 5 (E5)
-
-</td>
-      <td width="129">
-
-</td>
-      <td width="121">
-
-</td>
-      <td width="119">
-
-</td>
-      <td width="133">
-
-Brevet d'Etat d'éducateur sportif du 3e degré (BEES 3).
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="5" valign="top" width="614">
+      <td colspan="5">
 
 (*) Pour obtenir les prérogatives attachées au niveau 2 d'encadrement (E2), le P4 en formation pédagogique est assujetti à la
-présence sur le site de plongée d'un cadre formateur E3 minimum.
+présence sur le site de plongée d'un cadre formateur E3 minimum. 
 
-(**) Stagiaire pédagogique dans le cadre d'une formation, reconnue par le ministère de la jeunesse et des sports, conduisant
-au BEES 1 de plongée subaquatique.
+(**) Stagiaire pédagogique dans le cadre d'une formation reconnue par le ministère de la jeunesse et des sports conduisant au
+BEES 1 de plongée subaquatique.
 
 </td>
     </tr>
@@ -59705,16 +59822,26 @@ au BEES 1 de plongée subaquatique.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté du 18 juillet 2008 - art. 8
+
+	**Abrogé par**:
+
+	  - Arrêté du 29 juillet 2010 - art. 2
+
 	**Cité par**:
 
 	  - Code du sport. - art. A322-72 (V)
 
+	**Cite**:
 
-###### Article Annexe III-16 a
+	  - Code du sport. - art. A322-77
 
-(Art. A322-72 et A322-77)
 
-III-16 a : CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN ENSEIGNEMENT 
+###### Article Annexe III-16 a (art. A322-77)
+
+CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN ENSEIGNEMENT 
 
 <table>
   <tbody>
@@ -59735,16 +59862,40 @@ des plongeurs
 
 COMPÉTENCE MINIMUM
 
-de l'encadrant de palanquée
+de l'encadrant de palanquée 
 
 </td>
       <td colspan="2">
 
 EFFECTIF MAXIMUM
 
-de la palanquée
+de la palanquée encadrement
 
-encadrement non compris
+non compris 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Espace proche : 
+
+0-6 mètres 
+
+</td>
+      <td align="center">
+
+Baptême 
+
+</td>
+      <td align="center">
+
+E1 
+
+</td>
+      <td align="center">
+
+1 
 
 </td>
     </tr>
@@ -59754,85 +59905,41 @@ encadrement non compris
 </td>
       <td align="center">
 
-Baptême
+Débutant 
 
 </td>
       <td align="center">
 
-E1
+E1 
 
 </td>
       <td align="center">
 
-1
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Espace proche :
-
-0 - 6 mètres
-
-</td>
-      <td align="center">
-
-Débutant
-
-</td>
-      <td align="center">
-
-E1
-
-</td>
-      <td align="center">
-
-4 + 1 P4 éventuellement
+4 + 1 P4 éventuellement 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
+Espace médian (*) : 
 
-Débutant en fin de formation
-
-</td>
-      <td align="center">
-
-E2
+6-20 mètres 
 
 </td>
       <td align="center">
 
-4 + 1 P4 éventuellement
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Espace médian (*) :
-
-6 - 20 mètres
+Débutant en fin de formation 
 
 </td>
       <td align="center">
 
-Niveau P1
+E2 
 
 </td>
       <td align="center">
 
-E2
-
-</td>
-      <td align="center">
-
-4 + 1 P4 éventuellement
+4 + 1 P4 éventuellement 
 
 </td>
     </tr>
@@ -59842,17 +59949,61 @@ E2
 </td>
       <td align="center">
 
-Niveau P2
+Niveau P1 
 
 </td>
       <td align="center">
 
-E2
+E2 
 
 </td>
       <td align="center">
 
-4 + 1 P4 éventuellement
+4 + 1 P4 éventuellement 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+Niveau P2 
+
+</td>
+      <td align="center">
+
+E2 
+
+</td>
+      <td align="center">
+
+4 + 1 P4 éventuellement 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Espace lointain (*) : 
+
+20-40 mètres 
+
+</td>
+      <td align="center">
+
+Niveau P1 en fin de formation 
+
+</td>
+      <td align="center">
+
+E3 
+
+</td>
+      <td align="center">
+
+2 + 1 P4 éventuellement 
 
 </td>
     </tr>
@@ -59862,72 +60013,44 @@ E2
 </td>
       <td align="center">
 
-Niveau P1 en fin de formation
+Niveau P2 
 
 </td>
       <td align="center">
 
-E3
+E3 
 
 </td>
       <td align="center">
 
-2 + 1 P4 éventuellement
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Espace lointain (*) :
-
-20-40 mètres
-
-</td>
-      <td align="center">
-
-Niveau P2
-
-</td>
-      <td align="center">
-
-E3
-
-</td>
-      <td align="center">
-
-2 + 1 P4 éventuellement
+2 + 1 P4 éventuellement 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au delà de 40 mètres, et dans la limite de 60 mètres
+Au-delà de 40 mètres et dans la limite de 60 mètres 
 
 </td>
       <td align="center">
 
-Niveaux P3, P4 et P5
+Niveaux P3, P4 et P5 
 
 </td>
       <td align="center">
 
-E4
+E4 
 
 </td>
       <td align="center">
 
-3 + 1 E4 éventuellement
+3 + 1 E4 éventuellement 
 
 </td>
     </tr>
     <tr>
       <td colspan="5">
-
-E1, E2, E3 et E4 = niveaux d'encadrement.
-
-P1, P2, P3, P4 et P5 = niveaux de pratique.
 
 (*) Dans des conditions favorables, les espaces médian et lointain peuvent être étendus dans la limite de 5 mètres. La
 plongée est limitée à 60 mètres avec possibilité de dépassement accidentel de 5 mètres.
@@ -59939,6 +60062,10 @@ plongée est limitée à 60 mètres avec possibilité de dépassement accidentel
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté du 18 juillet 2008 - art. 8
+
 	**Cité par**:
 
 	  - Code du sport. - art. A322-110 (VT)
@@ -59949,9 +60076,7 @@ plongée est limitée à 60 mètres avec possibilité de dépassement accidentel
 
 ###### Article Annexe III-16 b
 
-(art. A322-72 et A322-77). 
-
-III-16 b : CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN EXPLORATION.
+CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN EXPLORATION 
 
 <table>
   <tbody>
@@ -59974,84 +60099,64 @@ des plongeurs
 
 COMPÉTENCE MINIMUM
 
-de l'encadrant de palanquée
+de l'encadrant de palanquée 
 
 </td>
       <td colspan="2">
 
 EFFECTIF MAXIMUM
 
-de la palanquée
+de la palanquée encadrement
 
-encadrement non compris
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Espace proche :
-
-0-6 mètres
-
-</td>
-      <td align="center">
-
-Débutant.
-
-</td>
-      <td align="center">
-
-P4
-
-</td>
-      <td align="center">
-
-4 + 1 P4 éventuellement
+non compris 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
+Espace proche : 
 
-Niveau P1.
-
-</td>
-      <td align="center">
-
-P4
+0-6 mètres 
 
 </td>
       <td align="center">
 
-4 + 1 P4 éventuellement
+Débutant 
+
+</td>
+      <td align="center">
+
+P4 
+
+</td>
+      <td align="center">
+
+4 + 1 P4 éventuellement 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Espace médian :
+Espace médian : 
 
-6 à 20 mètres
-
-</td>
-      <td align="center">
-
-Niveau P1.
+6-20 mètres 
 
 </td>
       <td align="center">
 
-En surface : E3 + P4 quand autonomie dans la zone des 10 mètres.
+Débutant en fin de formation 
 
 </td>
       <td align="center">
 
-5 équipes
+P4 
+
+</td>
+      <td align="center">
+
+4 + 1 P4 éventuellement 
 
 </td>
     </tr>
@@ -60061,72 +60166,112 @@ En surface : E3 + P4 quand autonomie dans la zone des 10 mètres.
 </td>
       <td align="center">
 
-Niveau P2.
+Niveau P1 
 
 </td>
       <td align="center">
 
-Autonomie
+P4 
 
 </td>
       <td align="center">
 
-3
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Espace lointain (*) :
-
-20 - 40 mètres
-
-</td>
-      <td align="center">
-
-Niveau P2.
-
-</td>
-      <td align="center">
-
-P4
-
-</td>
-      <td align="center">
-
-4
+4 + 1 P4 éventuellement 
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au delà de 40 mètres, et dans la limite de 60 mètres (*).
+</td>
+      <td align="center">
+
+Niveau P1 
 
 </td>
       <td align="center">
 
-Niveaux P3, P4 et P5.
+En surface : E3 + P4 quand autonomie dans la zone des 10 mètres 
 
 </td>
       <td align="center">
 
-Autonomie
+5 équipes 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
 </td>
       <td align="center">
 
-3
+Niveau P2 
+
+</td>
+      <td align="center">
+
+Autonomie 
+
+</td>
+      <td align="center">
+
+3 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Espace lointain (*) : 
+
+20-40 mètres 
+
+</td>
+      <td align="center">
+
+Niveau P2 
+
+</td>
+      <td align="center">
+
+P4 
+
+</td>
+      <td align="center">
+
+4 
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Au-delà de 40 mètres et dans la limite de 60 mètres (*) 
+
+</td>
+      <td align="center">
+
+Niveaux P3, P4 et P5 
+
+</td>
+      <td align="center">
+
+Autonomie 
+
+</td>
+      <td align="center">
+
+3 
 
 </td>
     </tr>
     <tr>
       <td colspan="5">
 
-E1, E2, E3 et E4 = niveaux d'encadrement.
+E1, E2, E3 et E4 = niveaux d'encadrement. 
 
-P1, P2, P3, P4 et P5 = niveaux de pratique.
+P1, P2, P3, P4 et P5 = niveaux de pratique. 
 
 (*) Dans des conditions favorables, les espaces médian et lointain peuvent être étendus dans la limite de 5 mètres. La
 plongée est limitée à 60 mètres avec possibilité de dépassement accidentel de 5 mètres.
@@ -60137,6 +60282,10 @@ plongée est limitée à 60 mètres avec possibilité de dépassement accidentel
 </table>
 
 **Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 18 juillet 2008 - art. 8
 
 	**Cité par**:
 
@@ -60177,45 +60326,51 @@ La trousse de secours comprend au minimum :
 	  - Code du sport. - art. A322-78 (V)
 
 
-###### Article Annexe III-18
+###### Article Annexe III-18 (art. A322-109)
 
-**(Art. A322-101).**
+(Art.A. 322-109 du code du sport) 
 
-Les qualifications  nitrox »,  nitrox confirmé »,  trimix élémentaire » et  trimix » sont délivrées pour les plongeurs par
-les membres de droit du comité consultatif de l'enseignement sportif de la plongée subaquatique et par la CMAS (Confédération
-mondiale des activités subaquatiques).
+**CONDITIONS DE DÉLIVRANCE DES QUALIFICATIONS NITROX ET TRIMIX **
+
+Les qualifications " nitrox ", " nitrox confirmé ", " trimix élémentaire " et " trimix " sont délivrées pour les plongeurs
+par les membres de droit du Comité consultatif de l'enseignement sportif de la plongée subaquatique et par la CMAS
+(Confédération mondiale des activités subaquatiques). 
 
 Ces qualifications, qui doivent justifier d'un niveau de compétence au moins égal à celles définies par la fédération
 délégataire, la Fédération française d'étude et de sports sous-marins (FFESSM), sont délivrées dans des conditions de
 certification et de jury similaires à celles en vigueur au sein de cette fédération. Elles sont équivalentes en prérogatives,
-conformément aux annexes III-19 a et b et III-20 a et b.
+conformément aux annexes III-19 a et b et III-20 a et b. 
 
-Les moniteurs titulaires du niveau 3 d'encadrement et de la qualification nitrox adhérents d'un des organismes membres de
+Les moniteurs titulaires du niveau 3 d'encadrement et de la qualification " nitrox confirmé ", adhérents d'un des organismes
+membres de droit du comité consultatif, peuvent obtenir de celui-ci l'autorisation de délivrer, dans le respect de leur
+cursus de formation, les qualifications " nitrox " et " nitrox confirmé ". 
+
+Les moniteurs titulaires du niveau 4 d'encadrement et de la qualification " trimix " adhérents d'un des organismes membres de
 droit du comité consultatif peuvent obtenir de celui-ci l'autorisation de délivrer, dans le respect de leur cursus de
-formation, la  qualification nitrox » et  qualification nitrox confirmé ».
+formation, la qualification " trimix élémentaire " et la qualification " trimix ". 
 
-Les moniteurs titulaires du niveau 4 d'encadrement et de la  qualification trimix » adhérents d'un des organismes membres de
-droitdu comité consultatif peuvent obtenir de celui-ci l'autorisation de délivrer, dans le respect de leur cursus de
-formation, la  qualification trimix élémentaire » et la  qualification trimix ».
-
-En outre, ces moniteurs peuvent établir un certifiat de compétence aux mélanges à des plongeurs qualifiés et formés à l'usage
-de mélanges autres que l'air, qui ne sont pas titulaires d'une qualification visée au présent arrêté, et sous réserve qu'ils
-soient titulaires au préalable de la qualification de plongeur à l'air correspondante, à l'issue d'une ou plusieurs plongées
-d'évaluation organisées dans le respect du présent arrêté. Ces certificats restent la propriété du moniteur ; ils ne sont pas
-remis au plongeur et ne sont valables que dans le cadre de l'établissement qui l'a délivré. Les plongeurs bénéficiaires de
-ces certificats obtiennent des prérogatives identiques à celles qui sont référencées dans les tableaux figurant aux annexes
-III-19 a et b et III-20 a et b.
+En outre, ces moniteurs peuvent établir un certificat de compétence aux mélanges à des plongeurs qualifiés et formés à
+l'usage de mélanges autres que l'air qui ne sont pas titulaires d'une qualification visée au présent arrêté, et sous réserve
+qu'ils soient titulaires au préalable de la qualification de plongeur à l'air correspondante, à l'issue d'une ou plusieurs
+plongées d'évaluation organisées dans le respect du présent code. Ces certificats restent la propriété du moniteur ; ils ne
+sont pas remis au plongeur et ne sont valables que dans le cadre de l'établissement qui l'a délivré. Les plongeurs
+bénéficiaires de ces certificats obtiennent des prérogatives identiques à celles qui sont référencées dans les tableaux
+figurant aux annexes III-19 a et b et III-20 a et b.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 9
 
 	**Cité par**:
 
 	  - Code du sport. - art. A322-109 (VT)
 	  - Code du sport. - art. A331-24 (Ab)
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-19 A (art. A322-101)
 
 
 ###### Article Annexe III-19 A (art. A322-101)

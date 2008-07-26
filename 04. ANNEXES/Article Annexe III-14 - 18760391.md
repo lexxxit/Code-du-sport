@@ -1,5 +1,7 @@
 # Article Annexe III-14
 
+**NIVEAUX DE PRATIQUE DES PLONGEURS  ET ÉQUIVALENCES DE PRÉROGATIVES**
+
 (art. A322-72 et A322-81).
 
 Cette annexe concerne les niveaux de pratique des plongeurs et équivalences de prérogatives entre les différents brevets de
@@ -14,8 +16,11 @@ jury.
 
 Les moniteurs titulaires du niveau 3 d'encadrement, adhérents d'un des organismes membre de droit du comité consultatif,
 peuvent établir un certificat de compétence à l'issue d'une ou de plusieurs plongées d'évaluation organisées dans le respect
-du présent code. Les plongeurs bénéficiaires de cette attestation obtiennent des prérogatives identiques à celles référencées
+du présent code. Les plongeurs bénéficiaires de ce certificat obtiennent des prérogatives identiques à celles référencées
 dans le tableau figurant à la présente annexe, mais ne dépassant pas celles du niveau 3 (P 3).
+
+Ce certificat reste la propriété du moniteur, il n'est pas remis au plongeur et n'est valable que dans le cadre de
+l'établissement qui l'a délivré. 
 
 <table>
     <tbody>
@@ -194,9 +199,9 @@ de plongée)
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 18 juillet 2008 - art. 7
 
 	**Cité par**:
 
