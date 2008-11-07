@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2008-08-20
+Version Consolidée au 2008-11-08
 
 # Partie législative
 
@@ -30736,8 +30736,6 @@ Fédération française de danse : Danse danse danse.
 
 Fédération française d'études et de sports sous-marins : Subaqua. 
 
-Fédération française de football : Foot. 
-
 Fédération française de giraviation : Le Colibri. 
 
 Fédération française de gymnastique : l'Officiel du gymnaste. 
@@ -30809,13 +30807,13 @@ Fédération française de vol libre : Vol passion.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 29 octobre 2008 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. R131-36 (V)
+	  - Code du sport. - art. R131-36
 
 
 ###### Article A131-2
@@ -45485,8 +45483,6 @@ la date de péremption de cette dernière.
 
 	  - Code du sport. - art. R331-19 (V)
 
-
-#####  Sous-section 4  Disposition particulières pour les manifestations  de véhicules terrestres à moteur
 
 ##### Sous-section 4 : Dispositions concernant les manifestations sportives visées à l'alinéa 2 de l'article R. 331-19
 
