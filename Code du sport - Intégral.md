@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-01-01
+Version Consolidée au 2009-01-14
 
 # Partie législative
 
@@ -34488,10 +34488,21 @@ en cours de formation.
 
 Nonobstant les dispositions des articles L. 6313-1 à L. 6313-11 du code du travail relatif au bilan de compétences, l'équipe
 pédagogique procède à l'entrée en formation à un positionnement des acquis du candidat. Au préalable, le candidat aura fourni
-à l'équipe pédagogique un dossier comprenant au minimum une lettre de motivation, son curriculum vitae reprenant en
-particulier les étapes de sa formation et, le cas échéant, son expérience professionnelle, les certificats d'exercice établis
-par les employeurs, une copie conforme de ses diplômes et un certificat médical de non-contre-indication à la pratique des
-activités correspondant aux supports techniques choisis. 
+à l'équipe pédagogique un dossier comprenant les pièces suivantes : 
+
+- une lettre de motivation ; 
+
+- son curriculum vitae reprenant en particulier les étapes de sa formation et, le cas échéant, son expérience
+professionnelle ; 
+
+- les certificats d'exercice établis par les employeurs ; 
+
+- une copie conforme de ses diplômes ; 
+
+- un certificat médical de non-contre-indication à la pratique des activités correspondant aux supports techniques choisis et
+datant de moins de trois mois à l'inscription ; 
+
+- l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent.
 
 Le jury, défini à l'article A. 212-14, valide, le cas échéant, les acquis du candidat au vu du positionnement établi par
 l'équipe pédagogique et décide, sur proposition de celle-ci, des allégements de formation correspondants.
@@ -34503,7 +34514,7 @@ conditions prévues à l'alinéa précédent.
 
 	**Modifié par**:
 
-	  - Arrêté du 18 juillet 2008 - art. 3
+	  - Arrêté du 24 décembre 2008 - art. 1
 
 	**Cite**:
 
@@ -34712,6 +34723,95 @@ candidat telle que décrite dans le dossier mentionné à l'alinéa précédent.
 	  - Code du sport. - art. D212-11 (V)
 
 
+##### Paragraphe 4 :  Validation des acquis de l'expérience
+
+###### Article A212-16-1
+
+La validation des acquis de l'expérience est effectuée par le jury défini par l'article A. 212-14.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-14
+
+
+###### Article A212-16-2
+
+Le dossier de candidature est composé comme suit :
+
+- une première partie relative à la recevabilité de la demande (ou livret de recevabilité) ;
+
+- une notice explicative accompagnant le livret de recevabilité ;
+
+- une seconde partie relative à la description et à l'analyse des activités réalisées par le candidat ;
+
+- un guide méthodologique.
+
+Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de
+la nature de son expérience au directeur régional de la jeunesse, des sports et de la vie associative de son lieu de
+domicile, qui se prononce sur la recevabilité de sa demande.
+
+La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le
+diplôme visé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 2
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-16-3 (V)
+
+
+###### Article A212-16-3
+
+Le candidat dont la demande est déclarée recevable conformément aux dispositions de l'article A. 212-16-2 dépose son dossier
+complet (première et deuxième partie) auprès du jury du diplôme. 
+
+Il joint à son dossier les pièces suivantes :
+
+- une copie de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
+défense pour les Français de moins de vingt-cinq ans ;
+
+- un certificat médical de non-contre-indication à la pratique des activités correspondant aux supports techniques choisis et
+datant de moins de trois mois à la date limite de dépôt du dossier ;
+
+- l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent. 
+
+Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux compétences définies en annexe
+II-2 et, le cas échéant, les valide intégralement ou partiellement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-16-2
+
+
+###### Article A212-16-4
+
+Le jury propose au directeur régional de la jeunesse, des sports et de la vie associative la validation des épreuves, qui
+notifie sa décision au candidat. Le directeur régional de la jeunesse, des sports et de la vie associative délivre le diplôme
+au candidat ayant réussi l'ensemble des épreuves.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 2
+
+
 #####  Sous-section 3 : Brevet professionnel de la jeunesse,  de l'éducation populaire et du sport
 
 #####  Paragraphe 1 : Conditions d'inscription
@@ -34753,18 +34853,41 @@ sport adapté.
 
 ###### Article A212-18
 
-Lorsque la certification est réalisée par validation des acquis de l'expérience, la composition du dossier de candidature est
-conforme à celle fixée par l'arrêté du ministre chargé de la jeunesse et des sports pris en l'espèce.
+Lorsque la certification est réalisée par validation des acquis de l'expérience, le dossier de candidature est composé comme
+suit :
+
+- une première partie relative à la recevabilité de la demande (ou livret de recevabilité) ;
+
+- une notice explicative accompagnant le livret de recevabilité ;
+
+- une seconde partie relative à la description et à l'analyse des activités réalisées par le candidat ;
+
+- un guide méthodologique. 
+
+Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de
+la nature de son expérience au directeur régional de la jeunesse, des sports et de la vie associative de son lieu de
+domicile, qui se prononce sur la recevabilité de sa demande. 
+
+La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le
+diplôme visé. 
+
+En outre, le candidat à un diplôme permettant l'encadrement d'activités s'exerçant en environnement spécifique, définies à
+l'article R. 212-7, doit satisfaire aux exigences techniques préalables à l'entrée dans la formation ou à l'inscription à
+l'examen pour l'obtention de ce diplôme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 24 décembre 2008 - art. 3
 
 	**Cité par**:
 
 	  - Code du sport. - art. A212-37 (M)
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-7 (V)
 
 
 ###### Article A212-19
@@ -35192,20 +35315,33 @@ capitalisables, est chargé d'instruire les dossiers de demande de validation d'
 
 ###### Article A212-37
 
-Après instruction et décision de recevabilité du dossier mentionné à l'article A. 212-18 par le directeur régional de la
-jeunesse, des sports et de la vie associative, le jury vérifie si les acquis dont fait état le candidat dans son dossier
-correspondent aux compétences exigées par le référentiel de certification de la spécialité considérée et les valide,
-intégralement ou partiellement.
+Le candidat dont la demande est déclarée recevable, conformément aux dispositions de l'article A. 212-18, dépose son dossier
+complet (première et deuxième partie) auprès du jury du diplôme visé. 
+
+Il joint à son dossier les pièces suivantes :
+
+- une copie de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
+défense pour les Français de moins de vingt-cinq ans ;
+
+- pour les candidats à une spécialité relevant du domaine des activités physiques ou sportives, un certificat médical de non-
+contre-indication à la pratique de la spécialité datant de moins de trois mois à la date limite de dépôt du dossier et
+l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent ;
+
+- pour les personnes handicapées, l'avis d'un médecin agréé par la Fédération française handisport ou par la Fédération
+française du sport adapté. 
+
+Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux compétences exigées par le
+référentiel du diplôme visé et, le cas échéant, les valide intégralement ou partiellement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 24 décembre 2008 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-18 (V)
+	  - Code du sport. - art. A212-18
 
 
 ###### Article A212-38
@@ -35507,6 +35643,49 @@ trois mois.
 	**Cité par**:
 
 	  - Code du sport. - art. A212-68 (V)
+
+
+###### Article A212-51-1
+
+Lorsque la certification est réalisée par validation des acquis de l'expérience, le dossier de candidature est composé comme
+suit :
+
+- une première partie relative à la recevabilité de la demande (ou livret de recevabilité) ;
+
+- une notice explicative accompagnant le livret de recevabilité ;
+
+- une seconde partie relative à la description et à l'analyse des activités réalisées par le candidat ;
+
+- un guide méthodologique. 
+
+Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de
+la nature de son expérience au directeur régional de la jeunesse, des sports et de la vie associative de son lieu de
+domicile, qui se prononce sur la recevabilité de sa demande. 
+
+La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le
+diplôme visé. 
+
+En outre, le candidat à un diplôme permettant l'encadrement d'activités s'exerçant en environnement spécifique, définies à
+l'article R. 212-7, doit satisfaire aux exigences techniques préalables à l'entrée dans la formation ou à l'inscription à
+l'examen pour l'obtention de ce diplôme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 4
+
+	**Abrogé par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-68 (Ab)
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-7
 
 
 #####  Sous-paragraphe 2 : L'habilitation
@@ -35975,24 +36154,39 @@ La validation des acquis de l'expérience est effectuée par le jury défini par
 
 ###### Article A212-68
 
-Après instruction et décision de recevabilité du dossier mentionné à l'article A. 212-51 par le directeur régional de la
-jeunesse, des sports et de la vie associative, le jury vérifie si les acquis dont fait état le candidat dans son dossier
-correspondent aux compétences exigées par le référentiel professionnel et le référentiel de certification de la mention
-considérée et les valide, intégralement ou partiellement.
+Le candidat dont la demande est déclarée recevable, conformément aux dispositions de l'article A. 212-51-1, dépose son
+dossier complet (première et deuxième partie) auprès du jury de la mention demandée. 
+
+Il joint à son dossier les pièces suivantes :
+
+- une copie de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
+défense pour les Français de moins de vingt-cinq ans ;
+
+- l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent ;
+
+- un certificat médical de non-contre-indication à la pratique de la discipline certifiée par la mention datant de moins de
+trois mois à la date limite de dépôt du dossier ;
+
+- pour les personnes handicapées, l'avis d'un médecin agréé par la Fédération française handisport ou par la Fédération
+française du sport adapté. 
+
+Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux compétences exigées par le
+référentiel professionnel et le référentiel de certification de la mention considérée et, le cas échéant, les valide
+intégralement ou partiellement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 20 novembre 2006 - art. 20 (Ab)
+	  - Arrêté du 24 décembre 2008 - art. 5
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 21 décembre 2015 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-51 (V)
+	  - Code du sport. - art. A212-51-1 (Ab)
 
 
 ###### Article A212-69
@@ -36317,6 +36511,49 @@ trois mois.
 
 	  - Code du sport. - art. A212-86 (Ab)
 	  - Code du sport. - art. A212-95 (V)
+
+
+###### Article A212-78-1
+
+Lorsque la certification est réalisée par validation des acquis de l'expérience, le dossier de candidature est composé comme
+suit :
+
+- une première partie relative à la recevabilité de la demande (ou livret de recevabilité) ;
+
+- une notice explicative accompagnant le livret de recevabilité ;
+
+- une seconde partie relative à la description et à l'analyse des activités réalisées par le candidat ;
+
+- un guide méthodologique. 
+
+Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de
+la nature de son expérience au directeur régional de la jeunesse, des sports et de la vie associative de son lieu de
+domicile, qui se prononce sur la recevabilité de sa demande. 
+
+La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le
+diplôme visé. 
+
+En outre, le candidat à un diplôme permettant l'encadrement d'activités s'exerçant en environnement spécifique, définies à
+l'article R. 212-7, doit satisfaire aux exigences techniques préalables à l'entrée dans la formation ou à l'inscription à
+l'examen pour l'obtention de ce diplôme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 4
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-95 (Ab)
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-7
 
 
 ##### Sous-paragraphe 2 : L'habilitation
@@ -36796,24 +37033,39 @@ La validation des acquis de l'expérience est effectuée par le jury défini par
 
 ###### Article A212-95
 
-Après instruction et décision de recevabilité du dossier mentionné à l'article A. 212-78 par le directeur régional de la
-jeunesse, des sports et de la vie associative, le jury vérifie si les acquis dont fait état le candidat dans son dossier
-correspondent aux compétences exigées par le référentiel professionnel et le référentiel de certification de la mention
-considérée et les valide, intégralement ou partiellement.
+Le candidat dont la demande est déclarée recevable, conformément aux dispositions de l'article A. 212-78-1, dépose son
+dossier complet (première et deuxième partie) auprès du jury de la mention demandée. 
+
+Il joint à son dossier les pièces suivantes :
+
+- une copie de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
+défense pour les Français de moins de vingt-cinq ans ;
+
+- l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent ;
+
+- un certificat médical de non-contre-indication à la pratique de la discipline certifiée par la mention datant de moins
+trois mois à la date limite de dépôt du dossier ;
+
+- pour les personnes handicapées, l'avis d'un médecin agréé par la Fédération française handisport ou par la Fédération
+française du sport adapté. 
+
+Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux compétences exigées par le
+référentiel professionnel et le référentiel de certification de la mention considérée et, le cas échéant, les valide
+intégralement ou partiellement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 20 novembre 2006 - art. 20 (Ab)
+	  - Arrêté du 24 décembre 2008 - art. 7
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 21 décembre 2015 - art. 4
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-78 (V)
+	  - Code du sport. - art. A212-78-1 (Ab)
 
 
 ###### Article A212-96
@@ -39104,6 +39356,123 @@ Les dispenses permettant des allégements de formation ou d'examen sont énumér
 
 	  - Code du sport. - art. Annexe II-10 (V)
 	  - Code du sport. - art. Annexe II-11 (V)
+
+
+##### Paragraphe 11 : Validation des acquis de l'expérience
+
+###### Article 212-167-1
+
+La validation des acquis de l'expérience est effectuée par le jury défini par l'article A. 212-113.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 8
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-113
+
+
+###### Article 212-167-2
+
+Le dossier de candidature est composé comme suit :
+
+- une première partie relative à la recevabilité de la demande (ou livret de recevabilité) ;
+
+- une notice explicative accompagnant le livret de recevabilité ;
+
+- une seconde partie relative à la description et à l'analyse des activités réalisées par le candidat ;
+
+- un guide méthodologique. 
+
+Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de
+la nature de son expérience au directeur régional de la jeunesse, des sports et de la vie associative de son lieu de
+domicile, qui se prononce sur la recevabilité de sa demande. 
+
+La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le
+diplôme visé. 
+
+En outre, le candidat à un diplôme permettant l'encadrement d'activités s'exerçant en environnement spécifique, définies à
+l'article R. 212-7, doit satisfaire aux exigences techniques préalables à l'entrée dans la formation ou à l'inscription à
+l'examen pour l'obtention de ce diplôme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 8
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-7
+
+
+###### Article 212-167-3
+
+Le candidat dont la demande est déclarée recevable, conformément aux dispositions de l'article A. 212-114-2, dépose son
+dossier complet (première et deuxième partie) auprès du jury du diplôme demandé. 
+
+Il joint à son dossier les pièces suivantes :
+
+- une copie de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
+défense pour les Français de moins de vingt-cinq ans ;
+
+- l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent ;
+
+- un certificat médical de non-contre-indication à la pratique sportive et à l'enseignement de l'option concernée datant de
+moins de trois mois à la date limite de dépôt du dossier ;
+
+- pour les personnes handicapées, l'avis de la commission prévue aux articles A. 212-159 à A. 212-162. 
+
+Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux programmes mentionnés dans les
+annexes II-6, II-7 et II-8 du présent code, pour la partie commune, et aux compétences définies par les arrêtés de chaque
+option, pris en application de l'article D. 212-72, pour la partie spécifique, et, le cas échéant, les valide intégralement
+ou partiellement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 8
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-159 (V)
+	  - Code du sport. - art. D212-72
+
+
+###### Article 212-167-4
+
+Peuvent être exclues de la validation des acquis de l'expérience ou soumises à restrictions spéciales certaines compétences
+liées aux conditions de sécurité particulières, tant pour les pratiquants que pour les tiers, dans l'exercice d'activités
+s'exerçant en environnement spécifique, définies à l'article R. 212-7. 
+
+Les modalités d'exclusion de la validation des acquis de l'expérience et de certification de ces compétences sont prévues
+dans l'arrêté créant l'option du diplôme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 8
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-7
+
+
+###### Article 212-167-5
+
+Le jury propose la validation des épreuves au directeur régional de la jeunesse, des sports et de la vie associative, qui
+notifie sa décision au candidat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 24 décembre 2008 - art. 8
 
 
 ##### Sous-section 7 : Brevets d'Etat spécifiques à l'encadrement  et à l'enseignement des sports de montagne
