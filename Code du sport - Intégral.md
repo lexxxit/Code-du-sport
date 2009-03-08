@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-03-08
+Version Consolidée au 2009-03-09
 
 # Partie législative
 
@@ -14190,25 +14190,30 @@ pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Section 3 : La Commission consultative des arts martiaux.
+##### Section 3 : La commission consultative des arts martiaux et des sports de combat
 
 ###### Article D142-32
 
-La Commission consultative des arts martiaux comprend des représentants des fédérations sportives intéressées et de l'Etat,
-dont la composition est arrêtée par le ministre chargé des sports. Cette commission est compétente pour donner son avis au
-ministre chargé des sports sur toutes les questions techniques, déontologiques, administratives et de sécurité se rapportant
-aux disciplines considérées et assimilées.
+La commission consultative des arts martiaux et des sports de combat comprend des représentants de l'Etat, des fédérations
+sportives agréées intéressées ainsi que des personnalités qualifiées. Sa composition est définie par un arrêté du ministre
+chargé des sports. 
+
+Cette commission est compétente pour donner son avis sur toutes les questions techniques, déontologiques, administratives et
+de sécurité se rapportant aux disciplines concernées ou assimilées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 4 de l'article 17-2 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des validités physiques et sportives
 	  - Loi n°84-610 du 16 juillet 1984 - art. 17-2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-265 du 6 mars 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-420 du 23 mai 2013 - art. 60 (V)
 
 
 ## LIVRE II : ACTEURS DU SPORT
