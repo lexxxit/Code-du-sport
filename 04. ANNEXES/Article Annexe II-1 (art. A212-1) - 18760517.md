@@ -1563,7 +1563,7 @@ type nordique excluant tout accident de terrain et situés en moyenne montagne.
 
 Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu. 
 
-Prérogatives conférées aux titulaires du BEES, option ski alpin » ou ski nordique » selon la spécialité.
+Prérogatives conférées aux titulaires du BEES, option ski alpin  ou ski nordique  selon la spécialité.
 
 </td>
       <td align="center">
@@ -1801,7 +1801,7 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td align="center">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Supports techniques du BAPAAT 
 
@@ -2157,7 +2157,7 @@ BP JEPS, spécialité "activités nautiques".
       </td><td align="center">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions monovalentes de la spécialité "activités nautiques" 
 
@@ -2470,7 +2470,7 @@ Pour tout public et sur tout lieu de pratique de l'activité.
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe E 
 
@@ -2494,7 +2494,7 @@ Activités du ski nautique (bi ski, wakeboard), pour tout public et sur tout lie
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe F 
 
@@ -2580,7 +2580,7 @@ l'activité.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité "activités nautiques" 
 
@@ -2822,7 +2822,7 @@ l'activité.
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Certificats de spécialisation (CS) associés à la spécialité "activités nautiques"
 
@@ -2988,7 +2988,7 @@ Encadrement, animation et initiation d'activités de pêche sportive en eau douc
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité "pêche de loisir" 
 
@@ -3017,7 +3017,7 @@ BP JEPS, spécialité "sport automobile".
       </td><td align="center">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité s"port automobile" 
 
@@ -3146,7 +3146,7 @@ handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psy
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité "activités physiques pour tous" 
 
@@ -3257,7 +3257,7 @@ Conduite de cycles d'apprentissage en skateboard.
       <td align="center">
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Certificats de spécialisation (CS) associés à la spécialité "activités physiques pour tous" 
 
@@ -3487,7 +3487,7 @@ plateau.
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Unités capitalisables complémentaires (UCC) associées à la spécialité "activités gymniques de la forme et de la force" 
 
@@ -3958,7 +3958,7 @@ Conduite de cycles d'animation en escrime.
       <td align="center">
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Certificats de spécialisation (CS) associés à la spécialité "animation culturelle" du BP JEPS 
 
@@ -4182,24 +4182,24 @@ emploi-formation du sport (CPNEF du sport)
     <tr>
       <th>
 
-INTITULÉ DU DIPLÔME 
+INTITULÉ DU CERTIFICAT
 
 </th>
       <th>
 
-CONDITIONS D'EXERCICE 
+CONDITIONS D'EXERCICE
 
 </th>
       <th>
 
-LIMITES DES CONDITIONS D'EXERCICE 
+LIMITES DES CONDITIONS D'EXERCICE
 
 </th>
     </tr>
     <tr>
       <td align="center">
 
-CQP guide de véhicules terrestres motorisés à guidon, option "quad" (guide de VTM à guidon, optionquad"). 
+CQP  guide de véhicules terrestres motorisés à guidon, option "quad" (guide de VTM à guidon, option "quad") .
 
 </td>
       <td align="center">
@@ -4210,20 +4210,20 @@ permettant la conduite d'un quad, conformément à l'article R. 213 du code de l
 </td>
       <td align="center">
 
-A l'exclusion de toute activité d'enseignement ou d'entraînement. 
+A l'exclusion de toute activité d'enseignement ou d'entraînement.
 
-Dans la limite de 6 personnes accompagnées. 
+Dans la limite de 6 personnes accompagnées.
 
-Sur des parcours connus et reconnus. 
+Sur des parcours connus et reconnus.
 
-Sous réserve de la présentation de l'attestation triennale de recyclage. 
+Sous réserve de la présentation de l'attestation triennale de recyclage.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-CQP "animateur de tir à l'arc". 
+CQP  animateur tir à l'arc .
 
 </td>
       <td align="center">
@@ -4233,219 +4233,272 @@ Encadrement en autonomie du tir à l'arc, par la découverte et l'animation.
 </td>
       <td align="center">
 
-Dans la limite de 12 pratiquants. 
+Dans la limite de 12 pratiquants.
 
 Durant la période allant du début des vacances de printemps à la fin des vacances d'été, conformément aux dates du calendrier
 des vacances scolaires fixé par les ministères de l'enseignement supérieur et de l'éducation nationale.
 
-A l'exclusion du temps scolaire contraint. 
+A l'exclusion du temps scolaire contraint.
 
-Dans les structures de loisirs sportifs, socio-éducatives et de tourisme. 
+Dans les structures de loisirs sportifs, socio-éducatives et de tourisme.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-CQP "assistant moniteur de voile". 
+CQP  assistant moniteur de voile .
 
 </td>
       <td align="center">
 
-Animation et initiation à la pratique de la voile. 
+Animation et initiation à la pratique de la voile.
 
 </td>
       <td align="center">
 
 Sous l'autorité d'un titulaire d'une certification professionnelle des activités physiques ou sportives de niveau IV ou
 supérieur, le nombre de titulaires du CQP AMV placés sous cette autorité ne pouvant être supérieur à 10, dans la limite de
-140 pratiquants encadrés par titulaire d'une certification de niveau IV ou supérieur. 
+140 pratiquants encadrés par titulaire d'une certification de niveau IV ou supérieur.
 
 Durant les périodes de congés scolaires et universitaires fixées par les ministères de l'enseignement supérieur et de
-l'éducation nationale. 
+l'éducation nationale.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-CQP "animateur de savate". 
+CQP  animateur de savate .
 
 </td>
       <td align="center">
 
 Encadrement en autonomie de la savate, incluant la mise en œuvre des procédures de passage des gants bleus, verts, rouges et
-blancs. 
+blancs.
 
 </td>
       <td align="center">
 
-Activité exercée à titre secondaire. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-CQP "animateur des activités gymniques". 
-
-</td>
-      <td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center" colspan="3">
-
-Mentions du CQP animateur des "activités gymniques" 
+Activité exercée à titre secondaire.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Mention "activités gymniques acrobatiques". 
+CQP  animateur des activités gymniques .
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Mentions du CQP  animateur des activités gymniques 
+
+</td>
+      <td align="center">
+
+</td>
+      <td align="center">
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Mention  activités gymniques acrobatiques .
 
 </td>
       <td align="center">
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques acrobatiques, à visée compétitive ou
-non : 
+non :
 
 - activités gymniques au sol, aux agrès ou sur supports élastiques (piste gonflable, fast track, mini-trampoline,
-trampoline) ; 
+trampoline) ;
 
-- activités gymniques acrobatiques de groupe. 
-
-</td>
-      <td align="center">
-
-Activité exercée à titre secondaire. 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Mention "activités d'éveil gymnique pour la petite enfance". 
+- activités gymniques acrobatiques de groupe.
 
 </td>
       <td align="center">
 
-Encadrement en autonomie, par la découverte et l'initiation, des activités d'éveil gymnique pour la petite enfance : 
-
-- activités gymniques sous forme de parcours de motricité ; 
-
-- activités gymniques d'expression avec ou sans engins ; 
-
-- activités gymniques d'expression avec ou sans support musical. 
-
-</td>
-      <td align="center">
-
-Activité exercée à titre secondaire. 
+Activité exercée à titre secondaire.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Mention "activités gymniques d'expression et d'entretien". 
+Mention  activités d'éveil gymnique pour la petite enfance .
 
 </td>
       <td align="center">
 
-Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques d'expression et d'entretien : 
+Encadrement en autonomie, par la découverte et l'initiation, des activités d'éveil gymnique pour la petite enfance :
 
-- activités gymniques à dominante cardio-vasculaire ; 
+- activités gymniques sous forme de parcours de motricité ;
 
-- activités gymniques dansées de groupe avec ou sans engins ; 
+- activités gymniques d'expression avec ou sans engins ;
 
-- activités gymniques de renforcement musculaire avec ou sans petit matériel ; 
-
-- activités gymniques de renforcement musculaire sur parcours avec agrès ; 
-
-- stretching. 
+- activités gymniques d'expression avec ou sans support musical.
 
 </td>
       <td align="center">
 
-Activité exercée à titre secondaire. 
+Activité exercée à titre secondaire.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-CQP "animateur de loisirs sportifs". 
-
-</td>
-      <td align="center">
-      </td><td align="center">
-    </td></tr>
-    <tr>
-      <td align="center" colspan="3">
-
-Options du CQP "animateur de loisirs sportifs" 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Option "activités gymniques d'entretien et d'expression". 
+Mention  activités gymniques d'expression et d'entretien .
 
 </td>
       <td align="center">
 
-Encadrement en autonomie par la découverte et l'animation des activités gymniques d'entretien et d'expression : 
+Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques d'expression et d'entretien :
 
-- techniques cardio ; 
+- activités gymniques à dominante cardio-vasculaire ;
 
-- renforcement musculaire ; 
+- activités gymniques dansées de groupe avec ou sans engins ;
 
-- techniques douces ; 
+- activités gymniques de renforcement musculaire avec ou sans petit matériel ;
 
-- activités d'expression. 
+- activités gymniques de renforcement musculaire sur parcours avec agrès ;
+
+- stretching.
 
 </td>
       <td align="center">
 
-- activité exercée à titre secondaire ; 
-
-- sans recours à des appareils de musculation ; 
-
-- sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en
-cours de validité. 
+Activité exercée à titre secondaire.
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Option "jeux sportifs et jeux d'opposition". 
+CQP  animateur de loisirs sportifs .
 
 </td>
       <td align="center">
 
-Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition : 
+</td>
+      <td align="center">
 
-- arts et éducation par les activités physiques d'opposition ; 
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-- jeux de raquettes ; 
-
-- jeux de ballons, petits et grands terrains. 
+Options du CQP  animateur de loisirs sportifs 
 
 </td>
       <td align="center">
 
-- activité exercée à titre secondaire ; 
+</td>
+      <td align="center">
 
-- à l'exclusion des pratiques compétitives ; 
+</td>
+    </tr>
+    <tr>
+      <td align="center">
 
-- à l'exclusion de la délivrance de niveaux, de ceintures ou de grades ; 
+Option  activités gymniques d'entretien et d'expression .
 
-- sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en
-cours de validité.
+</td>
+      <td align="center">
+
+Encadrement en autonomie par la découverte et l'animation des activités gymniques d'entretien et d'expression :
+
+- techniques cardio ;
+
+- renforcement musculaire ;
+
+- techniques douces ;
+
+- activités d'expression.
+
+</td>
+      <td align="center">
+
+Activité exercée à titre secondaire.
+
+Sans recours à des appareils de musculation.
+
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours
+de validité.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+Option  jeux sportifs et jeux d'opposition .
+
+</td>
+      <td align="center">
+
+Encadrement en autonomie par la découverte et l'animation des jeux sportifs et des jeux d'opposition :
+
+- arts et éducation par les activités physiques d'opposition ;
+
+- jeux de raquettes ;
+
+- jeux de ballons, petits et grands terrains.
+
+</td>
+      <td align="center">
+
+Activité exercée à titre secondaire.
+
+A l'exclusion des pratiques compétitives.
+
+A l'exclusion de la délivrance de niveaux, de ceintures ou de grades.
+
+Sous réserve de la présentation du certificat d'aptitude à l'exercice de la fonction d'animateur de loisirs sportifs en cours
+de validité.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+CQP  assistant moniteur de tennis .
+
+</td>
+      <td align="center">
+
+Initiation au tennis en cours collectif, des jeunes âgés de 18 ans au maximum. L'assistant moniteur de tennis bénéficie du
+suivi pédagogique d'un référent titulaire d'un diplôme d'Etat de niveau IV ou supérieur.
+
+</td>
+      <td align="center">
+
+Activité exercée le mercredi et le samedi, excepté dans le cas où la structure ne dispose pas d'équipement permanent.
+
+A l'exclusion du temps scolaire contraint.
+
+A l'exclusion des cours individuels.
+
+</td>
+    </tr>
+    <tr>
+      <td align="center">
+
+CQP  éducateur de grimpe d'arbres .
+
+</td>
+      <td align="center">
+
+Animation et encadrement en autonomie de la grimpe dans les arbres.
+
+</td>
+      <td align="center">
+
+Dans la limite de 8 pratiquants.
 
 </td>
     </tr>
@@ -4498,7 +4551,7 @@ physiques et sportives déclarés.
 
 	**Modifié par**:
 
-	  - Arrêté du 17 juillet 2008 - art. 1
+	  - Arrêté du 27 février 2009 - art. 1
 
 	**Cité par**:
 
