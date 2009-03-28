@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-03-13
+Version Consolidée au 2009-03-29
 
 # Partie législative
 
@@ -11722,18 +11722,19 @@ Elles sont publiées dans le bulletin de la fédération.
 
 ###### Article R131-35
 
-Les règles mentionnées à l'article R. 131-33 sont édictées selon la procédure prévue aux articles R. 142-20 à R. 142-25.
+Les règles mentionnées à l'article R. 131-33 sont édictées selon la procédure prévue aux articles R. 142-2 et R. 142-3 et
+conformément aux prescriptions des deux derniers alinéas de l'article R. 131-33.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-341 du 27 mars 2009 - art. 4
 
 	**Cite**:
 
-	  - Code du sport. - art. R131-33 (V)
-	  - Code du sport. - art. R142-20 (V)
+	  - Code du sport. - art. R131-33
+	  - Code du sport. - art. R142-2
 
 
 ###### Article R131-36
@@ -12868,33 +12869,52 @@ en application de la présente section.
 
 ##### Section 1 : Le Conseil national des activités physiques et sportives.
 
-##### Sous-section 1 : Missions et composition.
-
 ###### Article R142-1
 
-Le Conseil national des activités physiques et sportives, mentionné à l'article L. 131-16, est consulté par le ministre
-chargé des sports sur les projets de loi et de décret relatifs aux activités physiques et sportives et sur les conditions
-d'application, les modifications et l'impact financier des règlements fédéraux relatifs aux équipements sportifs requis pour
-la participation aux compétitions sportives. 
+La commission d'examen des règlements fédéraux relatifs aux équipements sportifs, placée auprès du ministre chargé des
+sports, rend un avis sur les projets de règlement relatifs aux équipements sportifs requis pour accueillir les compétitions,
+élaborés dans les conditions prévues à l'article L. 131-16 par les fédérations mentionnées à l'article L. 131-14. 
 
-Il apporte son concours à l'évaluation des politiques publiques dans le domaine du sport. Il remet, chaque année, au
-Parlement et au Gouvernement, un rapport sur le développement des activités physiques et sportives. 
+La commission comprend, outre son président, désigné par le ministre chargé des sports, dix-huit membres : 
 
-Il dispose d'un Observatoire des activités physiques, des pratiques sportives et des métiers du sport. 
+1° Quatre représentants de l'Etat : 
 
-Il veille à la mise en oeuvre effective des mesures destinées à favoriser l'égal accès des femmes et des hommes aux
-pratiques, aux fonctions et aux responsabilités dans les instances sportives.
+a) Le directeur des sports ou son représentant ; 
+
+b) Un directeur régional ou départemental de la jeunesse, des sports et de la vie associative ; 
+
+c) Un représentant du ministre chargé du développement durable ; 
+
+d) Un représentant du ministre chargé des collectivités territoriales ; 
+
+2° Cinq représentants des collectivités territoriales et de leurs groupements sur proposition des associations nationales
+d'élus locaux ; 
+
+3° Le président du Comité national olympique et sportif français ou son représentant ; 
+
+4° Quatre représentants des associations intéressées par les activités physiques et sportives ; 
+
+5° Deux représentants des entreprises intéressées par les équipements sportifs ; 
+
+6° Deux personnalités qualifiées choisies en raison de leurs compétences dans le domaine des équipements sportifs. 
+
+Les membres de la commission d'examen des règlements fédéraux relatifs aux équipements sportifs sont nommés par arrêté du
+ministre chargé des sports. 
+
+Le président et les membres de la commission autres que ceux mentionnés au a du 1° et au 3° sont désignés pour une durée de
+quatre ans renouvelable. 
+
+Le secrétariat de la commission est assuré par le ministre chargé des sports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 2 à 5 de l'article 33 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
 	  - Loi n°84-610 du 16 juillet 1984 - art. 33 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-341 du 27 mars 2009 - art. 2
 
 	**Cité par**:
 
@@ -12903,164 +12923,36 @@ pratiques, aux fonctions et aux responsabilités dans les instances sportives.
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-16 (V)
+	  - Code du sport. - art. L131-16
 
 
 ###### Article R142-2
 
-Le Conseil national des activités physiques et sportives est présidé par une personnalité qualifiée désignée par le ministre
-chargé des sports. 
+Le projet de règlement est transmis par la fédération, accompagné d'une étude d'impact, au ministre chargé des sports qui
+vérifie que la notice d'impact contient les éléments mentionnés ci-après avant de l'adresser pour avis à la commission
+d'examen des règlements fédéraux relatifs aux équipements sportifs. 
 
-Outre le président, il comprend : 
+Il en est de même en cas de modification du règlement. 
 
-1° Quinze représentants de l'Etat : 
+La notice d'impact mentionnée au premier alinéa comprend : 
 
-a) Le directeur des sports ou son représentant ; 
+1° Le (s) niveau (x) de compétition au (x) quel (s) s'applique le projet de règlement ; 
 
-b) Un autre représentant du ministre chargé des sports ; 
+2° Le nombre d'équipements susceptibles d'être soumis à ce projet de règlement ; 
 
-c) Un directeur régional ou départemental de la jeunesse, des sports et de la vie associative ; 
+3° Les conséquences financières de l'application du projet de règlement, tant en fonctionnement qu'en investissement, ainsi
+que les délais prévus pour la mise en conformité éventuelle des installations existantes ; 
 
-d) Le directeur d'un établissement public relevant du ministre chargé des sports ; 
+4° Le bien-fondé de ce projet de règlement au regard de l'évolution des règles techniques de la ou des disciplines
+intéressées, du niveau des compétitions et des objectifs de la politique sportive, locale, nationale ou internationale de la
+fédération concernée ; 
 
-e) Un représentant du ministre chargé de l'agriculture ; 
+5° La description des concertations préalablement engagées par la fédération avec les autres fédérations utilisatrices des
+mêmes types d'équipements, les associations nationales d'élus locaux, de propriétaires et de gestionnaires des types
+d'équipements sportifs visés, tout particulièrement en ce qui concerne l'évaluation des conséquences financières du projet et
+les délais de son application. 
 
-f) Un représentant du ministre chargé de l'éducation ; 
-
-g) Un représentant du ministre chargé de l'emploi ; 
-
-h) Un représentant du ministre chargé de l'enseignement supérieur ; 
-
-i) Un représentant du ministre chargé de l'environnement ; 
-
-j) Un représentant du ministre chargé de l'équipement ; 
-
-k) Un représentant du ministre chargé de la formation professionnelle ; 
-
-l) Un représentant du ministre de l'intérieur ; 
-
-m) Un représentant du ministre chargé de la recherche ; 
-
-n) Un représentant du ministre chargé de la santé ; 
-
-o) Un représentant du ministre chargé du tourisme ; 
-
-2° Dix élus désignés sur proposition du ministre de l'intérieur : 
-
-a) Deux maires ; 
-
-b) Un président de communauté de communes ; 
-
-c) Un président de communauté d'agglomérations ; 
-
-d) Un président de communauté urbaine ; 
-
-e) Un membre d'un conseil général ; 
-
-f) Un membre d'un conseil régional ; 
-
-g) Trois représentants d'associations nationales d'élus locaux ; 
-
-3° Trente représentants des associations intéressées par les activités physiques et sportives : 
-
-a) Le président du Comité national olympique et sportif français (CNOSF) ou son représentant ; 
-
-b) Vingt-trois représentants du mouvement sportif désignés sur proposition du Comité national olympique et sportif français
-dont au moins :
-
-- un représentant d'une fédération affinitaire ;
-
-- un représentant du sport scolaire et universitaire ;
-
-- un représentant du sport en entreprise ;
-
-- un représentant d'une fédération sportive regroupant des personnes handicapées ;
-
-- un représentant d'une fédération multisports ;
-
-- deux représentants de fédérations sportives des sports de nature ; 
-
-c) Deux représentants du Conseil national des associations de jeunesse et d'éducation populaire (CNAJEP) désignés sur
-proposition de celui-ci ; 
-
-d) Un représentant des fédérations agréées au titre de l'article L. 131-8 et n'adhérant pas au Comité national olympique et
-sportif français ; 
-
-e) Un représentant du mouvement associatif dans le secteur social, désigné sur proposition du ministre chargé de l'économie
-sociale ; 
-
-f) Un représentant de la coordination nationale du tourisme social et associatif, désigné sur proposition du ministre chargé
-du tourisme ; 
-
-g) Un représentant des associations de protection de la nature, désigné sur proposition du ministre chargé de
-l'environnement ; 
-
-4° Douze représentants des organisations syndicales et patronales suivantes désignés sur proposition de celles-ci : 
-
-a) Confédération française démocratique du travail (CFDT) ; 
-
-b) Confédération française des travailleurs chrétiens (CFTC) ; 
-
-c) Confédération française de l'encadrement-Confédération générale de cadres (CFE-CGC) ; 
-
-d) Confédération générale des petites et moyennes entreprises et du patronat réel (CGPME) ; 
-
-e) Confédération générale du travail (CGT) ; 
-
-f) Confédération générale du travail-Force ouvrière (CGT-FO) ; 
-
-g) Fédération nationale des associations et syndicats de sportifs (FNASS) ; 
-
-h) Fédération nationale des syndicats d'exploitants agricoles (FNSEA) ; 
-
-i) Fédération syndicale unitaire de l'enseignement, l'éducation, la recherche et la culture (FSU) ; 
-
-j) Mouvement des entreprises de France (MEDEF) ; 
-
-k) Union nationale des syndicats autonomes (UNSA) ; 
-
-l) Union nationale des associations de professions libérales (UNAPL) ; 
-
-5° Cinq représentants des entreprises intéressées par les activités physiques et sportives : 
-
-a) Un représentant des prestataires de services sportifs ; 
-
-b) Un représentant des industries du sport ; 
-
-c) Un représentant des commerces d'articles de sport ; 
-
-d) Un représentant des organisateurs de manifestations sportives mentionnés à l'article L. 323-11 ; 
-
-e) Un représentant des sociétés sportives mentionnées à l'article L. 122-1 ; 
-
-6° Sept représentants des éducateurs sportifs et des enseignants intervenant dans le domaine des activités physiques et
-sportives : 
-
-a) Quatre éducateurs sportifs exerçant des fonctions définies à l'article L. 122-1, dont un appartenant à la fonction
-publique territoriale ; 
-
-b) Un enseignant relevant du ministre chargé des sports ; 
-
-c) Un enseignant relevant du ministre chargé de l'éducation, désigné sur proposition de celui-ci ; 
-
-d) Un enseignant relevant du ministre chargé de l'agriculture, désigné sur proposition de celui-ci ; 
-
-7° Six représentants des groupements suivants : 
-
-a) Un représentant de la Fédération nationale des parcs naturels régionaux, désigné sur proposition de celle-ci ; 
-
-b) Un représentant des groupements professionnels concernés par les sports de nature ; 
-
-c) Un représentant des associations de protection de la nature agréées au titre de l'article L. 252-1 du code rural, désigné
-sur proposition du ministre chargé de l'environnement ; 
-
-d) Deux représentants d'associations de chasse et de pêche, désignés sur proposition des ministres chargés de ces secteurs ; 
-
-e) Un représentant des commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature
-mentionnées à l'article R. 311-1 ; 
-
-8° Dix-huit personnalités qualifiées choisies en raison de leurs compétences dans le domaine des activités physiques et
-sportives.
+Le contenu de la notice d'impact est fixé par arrêté du ministre chargé des sports.
 
 **Nota:**
 
@@ -13073,12 +12965,11 @@ sportives par le dernier alinéa de l'article L. 131-16.
 
 	**Anciens textes**:
 
-	  - Art. 1er du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
 	  - Décret n°2001-252 du 22 mars 2001 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-341 du 27 mars 2009 - art. 2
 
 	**Cité par**:
 
@@ -13096,50 +12987,34 @@ sportives par le dernier alinéa de l'article L. 131-16.
 	  - Code du sport. - art. R142-7 (Ab)
 	  - Code du sport. - art. R142-8 (Ab)
 
-	**Cite**:
-
-	  - Code du sport. - art. L122-1 (V)
-	  - Code du sport. - art. L131-8 (V)
-	  - Code du sport. - art. R311-1 (V)
-	  - Code rural - art. L252-1 (V)
-
 
 ###### Article R142-3
 
-Les membres du Conseil national des activités physiques et sportives, du Comité national de la recherche et de la technologie
-en activités physiques et sportives et du Comité national des espaces, sites et itinéraires relatifs aux sports de nature
-sont nommés par arrêté du ministre chargé des sports.
+L'avis de la commission est rendu dans un délai de deux mois à compter de la date de la transmission du projet de règlement
+accompagné de sa notice d'impact par le ministre chargé des sports. 
 
-Le ministre chargé des sports veille à l'égal accès des femmes et des hommes au conseil national et aux comités nationaux.
+La commission communique son avis au ministre chargé des sports qui le notifie au président de la fédération intéressée. 
 
-**Nota:**
+Cet avis est publié au Bulletin officiel du ministère chargé des sports, au bulletin dans lequel sont publiées les décisions
+réglementaires de la fédération concernée et figurant sur la liste mentionnée à l'article R. 131-36 ainsi que dans l'une des
+publications destinées aux collectivités territoriales et habilitées à recevoir les annonces légales.
 
-Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
-que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
-du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
-sportives par le dernier alinéa de l'article L. 131-16.
-
-Décret n° 2006-672 du 8 juin 2006 
-  **art. 17** : Les dispositions réglementaires instituant des commissions administratives définies à l'article 1er créées
-avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans à compter de cette date.
-
-**art. 18** : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
-décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
+L'entrée en vigueur du nouveau règlement relatif aux équipements sportifs ne peut intervenir avant l'expiration d'un délai de
+deux mois suivant l'avis rendu par la commission d'examen des règlements fédéraux relatifs aux équipements sportifs.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
 	  - Décret n°2001-252 du 22 mars 2001 - art. 4 (Ab)
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°2006-672 du 8 juin 2006 - art. 17, art. 18 v. init.
+	  - Décret n°2009-341 du 27 mars 2009 - art. 2
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Code du sport. - art. R131-36
 
 	**Cité par**:
 
@@ -13148,6 +13023,8 @@ décision prise par l'autorité administrative entraîne celle des dispositions 
 	  - Code du sport. - art. R142-5 (V)
 	  - Code du sport. - art. R142-7 (V)
 
+
+##### Sous-section 1 : Missions et composition.
 
 ###### Article R142-4
 
@@ -13182,414 +13059,6 @@ désignée par l'organisme dont ils relèvent.
 	  - Code du sport. - art. R142-3 (V)
 
 
-##### Sous-section 2 : Délégation permanente.
-
-###### Article R142-5
-
-La délégation permanente du Conseil national des activités physiques et sportives exerce, entre les séances plénières,
-l'ensemble des attributions du conseil. 
-
-Elle comprend, sous la présidence du président du conseil national : 
-
-1° Trois représentants de l'Etat : 
-
-a) Le directeur des sports ou son représentant ; 
-
-b) Le directeur régional ou départemental de la jeunesse, des sports et de la vie associative ; 
-
-c) Le représentant du ministre chargé de l'éducation ; 
-
-2° Les présidents des comités nationaux mentionnés aux articles R. 142-6 et R. 142-9 ; 
-
-3° Dix-sept représentants des catégories mentionnées du 2° au 8° de l'article R. 142-2 désignés par le Conseil national des
-activités physiques et sportives selon la répartition suivante : 
-
-a) Deux représentants des élus désignés sur proposition du ministre de l'intérieur ; 
-
-b) Six représentants des associations intéressées par les activités physiques et sportives ; 
-
-c) Deux représentants des organisations syndicales et patronales ; 
-
-d) Un représentant des entreprises intéressées par les activités physiques et sportives ; 
-
-e) Un représentant des éducateurs et enseignants ; 
-
-f) Un représentant des groupements mentionnés au 7° de l'article R. 142-2 ; 
-
-g) Quatre représentants des personnalités qualifiées mentionnées au 8° du même article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 6 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-2
-	  - Code du sport. - art. R142-6
-	  - Code du sport. - art. R142-9
-
-
-##### Sous-section 3 : Comités et commission spécialisés.
-
-##### Paragraphe 1 : Le Comité national de la recherche et de la technologie en activités physiques et sportives.
-
-###### Article R142-6
-
-Le Comité national de la recherche et de la technologie en activités physiques et sportives, institué au sein du Conseil
-national des activités physiques et sportives, est compétent pour promouvoir une politique de recherche dans le domaine des
-activités physiques et sportives et en évaluer les modalités de mise en oeuvre. Ce comité est placé sous la tutelle des
-ministres chargés de la recherche et des sports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 6 de l'article 33 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
-	  - Loi n°84-610 du 16 juillet 1984 - art. 33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code du sport. - art. R142-13 (V)
-	  - Code du sport. - art. R142-5 (Ab)
-
-
-###### Article R142-7
-
-Le comité est présidé par une des personnalités qualifiées mentionnées au 8° de l'article R. 142-2, désignée conjointement
-par les ministres chargés de la recherche et des sports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 1 de l'article 2 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-2
-
-	**Cité par**:
-
-	  - Code du sport. - art. R142-8 (V)
-
-
-###### Article R142-8
-
-Outre son président, le Comité national de la recherche et de la technologie en activités physiques et sportives comprend
-seize membres ainsi répartis : 
-
-1° Treize membres du conseil national mentionnés à l'article R. 142-2 : 
-
-a) Le directeur des sports ou son représentant ; 
-
-b) Le directeur d'un établissement public relevant du ministre chargé des sports ; 
-
-c) Le représentant du ministre chargé de l'enseignement supérieur ; 
-
-d) Le représentant du ministre chargé de l'équipement ; 
-
-e) Le représentant du ministre chargé de la recherche ; 
-
-f) Le représentant du ministre chargé de la santé ; 
-
-g) Deux représentants des associations intéressées par les activités physiques et sportives élus, en leur sein, par les
-représentants desdites associations ; 
-
-h) Un représentant des organisations syndicales élu, en leur sein, par les représentants des organisations syndicales ; 
-
-i) Le représentant des industries du sport ; 
-
-j) Trois personnalités qualifiées compétentes dans le domaine de la recherche choisies parmi les personnalités qualifiées
-mentionnées au 8° de l'article R. 142-2 ; 
-
-2° Trois personnes compétentes dans le domaine de la recherche choisies hors du conseil national et nommées sur proposition
-du ministre chargé de la recherche.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 2 à 15 de l'article 2 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code du sport. - art. A142-0 (V)
-	  - Code du sport. - art. R142-9 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-2
-
-
-##### Paragraphe 2 : Le Comité national des espaces, sites et itinéraires relatifs aux sports de nature.
-
-###### Article R142-9
-
-Le Comité national des espaces, sites et itinéraires relatifs aux sports de nature :
-
-1° Donne son avis sur les projets de loi et de décret relatifs aux activités physiques et sportives de nature. Il soumet au
-ministre chargé des sports des propositions destinées à améliorer l'accès aux espaces, sites et itinéraires relatifs aux
-sports de nature et leur sécurité ;
-
-2° Soumet au ministre chargé des sports des propositions concernant l'organisation des sports de nature et la gestion des
-espaces, sites et itinéraires relatifs aux sports de nature.
-
-Tous les deux ans, le comité remet au ministre chargé des sports un rapport sur le bilan et les perspectives de développement
-des sports de nature.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 9 à 12 de l'article 33 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
-	  - Loi n°84-610 du 16 juillet 1984 - art. 33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code du sport. - art. R142-5 (Ab)
-	  - Code du sport. - art. R142-8 (V)
-
-
-###### Article R142-10
-
-La représentation du Comité national des espaces, sites et itinéraires relatifs aux sports de nature, de même que celle de la
-fédération concernée, selon le cas, est assurée au sein des organismes nationaux ayant dans leur objet l'aménagement, la
-gestion ou la protection du patrimoine ou des biens naturels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 13 de l'article 33 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
-	  - Loi n°84-610 du 16 juillet 1984 - art. 33 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-
-###### Article R142-11
-
-Le Comité national des espaces, sites et itinéraires relatifs aux sports de nature est présidé par une des personnalités
-qualifiées mentionnées au 8° de l'article R. 142-2 désignée par le ministre chargé des sports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 1 de l'article 3 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code du sport. - art. Annexe I-1 (art. A142-0) (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-2
-
-
-###### Article R142-12
-
-Outre son président, le Comité national des espaces, sites et itinéraires relatifs aux sports de nature comprend trente-sept
-membres ainsi répartis : 
-
-1° Vingt-cinq membres du conseil national mentionnés à l'article R. 142-2 : 
-
-a) Le directeur des sports ou son représentant ; 
-
-b) Le directeur régional ou départemental de la jeunesse, des sports et de la vie associative ; 
-
-c) Le représentant du ministre chargé de l'agriculture ; 
-
-d) Le représentant du ministre chargé de l'environnement ; 
-
-e) Le représentant du ministre de l'intérieur ; 
-
-f) Le représentant du ministre chargé du tourisme ; 
-
-g) Quatre représentants des membres désignés sur proposition du ministre de l'intérieur, élus en leur sein ; 
-
-h) Le président du Comité national olympique et sportif français ou son représentant ; 
-
-i) Les deux représentants de fédérations sportives des sports de nature ; 
-
-j) Le représentant des fédérations agréées au titre de l'article L. 131-8 et n'adhérant pas au Comité national olympique et
-sportif français ; 
-
-k) Un représentant du Conseil national des associations de jeunesse et d'éducation populaire (CNAJEP) ; 
-
-l) Le représentant de la coordination nationale du tourisme social et associatif ; 
-
-m) Le représentant de la Fédération nationale des syndicats d'exploitants agricoles (FNSEA) ; 
-
-n) Les six représentants des groupements mentionnés au 7° de l'article R. 142-2 ; 
-
-o) Deux personnalités qualifiées compétentes dans les domaines des sports de nature et de la protection de la nature et de la
-gestion des espaces naturels choisies parmi les personnalités qualifiées ; 
-
-2° Douze personnes choisies hors du conseil national : 
-
-a) Cinq représentants des fédérations sportives des sports de nature, désignés sur proposition du Comité national olympique
-et sportif français ; 
-
-b) Un représentant des propriétaires agricoles ou forestiers, désigné sur proposition du ministre chargé de l'agriculture ; 
-
-c) Un représentant des établissements publics chargés de la gestion d'espaces ou de milieux naturels, désigné sur proposition
-du ministre chargé de l'environnement ; 
-
-d) Un représentant des commissions départementales des espaces, sites et itinéraires relatifs aux sports de nature
-mentionnées à l'article R. 311-1 ; 
-
-e) Quatre personnalités qualifiées compétentes dans les domaines des sports de nature et de la protection de la nature et de
-la gestion des espaces naturels.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 2 à 25 de l'article 3 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. L131-8
-	  - Code du sport. - art. R142-2
-	  - Code du sport. - art. R311-1
-
-	**Cité par**:
-
-	  - Code du sport. - art. R142-4 (V)
-
-
-##### Paragraphe 3 : La Commission d'examen des règlements fédéraux.
-
-###### Article R142-13
-
-La commission d'examen des règlements fédéraux relatifs aux équipements sportifs, créée au sein du Conseil national des
-activités physiques et sportives, comprend, outre son président, désigné par le ministre chargé des sports parmi les
-personnalités qualifiées mentionnées au 8° de l'article R. 142-2, dix-huit des membres du conseil national ainsi répartis : 
-
-1° Quatre représentants de l'Etat : 
-
-a) Le directeur des sports ou son représentant ; 
-
-b) Le directeur régional ou départemental de la jeunesse, des sports et de la vie associative ; 
-
-c) Le représentant du ministre chargé de l'équipement ; 
-
-d) Le représentant du ministre chargé de l'éducation ; 
-
-2° Cinq élus désignés sur proposition du ministre de l'intérieur ; 
-
-3° Cinq représentants des associations intéressées par les activités physiques et sportives ; 
-
-4° Deux représentants des entreprises intéressées par les activités physiques et sportives ; 
-
-5° Deux personnalités qualifiées mentionnées au 8° de l'article R. 142-2. 
-
-Les membres de la commission mentionnés du 2° au 5° sont désignés par les membres du conseil national appartenant à la même
-catégorie. 
-
-La commission s'adjoint pour ses travaux, avec voix consultative, le concours de quatre représentants des associations
-intéressées par le fonctionnement et la gestion des installations sportives, nommés par le ministre chargé des sports. 
-
-La commission émet un avis sur les notices d'impact relatives aux règlements en matière d'équipements sportifs élaborés, dans
-les conditions prévues à l'article R. 142-20, par les fédérations sportives délégataires mentionnées à l'article L. 131-14.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 6-1 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 6-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. L131-14
-	  - Code du sport. - art. R142-2
-	  - Code du sport. - art. R142-20
-
-	**Cité par**:
-
-	  - Code du sport. - art. R142-22 (Ab)
-	  - Code du sport. - art. R142-25 (Ab)
-	  - Code du sport. - art. R142-4 (V)
-
-
 ##### Sous-section 4 : Fonctionnement.
 
 ###### Article R142-14
@@ -13619,116 +13088,6 @@ activités physiques et sportives.
 	  - Code du sport. - art. R221-22 (V)
 
 
-###### Article R142-15
-
-Le conseil national, sa délégation permanente et ses comités et commissions sont convoqués par leur président soit à son
-initiative, soit à la demande du quart de leurs membres, soit à la demande du ministre chargé des sports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 1 de l'article 8 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cité par**:
-
-	  - Décret n°2013-289 du 4 avril 2013 - art. 6 (V)
-
-
-###### Article R142-16
-
-Le conseil national, sa délégation permanente et ses comités et commissions siègent valablement lorsque la moitié au moins de
-leurs membres sont présents. Lorsque le quorum requis n'est pas atteint, ceux-ci sont à nouveau convoqués sous quinzaine. Ils
-délibèrent alors valablement quel que soit le nombre des membres présents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 2 de l'article 8 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-
-###### Article R142-17
-
-Le président fixe l'ordre du jour des séances du conseil national. Il peut demander l'inscription d'une question à l'ordre du
-jour d'un comité ou d'une commission. 
-
-Lorsque le conseil national est saisi par le ministre chargé des sports en application du premier alinéa de l'article R.
-142-1, le président est tenu d'inscrire à l'ordre du jour la question faisant l'objet de la consultation.A défaut d'avis dans
-un délai de deux mois à compter de la saisine, cette consultation est réputée avoir été faite. 
-
-Tout membre du conseil national peut demander par écrit qu'une question soit inscrite à l'ordre du jour. La décision
-d'inscription à l'ordre du jour est prise soit par le président, soit par le conseil national. 
-
-Le président du conseil national peut inviter toute personne dont l'audition lui paraît utile à assister aux séances du
-conseil avec voix consultative. 
-
-Les règles mentionnées au présent article s'appliquent à la délégation permanente du conseil national ainsi qu'à ses comités
-et commissions.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 9 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-1
-
-
-###### Article R142-18
-
-Les avis et propositions du conseil national, de sa délégation permanente et de ses comités et commissions sont pris à la
-majorité simple des membres présents. En cas de partage égal des voix, le président a voix prépondérante.
-
-Le vote au scrutin secret est de droit sur décision du président ou sur demande d'un des membres présents.
-
-Les séances du conseil national, de sa délégation permanente et de ses comités et commissions ne sont pas publiques.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 10 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-
 ###### Article R142-19
 
 Le ministre chargé des sports met un secrétariat permanent à la disposition du conseil national.
@@ -13746,201 +13105,6 @@ sa délégation permanente, de ses comités et commissions. Il dresse un procès
 	**Codifié par**:
 
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-##### Sous-section 5 : Procédure d'élaboration des règlements relatifs aux équipements sportifs.
-
-###### Article R142-20
-
-La fédération délégataire qui souhaite édicter ou modifier, en application de l'article L. 131-16, des règlements relatifs
-aux équipements sportifs requis pour participer aux compétitions de sa discipline les transmet, avant publication, avec une
-notice d'impact, au ministre chargé des sports en vue de leur examen par le Conseil national des activités physiques et
-sportives, conformément aux dispositions de l'article R. 142-13.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 1 de l'article 12 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Art. 3 du décret n°2006-217 du 22 février 2006 relatif aux règles édictées en matière d'équipements sportifs par les fédérations sportives mentionnées à l'article 17 de la loi n°84-610 du 16 juillet 1984
-	  - Décret n°2001-252 du 22 mars 2001 - art. 12 (Ab)
-	  - Décret n°2006-217 du 22 février 2006 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. L131-16
-	  - Code du sport. - art. R142-13
-
-	**Cité par**:
-
-	  - Code du sport. - art. R131-35 (V)
-	  - Code du sport. - art. R142-21 (Ab)
-	  - Code du sport. - art. R142-25 (Ab)
-
-
-###### Article R142-21
-
-La notice d'impact mentionnée à l'article R. 142-20 comprend : 
-
-1° Le niveau de compétition pour lequel est présenté le projet de règlement ; 
-
-2° Le nombre d'équipements susceptibles d'être soumis à ce règlement ; 
-
-3° Les conséquences financières de sa mise en oeuvre, tant en fonctionnement qu'en investissement ainsi que les délais prévus
-pour la mise en conformité des installations existantes ; 
-
-4° Le bien-fondé de cette réglementation au regard de l'évolution des règles techniques de la ou des disciplines intéressées,
-du niveau de compétition et des objectifs de la politique sportive, locale, nationale ou internationale attachés à cette
-réglementation ; 
-
-5° La description des concertations préalablement engagées par la fédération avec les associations nationales d'élus locaux
-et les propriétaires et gestionnaires des équipements concernés, tout particulièrement en ce qui concerne l'évaluation des
-conséquences financières de cette réglementation fédérale et les délais de sa mise en oeuvre. 
-
-Le ministre chargé des sports vérifie que la notice d'impact contient les éléments mentionnés aux 1° à 5° avant de l'adresser
-pour avis au Conseil national des activités physiques et sportives qui en accuse réception à la fédération intéressée. 
-
-Le modèle de présentation de la notice d'impact est fixé par arrêté du ministre chargé des sports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 2 à 7 de l'article 12 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Al. 2, en ce qui concerne le niveau de compétition, de l'article 2 de l'arrêté du 24 octobre 2001 relatif aux normes des équipements sportifs
-	  - Décret n°2001-252 du 22 mars 2001 - art. 12 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-20
-
-	**Cité par**:
-
-	  - Code du sport. - art. R142-22 (Ab)
-
-
-###### Article R142-22
-
-Le président du conseil national transmet la notice d'impact à la commission d'examen mentionnée à l'article R. 142-13 qui se
-prononce dans un délai de deux mois à compter de l'accusé de réception mentionné au septième alinéa de l'article R. 142-21. 
-
-Le président du Conseil national des activités physiques et sportives transmet l'avis rendu au ministre chargé des sports qui
-le notifie au président de la fédération intéressée. 
-
-Cet avis est également publié au bulletin officiel du ministère en charge des sports, au bulletin de la fédération ainsi qu'à
-l'une des publications destinées aux collectivités territoriales et habilitées à recevoir les annonces légales. 
-
-Lorsque la commission d'examen émet un avis défavorable ou lorsqu'elle n'a pas statué dans le délai prescrit, le président du
-Conseil national des activités physiques et sportives soumet la demande d'avis à la délégation permanente du conseil national
-qui se prononce dans un délai de deux mois à compter de sa saisine, à l'issue de travaux auxquels le président de la
-commission d'examen des règlements relatifs aux équipements sportifs participe avec voix délibérative.
-
-L'avis de la délégation permanente est transmis, notifié et publié selon les conditions et modalités mentionnées aux deuxième
-et troisième alinéas.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 12-1 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 12-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-13
-	  - Code du sport. - art. R142-21
-
-
-###### Article R142-23
-
-L'entrée en vigueur des nouveaux règlements relatifs aux équipements sportifs ne peut intervenir qu'à l'expiration d'un délai
-de deux mois suivant l'avis rendu par le conseil national.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 13 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-
-###### Article R142-24
-
-Les règlements relatifs aux équipements sportifs ne peuvent imposer le choix d'une marque pour un matériel ou un matériau
-déterminé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 13-1 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 13-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-
-###### Article R142-25
-
-Un arrêté du ministre chargé des sports précise en tant que de besoin le contenu de la notice d'impact mentionnée aux
-articles R. 142-13 et R. 142-20.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 13-2 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 13-2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-13
-	  - Code du sport. - art. R142-20
 
 
 ##### Section 2 : Le Conseil supérieur des sports de montagne
