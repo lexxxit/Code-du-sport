@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-03-29
+Version Consolidée au 2009-03-30
 
 # Partie législative
 
@@ -11668,21 +11668,23 @@ A ce titre, elles ne peuvent imposer, en matière d'équipements sportifs, des r
 commercial, telles que la définition du nombre de places et des espaces affectés à l'accueil du public ou la détermination de
 dispositifs et d'installations ayant pour seul objet de permettre la retransmission audiovisuelle des compétitions.
 
+Les règlements relatifs aux équipements sportifs ne peuvent imposer le choix d'une marque pour un matériel ou un matériau
+déterminé.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 1er du décret n°2006-217 du 22 février 2006 relatif aux règles édictées en matière d'équipements sportifs par les fédérations sportives mentionnées à l'article 17 de la loi n°84-610 du 16 juillet 1984
 	  - Décret n°2006-217 du 22 février 2006 - art. 1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-341 du 27 mars 2009 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. R131-32 (V)
-	  - Code du sport. - art. R132-10 (V)
+	  - Code du sport. - art. R131-32
+	  - Code du sport. - art. R132-10
 
 	**Cité par**:
 
@@ -12869,6 +12871,113 @@ en application de la présente section.
 
 ##### Section 1 : Le Conseil national des activités physiques et sportives.
 
+##### Sous-section 1 : Missions et composition.
+
+###### Article R142-4
+
+Les personnes mentionnées à l'article R. 142-3 sont nommées pour une durée de trois ans renouvelable. 
+
+Les membres démissionnaires, décédés ou qui perdent la qualité au titre de laquelle ils ont été désignés sont remplacés par
+un nouveau membre désigné dans les mêmes conditions pour la durée du mandat restant à courir. 
+
+Tout membre du conseil peut, en cas d'absence ou d'empêchement, donner pouvoir pour le représenter à un autre membre du
+conseil. Aucun membre ne peut détenir plus d'un pouvoir. Les représentants des associations nationales d'élus locaux
+mentionnés au 2° de l'article R. 142-2, les membres mentionnés aux 3°, 4°, 5° et 7° du même article, au 2° de l'article R.
+142-12 ainsi que les représentants des associations intéressées par le fonctionnement et la gestion des installations
+sportives mentionnés à l'article R. 142-13 peuvent, pour les mêmes motifs, se faire représenter par une personne expressément
+désignée par l'organisme dont ils relèvent.
+
+**Nota:**
+
+Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
+que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
+du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
+sportives par le dernier alinéa de l'article L. 131-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-252 du 22 mars 2001 - art. 5 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2009-341 du 27 mars 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. R142-12
+	  - Code du sport. - art. R142-13
+	  - Code du sport. - art. R142-2
+	  - Code du sport. - art. R142-3
+
+
+##### Sous-section 4 : Fonctionnement.
+
+###### Article R142-14
+
+Le Conseil national des activités physiques et sportives adopte son règlement intérieur qui précise les conditions de
+fonctionnement du conseil, de sa délégation permanente, de ses comités et des commissions qu'il constitue éventuellement en
+son sein, notamment pour la mise en place et le suivi de l'Observatoire des activités physiques, des pratiques sportives et
+des métiers du sport, et pour les modalités d'examen des règlements relatifs aux équipements sportifs.
+
+La composition de ces commissions est fixée par arrêté du ministre chargé des sports sur proposition du Conseil national des
+activités physiques et sportives.
+
+**Nota:**
+
+Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
+que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
+du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
+sportives par le dernier alinéa de l'article L. 131-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-252 du 22 mars 2001 - art. 7 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2009-341 du 27 mars 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code du sport. - art. D221-24 (V)
+	  - Code du sport. - art. R221-22 (V)
+
+
+###### Article R142-19
+
+Le ministre chargé des sports met un secrétariat permanent à la disposition du conseil national.
+
+Le secrétariat convoque, à la demande du président, les réunions du Conseil national des activités physiques et sportives, de
+sa délégation permanente, de ses comités et commissions. Il dresse un procès-verbal de chacune des séances.
+
+**Nota:**
+
+Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
+que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
+du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
+sportives par le dernier alinéa de l'article L. 131-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-252 du 22 mars 2001 - art. 11 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2009-341 du 27 mars 2009 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 1
+
+
+##### Section 1 : La commission d'examen des règlements fédéraux relatifs aux équipements sportifs
+
 ###### Article R142-1
 
 La commission d'examen des règlements fédéraux relatifs aux équipements sportifs, placée auprès du ministre chargé des
@@ -13026,86 +13135,7 @@ deux mois suivant l'avis rendu par la commission d'examen des règlements fédé
 
 ##### Sous-section 1 : Missions et composition.
 
-###### Article R142-4
-
-Les personnes mentionnées à l'article R. 142-3 sont nommées pour une durée de trois ans renouvelable. 
-
-Les membres démissionnaires, décédés ou qui perdent la qualité au titre de laquelle ils ont été désignés sont remplacés par
-un nouveau membre désigné dans les mêmes conditions pour la durée du mandat restant à courir. 
-
-Tout membre du conseil peut, en cas d'absence ou d'empêchement, donner pouvoir pour le représenter à un autre membre du
-conseil. Aucun membre ne peut détenir plus d'un pouvoir. Les représentants des associations nationales d'élus locaux
-mentionnés au 2° de l'article R. 142-2, les membres mentionnés aux 3°, 4°, 5° et 7° du même article, au 2° de l'article R.
-142-12 ainsi que les représentants des associations intéressées par le fonctionnement et la gestion des installations
-sportives mentionnés à l'article R. 142-13 peuvent, pour les mêmes motifs, se faire représenter par une personne expressément
-désignée par l'organisme dont ils relèvent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 5 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-12 (V)
-	  - Code du sport. - art. R142-13 (V)
-	  - Code du sport. - art. R142-2 (V)
-	  - Code du sport. - art. R142-3 (V)
-
-
 ##### Sous-section 4 : Fonctionnement.
-
-###### Article R142-14
-
-Le Conseil national des activités physiques et sportives adopte son règlement intérieur qui précise les conditions de
-fonctionnement du conseil, de sa délégation permanente, de ses comités et des commissions qu'il constitue éventuellement en
-son sein, notamment pour la mise en place et le suivi de l'Observatoire des activités physiques, des pratiques sportives et
-des métiers du sport, et pour les modalités d'examen des règlements relatifs aux équipements sportifs.
-
-La composition de ces commissions est fixée par arrêté du ministre chargé des sports sur proposition du Conseil national des
-activités physiques et sportives.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 7 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Cité par**:
-
-	  - Code du sport. - art. D221-24 (V)
-	  - Code du sport. - art. R221-22 (V)
-
-
-###### Article R142-19
-
-Le ministre chargé des sports met un secrétariat permanent à la disposition du conseil national.
-
-Le secrétariat convoque, à la demande du président, les réunions du Conseil national des activités physiques et sportives, de
-sa délégation permanente, de ses comités et commissions. Il dresse un procès-verbal de chacune des séances.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 11 du décret n°2001-252 du 22 mars 2001 relatif à la composition et au fonctionnement du Conseil national des activités physiques et sportives
-	  - Décret n°2001-252 du 22 mars 2001 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
 
 ##### Section 2 : Le Conseil supérieur des sports de montagne
 
