@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-03-30
+Version Consolidée au 2009-04-01
 
 # Partie législative
 
@@ -777,7 +777,8 @@ par les fédérations sportives.
 ###### Article L122-5
 
 Le capital de la société anonyme à objet sportif est composé d'actions nominatives. Toutefois, il peut être composé d'actions
-au porteur lorsque la société fait appel public à l'épargne.
+au porteur lorsque la société      souhaite procéder à une offre au public de ses actions ou les faire admettre aux
+négociations sur un marché réglementé. 
 
 Les membres élus des organes de direction de cette société ne peuvent recevoir aucune rémunération au titre de leurs
 fonctions. Le remboursement des frais est autorisé, sur justification.
@@ -786,44 +787,32 @@ fonctions. Le remboursement des frais est autorisé, sur justification.
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 13, alinéas 1 et 2
-	  - Loi n°84-610 du 16 juillet 1984 - art. 13 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
+	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 14
 
 
 ###### Article L122-6
 
 L'association sportive doit détenir au moins un tiers du capital social et des droits de vote à l'assemblée générale de la
-société anonyme à objet sportif qu'elle a créée.
+société anonyme à objet sportif qu'elle a créée. 
 
-Sauf en cas de succession, de liquidation de communauté de biens entre époux ou lorsque la société intéressée fait appel
-public à l'épargne, l'autorité administrative peut s'opposer à toute cession de titres conférant un droit de vote ou donnant
-accès au capital d'une société anonyme à objet sportif dont les conditions ou les effets seraient contraires aux dispositions
-de la présente section.
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou          lorsque les titres de capital de la
+société intéressée sont négociés sur un marché d'instruments financiers, l'autorité administrative peut s'opposer à toute
+cession de titres conférant un droit de vote ou donnant accès au capital d'une société anonyme à objet sportif dont les
+conditions ou les effets seraient contraires aux dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 13, alinéas 4 et 5
-	  - Loi n°84-610 du 16 juillet 1984 - art. 13 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
+	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 14
 
 
 ###### Article L122-7
@@ -910,28 +899,23 @@ Le bénéfice, au sens de l'article L. 232-11 du code de commerce, de l'entrepri
 limitée et de la société anonyme à objet sportif est affecté à la constitution de réserves qui ne peuvent donner lieu à
 aucune distribution. 
 
-Par exception aux dispositions du premier alinéa, les sociétés anonymes à objet sportif qui font appel public à l'épargne
-peuvent distribuer leurs bénéfices.
+Par exception aux dispositions du premier alinéa, les sociétés anonymes à objet sportif peuvent distribuer leurs bénéfices
+aux actionnaires si des actions de la société ont fait l'objet d'une offre au public ou d'une admission aux négociations sur
+un marché réglementé.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 13, alinéa 3
-	  - Loi n°84-610 du 16 juillet 1984 - art. 13 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
+	  - Ordonnance n°2009-80 du 22 janvier 2009 - art. 14
 
 	**Cite**:
 
-	  - Code de commerce. - art. L232-11 (V)
+	  - Code de commerce - art. L232-11
 
 
 ###### Article L122-11
@@ -12869,113 +12853,6 @@ en application de la présente section.
 
 #### Chapitre II : Autres organismes de concertation
 
-##### Section 1 : Le Conseil national des activités physiques et sportives.
-
-##### Sous-section 1 : Missions et composition.
-
-###### Article R142-4
-
-Les personnes mentionnées à l'article R. 142-3 sont nommées pour une durée de trois ans renouvelable. 
-
-Les membres démissionnaires, décédés ou qui perdent la qualité au titre de laquelle ils ont été désignés sont remplacés par
-un nouveau membre désigné dans les mêmes conditions pour la durée du mandat restant à courir. 
-
-Tout membre du conseil peut, en cas d'absence ou d'empêchement, donner pouvoir pour le représenter à un autre membre du
-conseil. Aucun membre ne peut détenir plus d'un pouvoir. Les représentants des associations nationales d'élus locaux
-mentionnés au 2° de l'article R. 142-2, les membres mentionnés aux 3°, 4°, 5° et 7° du même article, au 2° de l'article R.
-142-12 ainsi que les représentants des associations intéressées par le fonctionnement et la gestion des installations
-sportives mentionnés à l'article R. 142-13 peuvent, pour les mêmes motifs, se faire représenter par une personne expressément
-désignée par l'organisme dont ils relèvent.
-
-**Nota:**
-
-Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
-que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
-du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
-sportives par le dernier alinéa de l'article L. 131-16.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-252 du 22 mars 2001 - art. 5 (Ab)
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-12
-	  - Code du sport. - art. R142-13
-	  - Code du sport. - art. R142-2
-	  - Code du sport. - art. R142-3
-
-
-##### Sous-section 4 : Fonctionnement.
-
-###### Article R142-14
-
-Le Conseil national des activités physiques et sportives adopte son règlement intérieur qui précise les conditions de
-fonctionnement du conseil, de sa délégation permanente, de ses comités et des commissions qu'il constitue éventuellement en
-son sein, notamment pour la mise en place et le suivi de l'Observatoire des activités physiques, des pratiques sportives et
-des métiers du sport, et pour les modalités d'examen des règlements relatifs aux équipements sportifs.
-
-La composition de ces commissions est fixée par arrêté du ministre chargé des sports sur proposition du Conseil national des
-activités physiques et sportives.
-
-**Nota:**
-
-Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
-que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
-du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
-sportives par le dernier alinéa de l'article L. 131-16.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-252 du 22 mars 2001 - art. 7 (Ab)
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Cité par**:
-
-	  - Code du sport. - art. D221-24 (V)
-	  - Code du sport. - art. R221-22 (V)
-
-
-###### Article R142-19
-
-Le ministre chargé des sports met un secrétariat permanent à la disposition du conseil national.
-
-Le secrétariat convoque, à la demande du président, les réunions du Conseil national des activités physiques et sportives, de
-sa délégation permanente, de ses comités et commissions. Il dresse un procès-verbal de chacune des séances.
-
-**Nota:**
-
-Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
-que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
-du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
-sportives par le dernier alinéa de l'article L. 131-16.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-252 du 22 mars 2001 - art. 11 (Ab)
-
-	**Liens**:
-
-	  - DEPLACE: Décret n°2009-341 du 27 mars 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2013-289 du 4 avril 2013 - art. 1
-
-
 ##### Section 1 : La commission d'examen des règlements fédéraux relatifs aux équipements sportifs
 
 ###### Article R142-1
@@ -13135,7 +13012,108 @@ deux mois suivant l'avis rendu par la commission d'examen des règlements fédé
 
 ##### Sous-section 1 : Missions et composition.
 
+###### Article R142-4
+
+Les personnes mentionnées à l'article R. 142-3 sont nommées pour une durée de trois ans renouvelable. 
+
+Les membres démissionnaires, décédés ou qui perdent la qualité au titre de laquelle ils ont été désignés sont remplacés par
+un nouveau membre désigné dans les mêmes conditions pour la durée du mandat restant à courir. 
+
+Tout membre du conseil peut, en cas d'absence ou d'empêchement, donner pouvoir pour le représenter à un autre membre du
+conseil. Aucun membre ne peut détenir plus d'un pouvoir. Les représentants des associations nationales d'élus locaux
+mentionnés au 2° de l'article R. 142-2, les membres mentionnés aux 3°, 4°, 5° et 7° du même article, au 2° de l'article R.
+142-12 ainsi que les représentants des associations intéressées par le fonctionnement et la gestion des installations
+sportives mentionnés à l'article R. 142-13 peuvent, pour les mêmes motifs, se faire représenter par une personne expressément
+désignée par l'organisme dont ils relèvent.
+
+**Nota:**
+
+Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
+que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
+du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
+sportives par le dernier alinéa de l'article L. 131-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-252 du 22 mars 2001 - art. 5 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2009-341 du 27 mars 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. R142-12
+	  - Code du sport. - art. R142-13
+	  - Code du sport. - art. R142-2
+	  - Code du sport. - art. R142-3
+
+
 ##### Sous-section 4 : Fonctionnement.
+
+###### Article R142-14
+
+Le Conseil national des activités physiques et sportives adopte son règlement intérieur qui précise les conditions de
+fonctionnement du conseil, de sa délégation permanente, de ses comités et des commissions qu'il constitue éventuellement en
+son sein, notamment pour la mise en place et le suivi de l'Observatoire des activités physiques, des pratiques sportives et
+des métiers du sport, et pour les modalités d'examen des règlements relatifs aux équipements sportifs.
+
+La composition de ces commissions est fixée par arrêté du ministre chargé des sports sur proposition du Conseil national des
+activités physiques et sportives.
+
+**Nota:**
+
+Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
+que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
+du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
+sportives par le dernier alinéa de l'article L. 131-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-252 du 22 mars 2001 - art. 7 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2009-341 du 27 mars 2009 - art. 2
+
+	**Cité par**:
+
+	  - Code du sport. - art. D221-24 (V)
+	  - Code du sport. - art. R221-22 (V)
+
+
+###### Article R142-19
+
+Le ministre chargé des sports met un secrétariat permanent à la disposition du conseil national.
+
+Le secrétariat convoque, à la demande du président, les réunions du Conseil national des activités physiques et sportives, de
+sa délégation permanente, de ses comités et commissions. Il dresse un procès-verbal de chacune des séances.
+
+**Nota:**
+
+Décret n° 2009-341 du 27 mars 2009 JORF du 29 mars 2009 art. 5 : Les articles R. 142-2, R. 142-3, R. 142-4 et R. 142-14 ainsi
+que le premier alinéa de l'article R. 142-19 du même code sont maintenus dans leur rédaction antérieure à l'entrée en vigueur
+du présent décret pour la mise en œuvre de la compétence consultative confiée au Conseil national des activités physiques et
+sportives par le dernier alinéa de l'article L. 131-16.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2001-252 du 22 mars 2001 - art. 11 (Ab)
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2009-341 du 27 mars 2009 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 1
+
 
 ##### Section 2 : Le Conseil supérieur des sports de montagne
 
