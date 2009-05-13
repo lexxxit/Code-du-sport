@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-04-01
+Version Consolidée au 2009-05-14
 
 # Partie législative
 
@@ -5633,37 +5633,28 @@ le 1er février 2006.
 
 ###### Article L232-28
 
-Les personnes morales reconnues pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des
-infractions définies aux articles L. 232-25 et L. 232-26 du présent code encourent les peines suivantes :
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies à l'article L. 232-26 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal : 
 
-1° L'amende, suivant les modalités prévues à l'article 131-38 du code pénal ;
-
-2° Pour les infractions définies à l'article L. 232-26 du présent code :
-
-a) Les peines complémentaires prévues par les 2°, 8° et 9° de l'article 131-39 du code pénal ;
+a) Les peines complémentaires prévues par les 2°, 8° et 9° de l'article 131-39 du code pénal ; 
 
 b) La fermeture, pour une durée d'un an au plus, des établissements ou de l'un ou plusieurs des établissements de
 l'entreprise ayant servi à commettre l'infraction et appartenant à la personne morale condamnée.
 
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code du sport. - art. L232-25 (V)
-	  - Code du sport. - art. L232-26 (V)
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code du sport. - art. L232-25
+	  - Code du sport. - art. L232-26
 
 	**Anciens textes**:
 
@@ -6649,19 +6640,15 @@ décision.
 Le fait d'organiser une manifestation sportive publique dans une enceinte non homologuée ou en violation des prescriptions
 imposées par l'homologation est puni de deux ans d'emprisonnement et de 75 000 euros d'amende.
 
-La récidive est punie de cinq ans d'emprisonnement et de 150 000 euros d'amende.
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 42-6, alinéas 1 et 2
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42-6 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42-6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 123
 
 	**Cité par**:
 
@@ -8179,29 +8166,25 @@ ou de son appartenance, vraie ou supposée, à une ethnie, une nation, une race 
 
 ###### Article L332-20
 
-Les personnes morales reconnues pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des
-infractions définies par le présent chapitre encourent les peines suivantes : 
-
-1° L'amende dans les conditions prévues à l'article 131-38 du code pénal ; 
-
-2° Dans les cas prévus par les articles L. 312-14, L. 312-15, L. 312-16, 
-L. 332-8, L. 332-9, L. 332-10, L. 332-11 (deuxième alinéa) et L. 332-19 du présent code, les peines mentionnées à l'article
-131-39 du code pénal.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles L. 312-14, L. 312-15, L. 312-16, L. 332-8, L. 332-9 et L. 332-10, au deuxième alinéa de
+l'article L. 332-11 et à l'article L. 332-19 encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du
+code pénal, les peines prévues par l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-784 du 5 juillet 2006 - art. 6 () JORF 6 juillet 2006
+	  - Loi n°2009-526 du 12 mai 2009 - art. 125
 
 	**Cite**:
 
 	  - Code pénal - art. 121-2 (V)
 	  - Code pénal - art. 131-38 (V)
-	  - Code pénal - art. 131-39 (V)
+	  - Code pénal - art. 131-39
 	  - Code du sport. - art. L312-14 (V)
 	  - Code du sport. - art. L332-19 (V)
 	  - Code du sport. - art. L332-8 (V)
