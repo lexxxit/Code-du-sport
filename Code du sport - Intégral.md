@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-18
 
 # Partie législative
 
@@ -28648,8 +28648,8 @@ d'objectifs.
 
 ###### Article R411-2
 
-Le Centre national du sport a pour missions, dans le cadre des orientations générales fixées par le ministre chargé des
-sports, de : 
+Le Centre national pour le développement du sport a pour missions, dans le cadre des orientations générales fixées par le
+ministre chargé des sports, de : 
 
 1° Contribuer au développement de la pratique du sport par le plus grand nombre ; 
 
@@ -28663,31 +28663,26 @@ sports, de :
 
 Il exerce ces missions par l'attribution de concours financiers, sous forme de subventions d'équipement ou de fonctionnement,
 au Comité national olympique et sportif français, aux associations sportives, aux collectivités territoriales ou à leurs
-groupements, ainsi qu'aux associations et groupements d'intérêt public qui interviennent dans le domaine des activités
-physiques et sportives.
-
-L'établissement a également pour mission de financer les actions agréées par le ministre chargé des sports, mentionnées au
-second alinéa du 1 du III de l'article 53 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006, pour lesquelles
-l'établissement peut passer des conventions avec toute personne morale de droit public ou privé. 
+groupements, aux organismes assurant le fonctionnement des antennes médicales de prévention du dopage mentionnées à l'article
+L. 232-1, ainsi qu'aux associations et groupements d'intérêt public qui interviennent dans le domaine des activités physiques
+et sportives.
 
 Le siège de l'établissement est fixé par arrêté du ministre chargé des sports.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 53
+
 	**Anciens textes**:
 
-	  - Al. 2 de l'article 1er du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
-	  - Art. 2 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 1 (Ab)
 	  - Décret n°2006-248 du 2 mars 2006 - art. 2 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 53 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-548 du 15 mai 2009 - art. 2
 
 	**Cité par**:
 
@@ -28742,11 +28737,8 @@ c) Le président du Comité national olympique et sportif français ou son repr�
 
 d) Le directeur des sports ou son représentant ;
 
-2° Quatre représentants du ministère chargé des sports nommés par le ministre chargé des sports, dont :
-
-a) Un directeur régional de la jeunesse, des sports et de la vie associative ;
-
-b) Un directeur départemental de la jeunesse, des sports et de la vie associative ;
+2° Quatre représentants du ministère chargé des sports nommés par le ministre, dont deux chefs des services déconcentrés de
+l'Etat chargés des sports ; 
 
 3° Cinq représentants du mouvement sportif nommés par le ministre chargé des sports après désignation par le président du
 Comité national olympique et sportif français, dont :
@@ -28781,18 +28773,17 @@ la durée du mandat restant à courir.
 
 **Liens relatifs à cet article**
 
+	**Anciens textes**:
+
+	  - Décret n°2006-248 du 2 mars 2006 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-548 du 15 mai 2009 - art. 3
+
 	**Cité par**:
 
 	  - Arrêté du 21 mars 2014 (V)
-
-	**Anciens textes**:
-
-	  - Art. 3 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
-	  - Décret n°2006-248 du 2 mars 2006 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
 ###### Article R411-5
@@ -28865,14 +28856,11 @@ fonctionnement ; il détermine la part des crédits destinés aux subventions qu
 crédits destinés aux subventions attribuées au niveau local ; il adopte les directives de l'établissement concernant la
 répartition des subventions attribuées au niveau local ; 
 
-14° La liste des bénéficiaires et les montants des subventions qu'il attribue au niveau national, à l'exception des concours
-destinés au financement des actions mentionnées à l'alinéa suivant ; 
+14° La liste des bénéficiaires et les montants des subventions qu'il attribue au niveau national. 
 
-15° Les financements affectés aux actions mentionnées au second alinéa du 1 du III de l'article 53 de la loi du 30 décembre
-2005 de finances pour 2006.
-
-Il est consulté sur tout projet de contrat de plan Etat-région dont les dispositions prévoient la réalisation ou la
-rénovation d'équipements sportifs de collectivités territoriales nécessitant le concours financier de l'établissement. 
+Il est consulté sur tout projet de convention entre l'Etat et une ou plusieurs collectivités territoriales dont les
+dispositions prévoient la réalisation ou la rénovation d'équipements sportifs nécessitant le concours financier de
+l'établissement.
 
 Les délibérations du conseil d'administration relatives au règlement général de l'établissement, à son budget, aux
 modifications de celui-ci et au compte financier, ainsi que les délibérations prévues au 13° sont exécutoires en l'absence
@@ -28882,18 +28870,17 @@ ministre chargé des sports et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 5 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
-	  - Décret n°2006-248 du 2 mars 2006 - art. 5 (Ab)
-
 	**Cite**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 53 (V)
+	  - Loi n°2005-1719 du 30 décembre 2005 - art. 53
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2006-248 du 2 mars 2006 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-548 du 15 mai 2009 - art. 4
 
 	**Cité par**:
 
@@ -28912,14 +28899,14 @@ Il nomme aux emplois de l'établissement et a autorité sur le personnel.
 Il prépare les délibérations du conseil d'administration et en assure l'exécution. Il lui rend compte, à chaque réunion, de
 l'activité de l'établissement. 
 
-Il notifie aux délégués régionaux ou territoriaux de l'établissement mentionnés aux paragraphes 2, 3 et 4 de la présente
-sous-section et aux articles R. 421-4, R. 422-3, R. 423-1, R. 424-1 et R. 425-1 le montant des crédits à répartir au niveau
-local ainsi que les directives de l'établissement concernant cette répartition adoptées par le conseil d'administration en
-application du 13° de l'article R. 411-6. 
+Il notifie aux délégués territoriaux de l'établissement mentionnés aux paragraphes 2, 3 et 4 de la présente sous-section et
+aux articles R. 421-4, R. 422-3, R. 423-1, R. 424-1, R. 425-1 , R. 426-1 et R. 427-1 le montant des crédits à répartir au
+niveau local ainsi que les directives de l'établissement concernant cette répartition adoptées par le conseil
+d'administration en application du 13° de l'article R. 411-6. 
 
 Il peut, dans les limites qu'il détermine, déléguer sa signature à des agents de l'établissement et aux délégués de
 l'établissement mentionnés aux paragraphes 2, 3 et 4 de la présente sous-section et aux articles R. 421-4, R. 422-3, R.
-423-1, R. 424-1 et R. 425-1. 
+423-1, R. 424-1, R. 425-1, R. 426-1 et R. 427-1. 
 
 Il établit le rapport annuel d'activité, le soumet au conseil d'administration et le transmet, après approbation du conseil
 d'administration, au ministre chargé des sports.
@@ -28928,21 +28915,20 @@ d'administration, au ministre chargé des sports.
 
 	**Anciens textes**:
 
-	  - Al. 2 à 7 de l'article 6 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 6 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-548 du 15 mai 2009 - art. 5
 
 	**Cite**:
 
-	  - Code du sport. - art. R411-6 (V)
-	  - Code du sport. - art. R421-4 (V)
-	  - Code du sport. - art. R422-3 (V)
-	  - Code du sport. - art. R423-1 (V)
-	  - Code du sport. - art. R424-1 (V)
-	  - Code du sport. - art. R425-1 (V)
+	  - Code du sport. - art. R411-6
+	  - Code du sport. - art. R421-4
+	  - Code du sport. - art. R422-3
+	  - Code du sport. - art. R423-1
+	  - Code du sport. - art. R424-1
+	  - Code du sport. - art. R425-1
 
 
 ###### Article R411-9
@@ -29037,68 +29023,65 @@ l'objet d'une convention passée entre l'établissement et le ministère.
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Paragraphe 2 : Organisation régionale et départementale.
+##### Paragraphe 2 : Organisation territoriale
 
 ###### Article R411-12
 
-Dans chaque région, le préfet de région est le délégué régional de l'établissement. Il est assisté d'un délégué régional
-adjoint qui est le directeur régional de la jeunesse, des sports et de la vie associative.
-
-Dans chaque département, le préfet de département est le délégué départemental de l'établissement. Il est assisté d'un
-délégué départemental adjoint qui est le directeur départemental de la jeunesse, des sports et de la vie associative ou, dans
-les départements chefs-lieux de région, le directeur régional adjoint de la jeunesse, des sports et de la vie associative.
+Dans chaque région, le préfet de région est le délégué territorial de l'établissement. Il est assisté d'un délégué
+territorial adjoint désigné par le directeur général sur proposition du délégué territorial, parmi les chefs des services
+déconcentrés de l'Etat chargés des sports ou leurs adjoints.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 10 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 10 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-548 du 15 mai 2009 - art. 7
 
 
 ###### Article R411-13
 
-Outre le délégué régional de l'établissement ou son adjoint, la commission régionale du Centre national pour le développement
-du sport instituée dans chaque région, comprend en nombre égal :
+La commission territoriale du Centre national pour le développement du sport instituée dans chaque région comprend : 
 
-1° D'une part :
+1° Le délégué territorial de l'établissement ou son représentant ; 
 
-a) Le directeur régional de la jeunesse, des sports et de la vie associative ou son représentant ;
+2° Le délégué territorial adjoint de l'établissement ou son représentant ; 
 
-b) Les délégués départementaux ou les délégués départementaux adjoints de l'établissement ;
+3° Le préfet de chacun des départements de la région ou son représentant ; 
 
-c) Deux agents de la direction régionale de la jeunesse et des sports ;
+4° Deux agents des services déconcentrés de l'Etat chargés des sports désignés par le préfet de région ; ce nombre est porté
+à trois pour les régions comportant quatre ou cinq départements et à quatre pour les régions comportant plus de cinq
+départements ; 
 
-2° D'autre part :
+5° Le président du comité régional olympique et sportif ou son représentant ; 
 
-a) Le président du comité régional olympique et sportif de la région ou son représentant ;
+6° Le président de chacun des comités départementaux olympiques et sportifs de la région ou son représentant ; 
 
-b) Des représentants du mouvement sportif désignés par le président du comité régional olympique et sportif, dont la moitié
-est issue de disciplines olympiques.
+7° Deux représentants du mouvement sportif désignés par le président du comité régional olympique et sportif ; ce nombre est
+porté à trois pour les régions comportant quatre ou cinq départements et à quatre pour les régions comportant plus de cinq
+départements. 
 
-Les membres de la commission régionale autres que les membres de droit sont nommés par le délégué régional de l'établissement
-pour une durée de quatre ans, renouvelable une fois. Pour chacun de ces membres, un suppléant est désigné dans les mêmes
-conditions. La perte de la qualité au titre de laquelle un membre de la commission a été nommé entraîne sa démission de plein
-droit.
+Les membres de la commission territoriale autres que les membres de droit sont nommés par le délégué territorial de
+l'établissement pour une durée de quatre ans, renouvelable une fois. Pour chacun de ces membres, un suppléant est désigné
+dans les mêmes conditions. La perte de la qualité au titre de laquelle un membre de la commission a été nommé entraîne sa
+démission de plein droit.
 
-En cas de vacance pour quelque cause que ce soit du siège d'un membre titulaire ou suppléant de la commission régionale, il
-est pourvu à son remplacement dans les mêmes conditions, dans un délai d'un mois à compter du début de cette vacance, pour la
-durée du mandat restant à courir.
+En cas de vacance pour quelque cause que ce soit du siège d'un membre titulaire ou suppléant de la commission territoriale,
+il est pourvu à son remplacement dans les mêmes conditions, dans un délai d'un mois à compter du début de cette vacance, pour
+la durée du mandat restant à courir.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 1 à 10 de l'article 11 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-548 du 15 mai 2009 - art. 8
 
 	**Cité par**:
 
@@ -29107,12 +29090,12 @@ durée du mandat restant à courir.
 
 ###### Article R411-14
 
-Les membres de la commission régionale exercent leurs fonctions à titre gratuit. Ils peuvent bénéficier, pour leur
+Les membres de la commission territoriale exercent leurs fonctions à titre gratuit. Ils peuvent bénéficier, pour leur
 participation aux séances de la commission dont ils sont membres, du remboursement de leurs frais de déplacement et de séjour
 dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement
-des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
+des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat. 
 
-Ils ne peuvent en aucun cas prêter leur concours à l'établissement à titre onéreux.
+Ils ne peuvent en aucun cas prêter leur concours à l'établissement à titre onéreux. 
 
 Ils ne peuvent prendre part aux délibérations ayant pour objet une question pour laquelle ils ont un intérêt personnel ou qui
 concerne l'attribution ou le versement d'une subvention à un organisme dans lequel ils exercent une fonction d'administrateur
@@ -29122,16 +29105,15 @@ ou de dirigeant.
 
 	**Anciens textes**:
 
-	  - Al. 11 à 13 de l'article 11 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 11 (Ab)
 
 	**Cite**:
 
-	  - Décret n°2006-781 2006-07-03
+	  - Décret n°2006-781 du 3 juillet 2006 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-548 du 15 mai 2009 - art. 9
 
 	**Cité par**:
 
@@ -29140,62 +29122,56 @@ ou de dirigeant.
 
 ###### Article R411-15
 
-La commission régionale du Centre national pour le développement du sport est coprésidée par le délégué régional ou son
+La commission territoriale du Centre national pour le développement du sport est coprésidée par le délégué territorial ou son
 adjoint et par le président du comité régional olympique et sportif ou son représentant. Elle se réunit au moins deux fois
-par an sur convocation de ses coprésidents. Son secrétariat est assuré par la direction régionale de la jeunesse et des
+par an sur convocation de ses coprésidents. Son secrétariat est assuré par les services déconcentrés de l'Etat chargés des
 sports.
 
-En cas d'absence ou d'empêchement simultané du délégué régional et du délégué régional adjoint, le délégué départemental
-adjoint du département chef-lieu de région le remplace. En cas d'absence ou d'empêchement simultané d'un délégué
-départemental et du délégué départemental adjoint du même département, le délégué départemental désigne, pour le représenter,
-un agent de la direction départementale de la jeunesse et des sports.
+En cas d'absence ou d'empêchement simultané du délégué territorial et du délégué territorial adjoint, la coprésidence de la
+commission est assurée par un fonctionnaire de catégorie Adésigné par le délégué territorial.
 
 La commission délibère à la majorité des voix des membres présents ou représentés.
 
 Le président du conseil régional, ou son représentant, et les présidents des conseils généraux des départements de la région,
-ou leurs représentants, peuvent assister avec voix consultative aux séances de la commission régionale. Les coprésidents de
-la commission régionale peuvent également inviter à assister à tout ou partie des réunions toute personne que celle-ci
+ou leurs représentants, ainsi que deux maires ou adjoints au maire de communes de la région, désignés par l'Association des
+maires de France, peuvent assister avec voix consultative aux séances de la commission territoriale. Les coprésidents de la
+commission territoriale peuvent également inviter à assister à tout ou partie des réunions toute personne que celle-ci
 souhaite entendre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 14 à 17 de l'article 11 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 11 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-548 du 15 mai 2009 - art. 10
 
 
 ###### Article R411-16
 
-La commission régionale définit les priorités régionales du Centre national pour le développement du sport en cohérence avec
-les directives de l'établissement concernant la répartition des subventions attribuées au niveau local.
+La commission territoriale définit les priorités régionales du Centre national pour le développement du sport ainsi que les
+modalités de recueil et d'examen des demandes de subvention relevant de sa compétence territoriale, en cohérence avec les
+directives de l'établissement concernant la répartition des subventions attribuées au niveau local. 
 
-Elle émet un avis sur la répartition des crédits dont le montant lui est notifié par le directeur général de l'établissement
-entre, d'une part, les interventions relevant du niveau régional et, d'autre part, les interventions relevant de chacune des
-commissions départementales de la région mentionnées à l'article R. 411-17.
+Elle émet un avis sur les critères de répartition des crédits dont le montant est notifié au délégué territorial par le
+directeur général de l'établissement. Ces critères prennent notamment en compte les caractéristiques démographiques,
+sportives, géographiques et sociales des territoires concernés. 
 
-Elle émet un avis sur les demandes de subvention relevant du niveau régional.
+Elle émet un avis sur les demandes de subventions relevant d'une attribution au niveau local. 
 
-Elle est tenue informée des décisions prises par les délégués départementaux de l'établissement.
+Elle adopte son règlement intérieur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 12 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 12 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Cite**:
-
-	  - Code du sport. - art. R411-17 (V)
+	  - Décret n°2009-548 du 15 mai 2009 - art. 11
 
 	**Cité par**:
 
@@ -29203,177 +29179,38 @@ Elle est tenue informée des décisions prises par les délégués départementa
 	  - Code du sport. - art. R411-21 (V)
 
 
-###### Article R411-17
+###### Article R411-21
 
-Outre le délégué départemental de l'établissement ou son adjoint, la commission départementale du Centre national pour le
-développement du sport instituée dans chaque département comprend :
+Le délégué territorial : 
 
-1° D'une part :
+1° Fixe, en cohérence avec les directives du conseil d'administration mentionnées au 13° de l'article R. 411-6 et après avis
+de la commission territoriale, les critères de répartition des crédits mentionnés au R. 411-16 ; 
 
-a) Le directeur départemental de la jeunesse, des sports et de la vie associative ou son représentant ;
+2° Décide, après avis de la commission territoriale l'attribution des concours financiers, dans la limite du montant des
+crédits notifié par le directeur général ou rejette les demandes de subvention ; 
 
-b) Trois agents de la direction départementale de la jeunesse et des sports ;
+3° Décide le reversement de concours financiers dans les conditions prévues par le règlement général de l'établissement ; 
 
-2° D'autre part :
+4° Signe les conventions relatives aux concours financiers qu'il attribue, sous réserve des compétences du conseil
+d'administration et du directeur général. 
 
-a) Le président du comité départemental olympique et sportif ou son représentant ;
-
-b) Trois représentants du mouvement sportif désignés par le président du comité départemental olympique et sportif.
-
-Les membres de la commission départementale autres que les membres de droit sont nommés par le délégué départemental de
-l'établissement pour une durée de quatre ans, renouvelable une fois. Pour chacun de ces membres, un suppléant est désigné
-dans les mêmes conditions. La perte de la qualité au titre de laquelle un membre de cette commission a été nommé entraîne sa
-démission de plein droit.
-
-En cas de vacance pour quelque cause que ce soit du siège d'un membre titulaire ou suppléant de la commission départementale,
-il est pourvu à son remplacement dans les mêmes conditions, dans un délai de deux mois à compter du début de cette vacance,
-pour la durée du mandat restant à courir.
+Le délégué territorial transmet au directeur général de l'établissement les décisions d'attribution ou de reversement de
+subventions en vue de leur mise en paiement ou de leur recouvrement par l'agent comptable de l'établissement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 1 à 9 de l'article 13 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
-	  - Décret n°2006-248 du 2 mars 2006 - art. 13 (Ab)
-	  - RL>
+	  - Décret n°2006-248 du 2 mars 2006 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-548 du 15 mai 2009 - art. 12
-
-	**Cité par**:
-
-	  - Code du sport. - art. R411-16 (V)
-
-
-###### Article R411-18
-
-Les membres de la commission départementale exercent leurs fonctions à titre gratuit. Ils peuvent bénéficier, pour leur
-participation aux séances de la commission dont ils sont membres, du remboursement de leurs frais de déplacement et de séjour
-dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006 fixant les conditions et les modalités de règlement
-des frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
-
-Ils ne peuvent en aucun cas prêter leur concours à l'établissement à titre onéreux.
-
-Ils ne peuvent prendre part aux délibérations ayant pour objet une question pour laquelle ils ont un intérêt personnel ou qui
-concerne l'attribution ou le versement d'une subvention à un organisme dans lequel ils exercent une fonction d'administrateur
-ou de dirigeant.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 10 à 12 de l'article 13 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
-	  - Décret n°2006-248 du 2 mars 2006 - art. 13 (Ab)
-
-	**Cite**:
-
-	  - Décret n°2006-781 du 3 juillet 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-548 du 15 mai 2009 - art. 12
-
-
-###### Article R411-19
-
-La commission départementale du Centre national pour le développement du sport est coprésidée par le délégué départemental ou
-son adjoint et par le président du comité départemental olympique et sportif ou son représentant. Elle se réunit au moins
-deux fois par an sur convocation de ses coprésidents. Son secrétariat est assuré par la direction départementale de la
-jeunesse et des sports.
-
-En cas d'absence ou d'empêchement simultané du délégué départemental et du délégué départemental adjoint, le délégué
-départemental désigne, pour le représenter, un agent de la direction départementale de la jeunesse et des sports.
-
-Le président du conseil général, ou son représentant, et un maire ou un adjoint au maire désigné par le président de
-l'association représentative des maires du département peuvent assister avec voix consultative aux séances de la commission
-départementale. Les coprésidents de la commission départementale peuvent également inviter à assister à tout ou partie des
-réunions de cette commission toute personne que celle-ci souhaite entendre.
-
-La commission délibère à la majorité des voix des membres présents ou représentés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 13 à 16 de l'article 13 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
-	  - Décret n°2006-248 du 2 mars 2006 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-548 du 15 mai 2009 - art. 12
-
-
-###### Article R411-20
-
-La commission départementale du Centre national pour le développement du sport émet un avis sur les demandes de subvention
-relevant du niveau départemental, dans le cadre des priorités définies par la commission régionale du Centre national pour le
-développement du sport en application des dispositions de l'article R. 411-16.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 14 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
-	  - Décret n°2006-248 du 2 mars 2006 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2009-548 du 15 mai 2009 - art. 12
+	  - Décret n°2009-548 du 15 mai 2009 - art. 13
 
 	**Cite**:
 
 	  - Code du sport. - art. R411-16
-
-
-###### Article R411-21
-
-Après avis de la commission régionale du Centre national pour le développement du sport, le délégué régional fixe la
-répartition des crédits dont le montant lui est notifié par le directeur général de l'établissement entre, d'une part, les
-interventions relevant du niveau régional et, d'autre part, les interventions relevant de chacune des commissions
-départementales de la région.
-
-Après avis de la commission régionale ou de la commission départementale sur les demandes de subvention, le délégué régional,
-pour ce qui relève du niveau régional, ou le délégué départemental, pour ce qui relève du niveau départemental :
-
-1° Décide l'attribution des concours financiers, dans la double limite du montant des crédits notifié par le directeur
-général et des montants répartis par niveau conformément au premier alinéa, ou rejette les demandes de subvention ;
-
-2° Décide le reversement de concours financiers dans les conditions prévues par le règlement général de l'établissement ;
-
-3° Signe les conventions relatives aux concours financiers qu'il attribue, sous réserve des compétences du conseil
-d'administration et du directeur général.
-
-Les délégués régionaux ou départementaux transmettent au directeur général de l'établissement les décisions d'attribution ou
-de reversement de subventions en vue de leur mise en paiement ou de leur recouvrement par l'agent comptable de
-l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 15 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
-	  - Décret n°2006-248 du 2 mars 2006 - art. 15 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Code du sport. - art. R411-6
 
 
 ##### Paragraphe 3 : Dispositions particulières à la Corse
@@ -29383,26 +29220,25 @@ l'établissement.
 Conformément au II de l'article L. 4424-8 du code général des collectivités territoriales, le paragraphe 2 de la présente
 sous-section ne s'applique pas à la Corse et les subventions de fonctionnement destinées aux groupements sportifs locaux sont
 attribuées à la collectivité territoriale de Corse et affectées par délibération de l'Assemblée de Corse dans les conditions
-prévues par les dispositions de cet article.
+prévues par les dispositions de cet article. 
 
 Le préfet de Corse est le délégué territorial de l'établissement pour l'instruction des demandes de subvention d'équipement.
-Il est assisté d'un délégué territorial adjoint qui est le directeur régional de la jeunesse, des sports et de la vie
-associative.
+Il est assisté d'un délégué territorial adjoint désigné par le directeur général sur proposition du délégué territorial,
+parmi les chefs des services déconcentrés de l'Etat chargés des sports ou leurs adjoints.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 16 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 16 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-548 du 15 mai 2009 - art. 14
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L4424-8 (T)
+	  - Code général des collectivités territoriales - art. L4424-8 (V)
 
 
 ##### Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer
@@ -29410,50 +29246,38 @@ associative.
 ###### Article R411-23
 
 Dans les régions et départements d'outre-mer, les dispositions du paragraphe 2 de la présente sous-section sont modifiées
-comme suit :
+comme suit : 
 
-Le préfet est le délégué territorial du Centre national pour le développement du sport. Il est assisté d'un délégué
-territorial adjoint qui est le directeur départemental de la jeunesse, des sports et de la vie associative.
+La commission territoriale du Centre national pour le développement du sport comprend : 
 
-La commission territoriale du Centre national pour le développement du sport exerce les compétences dévolues à la commission
-régionale et à la commission départementale mentionnées au paragraphe 2, en cohérence avec les directives de l'établissement
-relatives à la répartition des subventions attribuées au niveau local. Elle fonctionne selon les règles prévues au paragraphe
-2 pour les commissions régionales et départementales.
+1° Le délégué territorial de l'établissement ou son représentant ; 
 
-La commission est coprésidée par le délégué territorial de l'établissement ou son adjoint et par le président du comité
-régional olympique et sportif ou son représentant. Elle comprend en outre :
+2° Le délégué territorial adjoint de l'établissement ou son représentant ; 
 
-1° D'une part :
+3° Trois agents de l'Etat désignés par le préfet de région parmi les agents des services déconcentrés de l'Etat chargés des
+sports ; 
 
-- le directeur départemental de la jeunesse, des sports et de la vie associative ou son représentant ;
+4° Le président du comité régional olympique et sportif ou son représentant ; 
 
-- trois agents de la direction départementale de la jeunesse et des sports ;
+5° Trois représentants du mouvement sportif désignés par le président du comité régional olympique et sportif. 
 
-2° D'autre part :
+Le président du conseil régional ou son représentant, le président du conseil général ou son représentant, et un maire ou
+adjoint au maire désigné par l'association représentative des maires peuvent assister avec voix consultative aux séances de
+la commission.
 
-- trois représentants du mouvement sportif désignés par le président du comité régional olympique et sportif.
+**Nota:**
 
-Les membres de la commission autres que les membres de droit sont nommés par le délégué territorial de l'établissement pour
-une durée de quatre ans, renouvelable une fois. Pour chacun de ces membres, un suppléant est désigné dans les mêmes
-conditions. La perte de la qualité au titre de laquelle un membre de la commission a été nommé entraîne sa démission de plein
-droit.
 
-Le secrétariat de la commission est assuré par la direction départementale de la jeunesse et des sports.
-
-Le président du conseil régional, ou son représentant, le président du conseil général, ou son représentant, et un maire ou
-un adjoint au maire désigné par l'association représentative des maires peuvent assister avec voix consultative aux séances
-de la commission.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 17 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-548 du 15 mai 2009 - art. 15
 
 
 ##### Sous-section 3 : Régime financier et comptable
@@ -29699,31 +29523,30 @@ Pour l'application du présent code à Saint-Pierre-et-Miquelon, le mot : " dép
 ###### Article R422-3
 
 Le préfet de la collectivité territoriale de Saint-Pierre-et-Miquelon est le délégué territorial du Centre national pour le
-développement du sport. Il est assisté d'un délégué territorial adjoint qui est le directeur territorial de la jeunesse et
-des sports. 
+développement du sport. Il est assisté d'un délégué territorial adjoint désigné par le directeur général sur proposition du
+délégué territorial. 
 
 Dans la collectivité territoriale de Saint-Pierre-et-Miquelon, une commission territoriale du Centre national pour le
 développement du sport est créée. Sa composition est fixée par arrêté du ministre chargé des sports, en tenant compte des
 caractéristiques de la collectivité. 
 
-Cette commission exerce les compétences dévolues à la commission départementale mentionnée à l'article R. 411-14, en
-cohérence avec les directives de l'établissement concernant la répartition des subventions attribuées au niveau local. Elle
-fonctionne selon les règles prévues pour les commissions départementales.
+Cette commission exerce les compétences dévolues à la commission territoriale mentionnée à l'article R. 411-13, en cohérence
+avec les directives de l'établissement concernant la répartition des subventions attribuées au niveau local. Elle fonctionne
+selon les règles prévues pour les commissions territoriales.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 18 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 18 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-548 du 15 mai 2009 - art. 16
 
 	**Cite**:
 
-	  - Code du sport. - art. R411-14 (V)
+	  - Code du sport. - art. R411-13
 
 	**Cité par**:
 
@@ -29843,6 +29666,72 @@ caractéristiques de la collectivité et dans le respect des compétences propre
 	**Cité par**:
 
 	  - Code du sport. - art. R411-7 (V)
+
+
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy
+
+###### Article R426-1
+
+Les articles R. 112-2, R. 411-2 à R. 411-11 et R. 411-24 à R. 411-28 sont applicables à Saint-Barthélemy avec les adaptations
+suivantes : 
+
+1° Le représentant de l'Etat à Saint-Barthélemy est le délégué territorial du Centre national pour le développement du sport.
+Il est assisté d'un délégué territorial adjoint désigné par le directeur général sur proposition du délégué territorial ; 
+
+2° Dans la collectivité, une commission territoriale du Centre national pour le développement du sport émet un avis sur
+l'attribution des subventions de fonctionnement destinées aux groupements sportifs locaux, en cohérence avec les directives
+de l'établissement concernant la répartition des subventions à attribuer au niveau local. La composition et les modalités
+d'intervention de cette commission sont fixées par arrêté du ministre chargé des sports, en tenant compte des
+caractéristiques de la collectivité et dans le respect des compétences propres à ses institutions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-548 du 15 mai 2009 - art. 17
+
+	**Cité par**:
+
+	  - Code du sport. - art. A426-1 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. R112-2
+	  - Code du sport. - art. R411-2
+	  - Code du sport. - art. R411-24
+
+
+#### Chapitre VII : Dispositions applicables à Saint-Martin
+
+###### Article R427-1
+
+Les articles R. 112-2, R. 411-2 à R. 411-11 et R. 411-24 à R. 411-28 sont applicables à Saint-Martin avec les adaptations
+suivantes : 
+
+1° Le représentant de l'Etat à Saint-Martin est le délégué territorial du Centre national pour le développement du sport. Il
+est assisté d'un délégué territorial adjoint désigné par le directeur général sur proposition du délégué territorial ; 
+
+2° Dans la collectivité, une commission territoriale du Centre national pour le développement du sport émet un avis sur
+l'attribution des subventions de fonctionnement destinées aux groupements sportifs locaux, en cohérence avec les directives
+de l'établissement concernant la répartition des subventions à attribuer au niveau local. La composition et les modalités
+d'intervention de cette commission sont fixées par arrêté du ministre chargé des sports, en tenant compte des
+caractéristiques de la collectivité et dans le respect des compétences propres à ses institutions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-548 du 15 mai 2009 - art. 17
+
+	**Cité par**:
+
+	  - Code du sport. - art. A427-1 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. R112-2
+	  - Code du sport. - art. R411-2
+	  - Code du sport. - art. R411-24
 
 
 # Partie réglementaire - Arrêtés
