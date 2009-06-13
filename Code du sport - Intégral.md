@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-06-12
+Version Consolidée au 2009-06-14
 
 # Partie législative
 
@@ -14549,12 +14549,11 @@ d) Un représentant du ministre chargé de l'environnement ;
 
 e) Le directeur régional de la jeunesse, des sports et de la vie associative de Bretagne ;
 
-2° Trois personnalités qualifiées :
+2° Quatre personnalités qualifiées : 
 
-a) Le président du Conseil supérieur de la navigation de plaisance et des sports nautiques ;
+a) Le président du Conseil supérieur de la navigation de plaisance et des sports nautiques ; 
 
-b) Deux personnalités choisies par le ministre chargé des sports en raison de leur compétence dans le domaine de la voile et
-des sports nautiques ;
+b) Trois personnalités choisies par le ministre chargé des sports.
 
 3° Trois représentants de la voile et des activités nautiques :
 
@@ -14586,9 +14585,9 @@ Un arrêté du ministre chargé des sports fixe la composition nominative du con
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-680 du 11 juin 2009 - art. 1
 
 	**Cité par**:
 
@@ -14597,16 +14596,21 @@ Un arrêté du ministre chargé des sports fixe la composition nominative du con
 
 ###### Article D211-40
 
-Le président du conseil d'administration est nommé par arrêté du ministre chargé des sports parmi les membres du conseil.
+Le président du conseil d'administration est nommé par arrêté du ministre chargé des sports parmi les membres du conseil
+mentionnés au b du 2° de l'article D. 211-39. 
 
-En cas d'empêchement du président, le conseil d'administration se réunit sous la présidence d'un membre du conseil désigné
-par le ministre chargé des sports.
+En cas d'empêchement du président, le conseil d'administration se réunit sous la présidence d'un des membres du conseil
+mentionnés au b du 2° de l'article D. 211-39 et désigné par le ministre chargé des sports.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-680 du 11 juin 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. D211-39
 
 
 ###### Article D211-41
