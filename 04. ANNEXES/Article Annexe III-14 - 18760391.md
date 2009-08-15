@@ -1,74 +1,81 @@
 # Article Annexe III-14
 
-**NIVEAUX DE PRATIQUE DES PLONGEURS  ET ÉQUIVALENCES DE PRÉROGATIVES**
+**NIVEAUX DE PRATIQUE DES PLONGEURS ET ÉQUIVALENCES DE PRÉROGATIVES**
 
 (art. A322-72 et A322-81).
 
 Cette annexe concerne les niveaux de pratique des plongeurs et équivalences de prérogatives entre les différents brevets de
 plongeur délivrés par la FFESSM (Fédération française d'études et de sports sous-marins) et la FSGT (Fédération sportive et
-gymnique du travail), les attestations de niveaux délivrés par les autres organismes membres de droit du comité consultatif
-de l'enseignement sportif de la plongée subaquatique et les brevets CMAS (Confédération mondiale des activités
-subaquatiques).
+gymnique du travail), les attestations de niveaux délivrés par l'ANMP (Association nationale des moniteurs de plongée) et le
+SNMP (Syndicat national des moniteurs de plongée) et les brevets CMAS (Confédération mondiale des activités subaquatiques).
 
-Les attestations de niveaux et brevets doivent justifier que leurs titulaires ont démontré un niveau technique au moins
-équivalent à celui des brevets de même niveau de la FFESSM et organisés dans des conditions similaires de certification et de
-jury.
+Les attestations de niveaux et brevets doivent comporter des mentions permettant de démontrer que leurs titulaires ont un
+niveau technique au moins équivalent à celui des brevets de même niveau de la FFESSM (Fédération française d'études et de
+sports sous-marins) et qu'ils ont été obtenus dans des conditions similaires de certification et de jury.
 
-Les moniteurs titulaires du niveau 3 d'encadrement, adhérents d'un des organismes membre de droit du comité consultatif,
-peuvent établir un certificat de compétence à l'issue d'une ou de plusieurs plongées d'évaluation organisées dans le respect
-du présent code. Les plongeurs bénéficiaires de ce certificat obtiennent des prérogatives identiques à celles référencées
-dans le tableau figurant à la présente annexe, mais ne dépassant pas celles du niveau 3 (P 3).
+Les moniteurs titulaires du niveau 3 d'encadrement référencé au tableau figurant à l'annexe III-15 du code du sport peuvent
+établir un certificat de compétence à l'issue d'une ou de plusieurs plongées d'évaluation organisées dans le respect du
+présent code. Les plongeurs bénéficiaires de ce certificat obtiennent des prérogatives identiques à celles référencées dans
+le tableau figurant à la présente annexe, mais ne dépassant pas celles du niveau 3 (P 3).
 
 Ce certificat reste la propriété du moniteur, il n'est pas remis au plongeur et n'est valable que dans le cadre de
-l'établissement qui l'a délivré. 
+l'établissement qui l'a délivré.
 
 <table>
-    <tbody>
-      <tr>
-        <th>NIVEAU
+  <tbody>
+    <tr>
+      <th>
+
+NIVEAU 
 
 de prérogative
 
 des plongeurs
 
 </th>
-        <th colspan="3">BREVETS
+      <th colspan="3">
+
+BREVETS
 
 </th>
-        <th>ATTESTATION DE NIVEAU
+      <th colspan="2">
+
+ATTESTATION DE NIVEAU
 
 </th>
-      </tr>
-      <tr>
-        <th>
-        </th><th>FFESSM
-
-(Fédération française
-
-d'études et de sports
-
-sous-marins)
+    </tr>
+    <tr>
+      <th>
 
 </th>
-        <th>CMAS
+      <th>
 
-(Confédération mondiale
+FFESSM
 
-des activités
+(Fédération française d'études et de sports sous-marins)
+
+</th>
+      <th>
+
+CMAS 
+
+(Confédération mondiale des activités
 
 subaquatiques)
 
 </th>
-        <th>FSGT
+      <th>
+
+FSGT 
 
 (Fédération sportive
 
-et gymnique
-
-du travail)
+et gymnique du travail)
 
 </th>
-        <th>ANMP
+      <th>
+
+ANMP 
 
 (Association nationale
 
@@ -77,7 +84,9 @@ des moniteurs
 de plongée)
 
 </th>
-        <th>SNMP
+      <th>
+
+SNMP 
 
 (Syndicat national
 
@@ -86,122 +95,184 @@ des moniteurs
 de plongée)
 
 </th>
-      </tr>
-      <tr>
-        <td align="center">Niveau 1 (P 1).
+    </tr>
+    <tr>
+      <td align="center">
+
+Niveau 1 (P 1)
 
 </td>
-        <td align="center">Plongeur N 1.
+      <td align="center">
+
+Plongeur N1
 
 </td>
-        <td align="center">Plongeur 1 étoile.
+      <td align="center">
+
+Plongeur 1 étoile
 
 </td>
-        <td align="center">Plongeur N 1.
+      <td align="center">
+
+Plongeur N1
 
 </td>
-        <td align="center">Plongeur.
+      <td align="center">
+
+Plongeur
 
 </td>
-        <td align="center">Plongeur.
+      <td align="center">
+
+Plongeur
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Niveau 2 (P 2).
+    </tr>
+    <tr>
+      <td align="center">
+
+Niveau 2 (P 2)
 
 </td>
-        <td align="center">Plongeur N 2.
+      <td align="center">
+
+Plongeur N2
 
 </td>
-        <td align="center">Plongeur 2 étoiles.
+      <td align="center">
+
+Plongeur 2 étoiles
 
 </td>
-        <td align="center">Plongeur N 2.
+      <td align="center">
+
+Plongeur N2
 
 </td>
-        <td align="center">Equipier.
+      <td align="center">
+
+Equipier
 
 </td>
-        <td align="center">Plongeur confirmé.
+      <td align="center">
+
+Plongeur confirmé
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Niveau 3 (P 3).
+    </tr>
+    <tr>
+      <td align="center">
+
+Niveau 3 (P 3)
 
 </td>
-        <td align="center">Plongeur N 3.
+      <td align="center">
+
+Plongeur N3
 
 </td>
-        <td align="center">Plongeur 3 étoiles.
+      <td align="center">
+
+Plongeur 3 étoiles
 
 </td>
-        <td align="center">Plongeur N 3.
+      <td align="center">
+
+Plongeur N3
 
 </td>
-        <td align="center">Autonome.
+      <td align="center">
+
+Autonome
 
 </td>
-        <td align="center">Plongeur autonome.
+      <td align="center">
+
+Plongeur autonome
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Niveau 4 (P 4).
+    </tr>
+    <tr>
+      <td align="center">
+
+Niveau 4 (P 4)
 
 </td>
-        <td align="center">Plongeur N 4 capacitaire.
+      <td align="center">
+
+Plongeur N4 capacitaire
 
 </td>
-        <td align="center">Plongeur 3 étoiles (*).
+      <td align="center">
+
+Plongeur 3 étoiles (*)
 
 </td>
-        <td align="center">Guide de palanquée.
+      <td align="center">
+
+Guide de palanquée
 
 </td>
-        <td align="center">Guide de palanquée.
+      <td align="center">
+
+Guide de palanquée
 
 </td>
-        <td align="center">Guide de palanquée.
+      <td align="center">
+
+Guide de palanquée
 
 </td>
-      </tr>
-      <tr>
-        <td align="center">Niveau 5 (P 5).
+    </tr>
+    <tr>
+      <td align="center">
+
+Niveau 5 (P 5)
 
 </td>
-        <td align="center">Qualification de directeur de plongée (**).
+      <td align="center">
+
+Qualification de directeur de plongée (**)
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-        <td align="center">Qualification de directeur de plongée (**). 
+      <td align="center">
+
+Qualification de directeur de plongée (**)
 
 </td>
-        <td align="center">
+      <td align="center">
 
 </td>
-        <td align="center">Directeur de plongée (**).
+      <td align="center">
+
+Directeur de plongée (**) 
 
 </td>
-      </tr>
-      <tr>
-        <td colspan="5">(*) Certifié à l'étranger.
+    </tr>
+    <tr>
+      <td colspan="6">
 
-(**) La qualification directeur de plongée (niveau 5) ne pourra être exercée qu'à titre bénévole.
+(*) Certifié à l'étranger. 
+
+(**) La qualification Directeur de plongée (niveau 5) ne pourra être exercée qu'à titre bénévole. 
 
 </td>
-      </tr>
-    </tbody>
-  </table>
+    </tr>
+  </tbody>
+</table>
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 18 juillet 2008 - art. 7
+	  - Arrêté du 23 juillet 2009 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 29 juillet 2010 - art. 2
 
 	**Cité par**:
 
