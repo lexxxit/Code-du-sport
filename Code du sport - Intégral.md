@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-08-16
+Version Consolidée au 2009-08-31
 
 # Partie législative
 
@@ -14914,6 +14914,22 @@ Le personnel de l'école comprend notamment :
 ##### Sous-section 4 : L'Ecole nationale de ski et d'alpinisme
 
 ##### Paragraphe 1 : Missions
+
+###### Article D211-52-1
+
+L'Ecole nationale de ski et d'alpinisme a son siège à Chamonix (Haute-Savoie). Elle comprend également le Centre national de
+ski nordique, installé à Prémanon (Jura).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1070 du 28 août 2009 - art. 2
+
+	**Abrogé par**:
+
+	  - Décret n°2010-1378 du 12 novembre 2010 - art. 2
+
 
 ###### Article D211-53
 
