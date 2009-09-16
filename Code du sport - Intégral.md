@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-08-31
+Version Consolidée au 2009-09-17
 
 # Partie législative
 
@@ -18683,15 +18683,15 @@ sont accordées par le ministre chargé des sports après avis de la commission 
 ###### Article R212-84
 
 Les diplômes étrangers sont admis en équivalence aux diplômes mentionnés à l'article L. 212-1 par le ministre chargé des
-sports après avis d'une commission comprenant des représentants de l'administration, des employeurs et des personnels
-techniques et dont l'organisation est fixée par arrêté du ministre chargé des sports.
+sports après avis de la commission de reconnaissance des qualifications, dont la composition, comprenant notamment des
+représentants de l'administration, des employeurs et des personnels techniques, et l'organisation sont fixées par arrêté du
+ministre chargé des sports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°89-685 du 21 septembre 1989 - art. 2 (Ab)
-	  - Art. 2 du décret n°89-685 du 21 septembre 1989 relatif à l'enseignement contre rémunération et à la sécurité des activités physiques et sportives
 
 	**Cité par**:
 
@@ -18706,33 +18706,30 @@ techniques et dont l'organisation est fixée par arrêté du ministre chargé de
 	  - Code du sport. - art. A212-223 (V)
 	  - Code du sport. - art. Annexe II-12 (art. A212-176) (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L212-1 (V)
+	  - Code du sport. - art. L212-1
 
 
 ##### Section 2 : Obligation de déclaration d'activité
 
-##### Sous-section 1 : Principes
+##### Sous-section 1 : Personnes titulaires des diplômes, titres à finalité professionnelle ou certificats de qualification requis
 
 ###### Article R212-85
 
 Toute personne désirant exercer l'une des fonctions mentionnées à l'article L. 212-1 et titulaire des diplômes, titres à
-finalité professionnelle ou certificats de qualification requis doit en faire préalablement la déclaration au préfet du
-département dans lequel elle compte exercer son activité. Si cette activité est susceptible d'être exercée dans plusieurs
-départements, la déclaration est effectuée auprès du préfet du département où l'intéressé a sa principale activité. 
+finalité professionnelle ou certificats de qualification inscrits sur la liste arrêtée par le ministre chargé des sports
+prévue à l'article R. 212-2 doit en faire préalablement la déclaration au préfet du département dans lequel elle compte
+exercer son activité à titre principal. 
 
-Cette déclaration est renouvelée tous les cinq ans. Le préfet est informé de tout changement d'un élément quelconque des
-éléments qui y figurent. 
+La déclaration est renouvelée tous les cinq ans. Le préfet est informé de tout changement de l'un quelconque des éléments qui
+y figurent. 
 
-Les personnes ayant fait l'objet d'une des condamnations mentionnées à l'article L. 212-9 ne peuvent bénéficier de la
-déclaration prévue au premier alinéa du présent article. 
-
-Les pièces nécessaires à la déclaration d'exercice et à son renouvellement sont fixées par arrêté du ministre chargé des
+Les pièces nécessaires à la déclaration d'activité et à son renouvellement sont fixées par arrêté du ministre chargé des
 sports.
 
 **Liens relatifs à cet article**
@@ -18740,11 +18737,6 @@ sports.
 	**Anciens textes**:
 
 	  - Décret n°93-1035 du 31 août 1993 - art. 12 (Ab)
-	  - Art. 12 du décret n°93-1035 du 31 août 1993 relatif au contrôle de l'enseignement contre rémunération des activités physiques et sportives
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 	**Cité par**:
 
@@ -18754,34 +18746,34 @@ sports.
 	  - Code du sport. - art. R212-86 (V)
 	  - Code du sport. - art. R212-87 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
+
 	**Cite**:
 
-	  - Code du sport. - art. L212-1 (V)
-	  - Code du sport. - art. L212-9 (V)
+	  - Code du sport. - art. L212-1
+	  - Code du sport. - art. R212-2
 
 
 ###### Article R212-86
 
-Le préfet délivre une carte professionnelle d'éducateur sportif à tout titulaire d'un diplôme, titre à finalité
-professionnelle ou certificat de qualification inscrit sur la liste prévue à l'article R. 212-2, lorsqu'il a fait la
-déclaration prévue par l'article R. 212-85. 
+Le préfet, après avoir accusé réception de la déclaration mentionnée à l'article R. 212-85 dans le mois qui suit son dépôt,
+délivre une carte professionnelle d'éducateur sportif à tout déclarant titulaire d'un diplôme, titre à finalité
+professionnelle ou certificat de qualification inscrit sur la liste prévue à l'article R. 212-2, à l'exclusion des personnes
+ayant fait l'objet de l'une des condamnations ou mesures mentionnées aux articles L. 212-9 et L. 212-13. 
 
-La carte professionnelle porte mention du diplôme, titre à finalité professionnelle ou certificat de qualification et des
+La carte professionnelle porte mention du diplôme, titre à finalité professionnelle ou certificat de qualification et les
 conditions d'exercice afférentes à chaque certification. 
 
-La carte professionnelle est retirée de façon temporaire ou permanente à toute personne ayant fait l'objet d'une condamnation
-mentionnée à l'article L. 212-9 ou d'une mesure mentionnée à l'article L. 212-13.
+La carte professionnelle est retirée de façon temporaire ou permanente à toute personne ayant fait l'objet d'une des
+condamnations ou mesures mentionnées aux articles L. 212-9 et L. 212-13.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°93-1035 du 31 août 1993 - art. 13 (Ab)
-	  - Art. 13 du décret n°93-1035 du 31 août 1993 relatif au contrôle de l'enseignement contre rémunération des activités physiques et sportives
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 	**Cité par**:
 
@@ -18792,19 +18784,24 @@ mentionnée à l'article L. 212-9 ou d'une mesure mentionnée à l'article L. 21
 	  - Code du sport. - art. A212-181 (V)
 	  - Code du sport. - art. R322-5 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
+
 	**Cite**:
 
-	  - Code du sport. - art. L212-13 (V)
-	  - Code du sport. - art. L212-9 (V)
-	  - Code du sport. - art. R212-2 (V)
-	  - Code du sport. - art. R212-85 (V)
+	  - Code du sport. - art. L212-13
+	  - Code du sport. - art. L212-9
+	  - Code du sport. - art. R212-2
+	  - Code du sport. - art. R212-85
 
 
 ###### Article R212-87
 
 Toute personne suivant une formation préparant à un diplôme, un titre à finalité professionnelle ou un certificat de
-qualification qui souhaite exercer l'une des fonctions mentionnées au premier alinéa de l'article L. 212-1 doit en faire
-préalablement la déclaration au préfet du département dans les conditions prévues à l'article R. 212-85. 
+qualification inscrit sur la liste arrêtée par le ministre chargé des sports prévue à l'article R. 212-2 qui souhaite exercer
+l'une des fonctions mentionnées au premier alinéa de l'article L. 212-1 doit en faire préalablement la déclaration au préfet
+du département dans les conditions mentionnées à l'article R. 212-85.
 
 Le préfet délivre une attestation de stagiaire.
 
@@ -18812,12 +18809,11 @@ Le préfet délivre une attestation de stagiaire.
 
 	**Anciens textes**:
 
-	  - Art. 13-1 du décret n°93-1035 du 31 août 1993 relatif au contrôle de l'enseignement contre rémunération
 	  - Décret n°93-1035 du 31 août 1993 - art. 13-1 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -18826,27 +18822,40 @@ Le préfet délivre une attestation de stagiaire.
 
 	**Cite**:
 
-	  - Code du sport. - art. L212-1 (V)
-	  - Code du sport. - art. R212-85 (V)
+	  - Code du sport. - art. L212-1
+	  - Code du sport. - art. R212-2
+	  - Code du sport. - art. R212-85
 
 
-##### Sous-section 2 : Prestation de services d'éducateur sportif par les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen
+##### Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France
 
 ###### Article R212-88
 
-Sous réserve d'avoir adressé au préfet une déclaration dans les conditions prévues à l'article R. 212-89, peuvent enseigner,
-encadrer ou animer contre rémunération une activité physique ou sportive sur le territoire national, à titre occasionnel, et
-sans y être établis, les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace
-économique européen qualifiés pour exercer légalement cette activité dans l'un de ces Etats. Par cette déclaration, est
-réputée satisfaite l'obligation que l'article L. 212-11 impose à leurs employeurs en tant que responsables des
-établissements, dès lors que ceux-ci n'ont pas leur établissement principal en France.
+Tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen qualifié pour y exercer tout ou partie des activités dans les fonctions mentionnées à l'article L. 212-1
+conformément aux conditions mentionnées à l'article R. 212-90 et qui souhaite s'établir sur le territoire national à cet
+effet doit en faire préalablement la déclaration au préfet du département dans lequel il compte exercer son activité à titre
+principal. 
+
+Toutefois, lorsque la déclaration porte sur une activité s'exerçant en environnement spécifique au sens des dispositions de
+l'article L. 212-7, le préfet compétent est précisé par arrêté du ministre chargé des sports. 
+
+La déclaration est renouvelée tous les cinq ans. Le préfet est informé de tout changement de l'un quelconque des éléments qui
+y figurent. 
+
+Le déclarant justifie de la connaissance de la langue française exigée par l'article 1er de l'ordonnance n° 2008-507 du 30
+mai 2008 portant transposition de la directive 2005 / 36 / CE du Parlement européen et du Conseil du 7 septembre 2005
+relative à la reconnaissance des qualifications professionnelles, en particulier afin de garantir l'exercice en sécurité des
+activités physiques et sportives et sa capacité à alerter les secours. 
+
+Les pièces nécessaires à la déclaration d'activité et à son renouvellement sont fixées par arrêté du ministre chargé des
+sports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°96-1011 du 25 novembre 1996 - art. 1 (Ab)
-	  - Art. 1er du décret n°96-1011 du 25 novembre 1996 relatif à la prestation de services d'éducateur sportif par les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen
 
 	**Cité par**:
 
@@ -18865,91 +18874,107 @@ réputée satisfaite l'obligation que l'article L. 212-11 impose à leurs employ
 	  - Code du sport. - art. Annexe II-12-2 b (V)
 	  - Code du sport. - art. R212-89 (V)
 
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
 	**Cite**:
 
-	  - Code du sport. - art. L212-11 (V)
+	  - Ordonnance n°2008-507 du 30 mai 2008
+	  - Code du sport. - art. L212-1
+	  - Code du sport. - art. L212-7
+	  - Code du sport. - art. R212-90
+
+	**Modifié par**:
+
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
 
 
 ###### Article R212-89
 
-La déclaration mentionnée à l'article R. 212-88 doit être adressée au préfet trois mois avant la prestation du demandeur en
-France. Elle est établie sur le modèle en annexe II-1 et doit comporter l'identité du ressortissant et le programme de son
-séjour sur le territoire français (nombre de personnes encadrées, lieu de la prestation), les renseignements relatifs à
-l'assurance et, lorsqu'il s'agit de la première déclaration, à la formation de l'intéressé. Si le ressortissant est salarié,
-elle est visée par son employeur. 
+Le préfet, après avoir accusé réception de la déclaration mentionnée à l'article R. 212-88 dans le mois qui suit son dépôt,
+délivre une carte professionnelle d'éducateur sportif au déclarant dont les qualifications professionnelles répondent aux
+conditions de reconnaissance mentionnées à l'article R. 212-90, à l'exclusion des personnes ayant fait l'objet de l'une des
+condamnations ou mesures mentionnées aux articles L. 212-9 et L. 212-13. 
 
-Dans le mois qui suit la réception du dossier de déclaration complet, le préfet délivre un récépissé qui permet au demandeur
-d'exercer son activité sur le territoire national dans les mêmes conditions que les titulaires des qualifications requises
-par la réglementation française. En l'absence de réponse dans un délai d'un mois, le ressortissant est présumé exercer
-légalement son activité sur le territoire national. 
+La carte professionnelle permet au déclarant d'exercer son activité sur le territoire national dans les mêmes conditions que
+les titulaires des diplômes, titres à finalité professionnelle ou certificats de qualification inscrits sur la liste arrêtée
+par le ministre chargé des sports prévue à l'article R. 212-2. 
 
-Le préfet compétent est celui du département où doit se dérouler la prestation ou la majeure partie de celle-ci. Toutefois,
-lorsque la déclaration porte sur l'une des activités définies à l'article R. 212-91, le préfet compétent est précisé par
-arrêté du ministre chargé des sports.
+La carte professionnelle porte mention des conditions d'exercice afférentes à la qualification professionnelle du déclarant
+attestée conformément au 1°, au 2°, au 3° ou au 4° de l'article R. 212-90 pour tout ou partie des activités dans les
+fonctions mentionnées à l'article L. 212-1. 
+
+La carte professionnelle est retirée de façon temporaire ou permanente à toute personne ayant fait l'objet d'une des
+condamnations ou mesures mentionnées aux articles L. 212-9 ou L. 212-13.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 2 du décret n°96-1011 du 25 novembre 1996 relatif à la prestation de services d'éducateur sportif par les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen
 	  - Décret n°96-1011 du 25 novembre 1996 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
 
 	**Cité par**:
 
 	  - Code du sport. - art. A212-184 (V)
 	  - Code du sport. - art. A212-194 (V)
+	  - Code du sport. - art. R212-88 (V)
 	  - Code du sport. - art. R212-90-1 (V)
 	  - Code du sport. - art. R212-93 (V)
 
 	**Cite**:
 
-	  - Code du sport. - art. Annexe II-1 aux articles R212-88 et R212-89 (V)
-	  - Code du sport. - art. R212-88 (V)
-	  - Code du sport. - art. R212-91 (V)
+	  - Code du sport. - art. L212-1
+	  - Code du sport. - art. L212-13
+	  - Code du sport. - art. L212-9
+	  - Code du sport. - art. R212-2
+	  - Code du sport. - art. R212-90
 
 
 ###### Article R212-90
 
-Lorsqu'il existe une différence substantielle de niveau entre la qualification attestée par les titres dont se prévaut le
-déclarant et celle attestée par les diplômes, titres à finalité professionnelle et certificats de qualification mentionnés au
-premier alinéa de l'article L. 212-1 du code du sport, le préfet peut, à l'occasion de la première déclaration, après avoir
-vérifié si les connaissances acquises par l'intéressé au cours de son expérience professionnelle sont de nature à couvrir, en
-tout ou en partie, cette différence, exiger, par décision motivée, pour des raisons tenant à la sécurité des personnes, qu'il
-choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation. Il est sursis à la
-délivrance du récépissé pour la durée strictement nécessaire à cette vérification et, le cas échéant, à l'accomplissement de
-l'épreuve d'aptitude ou du stage d'adaptation. 
+Est réputé satisfaire à l'obligation de qualification requise pour exercer tout ou partie des activités dans les fonctions
+mentionnées à l'article L. 212-1 tout ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen qui se trouve dans l'une des situations suivantes : 
 
-Lorsqu'en outre la déclaration porte sur l'une des activités s'exerçant en environnement spécifique mentionnées à l'article
-R. 212-91, le préfet peut, par dérogation au droit d'option ouvert au déclarant par l'alinéa précédent, exiger de
-l'intéressé, dans les mêmes conditions, qu'il se soumette à une épreuve d'aptitude. Cette épreuve porte alors, outre sur
-l'aptitude technique du déclarant, sur sa connaissance du milieu naturel, des règles de sécurité et des dispositifs de
-secours. 
+1° Etre titulaire d'une attestation de compétences ou d'un titre de formation prescrit et délivré par l'autorité compétente
+d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen dans
+lequel l'accès à l'activité ou son exercice est réglementé et qui atteste, pour tout ou partie des activités dans les
+fonctions mentionnées à l'article L. 212-1, d'un niveau de qualification au moins équivalent au niveau immédiatement
+inférieur à celui requis sur le territoire national, au sens de l'article 11 de la directive 2005 / 36 / CE du Parlement
+européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles ; 
 
-Des arrêtés du ministre chargé des sports déterminent, pour chaque activité ou catégorie d'activité, et par référence à la
-qualification attestée par les diplômes, titres à finalité professionnelle et certificats de qualification mentionnés au
-premier alinéa de l'article L. 212-1 du code du sport, la nature, les conditions d'organisation et les modalités d'évaluation
-de l'épreuve d'aptitude et du stage d'adaptation. Ils fixent notamment la liste des centres, situés en France ou dans un
-autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen, dans lesquels l'épreuve
-d'aptitude peut être organisée.
+2° Justifier avoir exercé l'activité, dans un Etat membre de la Communauté européenne ou un autre Etat partie à l'accord sur
+l'Espace économique européen qui ne réglemente pas l'accès à l'activité ou son exercice, à temps plein pendant deux ans au
+moins au cours des dix années précédentes ou pendant une durée équivalente en cas d'exercice à temps partiel et être
+titulaire d'une ou plusieurs attestations de compétences ou d'un ou plusieurs titres de formation délivrés par l'autorité
+compétente d'un de ces Etats attestant la préparation à l'exercice de l'activité pour tout ou partie des activités dans les
+fonctions mentionnées à l'article L. 212-1 ainsi qu'un niveau de qualification au moins équivalent au niveau immédiatement
+inférieur à celui requis sur le territoire national, au sens de l'article 11 de la directive 2005 / 36 / CE du Parlement
+européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles ; 
+
+3° Etre titulaire d'un titre attestant un niveau de qualification au moins équivalent au niveau immédiatement inférieur à
+celui requis sur le territoire national au sens de l'article 11 de la directive 2005 / 36 / CE du Parlement européen et du
+Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles délivré par l'autorité
+compétente d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen
+qui ne réglemente pas l'accès à l'activité ou son exercice, sanctionnant une formation réglementée visant spécifiquement
+l'exercice de tout ou partie des activités dans les fonctions mentionnées à l'article L. 212-1 et consistant en un cycle
+d'études complété, le cas échéant, par une formation professionnelle, un stage professionnel ou une pratique
+professionnelle ; 
+
+4° Etre titulaire d'un titre acquis dans un Etat tiers et admis en équivalence dans un Etat membre de la Communauté
+européenne ou un autre Etat partie à l'accord sur l'Espace économique européen qui réglemente l'exercice de l'activité et
+justifier avoir exercé cette activité pendant au moins deux ans dans cet Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°96-1011 du 25 novembre 1996 - art. 3 (Ab)
-	  - Art. 3 du décret n°96-1011 du 25 novembre 1996 relatif à la prestation de services d'éducateur sportif par les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -18964,34 +18989,127 @@ d'aptitude peut être organisée.
 
 	**Cite**:
 
-	  - Code du sport. - art. L212-1 (V)
-	  - Code du sport. - art. R212-91 (V)
+	  - Code du sport. - art. L212-1
+
+
+###### Article R212-90-1
+
+Pour l'exercice de tout ou partie des activités dans les fonctions mentionnées à l'article L. 212-1, la qualification
+professionnelle du déclarant, attestée conformément au 1°, au 2°, au 3° ou au 4° de l'article R. 212-90, est regardée comme
+présentant une différence substantielle avec la qualification professionnelle requise sur le territoire national, lorsque la
+formation du déclarant n'est pas de nature à garantir la sécurité des pratiquants et des tiers. 
+
+Lorsque le préfet estime qu'il existe une différence substantielle et après avoir vérifié que cette différence n'est pas
+entièrement couverte par les connaissances acquises par le déclarant au cours de son expérience professionnelle, il saisit
+pour avis la commission de reconnaissance des qualifications dans le délai mentionné à l'article R. 212-89. 
+
+Dans le délai d'un mois à compter de sa saisine, la commission se prononce sur l'existence d'une différence substantielle et
+propose, le cas échéant, au préfet, si elle estime que les connaissances acquises par le déclarant au cours de son expérience
+professionnelle ne sont pas de nature à couvrir, en tout ou partie, la différence substantielle constatée, de soumettre
+celui-ci à une épreuve d'aptitude ou à un stage d'adaptation d'une durée maximum de trois ans, dont elle propose les
+modalités, en fonction de la différence substantielle constatée et des connaissances acquises par le déclarant au cours de
+son expérience professionnelle. Après avoir pris connaissance de l'avis de la commission, le préfet peut exiger que le
+déclarant choisisse soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation, dont il précise
+les modalités, en fonction de la différence substantielle constatée et des connaissances acquises par le déclarant au cours
+de son expérience professionnelle. Le déclarant fait connaître son choix entre l'épreuve d'aptitude et le stage d'adaptation
+dans un délai d'un mois. 
+
+Pour les activités s'exerçant en environnement spécifique au sens des dispositions de l'article L. 212-7, la commission,
+avant d'émettre son avis, saisit pour avis, lorsqu'ils existent, les organismes de concertation spécialisés. Après s'être
+prononcée sur l'existence d'une différence substantielle, la commission propose, le cas échéant, au préfet, par dérogation au
+droit d'option ouvert au déclarant entre l'épreuve d'aptitude et le stage d'adaptation et pour des motifs tenant à la
+sécurité des personnes, de soumettre le déclarant à une épreuve d'aptitude. Après avoir pris connaissance de l'avis de la
+commission, le préfet peut exiger que le déclarant se soumette à une épreuve d'aptitude. 
+
+Un arrêté du ministre chargé des sports détermine, pour chacune des activités s'exerçant en environnement spécifique, les
+critères d'appréciation de la différence substantielle, le programme, les modalités d'organisation et d'évaluation de
+l'épreuve d'aptitude et établit la liste des établissements dans lesquels elle est organisée. La commission propose et le
+préfet détermine celles des matières du programme sur lesquelles le déclarant est testé, en fonction de la différence
+substantielle constatée et des connaissances acquises par celui-ci au cours de son expérience professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 octobre 2004 - art. 28-2 (VT)
+	  - Arrêté du 25 octobre 2004 - art. 28-4 (VT)
+	  - Arrêté du 11 avril 2012 - art. 29-2 (V)
+	  - Code du sport. - art. A212-185 (V)
+	  - Code du sport. - art. A212-186 (V)
+	  - Code du sport. - art. A212-188 (V)
+	  - Code du sport. - art. A212-192-2 (V)
+	  - Code du sport. - art. A212-192-3 (V)
+	  - Code du sport. - art. A212-192-5 (V)
+	  - Code du sport. - art. A212-194 (V)
+	  - Code du sport. - art. A212-195 (V)
+	  - Code du sport. - art. A212-210 (V)
+	  - Code du sport. - art. A212-211 (V)
+	  - Code du sport. - art. A212-216 (V)
+	  - Code du sport. - art. A212-217 (V)
+	  - Code du sport. - art. A212-222 (V)
+	  - Code du sport. - art. A212-223 (V)
+	  - Code du sport. - art. A212-225 (V)
+	  - Code du sport. - art. D211-53-1 (V)
+	  - Code du sport. - art. D211-59 (V)
+	  - Code du sport. - art. D211-69 (VT)
+	  - Code du sport. - art. D211-76 (VT)
+	  - Code du sport. - art. D211-82-2 (VT)
+
+	**Créé par**:
+
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. L212-1
+	  - Code du sport. - art. L212-7
+	  - Code du sport. - art. R212-89
+	  - Code du sport. - art. R212-90
+
+
+###### Article R212-90-2
+
+La décision du préfet de délivrer une carte professionnelle intervient dans un délai de trois mois à compter de la
+présentation du dossier complet du déclarant. Ce délai peut être prorogé d'un mois, par décision motivée. 
+
+Dans le cas où le préfet décide de ne pas délivrer de carte professionnelle ou de soumettre le déclarant à une épreuve
+d'aptitude ou de lui faire accomplir un stage d'adaptation, cette décision est motivée.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 25 octobre 2004 - art. 28-2 (VT)
+	  - Arrêté du 11 avril 2012 - art. 29-2 (V)
+
+	**Créé par**:
+
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
 
 
 ###### Article R212-91
 
-Sont considérées comme s'exerçant en environnement spécifique les activités suivantes :
+Les activités s'exerçant en environnement spécifique au sens des dispositions de l'article L. 212-7 sont : 
 
-1° Ski et ses dérivés ;
+1° Le ski et ses dérivés ; 
 
-2° Alpinisme ;
+2° L'alpinisme ; 
 
-3° Plongée subaquatique ;
+3° La plongée subaquatique ; 
 
-4° Parachutisme ;
+4° Le parachutisme ; 
 
-5° Spéléologie.
+5° La spéléologie.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°96-1011 du 25 novembre 1996 relatif à la prestation de services d'éducateur sportif par les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen
 	  - Décret n°96-1011 du 25 novembre 1996 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
 
 	**Cité par**:
 
@@ -19000,17 +19118,45 @@ Sont considérées comme s'exerçant en environnement spécifique les activités
 	  - Code du sport. - art. R212-90 (V)
 	  - Code du sport. - art. R212-94 (V)
 
+	**Cite**:
+
+	  - Code du sport. - art. L212-7
+
+
+##### Sous-section 3 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer dans le cadre d'une prestation de services
 
 ###### Article R212-92
 
-Afin de garantir l'exercice en sécurité des activités physiques et sportives et sa capacité à alerter les secours, le
-demandeur doit justifier d'une connaissance minimale de la langue française.
+Sous réserve d'avoir adressé au préfet une déclaration dans les conditions prévues au présent article, peuvent exercer sur le
+territoire national tout ou partie des activités dans les fonctions mentionnées à l'article L. 212-1, à titre temporaire et
+occasionnel et sans y être établis, les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie
+à l'accord sur l'Espace économique européen légalement établis dans l'un de ces Etats pour y exercer les mêmes activités et
+qui, dans le cas où ni ces activités ni la formation y conduisant n'y sont réglementées, les ont exercées dans cet Etat
+pendant au moins deux années au cours des dix années précédant la prestation. 
+
+Le préfet compétent est celui du département où le déclarant compte fournir la majeure partie de la prestation. Toutefois,
+lorsque la déclaration porte sur les activités s'exerçant en environnement spécifique au sens des dispositions de l'article
+L. 212-7, le préfet compétent est précisé par arrêté du ministre chargé des sports. 
+
+La déclaration est renouvelée tous les ans. Le préfet est informé de tout changement de l'un quelconque des éléments qui y
+figurent. 
+
+Le déclarant justifie de la connaissance de la langue française exigée par l'article 1er de l'ordonnance n° 2008-507 du 30
+mai 2008 portant transposition de la directive 2005 / 36 / CE du Parlement européen et du Conseil du 7 septembre 2005
+relative à la reconnaissance des qualifications professionnelles, en particulier afin de garantir l'exercice en sécurité des
+activités physiques et sportives et sa capacité à alerter les secours. 
+
+Par cette déclaration est satisfaite l'obligation que l'article L. 322-3 impose aux employeurs en tant que responsables des
+établissements où sont pratiquées une ou des activités physiques et sportives dès lors que ceux-ci n'ont pas leur
+établissement principal en France. 
+
+Les pièces nécessaires à la déclaration de la première prestation et à son renouvellement sont fixées par arrêté du ministre
+chargé des sports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 5 du décret n°96-1011 du 25 novembre 1996 relatif à la prestation de services d'éducateur sportif par les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen
 	  - Décret n°96-1011 du 25 novembre 1996 - art. 5 (Ab)
 
 	**Cité par**:
@@ -19024,22 +19170,48 @@ demandeur doit justifier d'une connaissance minimale de la langue française.
 	  - Code du sport. - art. A212-215 (V)
 	  - Code du sport. - art. A212-221 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-2
 
 
 ###### Article R212-93
 
-Par dérogation à l'article R. 212-89, dans les cas où le déclarant ne peut se voir imposer l'une des mesures mentionnées à
-l'article R. 212-90, la déclaration est adressée au préfet un mois avant le début de la prestation.
+Lors de la première prestation, le préfet peut, aux fins d'éviter des dommages graves pour la sécurité des bénéficiaires de
+la prestation de service, procéder à une vérification préalable des qualifications professionnelles du prestataire. 
+
+Dans le mois qui suit la réception du dossier de déclaration, le préfet notifie au prestataire, selon le cas : 
+
+1° Le cas échéant, une demande motivée d'informations complémentaires ainsi que le délai supplémentaire rendu nécessaire
+avant l'expiration duquel il l'informera de sa décision, en tout état de cause avant la fin du deuxième mois qui suit la
+réception du complément d'informations ; 
+
+2° Dans le cas où il ne procède pas à la vérification des qualifications, un récépissé de déclaration de prestation de
+services qui lui permet d'exercer son activité sur le territoire national dans les mêmes conditions que les titulaires des
+diplômes, titres à finalité professionnelle ou certificats de qualification inscrits sur la liste arrêtée par le ministre
+chargé des sports prévue à l'article R. 212-2 ; 
+
+3° Dans le cas où il procède à la vérification des qualifications, sa décision, soit de lui délivrer le récépissé mentionné
+au 2°, soit de le soumettre à une épreuve d'aptitude lorsque cette vérification fait ressortir qu'il existe entre ses
+qualifications professionnelles et les qualifications professionnelles requises sur le territoire national une différence
+substantielle de nature à nuire à la sécurité des bénéficiaires de la prestation de services, afin de vérifier si les
+connaissances qu'il a acquises au cours de son expérience professionnelle sont de nature à couvrir cette différence. 
+
+Dans tous les cas, la prestation de services doit pouvoir intervenir dans les trois mois suivant la réception du dossier de
+déclaration complet. 
+
+En l'absence de réponse dans les délais ci-dessus mentionnés, le prestataire est réputé exercer légalement son activité sur
+le territoire national.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°96-1011 du 25 novembre 1996 - art. 6 (Ab)
-	  - Art. 6 du décret n°96-1011 du 25 novembre 1996 relatif à la prestation de services d'éducateur sportif par les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen
 
 	**Cité par**:
 
@@ -19070,36 +19242,41 @@ l'article R. 212-90, la déclaration est adressée au préfet un mois avant le d
 	  - Code du sport. - art. D211-82-2 (VT)
 	  - Code du sport. - art. R212-94 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. R212-89 (V)
-	  - Code du sport. - art. R212-90 (V)
+	  - Code du sport. - art. R212-2
 
 
 ###### Article R212-94
 
-Le ressortissant d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
-exerçant une des activités visées à l'article R. 212-91 informe le maire, chargé d'assurer la sécurité publique dans la
-commune, de sa présence préalablement à l'exercice de son activité.
+Les activités s'exerçant en environnement spécifique au sens des dispositions de l'article L. 212-7 sont mentionnées à
+l'article R. 212-91. 
+
+Un arrêté du ministre chargé des sports détermine, pour chacune des activités s'exerçant en environnement spécifique, les
+critères d'appréciation de la différence substantielle, le programme, les modalités d'organisation et d'évaluation de
+l'épreuve d'aptitude mentionnée à l'article R. 212-93 et établit la liste des établissements dans lesquels elle est
+organisée. Le préfet détermine celles des matières du programme sur lesquelles le déclarant est testé, en fonction de la
+différence substantielle constatée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 7 du décret n°96-1011 du 25 novembre 1996 relatif à la prestation de services d'éducateur sportif par les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen
 	  - Décret n°96-1011 du 25 novembre 1996 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1116 du 15 septembre 2009 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. R212-91 (V)
+	  - Code du sport. - art. L212-7
+	  - Code du sport. - art. R212-91
+	  - Code du sport. - art. R212-93
 
 
 ##### Section 3 : Police des activités d'enseignement
