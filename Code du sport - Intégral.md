@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-11-12
+Version Consolidée au 2009-11-19
 
 # Partie législative
 
@@ -38699,6 +38699,72 @@ générale commune aux métiers sportifs de la montagne sont équivalentes.
 	  - Code du sport. - art. A212-117 (V)
 
 
+##### Sous-section 8 : Commission de reconnaissance des qualifications
+
+###### Article A212-175-1
+
+La commission de reconnaissance des qualifications mentionnée à l'article R. 212-84 est placée auprès du ministre chargé des
+sports. Elle est présidée par le directeur des sports ou son représentant. Ses membres sont nommés par arrêté du ministre
+chargé des sports pour une durée de cinq ans. 
+
+Outre son président, sa composition est fixée comme suit : 
+
+1° Quatre représentants désignés par les ministres concernés dont : 
+
+a) Un chef de service déconcentré départemental de l'Etat chargé des sports ou son représentant ; 
+
+b) Un chef de service déconcentré régional de l'Etat chargé des sports ou son représentant ; 
+
+c) Un représentant du ministre de l'éducation nationale ; 
+
+d) Un représentant du ministre de l'enseignement supérieur ; 
+
+2° Un représentant du Comité national olympique et sportif français désigné par son président ; 
+
+3° Deux représentants désignés par la branche professionnelle du sport dont un représentant des employeurs et un représentant
+des salariés ; 
+
+4° Un représentant de l'association des directeurs techniques nationaux désigné par son président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 28 octobre 2009 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 11 janvier 2013 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code du sport. - art. A212-175-9 (T)
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-84
+
+
+###### Article A212-175-2
+
+La commission édicte un règlement intérieur sur proposition de son président. Le secrétariat de la commission est assuré par
+la sous-direction de l'emploi et des formations de la direction des sports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 28 octobre 2009 - art. 2
+
+	**Liens**:
+
+	  - TRANSFERE: Arrêté du 11 janvier 2013 - art. 3
+
+	**Nouveaux textes**:
+
+	  - Code du sport. - art. A212-175-10 (V)
+
+
 ##### Section 2 : Obligation de déclaration d'activité
 
 ##### Sous-section 1 : Principes
@@ -38852,7 +38918,69 @@ cinq ans.
 	  - Code du sport. - art. R212-86 (V)
 
 
-##### Sous-section 2 : Prestation de services d'éducateur sportif par les ressortissants d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'Espace économique européen
+##### Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services.
+
+##### Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services
+
+##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France
+
+###### Article A212-182
+
+Un exemplaire du formulaire nécessaire à la déclaration prévue à l'article R. 212-88 figure en annexe II-12-2-a. Ce
+formulaire précise la liste des pièces nécessaires à cette déclaration.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 30 octobre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe II-12-2 a (V)
+	  - Code du sport. - art. R212-88
+
+
+###### Article A212-182-1
+
+Un exemplaire du formulaire nécessaire au renouvellement de la déclaration prévue à l'article R. 212-88 figure en annexe
+II-12-2-b. Ce formulaire précise la liste des pièces nécessaires au renouvellement de cette déclaration. 
+
+Lors de ce renouvellement, il appartient au préfet de département de s'assurer que le déclarant n'a pas fait l'objet d'une
+condamnation pour crime ou pour l'un des délits mentionnés à l'article L. 212-9 en demandant aux services judiciaires un
+extrait du casier judiciaire (bulletin n° 2) datant de moins de trois mois.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 30 octobre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe II-12-2 b (V)
+	  - Code du sport. - art. L212-9
+	  - Code du sport. - art. R212-88
+
+
+##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services
+
+###### Article A212-182-2
+
+Un exemplaire du formulaire nécessaire à la déclaration prévue à l'article R. 212-92 figure en annexe II-12-3. Ce formulaire
+précise la liste des pièces nécessaires à cette déclaration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 30 octobre 2009 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe II-12-3 (V)
+	  - Code du sport. - art. R212-92
+
 
 #####  Paragraphe 2  Ski et activités assimilées
 
@@ -39337,76 +39465,6 @@ II-15 et à l'annexe II-16 du présent code.
 	  - Code du sport. - art. Annexe II-15 (art. A212-208)
 	  - Code du sport. - art. Annexe II-16 (art. A212-208)
 
-
-##### Sous-section 2 : Ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services.
-
-##### Paragraphe 1 : Déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France ou y exercer dans le cadre d'une prestation de services
-
-##### Sous-paragraphe 1 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir en France
-
-###### Article A212-182
-
-Un exemplaire du formulaire nécessaire à la déclaration prévue à l'article R. 212-88 figure en annexe II-12-2-a. Ce
-formulaire précise la liste des pièces nécessaires à cette déclaration.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 30 octobre 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. Annexe II-12-2 a (V)
-	  - Code du sport. - art. R212-88
-
-
-###### Article A212-182-1
-
-Un exemplaire du formulaire nécessaire au renouvellement de la déclaration prévue à l'article R. 212-88 figure en annexe
-II-12-2-b. Ce formulaire précise la liste des pièces nécessaires au renouvellement de cette déclaration. 
-
-Lors de ce renouvellement, il appartient au préfet de département de s'assurer que le déclarant n'a pas fait l'objet d'une
-condamnation pour crime ou pour l'un des délits mentionnés à l'article L. 212-9 en demandant aux services judiciaires un
-extrait du casier judiciaire (bulletin n° 2) datant de moins de trois mois.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 30 octobre 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. Annexe II-12-2 b (V)
-	  - Code du sport. - art. L212-9
-	  - Code du sport. - art. R212-88
-
-
-##### Sous-paragraphe 2 : Pièces nécessaires à la déclaration d'activité des ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen souhaitant exercer en France dans le cadre d'une prestation de services
-
-###### Article A212-182-2
-
-Un exemplaire du formulaire nécessaire à la déclaration prévue à l'article R. 212-92 figure en annexe II-12-3. Ce formulaire
-précise la liste des pièces nécessaires à cette déclaration.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 30 octobre 2009 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. Annexe II-12-3 (V)
-	  - Code du sport. - art. R212-92
-
-
-#####  Paragraphe 2  Ski et activités assimilées
-
-#####  Paragraphe 3  Plongée subaquatique
-
-#####  Paragraphe 4  Canyonisme
 
 ###  TITRE II : SPORTIFS
 
