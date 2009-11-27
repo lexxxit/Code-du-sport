@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-11-19
+Version Consolidée au 2009-11-28
 
 # Partie législative
 
@@ -13480,132 +13480,303 @@ fixés par arrêté du ministre chargé de la jeunesse et du ministre chargé de
 
 ##### Section 1 : Etablissements publics de formation
 
-##### Sous-section 1 : L'Institut national du sport et de l'éducation physique
+##### Sous-section 1 : L'Institut national du sport, de l'expertise et de la performance
 
-##### Paragraphe 1 : Missions
+##### Paragraphe 1 : Objet et missions
 
-###### Article D211-1
+###### Article R211-1
 
-L'Institut national du sport et de l'éducation physique participe à la politique nationale de développement des activités
-physiques et sportives, particulièrement dans le domaine du sport de haut niveau.
+L'Institut national du sport, de l'expertise et de la performance (INSEP) est un établissement public à caractère
+scientifique, culturel et professionnel placé sous la tutelle du ministre chargé des sports, constitué sous la forme d'un
+grand établissement au sens de l'article L. 717-1 du code de l'éducation. Il est soumis aux dispositions de ce même code et
+des textes pris pour son application, dans les conditions prévues par le présent code. 
 
-L'institut est chargé de la formation et de la préparation des sportifs de haut niveau et participe à la recherche et à la
-diffusion des connaissances dans le domaine des activités physiques et sportives.
-
-Pour la mise en oeuvre de ses missions, l'institut peut passer des conventions avec les établissements français et étrangers
-de formation.
+Son siège est à Paris.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code de l'éducation L463-2 (paragraphe II)
-	  - Code de l'éducation - art. L463-2 (Ab)
+	  - Code de l'éducation - art. L717-1 (V)
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D717-7 (V)
 
+	**Anciens textes**:
 
-###### Article D211-2
+	  - Code de l'éducation - art. L463-2 (Ab)
 
-L'Institut national du sport et de l'éducation physique délivre des diplômes et brevets dont les modalités de préparation et
-d'attribution sont fixées par arrêté du ministre chargé des sports et, éventuellement, des autres ministres intéressés.
+
+###### Article R211-1-1
+
+En application de l'article L. 711-6 du code de l'éducation, les dispositions des articles L. 611-1, L. 612-1, L. 612-5, L.
+612-7, L. 613-1 à L. 613-5 de ce code, celles des chapitres Ier, IV, VII et IX du titre Ier du livre VII, celles des articles
+L. 712-8 et L. 951-1, ainsi que les autres dispositions du même code auxquelles elles renvoient, sont étendues à
+l'établissement. Sont toutefois exceptés de cette extension les articles L. 711-5 et L. 719-1 à L. 719-3.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 11 (Ab)
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Code de l'éducation - art. L611-1 (V)
+	  - Code de l'éducation - art. L612-1 (V)
+	  - Code de l'éducation - art. L612-5 (V)
+	  - Code de l'éducation - art. L612-7 (V)
+	  - Code de l'éducation - art. L613-1 (V)
+	  - Code de l'éducation - art. L613-5 (V)
+	  - Code de l'éducation - art. L711-5 (V)
+	  - Code de l'éducation - art. L711-6 (V)
+	  - Code de l'éducation - art. L712-8 (V)
+	  - Code de l'éducation - art. L719-1 (V)
+	  - Code de l'éducation - art. L719-3 (V)
+	  - Code de l'éducation - art. L951-1 (V)
+
+
+###### Article R211-1-2
+
+Le ministre chargé des sports exerce les attributions dévolues au ministre chargé de l'enseignement supérieur et au recteur
+d'académie par les articles L. 711-8, L. 712-8, L. 719-4, L. 719-5, L. 719-7, L. 719-8, L. 719-13 et L. 953-2 du code de
+l'éducation et par les textes réglementaires pris pour leur application, à l'exception des dispositions relatives à la
+nomenclature budgétaire, au budget de gestion et à l'approbation du plan comptable des établissements publics à caractère
+scientifique, culturel et professionnel.
+
+L'inspection générale de la jeunesse et des sports exerce les attributions dévolues à l'inspection générale de
+l'administration de l'éducation nationale et de la recherche par l'article L. 719-9 du code de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L711-8 (V)
+	  - Code de l'éducation - art. L712-8 (V)
+	  - Code de l'éducation - art. L719-13 (V)
+	  - Code de l'éducation - art. L719-4 (V)
+	  - Code de l'éducation - art. L719-5 (V)
+	  - Code de l'éducation - art. L719-7 (V)
+	  - Code de l'éducation - art. L719-8 (V)
+	  - Code de l'éducation - art. L719-9 (V)
+	  - Code de l'éducation - art. L953-2 (V)
+
+
+###### Article R211-2
+
+L'Institut national du sport, de l'expertise et de la performance participe à la politique nationale de développement des
+activités physiques et sportives, particulièrement dans le domaine du sport de haut niveau, et contribue à la protection de
+la santé des sportifs et au respect de l'éthique sportive. 
+
+A ce titre : 
+
+1° Il assure, en liaison avec les fédérations sportives, la formation et la préparation de sportifs de haut niveau et met en
+œuvre le double projet consistant à concilier la recherche de la performance sportive et la réussite scolaire, universitaire
+et professionnelle du sportif ; 
+
+2° Il favorise, par son expertise, la diffusion des bonnes pratiques et contribue au développement cohérent et à la mise en
+commun de ressources et d'activités au sein d'un réseau national consacré au sport de haut niveau et constitué, notamment,
+des autres établissements publics nationaux du ministère chargé des sports et des structures regroupées au sein des filières
+d'accès au sport de haut niveau ; 
+
+3° Il participe aux formations initiales et continues des acteurs du développement du sport, notamment à la formation
+continue des équipes d'encadrement des fédérations sportives dont une discipline au moins est reconnue de haut niveau ; 
+
+4° Il délivre des titres propres, les diplômes nationaux que le ministre chargé des sports l'habilite à délivrer et les
+diplômes et titres nationaux que le ministre chargé de l'enseignement supérieur l'habilite à délivrer, seul ou conjointement
+avec d'autres établissements d'enseignement supérieur ; 
+
+5° Il concourt à des programmes de recherche scientifique, médicale, technologique en matière d'activités physiques et
+sportives, produit et diffuse des connaissances liées au sport de haut niveau et valorise ses ressources documentaires ; 
+
+6° Il mène des actions en matière de relations internationales et de coopération dans le domaine du sport de haut niveau,
+passe des conventions avec des organismes, français ou étrangers, pour mettre en œuvre ses missions et associe, en tant que
+de besoin, à ses activités de recherche, d'enseignement ou d'expertise des personnes relevant d'autres institutions,
+françaises ou étrangères.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. D653-1 (VD)
 
 
-##### Paragraphe 2 : Fonctionnement
+###### Article R211-2-1
 
-###### Article D211-3
+L'Institut national du sport, de l'expertise et de la performance conclut avec le ministre chargé des sports un contrat de
+performance pluriannuel qui définit les objectifs qui lui sont assignés et les indicateurs associés.
 
-L'Institut national du sport et de l'éducation physique est administré par un conseil d'administration et par un directeur.
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+##### Paragraphe 2 : Organisation et fonctionnement
+
+###### Article R*211-7
+
+Le président du conseil d'administration est élu au sein du conseil, parmi les personnalités mentionnées au 5° de l'article
+R. 211-4, pour une durée de quatre ans renouvelable une fois. 
+
+En cas d'empêchement temporaire, le président du conseil d'administration est remplacé dans les conditions prévues par le
+règlement intérieur. 
+
+En cas d'empêchement définitif, il est procédé, dans un délai de trois mois, à l'élection d'un nouveau président selon les
+modalités prévues au premier alinéa.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 2 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R211-4 (V)
+
+
+###### Article R*211-8
+
+Le directeur général de l'établissement est nommé par arrêté du ministre chargé des sports pour une durée de quatre ans
+renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+###### Article R211-3
+
+L'Institut national du sport, de l'expertise et de la performance est administré par un conseil d'administration. Il comporte
+un conseil scientifique, médical et de formation ainsi qu'un conseil de la vie du sportif et du stagiaire.
+
+L'Institut est dirigé par un directeur général, assisté par deux directeurs généraux adjoints, respectivement chargés
+d'assurer, sous son autorité, la coordination de la politique sportive et la gestion de l'établissement. 
+
+Il comprend des directions, des départements, des unités, des services et des missions créées dans les conditions fixées à
+l'article R. 211-6. 
+
+Les responsables des directions, des départements, des unités, des services et des missions sont nommés par le directeur
+général dans les conditions fixées par le règlement intérieur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
 	  - Décret n°76-1330 du 31 décembre 1976 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. R211-6 (V)
 
 	**Cité par**:
 
 	  - Code du sport. - art. R211-12 (V)
 
 
-###### Article D211-4
+###### Article R211-4
 
-Le conseil d'administration comprend :
+Le conseil d'administration comprend vingt-sept membres ainsi répartis : 
 
-1° Six membres de droit :
+1° Deux membres de droit : 
 
-a) Le directeur des sports ;
+a) Le directeur des sports ou son représentant ; 
 
-b) Deux autres représentants du ministre chargé des sports ;
+b) Le président du Comité national olympique et sportif français ou son représentant ; 
 
-c) Un représentant du ministre chargé du budget ;
+2° Sept représentants de l'Etat désignés par le ministre qu'ils représentent, dont deux représentants du ministre chargé des
+sports, un représentant du ministre chargé de la santé, un représentant du ministre chargé de l'enseignement supérieur, un
+représentant du ministre chargé de l'éducation, un représentant du ministre chargé du budget et un représentant du ministre
+de la défense. 
 
-d) Un représentant du ministre chargé de l'éducation ;
+Les membres mentionnés au 2° sont nommés par arrêté du ministre chargé des sports et peuvent se faire représenter par leur
+suppléant, désigné et nommé dans les mêmes conditions ; 
 
-e) Un représentant du ministre chargé de l'enseignement supérieur ;
+3° Neuf membres élus : 
 
-2° Six membres siégeant en raison de leur compétence :
+a) Un représentant des personnels administratifs, techniques, ingénieurs de recherche ou de formation ; 
 
-a) Le président du Comité national olympique et sportif français ou son représentant ;
+b) Deux représentants des professeurs ou assimilés ; 
 
-b) Cinq membres désignés par le ministre chargé des sports.
+c) Un représentant des personnels chargés d'une mission de formation et de recherche relevant du décret n° 2006-733 du 23
+juin 2006 relatif aux emplois de cadre supérieur technique ou scientifique de l'Institut national des sports et de
+l'éducation physique ; 
 
-3° Six membres élus par catégorie au scrutin majoritaire à un tour au sein de l'établissement :
+d) Un représentant des autres enseignants-chercheurs et enseignants ; 
 
-a) Deux représentants des personnels enseignants ;
+e) Un représentant des sportifs de haut niveau et des stagiaires en formation ; 
 
-b) Un représentant des personnels administratifs ;
+f) Deux représentants des personnels mentionnés à l'article R. 131-16 exerçant au sein de l'établissement, dont un
+représentant des responsables des pôles de haut niveau implantés dans l'établissement ; 
 
-c) Un représentant des personnels ouvriers et des personnels techniques et de service ;
+g) Un représentant des personnels médicaux et paramédicaux. 
 
-d) Un représentant des stagiaires en cours de stage ;
+Les membres mentionnés au 3° ci-dessus sont élus pour quatre ans et peuvent se faire représenter par leur suppléant, élu dans
+les mêmes conditions ; 
 
-e) Un représentant des professeurs préparant le diplôme de l'institut.
+4° Un conseiller de Paris désigné par le conseil de Paris ; 
 
-Les membres de droit sont désignés par le ministre qu'ils représentent. Ils peuvent être représentés par un suppléant désigné
-dans les mêmes conditions.
+5° Huit membres nommés : 
 
-Chaque membre élu peut être représenté par un suppléant élu dans les mêmes conditions que le titulaire.
+a) Deux présidents de fédération sportive désignés par le président du Comité national olympique et sportif français ; 
 
-Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaires.
+b) Un membre désigné en son sein par la commission des athlètes du Comité national olympique et sportif français ; 
 
-Un arrêté du ministre chargé des sports fixe la composition nominative du conseil d'administration de l'établissement.
+c) Un chef d'entreprise ou cadre dirigeant d'entreprise désigné par le ministre chargé des sports ; 
+
+d) Un directeur technique national désigné par le ministre chargé des sports ; 
+
+e) Trois personnalités qualifiées en raison de leurs compétences en lien avec les missions de l'Institut national du sport,
+de l'expertise et de la performance désignées par le ministre chargé des sports. 
+
+Les membres mentionnés au 5° sont nommés pour quatre ans par arrêté du ministre chargé des sports, ils peuvent donner
+procuration à un autre membre du conseil s'ils sont empêchés d'assister à une séance. 
+
+Un membre du conseil ne peut être porteur de plus d'une procuration.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 1 à 18 de l'article 3 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
 	  - Décret n°76-1330 du 31 décembre 1976 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Cite**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2006-733 du 23 juin 2006 (V)
+	  - Code du sport. - art. R131-16 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 	**Cité par**:
 
@@ -13614,46 +13785,91 @@ Un arrêté du ministre chargé des sports fixe la composition nominative du con
 	  - Code du sport. - art. R211-7 (V)
 
 
-###### Article D211-5
+###### Article R211-5
 
-Le directeur, l'agent comptable de l'établissement, l'autorité chargée du contrôle financier et les représentants du ministre
-chargé des sports intéressés par les questions inscrites à l'ordre du jour assistent aux réunions du conseil avec voix
-consultative.
-
-Peut également assister avec voix consultative aux séances du conseil toute personne dont il apparaîtrait utile au président
-du conseil d'administration de recueillir l'avis.
+Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président. Il peut être également
+réuni à la demande de la majorité de ses membres en exercice.L'ordre du jour est fixé par le président.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Al. 19 et 20 de l'article 3 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 3 (Ab)
 
 	**Cite**:
 
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 3
+
+	**Anciens textes**:
+
 	  - Décret n°76-1330 du 31 décembre 1976 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 
-###### Article D211-6
+###### Article R211-6
 
-Le président et le vice-président du conseil d'administration sont désignés par le ministre chargé des sports parmi les
-membres de ce conseil d'administration, après consultation de celui-ci.
+Le conseil d'administration règle, par ses délibérations, les affaires de l'établissement. 
+
+Il délibère notamment sur : 
+
+1° Le projet d'établissement et le contrat de performance pluriannuel ; 
+
+2° Le règlement intérieur, le règlement des études et le règlement disciplinaire ; 
+
+3° L'organisation interne de l'établissement dans les conditions définies à l'article L. 711-7 du code de l'éducation,
+notamment la création des directions, des départements, des unités, des services et des missions qui le composent ; 
+
+4° Les conditions d'admission des sportifs au sein de l'établissement ; 
+
+5° Les axes de formation et d'enseignement, les créations de titres propres, les demandes d'habilitation à délivrer des
+diplômes nationaux ; 
+
+6° Les axes de recherche de l'établissement et la valorisation de ses résultats ; 
+
+7° Le budget et ses décisions modificatives ; 
+
+8° Le tarif des prestations proposées par l'établissement ; 
+
+9° Le compte financier, l'affectation du résultat et l'utilisation des réserves ; 
+
+10° Les acquisitions, locations et cessions d'immeubles ; 
+
+11° Les contrats, conventions et marchés ; 
+
+12° Les créations, renouvellements et suppressions d'emplois au sein de l'établissement ; 
+
+13° Les dépôts de marques, brevets et de tous titres de propriété intellectuelle ; 
+
+14° La participation à toute forme de groupement public ou privé ; 
+
+15° L'acceptation des dons et legs ; 
+
+16° Les actions en justice et les transactions ainsi que le recours à l'arbitrage en cas de litiges nés de l'exécution de
+contrats passés avec des organismes étrangers ; 
+
+17° Les emprunts ; 
+
+18° La création de filiales et la prise de participations ainsi que la création de fondations. 
+
+Le conseil d'administration peut déléguer au directeur général de l'Institut national du sport, de l'expertise et de la
+performance, dans les limites qu'il fixe, les attributions mentionnées aux 10° à 16°. Le directeur général rend compte des
+décisions prises dans le cadre des attributions ainsi déléguées à la plus prochaine réunion du conseil d'administration. 
+
+Le directeur général, les directeurs généraux adjoints, l'agent comptable, l'autorité chargée du contrôle financier ainsi que
+toute personne dont la présence est jugée utile par le président assistent aux réunions avec voix consultative.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
 	  - Décret n°76-1330 du 31 décembre 1976 - art. 4 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L711-7 (V)
 
 	**Cité par**:
 
@@ -13662,321 +13878,568 @@ membres de ce conseil d'administration, après consultation de celui-ci.
 	  - Code du sport. - art. R211-9 (V)
 
 
-###### Article D211-7
+###### Article R211-9
 
-Le mandat des membres du conseil d'administration est de trois ans, à l'exception de celui des représentants des stagiaires
-et des professeurs préparant le diplôme de l'institut qui est d'un an. 
+Le directeur général assure la direction de l'établissement.
 
-Lorsqu'un membre du conseil cesse de pouvoir exercer son mandat il est remplacé pour la durée du mandat restant à courir,
-sauf si la vacance survient moins d'un mois avant la date prévue pour le renouvellement. 
+A cet effet, il exerce notamment les attributions suivantes : 
 
-Tous les mandats de membre de conseil d'administration sont renouvelables. 
+1° Il prépare le budget et l'exécute ; 
 
-Les fonctions de membre du conseil d'administration sont exercées à titre gratuit. Elles ouvrent droit, toutefois, au
-remboursement des frais de déplacement et de séjour dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006
-fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels
-civils de l'Etat.
+2° Il est ordonnateur des recettes et des dépenses de l'établissement ; 
 
-**Liens relatifs à cet article**
+3° Il prépare et assure le suivi du contrat de performance pluriannuel ; 
 
-	**Anciens textes**:
+4° Il prépare et met en œuvre les délibérations du conseil d'administration ; 
 
-	  - Art. 5 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 5 (Ab)
+5° Il soumet le règlement intérieur, le règlement des études et le règlement disciplinaire de l'établissement à l'approbation
+du conseil d'administration et veille à leur mise en œuvre ; 
 
-	**Cite**:
+6° Il a autorité sur l'ensemble des personnels en fonction dans l'établissement ; 
 
-	  - Décret n°2006-781 du 3 juillet 2006 (V)
+7° Il nomme à toutes les fonctions de l'établissement pour lesquelles aucune autre autorité n'a reçu pouvoir de nomination ; 
 
-	**Codifié par**:
+8° Il est responsable du bon fonctionnement de l'établissement et de la sécurité et exerce, en matière de maintien de
+l'ordre, les compétences attribuées au président d'université dans les conditions prévues par l'article L. 712-2 du code de
+l'éducation ; 
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article D211-8
-
-Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président ou à la demande du ministre
-chargé des sports. Il peut être également réuni à la demande de la majorité de ses membres. L'ordre du jour est fixé par le
-président.
-
-Les délibérations du conseil ne sont valables que si la majorité de ses membres sont présents ou représentés. Si ce quorum
-n'est pas atteint, le conseil est convoqué à nouveau dans un délai de quinze jours au plus et peut alors délibérer
-valablement quel que soit le nombre des membres présents ou représentés.
-
-Les délibérations sont adoptées à la majorité des membres présents. En cas de partage égal des voix, celle du président est
-prépondérante. Les procès-verbaux des délibérations sont consignés dans un registre spécial.
-
-Un exemplaire de chaque procès-verbal signé par le président est adressé dans les quinze jours au ministre chargé des sports
-qui en accuse réception dans les huit jours.
+9° Il conclut les contrats, conventions et marchés dans le respect des dispositions de l'article R. 211-6.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 6 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article D211-9
-
-Le conseil d'administration délibère notamment sur :
-
-1° Le règlement intérieur de l'établissement ;
-
-2° L'organisation générale de l'établissement ;
-
-3° Les objectifs et le programme d'activité, ainsi que la réalisation de ces objectifs, notamment par l'étude du rapport
-l'activité établi chaque année par le directeur ;
-
-4° Le budget et ses décisions modificatives ;
-
-5° Le compte financier, l'affectation des résultats et l'utilisation des fonds de réserve ;
-
-6° Le taux des redevances dues à l'établissement et des prestations qu'il fournit ;
-
-7° Les emprunts ;
-
-8° L'acceptation des dons et legs ;
-
-9° Les actions en justice, les litiges et les transactions ;
-
-10° L'acquisition, l'aliénation ou la location des biens immobiliers.
-
-Le conseil peut déléguer certains pouvoirs, à l'exclusion du vote du budget et du compte financier, au directeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 7 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
 	  - Décret n°76-1330 du 31 décembre 1976 - art. 7 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article D211-10
-
-Les délibérations portant sur le budget et ses modifications ainsi que sur le compte financier sont approuvées par les
-ministres chargés du budget et des sports dans les conditions déterminées par le décret n° 99-575 du 8 juillet 1999 relatif
-aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat. 
-
-Les emprunts sont approuvés par arrêté des ministres chargés du budget et des sports. 
-
-Les autres délibérations du conseil d'administration sont exécutoires à l'expiration du mois qui suit la date de réception de
-l'accusé de réception du procès-verbal, à moins que dans ce délai le ministre chargé des sports n'y fasse opposition.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 8 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 8 (Ab)
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Décret n°99-575 du 8 juillet 1999 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Code de l'éducation - art. L712-2 (V)
+	  - Code du sport. - art. R211-6 (V)
 
 
-###### Article D211-11
+###### Article R211-10
 
-Le directeur de l'Institut national du sport et de l'éducation physique est nommé par arrêté du ministre chargé des sports.
+Sauf pour les compétences qui lui sont déléguées en propre par le conseil d'administration, le directeur général peut
+déléguer sa signature aux : 
 
-**Liens relatifs à cet article**
+1° Directeurs généraux adjoints ; 
 
-	**Anciens textes**:
+2° Responsables des structures internes mentionnées au 3° de l'article R. 211-6 dans leur domaine de compétence. 
 
-	  - Al. 1 de l'article 9 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 9 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article D211-12
-
-Le directeur de l'Institut national du sport et de l'éducation physique prépare et exécute les délibérations du conseil
-d'administration. Il représente l'institut dans tous les actes de la vie civile. Il est autorisé à ester en justice par le
-conseil d'administration.
-
-Il assure la gestion administrative, technique, pédagogique et financière de l'établissement dont il ordonnance les dépenses
-et les recettes.
-
-Il recrute le personnel et nomme aux fonctions pour lesquelles aucun autre mode de nomination n'est prévu. Il a autorité sur
-le personnel.
-
-Il prépare le règlement intérieur et rend compte de sa gestion au conseil d'administration.
+Le conseil d'administration est informé des délégations de signature.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 2 à 5 de l'article 9 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 8 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R211-6 (V)
+
+
+###### Article R211-11
+
+Les directeurs généraux adjoints de l'établissement sont nommés, pour une durée de quatre ans, par arrêté du ministre chargé
+des sports, sur proposition du directeur général.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
 	  - Décret n°76-1330 du 31 décembre 1976 - art. 9 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+###### Article R211-12
+
+Le conseil scientifique, médical et de formation comprend vingt-sept membres ainsi répartis : 
+
+1° Le directeur général ; 
+
+2° Le directeur général adjoint chargé de la politique sportive ; 
+
+3° Cinq membres élus pour quatre ans au sein de l'établissement dont : 
+
+a) Un représentant des professeurs ou assimilés ; 
+
+b) Un représentant des personnels chargés d'une mission de formation et de recherche relevant du décret n° 2006-733 du 23
+juin 2006 relatif aux emplois de cadre supérieur technique ou scientifique de l'Institut national des sports et de
+l'éducation physique ; 
+
+c) Un représentant des autres enseignants-chercheurs et enseignants ; 
+
+d) Un représentant du personnel médical ; 
+
+e) Un représentant du personnel paramédical ; 
+
+4° Deux présidents de fédération sportive désignés par le président du Comité national olympique et sportif français ; 
+
+5° Une personnalité qualifiée désignée par le président du Comité national olympique et sportif français ; 
+
+6° Un membre du Centre national de la recherche scientifique désigné par son président ; 
+
+7° Un membre de l'Institut national de la santé et de la recherche médicale désigné par son président-directeur général ; 
+
+8° Une personnalité qualifiée désignée par le ministre chargé des sports ; 
+
+9° Une personnalité qualifiée en matière de recherche dans le domaine du sport désignée par le ministre chargé de
+l'enseignement supérieur ; 
+
+10° Une personnalité qualifiée en matière de médecine dans le domaine du sport désignée par le directeur général de
+l'Assistance publique-hôpitaux de Paris ; 
+
+11° Trois personnalités qualifiées désignées, sur proposition du directeur général de l'établissement, par le conseil
+d'administration en-dehors de lui-même ; 
+
+12° Cinq responsables des structures internes mentionnées à l'article R. 211-3 désignés par le directeur général ; 
+
+13° Un directeur technique national désigné par le ministre chargé des sports ; 
+
+14° Deux directeurs d'établissements publics nationaux relevant de la tutelle du ministre chargé des sports et désignés par
+celui-ci ; 
+
+15° Un sportif de haut niveau désigné par le directeur général. 
+
+Le directeur des sports ou son représentant assiste aux séances avec voix consultative. 
+
+Le conseil élit un président en son sein, selon les modalités définies par le règlement intérieur. 
+
+Pour chacun des membres élus, un suppléant est désigné dans les mêmes conditions. 
+
+Les membres non élus empêchés d'assister à tout ou partie d'une séance peuvent donner procuration à un autre membre du
+conseil. Un membre du conseil ne peut être porteur de plus d'une procuration.
+
+A l'exception des membres de droit et des membres élus, les membres du conseil scientifique médical et de formation sont
+nommés pour une durée de quatre ans par décision du directeur général.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 9 (Ab)
+
+	**Cite**:
+
+	  - Décret n°2006-733 du 23 juin 2006 (V)
+	  - Code du sport. - art. R211-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 18 mars 2010 - art. 3 (V)
 
 
-###### Article D211-13
+###### Article R211-12-1
 
-L'organisation interne de l'Institut national du sport et de l'éducation physique est fixée par arrêté du ministre chargé des
-sports.
+Le conseil scientifique, médical et de formation est notamment consulté par le conseil d'administration sur : 
+
+1° Le programme de recherche de l'établissement ainsi que les actions de recherche auxquelles il concourt ; 
+
+2° La stratégie de l'établissement en matière de protection de la santé des sportifs ; 
+
+3° Les orientations en matière de formation, la création ou la suppression de titres et de diplômes ; 
+
+4° Les axes stratégiques à développer au sein du réseau national concernant le sport de haut niveau ; 
+
+5° L'évaluation et l'expertise en matière de sport de haut niveau. 
+
+Il est en outre saisi de toute question que lui soumettent le conseil d'administration ou le directeur général.
 
 **Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+###### Article R211-12-2
+
+Le conseil scientifique, médical et de formation se réunit au moins une fois par an sur convocation de son président. Il peut
+être également réuni à la demande de la majorité de ses membres en exercice.L'ordre du jour est fixé par le président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+###### Article R211-13
+
+4° Dix membres élus pour quatre ans au sein de l'établissement dont : 
+
+a) Un représentant des professeurs ou assimilés ; 
+
+b) Un représentant des personnels chargés d'une mission de formation et de recherche relevant du décret n° 2006-733 du 23
+juin 2006 relatif aux emplois de cadre supérieur technique ou scientifique de l'Institut national des sports et de
+l'éducation physique ; 
+
+c) Un représentant des autres enseignants-chercheurs et enseignants ; 
+
+d) Un représentant des personnels techniques et administratifs, ingénieurs de recherche ou de formation ; 
+
+e) Un représentant des entraîneurs des pôles de haut niveau implantés dans l'établissement ; 
+
+f) Deux représentants des sportifs de haut niveau ; 
+
+g) Un représentant des stagiaires en formation ; 
+
+h) Un représentant du personnel médical ; 
+
+i) Un représentant du personnel paramédical ; 
+
+5° Deux personnalités qualifiées désignées respectivement par le directeur général de l'Institut national du sport, de
+l'expertise et de la performance et par le président du Comité national olympique et sportif français ; 
+
+6° Un membre désigné en son sein par la commission des athlètes du Comité national olympique et sportif français. 
+
+Le conseil élit un président en son sein, selon les modalités définies par le règlement intérieur. 
+
+Pour chacun des membres élus, un suppléant est désigné dans les mêmes conditions. 
+
+Les membres non élus empêchés d'assister à tout ou partie d'une séance peuvent donner procuration à un autre membre du
+conseil. Un membre du conseil ne peut être porteur de plus d'une procuration.
+
+A l'exception des membres de droit et des membres élus, les membres du conseil de la vie du sportif et du stagiaire sont
+nommés pour une durée de quatre ans par décision du directeur général.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 10 (Ab)
+
+	**Cite**:
+
+	  - Décret n°2006-733 du 23 juin 2006 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 18 mars 2010 - art. 3 (V)
 	  - Code du sport. - art. R211-13-3 (V)
 
-	**Anciens textes**:
 
-	  - Art. 10 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 10 (Ab)
+###### Article R211-13-1
 
-	**Codifié par**:
+Le conseil de la vie du sportif et du stagiaire est consulté par le conseil d'administration sur les prestations de nature à
+favoriser les activités sportives de loisir, culturelles, sociales ou associatives qui sont proposées aux sportifs de haut
+niveau et aux cadres en formation ainsi que sur les conditions de vie et d'entraînement au sein de l'établissement.
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 
-##### Paragraphe 3 : Régime comptable et financier
+###### Article R211-13-2
 
-###### Article D211-14
+Le conseil de la vie du sportif et du stagiaire se réunit au moins une fois par an sur convocation de son président. Il peut
+être également réuni à la demande de la majorité de ses membres en exercice.L'ordre du jour est fixé par le président.
 
-L'institut est soumis au régime financier et comptable défini par le décret du n° 53-1227 du 10 décembre 1953 relatif à la
-réglementation comptable applicable aux établissements publics nationaux à caractère administratif et par les articles 151 à
-189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique ainsi qu'au contrôle
-financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat.
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+###### Article R211-13-3
+
+Le directeur général peut, après consultation du conseil de la vie du sportif et du stagiaire siégeant en formation
+disciplinaire, prononcer une sanction disciplinaire contre tout sportif ou stagiaire ayant contrevenu aux règles de
+fonctionnement de l'établissement. 
+
+Cette formation disciplinaire comprend les membres mentionnés aux 1°, 2° et 3° ainsi que les membres mentionnés aux e, f et g
+du 4° de l'article R. 211-13. 
+
+Les sanctions disciplinaires sont : 
+
+1° L'avertissement ; 
+
+2° Le blâme ; 
+
+3° L'exclusion pour une durée déterminée ; 
+
+4° L'exclusion définitive. 
+
+La formation disciplinaire est présidée par le directeur général.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R211-13 (V)
+
+
+###### Article R211-14
+
+Les membres des conseils exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour peuvent
+être remboursés dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 12 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
 	  - Décret n°76-1330 du 31 décembre 1976 - art. 12 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
-	  - Décret n°2005-757 du 4 juillet 2005 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 
-###### Article D211-15
+###### Article R211-15
 
-L'agent comptable est nommé par arrêté des ministres chargés du budget et des sports.
+Les séances des conseils ne sont pas publiques. Les délibérations font l'objet d'une publicité selon des modalités fixées par
+le conseil d'administration.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 14 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation
 	  - Décret n°76-1330 du 31 décembre 1976 - art. 14 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°76-1330 1976-12-31
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 
-###### Article D211-16
+###### Article R211-16
 
-Les ressources de l'Institut national du sport et de l'éducation physique comprennent notamment :
+L'ordre du jour des conseils et les documents s'y rapportant sont communiqués aux membres des conseils au moins huit jours à
+l'avance. 
 
-1° Les subventions allouées par l'Etat, les collectivités et les établissements publics ;
+Les conseils ne peuvent siéger que si la majorité de leurs membres en exercice sont présents ou représentés. Si ce quorum
+n'est pas atteint, les conseils sont convoqués à nouveau sur le même ordre du jour dans un délai de quinze jours au plus et
+peuvent alors délibérer valablement quel que soit le nombre des membres en exercice présents ou représentés. Les dispositions
+du présent alinéa ne s'appliquent pas en matière budgétaire. 
 
-2° Les versements et contributions effectués au titre des prestations fournies et les produits des conventions d'enseignement
-ou de recherche conclues avec tous organismes publics ou privés ;
+En cas d'empêchement du président, il est procédé à l'élection d'un président de séance à la majorité des membres en exercice
+présents ou représentés. 
 
-3° Les produits de la location des diverses installations et des compétitions ;
+Les délibérations sont prises à la majorité des membres présents ou représentés. Toutefois, celles mentionnées au 2° de
+l'article R. 211-6 ne peuvent être adoptées qu'à la majorité des membres en exercice. 
 
-4° Les produits de la vente des publications et des éditions audiovisuelles ;
+Tout membre d'un conseil qui, sans raison valable, n'a été ni présent ni représenté à trois séances consécutives est
+considéré comme démissionnaire et doit être remplacé dans les meilleurs délais. 
 
-5° Les revenus des biens meubles et immeubles ;
-
-6° Les dons et legs ;
-
-7° Le produit des emprunts ;
-
-8° Les sommes pouvant être perçues au titre de la formation permanente.
+En cas de partage égal des voix, celle du président est prépondérante.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 15 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
 	  - Décret n°76-1330 du 31 décembre 1976 - art. 15 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article D211-17
-
-Les dépenses de l'Institut national du sport et de l'éducation physique comprennent notamment :
-
-1° Les frais de personnels propres à l'établissement ;
-
-2° Les frais de fonctionnement, d'équipement et d'entretien, d'hébergement ;
-
-3° Les versements faits aux organismes publics ou privés en exécution des conventions d'enseignement ou de recherche.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 16 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 16 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article D211-18
-
-Des régies de recettes et des régies d'avance peuvent être créées dans les conditions fixées par le décret n° 92-681 du 20
-juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 17 du décret n°76-1330 du 31 décembre 1976 relatif à l'organisation et au fonctionnement de l'Institut national du sport et de l'éducation physique
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 17 (Ab)
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
 
 	**Cite**:
 
-	  - Décret n°92-681 du 20 juillet 1992 (V)
+	  - Code du sport. - art. R211-6 (V)
 
-	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+###### Article R211-17
+
+Les élections aux différents conseils ont lieu au scrutin uninominal majoritaire à un tour. En cas d'égalité du nombre de
+suffrages obtenus, le candidat le plus âgé est élu. 
+
+Le vote peut avoir lieu par correspondance ou par procuration. 
+
+Un arrêté du ministre chargé des sports précise les conditions d'exercice du droit de suffrage et d'éligibilité et les règles
+applicables au déroulement des scrutins.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 16 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+##### Paragraphe 3 : Régime financier et comptable
+
+###### Article R211-18
+
+Le régime financier et comptable de l'Institut national du sport, de l'expertise et de la performance est fixé par les
+articles L. 719-4 à L. 719-6 du code de l'éducation et, sauf dispositions contraires des articles R. 211-18-1 à R. 211-18-6,
+par le décret pris pour leur application.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 17 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L719-4 (V)
+	  - Code de l'éducation - art. L719-6 (V)
+	  - Code du sport. - art. R211-18-1 (V)
+	  - Code du sport. - art. R211-18-6 (V)
+
+
+###### Article R211-18-1
+
+Les recettes de l'Institut national du sport, de l'expertise et de la performance comprennent : 
+
+1° Les subventions de l'Etat, des collectivités publiques ou de tout organisme public, français, étranger ou international ; 
+
+2° Le produit des versements et contributions de toute personne admise à bénéficier des différents services de
+l'établissement ; 
+
+3° Les ressources provenant de ses activités de formation, des congrès, séminaires, colloques et manifestations qu'il
+organise ainsi que des prestations de services qu'il effectue ; 
+
+4° Les produits des travaux de recherche, de développement et d'application correspondant aux contrats qu'il exécute, à
+l'exploitation et à la cession de brevets ou aux publications qu'il édite ; 
+
+5° Les recettes provenant des dons et legs, des aliénations, des fonds de concours et de la participation des employeurs au
+financement des premières formations technologiques et professionnelles ou des formations professionnelles continues,
+notamment au titre de la taxe d'apprentissage ; 
+
+6° Les revenus des biens meubles et immeubles, notamment les produits des locations ; 
+
+7° D'une manière générale, toutes les recettes autorisées par les lois ou règlements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. R211-18 (V)
+
+
+###### Article R211-18-2
+
+Les dépenses comprennent les frais de personnel, les frais de fonctionnement, d'équipement et d'investissement et, de manière
+générale, toutes les dépenses nécessaires à l'activité de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+###### Article R211-18-3
+
+I. - Le projet de budget est communiqué par le directeur général aux ministres chargés des sports et du budget quinze jours
+au moins avant sa présentation au conseil d'administration de l'établissement. 
+
+II. - Le conseil d'administration vote le budget en équilibre réel. 
+
+III. - Lors de la séance du conseil d'administration, le directeur des sports peut décider que le budget est soumis à
+l'approbation du ministre chargé des sports et du ministre chargé du budget dans les cas suivants : 
+
+1° Le projet de budget n'a pas été communiqué dans le délai fixé au I ; 
+
+2° Le budget n'est pas en équilibre réel ; 
+
+3° Le budget ne prévoit pas les crédits nécessaires au respect des obligations et des engagements de l'établissement ; 
+
+4° Le plafond d'emplois fixé par l'Etat n'est pas respecté. 
+
+IV. - Dans le cas où le budget n'est pas soumis à approbation en application du III, il est exécutoire à compter de sa
+communication au ministre chargé des sports. 
+
+V. - Dans le cas où le budget est soumis à approbation en application du III, celle-ci est réputée acquise si elle n'est pas
+refusée dans le délai d'un mois suivant la transmission de la délibération budgétaire aux ministres compétents. 
+
+En cas de refus d'approbation, le conseil d'administration délibère à nouveau sur le budget dans le délai d'un mois suivant
+la notification du refus. La nouvelle délibération est soumise à approbation. 
+
+A défaut de nouvelle délibération dans le délai d'un mois, ou s'il n'a pas été remédié par la nouvelle délibération aux
+irrégularités ayant motivé le refus d'approbation, le budget est arrêté par le ministre chargé des sports et le ministre
+chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+###### Article R211-18-4
+
+Les délibérations du conseil d'administration autres que celles portant sur le budget entrent en vigueur sans approbation
+préalable, à l'exception des délibérations portant sur les emprunts, les acquisitions, échanges et aliénations d'immeubles ou
+la participation à des organismes dotés de la personnalité morale qui sont exécutoires, à défaut d'approbation expresse déjà
+notifiée, dans un délai d'un mois à compter de la réception de ces délibérations par le ministre chargé des sports et le
+ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+
+###### Article R211-18-5
+
+L'Institut national du sport, de l'expertise et de la performance est soumis au contrôle financier a posteriori de l'Etat
+dans les conditions prévues à l'article L. 719-9 du code de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L719-9 (V)
+
+
+###### Article R211-18-6
+
+L'agent comptable de l'établissement est nommé par arrêté conjoint du ministre chargé des sports et du ministre chargé du
+budget.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. R211-18 (V)
 
 
 ##### Sous-section 2 : L'Ecole nationale d'équitation
