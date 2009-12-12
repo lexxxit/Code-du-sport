@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-11-28
+Version Consolidée au 2009-12-13
 
 # Partie législative
 
@@ -15455,60 +15455,63 @@ L'Ecole nationale de ski et d'alpinisme est administrée par un conseil d'admini
 
 ###### Article D211-55
 
-Le conseil d'administration comprend :
+Le conseil d'administration comprend : 
 
-1° Six membres de droit :
+1° Six membres de droit : 
 
-a) Le directeur des sports et un autre représentant du ministre chargé des sports ;
+a) Le directeur des sports et un autre représentant du ministre chargé des sports ; 
 
-b) Le directeur régional de la jeunesse, des sports et de la vie associative de Rhône-Alpes ;
+b) Le            directeur régional de la jeunesse, des sports et de la cohésion sociale  de Rhône-Alpes ; 
 
-c) Le président de la Fédération française de ski ou son représentant ;
+c) Le président de la Fédération française de ski ou son représentant ; 
 
-d) Le président de la Fédération française de la montagne et de l'escalade ou son représentant ;
+d) Le président de la Fédération française de la montagne et de l'escalade ou son représentant ; 
 
-e) Un représentant du ministre chargé de l'éducation ;
+e) Un représentant du ministre chargé de l'éducation ; 
 
-2° Six membres siégeant, en raison de leur compétence :
+2° Six membres siégeant, en raison de leur compétence : 
 
 a) Quatre personnalités désignées par le ministre chargé des sports, dont une représente les associations nationales agréées
-dont les membres pratiquent le ski et l'alpinisme en dehors de la compétition sportive ;
+dont les membres pratiquent le ski et l'alpinisme en dehors de la compétition sportive ; 
 
-b) Le directeur technique national de la Fédération française de ski ou son représentant ;
+b) Le directeur technique national de la Fédération française de ski ou son représentant ; 
 
-c) Un alpiniste de haut niveau désigné par la Fédération française de 1a montagne et de l'escalade ;
+c) Un alpiniste de haut niveau désigné par la Fédération française de 1a montagne et de l'escalade ; 
 
-3° Six membres élus par catégorie au scrutin majoritaire à un tour au sein de l'établissement :
+3° Six membres élus par catégorie au scrutin majoritaire à un tour au sein de l'établissement : 
 
-a) Deux représentants du personnel enseignant ;
+a) Deux représentants du personnel enseignant ; 
 
-b) Deux représentants du personnel administratif ;
+b) Deux représentants du personnel administratif ; 
 
-c) Un représentant des personnels ouvriers et des personnels techniques et de service ;
+c) Un représentant des personnels ouvriers et des personnels techniques et de service ; 
 
-d) Un représentant des stagiaires de l'école.
+d) Un représentant des stagiaires de l'école. 
 
-Les représentants de l'Etat sont désignés par le ministre qu'ils représentent.
+Les représentants de l'Etat sont désignés par le ministre qu'ils représentent. 
 
 Les membres mentionnés aux 1° et 3° peuvent être représentés par un suppléant désigné ou élu dans les mêmes conditions que le
-titulaire.
+titulaire. 
 
-Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaires.
+Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaires. 
 
 Un arrêté du ministre chargé des sports fixe la composition nominative du conseil d'administration de l'établissement. Le
 directeur de l'école et l'agent comptable assistent avec voix consultative aux séances du conseil ainsi que toute personne
 dont il paraîtrait utile au président de recueillir l'avis. Le directeur peut se faire accompagner par toute personne de son
 choix appartenant à l'établissement.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Art. 3 du décret n°81-302 du 30 mars 1981 relatif au régime administratif et financier de l'Ecole nationale de ski et d'alpinisme
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
 	**Cité par**:
 
@@ -15923,81 +15926,87 @@ le même établissement.
 
 ###### Article D211-72
 
-Le conseil d'administration comprend :
+Le conseil d'administration comprend : 
 
-1° Six représentants de l'Etat, dont :
+1° Six représentants de l'Etat, dont : 
 
 a) Deux directeurs départementaux de la jeunesse, des sports et de la vie associative désignés par le ministre chargé des
-sports ;
+sports ; 
 
-b) Un membre désigné par le ministre chargé de l'éducation ;
+b) Un membre désigné par le ministre chargé de l'éducation ; 
 
-c) Trois membres désignés par le ministre chargé des sports après avis du directeur régional de la jeunesse, des sports et de
-la vie associative ;
+c) Trois membres désignés par le ministre chargé des sports après avis du            directeur régional de la jeunesse, des
+sports et de la cohésion sociale  ; 
 
-2° Six personnalités représentatives des collectivités territoriales dont :
+2° Six personnalités représentatives des collectivités territoriales dont : 
 
 a) Le président du conseil régional de la région dans laquelle est situé le centre d'éducation populaire et de sport ou son
-représentant ;
+représentant ; 
 
 b) Le président du conseil général du département dans lequel est situé le centre d'éducation populaire et de sport ou son
-représentant ;
+représentant ; 
 
-c) Le maire de la commune dans laquelle est situé le centre d'éducation populaire et de sport ou son représentant ;
+c) Le maire de la commune dans laquelle est situé le centre d'éducation populaire et de sport ou son représentant ; 
 
-d) Trois conseillers régionaux désignés par le conseil régional ;
+d) Trois conseillers régionaux désignés par le conseil régional ; 
 
-3° Trois personnalités choisies pour leur compétence dans le domaine du sport :
+3° Trois personnalités choisies pour leur compétence dans le domaine du sport : 
 
-a) Le président du comité régional olympique et sportif ;
+a) Le président du comité régional olympique et sportif ; 
 
 b) Un représentant du mouvement sportif, désigné par le ministre chargé des sports sur proposition du président du comité
-régional olympique et sportif ;
+régional olympique et sportif ; 
 
-c) Un représentant des cadres techniques, désigné par le ministre chargé des sports sur proposition du directeur régional de
-la jeunesse, des sports et de la vie associative ;
+c) Un représentant des cadres techniques, désigné par le ministre chargé des sports sur proposition du            directeur
+régional de la jeunesse, des sports et de la cohésion sociale  ; 
 
 4° Trois personnalités choisies pour leur compétence dans le domaine de la jeunesse, de l'éducation populaire et du loisir
-désignées par le ministre chargé des sports sur proposition du directeur régional de la jeunesse, des sports et de la vie
-associative, dont un représentant des cadres techniques ;
+désignées par le ministre chargé des sports sur proposition du            directeur régional de la jeunesse, des sports et de
+la cohésion sociale , dont un représentant des cadres techniques ; 
 
 5° Six représentants des personnels en fonctions dans l'établissement, élus selon des modalités fixées par arrêté
-ministériel :
+ministériel : 
 
-a) Deux représentants des personnels enseignants ou leurs suppléants ;
+a) Deux représentants des personnels enseignants ou leurs suppléants ; 
 
-b) Deux représentants des personnels administratifs et médicaux ou leurs suppléants ;
+b) Deux représentants des personnels administratifs et médicaux ou leurs suppléants ; 
 
-c) Deux représentants des personnels ouvriers et des personnels de service et techniques ou leurs suppléants ;
+c) Deux représentants des personnels ouvriers et des personnels de service et techniques ou leurs suppléants ; 
 
-6° Une personnalité qualifiée désignée par le ministre chargé des sports.
+6° Une personnalité qualifiée désignée par le ministre chargé des sports. 
 
 Les membres du conseil d'administration et leurs suppléants, autres que les membres de droit et les membres élus, sont nommés
 par arrêté du ministre chargé des sports pour une durée de trois ans renouvelable. Le président du conseil d'administration
-est nommé par le ministre chargé des sports parmi les membres du conseil d'administration.
+est nommé par le ministre chargé des sports parmi les membres du conseil d'administration. 
 
 Le directeur, le ou les chefs de département, l'agent comptable et l'autorité chargée du contrôle financier assistent aux
-réunions du conseil d'administration avec voix consultative.
+réunions du conseil d'administration avec voix consultative. 
 
 Le préfet du département dans lequel est situé le centre assiste en tant que commissaire du Gouvernement à toutes les séances
 du conseil d'administration ; il est entendu à sa demande et reçoit copie des ordres du jour et des procès-verbaux ; il est
-assisté dans cette mission par le directeur régional de la jeunesse, des sports et de la vie associative, qui le représente,
-en cas d'absence, au conseil d'administration.
+assisté dans cette mission par le            directeur régional de la jeunesse, des sports et de la cohésion sociale , qui le
+représente, en cas d'absence, au conseil d'administration. 
 
 En cas de vacance, pour quelque cause que ce soit, du siège d'un membre du conseil d'administration survenant plus de six
 mois avant l'expiration de son mandat, un autre membre est nommé dans les mêmes conditions pour la durée du mandat restant à
 courir, sauf pour les membres élus qui sont remplacés par leur suppléant jusqu'à la fin du mandat détenu par le titulaire.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 5 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
 	  - Décret n°86-581 du 14 mars 1986 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
 	**Cité par**:
 
@@ -17703,7 +17712,7 @@ dispense.
 
 ###### Article R212-29
 
-Le jury est nommé par le directeur régional de la jeunesse, des sports et de la vie associative. Il est présidé par un
+Le jury est nommé par le directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par un
 fonctionnaire de catégorie A. Il est composé à parts égales :
 
 - de formateurs et cadres techniques, dont la moitié au moins sont des agents de l'Etat ;
@@ -17711,12 +17720,18 @@ fonctionnaire de catégorie A. Il est composé à parts égales :
 - de professionnels du secteur d'activité comprenant, de façon paritaire, des employeurs et salariés désignés sur proposition
 des organisations représentatives, sauf dispositions particulières prévues par l'arrêté de création de la spécialité.
 
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°2001-792 du 31 août 2001 - art. 10 (Ab)
-	  - Art. 10 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
 
 	**Cité par**:
 
@@ -17732,9 +17747,9 @@ des organisations représentatives, sauf dispositions particulières prévues pa
 	  - Arrêté du 28 janvier 2014 - art. 5 (V)
 	  - Code du sport. - art. A212-32 (M)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
 
 ###### Article R212-30
@@ -17784,21 +17799,27 @@ associative :
 ###### Article R212-32
 
 Les organismes de formation préparant au brevet professionnel par la voie des unités capitalisables pour une spécialité
-doivent avoir obtenu, préalablement à la mise en place de la formation, une habilitation du directeur régional de la
-jeunesse, des sports et de la vie associative du lieu de formation. Les conditions de délivrance de l'habilitation sont
+doivent avoir obtenu, préalablement à la mise en place de la formation, une habilitation du            directeur régional de
+la jeunesse, des sports et de la cohésion sociale  du lieu de formation. Les conditions de délivrance de l'habilitation sont
 fixées par arrêté des ministres chargés de la jeunesse et des sports après avis de la Commission professionnelle consultative
 des métiers du sport et de l'animation.
+
+**Nota:**
+
+Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
+missions sanitaires et médico-sociales à une agence régionale de santé. 
+
+(date d'entrée en vigueur indéterminée)
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 13 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
 	  - Décret n°2001-792 du 31 août 2001 - art. 13 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
 
 	**Cité par**:
 
