@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-12-13
+Version Consolidée au 2009-12-16
 
 # Partie législative
 
@@ -13213,9 +13213,9 @@ Sont membres de droit du conseil supérieur :
 
 23° Le directeur général de la gendarmerie nationale ; 
 
-24° Le        directeur de la sécurité civile ; 
+24° Le directeur de la sécurité civile ; 
 
-25° Le délégué interministériel à l'aménagement et à la compétitivité des territoires ; 
+25° Le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ; 
 
 26° Le directeur de l'Office national des forêts ; 
 
@@ -13240,11 +13240,6 @@ Décret n° 2009-631 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
 supérieur des sports de montagne).
 
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2008-682 du 9 juillet 2008 - art. 9 (V)
 
 
 ###### Article D142-29
