@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2009-12-24
+Version Consolidée au 2009-12-28
 
 # Partie législative
 
@@ -3437,7 +3437,7 @@ l'article L. 241-3 du code de la sécurité sociale.
 III.-En l'absence d'une convention collective, pour une discipline sportive, contenant l'ensemble des stipulations
 mentionnées au 2° du II, un décret détermine la part de rémunération prévue au 1° du II. 
 
-IV.-Ces dispositions s'appliquent aux rémunérations versées jusqu'au 30 juin 2012.
+IV.-Ces dispositions s'appliquent aux rémunérations versées jusqu'au  30 juin 2010.
 
 **Liens relatifs à cet article**
 
@@ -3453,13 +3453,13 @@ IV.-Ces dispositions s'appliquent aux rémunérations versées jusqu'au 30 juin 
 
 	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 185 (V)
+	  - Loi n°2009-1646 du 24 décembre 2009 - art. 22
 
 	**Cite**:
 
 	  - Code du sport. - art. L122-12
 	  - Code du sport. - art. L122-2
-	  - Code de la sécurité sociale. - art. L241-3 (V)
+	  - Code de la sécurité sociale. - art. L241-3
 
 	**Anciens textes**:
 
