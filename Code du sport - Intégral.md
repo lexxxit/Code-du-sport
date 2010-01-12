@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-01-10
+Version Consolidée au 2010-01-13
 
 # Partie législative
 
@@ -9221,30 +9221,21 @@ valeur dépasse un seuil fixé par arrêté des ministres chargés de la culture
 maintient sa volonté d'acquérir, le ministre chargé des sports se prononce. 
 
 Les collections conservées sont placées, en application de l'article L. 442-11 du code du patrimoine, sous le contrôle
-scientifique et conservatoire de la direction des musées de France du ministère chargé de la culture, qui vérifie la tenue
-des inventaires et le respect des règles applicables à la gestion conservatoire des collections publiques.
+scientifique et conservatoire de la    direction générale des patrimoines du ministère chargé de la culture, qui vérifie la
+tenue des inventaires et le respect des règles applicables à la gestion conservatoire des collections publiques.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 5 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
 	  - Décret n°2006-254 du 2 mars 2006 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1393 du 11 novembre 2009 - art. 8 (VD)
 
 	**Cite**:
 
-	  - Code du sport. - art. D112-14 (V)
-	  - Code du sport. - art. D112-17 (V)
-	  - Code du sport. - art. D112-18 (V)
-	  - Code du patrimoine. - art. L442-11 (V)
+	  - Code du sport. - art. D112-14
+	  - Code du sport. - art. D112-17
+	  - Code du sport. - art. D112-18
+	  - Code du patrimoine - art. L442-11
 
 
 ##### Sous-section 2 : Organisation et fonctionnement
@@ -9268,28 +9259,28 @@ dirigé par un directeur général.
 
 ###### Article D112-9
 
-Le conseil d'administration comprend :
+Le conseil d'administration comprend : 
 
-1° Trois représentants de l'Etat :
+1° Trois représentants de l'Etat : 
 
-a) Le directeur des sports ou son représentant ;
+a) Le directeur des sports ou son représentant ; 
 
-b) Un autre représentant du ministre chargé des sports ;
+b) Un autre représentant du ministre chargé des sports ; 
 
-c) Le directeur des musées de France ou son représentant ;
+c) Le    directeur général des patrimoines ou son représentant ; 
 
 2° Trois représentants respectivement désignés par une région, un département et une commune. Ces collectivités sont choisies
-par le ministre chargé des sports en priorité parmi les collectivités partenaires du Musée national du sport ;
+par le ministre chargé des sports en priorité parmi les collectivités partenaires du Musée national du sport ; 
 
-3° Deux membres de droit :
+3° Deux membres de droit : 
 
-a) Le président du Comité national olympique et sportif français ;
+a) Le président du Comité national olympique et sportif français ; 
 
-b) Le président du comité d'orientation de l'établissement ;
+b) Le président du comité d'orientation de l'établissement ; 
 
-4° Quatre personnalités qualifiées désignées par le ministre chargé des sports ;
+4° Quatre personnalités qualifiées désignées par le ministre chargé des sports ; 
 
-5° Un représentant des personnels élu selon les modalités fixées par arrêté du ministre chargé des sports.
+5° Un représentant des personnels élu selon les modalités fixées par arrêté du ministre chargé des sports. 
 
 Pour chacun des membres mentionnés au b du 1° et aux 2°, 3° et 5° ci-dessus, un suppléant est désigné dans les mêmes
 conditions que le titulaire.
@@ -9298,16 +9289,7 @@ conditions que le titulaire.
 
 	**Anciens textes**:
 
-	  - Art. 7 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
 	  - Décret n°2006-254 du 2 mars 2006 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Modifié par**:
-
-	  - Décret n°2009-1393 du 11 novembre 2009 - art. 8 (VD)
 
 	**Cité par**:
 
