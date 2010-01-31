@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-01-29
+Version Consolidée au 2010-02-01
 
 # Partie législative
 
@@ -9064,7 +9064,7 @@ Les établissements publics de formation sont :
 
 1° L'Institut national du sport et de l'éducation physique ; 
 
-2° L'Ecole nationale d'équitation ; 
+2° L'Institut français du cheval et de l'équitation ; 
 
 3° L'Ecole nationale de voile et des sports nautiques ; 
 
@@ -9078,17 +9078,24 @@ Ils exercent leurs attributions dans les conditions prévues au chapitre Ier du 
 
 	**Anciens textes**:
 
-	  - Art. 1er, alinéa 4, et article 9 du décret n°94-169 du 25 février 1994 relatif à l'organisation des services déconcentrés et des établissements publics relevant du ministre chargé de la jeunesse et des sports
 	  - Décret n°94-169 du 25 février 1994 - art. 1 (VT)
 	  - Décret n°94-169 du 25 février 1994 - art. 9 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2010-90 du 22 janvier 2010 - art. 9
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2011-631 du 3 juin 2011 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. -  Chapitre Ier : Formation aux professions du sport (V)
+	  - Code du sport.
+
+	**Nouveaux textes**:
+
+	  - Code du sport. - art. D112-3 (V)
 
 
 ##### Section 4 : Le Musée national du sport
@@ -14419,493 +14426,37 @@ budget.
 	  - Code du sport. - art. R211-18 (V)
 
 
-##### Sous-section 2 : L'Ecole nationale d'équitation
+##### Sous-section 2 : L'Institut français du cheval et de l'équitation
 
-##### Paragraphe 1 : Missions
+###### Article R211-19
 
-###### Article D211-19
+L'Institut français du cheval et de l'équitation, régi par les articles R. 653-13 à R. 653-29 du code rural, gère une école
+située à Saumur dont les professeurs d'équitation sont les écuyers du Cadre noir. 
 
-L'Ecole nationale d'équitation a son siège à Saumur. Les professeurs d'équitation de l'école sont les écuyers du " Cadre noir
-".
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. R211-19 (M)
-
-
-###### Article D211-20
-
-Les missions de l'école sont les suivantes :
-
-1° Assurer la formation aux métiers des arts équestres et de l'équitation. L'école forme et perfectionne à l'échelon national
-et international, notamment européen, les enseignants et les cadres de l'équitation ;
-
-2° Accueillir les structures nationales d'entraînement de haut niveau en charge de la préparation des équipes de France.
-L'école contribue à la préparation olympique en liaison avec la Fédération française d'équitation ;
-
-3° Assurer le maintien et le rayonnement de l'équitation française, notamment en établissant des relations de partenariat
-avec tous les organismes susceptibles de favoriser les actions de formation, d'information et de promotion de l'équitation ;
-
-4° Assurer la gestion et la promotion du " Cadre noir ".
-
-Des programmes de recherche appliquée, technique et pédagogique et la constitution d'un fonds documentaire contribuent à la
-réalisation de ces missions.
+Cette école exerce notamment les missions dévolues à l'Institut français du cheval et de l'équitation par les 6°, 7°, 8°, 9°,
+10° et 11° du II de l'article R. 653-14 du code rural.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-##### Paragraphe 2 : Fonctionnement
-
-###### Article D211-21
-
-L'Ecole nationale d'équitation est administrée par un conseil d'administration et dirigée par un directeur, assisté de
-l'écuyer en chef.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-22
-
-Le conseil d'administration comprend :
-
-1° Sept représentants de l'Etat :
-
-a) Un représentant du Premier ministre, un représentant du ministre chargé de l'agriculture, un représentant du ministre
-chargé de l'enseignement supérieur et un représentant du ministre de la défense ;
-
-b) Le directeur des sports et deux autres représentants du ministre chargé des sports ;
-
-2° Trois personnalités qualifiées choisies respectivement par le ministre chargé de l'agriculture, de la défense et des
-sports ;
-
-3° Deux représentants de la Fédération française d'équitation :
-
-a) Le président de la Fédération française d'équitation ;
-
-b) Le directeur technique national d'équitation ;
-
-4° Trois représentants des collectivités territoriales :
-
-a) Le président du conseil régional des Pays de la Loire ou son représentant ;
-
-b) Le président du conseil général de Maine-et-Loire ou son représentant ;
-
-c) Le maire de Saumur ou son représentant ;
-
-5° Deux représentants du personnel élus selon les modalités fixées par arrêté du ministre chargé des sports.
-
-Les représentants de l'Etat sont désignés par le ministre qu'ils représentent.
-
-Les membres mentionnés aux 1°, 3° et 5° peuvent être représentés par un suppléant désigné ou élu dans les mêmes conditions
-que le titulaire.
-
-Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaires.
-
-Un arrêté du ministre chargé des sports fixe la composition nominative du conseil d'administration de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-23
-
-Le président du conseil d'administration est nommé par arrêté du ministre chargé des sports parmi les membres du conseil
-d'administration.
-
-En cas d'empêchement du président, le conseil d'administration se réunit sous la présidence d'un membre du conseil désigné
-par le ministre chargé des sports.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-24
-
-Le mandat des membres du conseil d'administration est de trois ans. Il est renouvelable.
-
-En cas de vacance du siège d'un membre du conseil d'administration survenant plus de six mois avant l'expiration de son
-mandat, un autre membre est nommé dans les mêmes conditions pour la durée du mandat à courir, sauf pour les membres élus qui
-sont remplacés par leur suppléant jusqu'à la fin du mandat détenu par le titulaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-25
-
-Les fonctions de membre du conseil d'administration sont exercées à titre gratuit. Elles ouvrent droit, toutefois, au
-remboursement des frais de déplacement et de séjour dans les conditions prévues par le décret n° 2006-781 du 3 juillet 2006
-fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements temporaires des personnels
-civils de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2006-781 du 3 juillet 2006
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-26
-
-Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président qui fixe l'ordre du jour.
-
-Le conseil d'administration ne peut délibérer que si la moitié au moins de ses membres est présente. Si le quorum n'est pas
-atteint, le conseil d'administration est à nouveau convoqué avec le même ordre du jour dans un délai maximum de vingt et un
-jours. Il délibère alors valablement, quel que soit le nombre de membres présents.
-
-Les délibérations du conseil d'administration sont adoptées à la majorité des membres présents. En cas de partage égal des
-voix, la voix du président est prépondérante.
-
-Le directeur de l'école, l'écuyer en chef, l'agent comptable, l'autorité chargée du contrôle financier ainsi que toute
-personne dont il paraîtrait utile au président de recueillir l'avis participent au conseil d'administration avec voix
-consultative. Le directeur peut se faire accompagner par toute personne de son choix appartenant à l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-27
-
-Le conseil d'administration règle par ses délibérations les affaires de l'établissement. Il délibère notamment sur :
-
-1° La politique générale et les objectifs de l'établissement et donne son accord sur les orientations et les mesures
-générales relatives à l'organisation et au fonctionnement de l'établissement ;
-
-2° Le budget et les décisions modificatives du budget ;
-
-3° Le compte financier et l'affectation des résultats de l'exercice ;
-
-4° Le rapport annuel d'activité élaboré par le directeur ;
-
-5° Les catégories de conventions qui, en raison de leur nature ou montant financier engagé, doivent lui être soumis pour
-approbation et celles dont il délègue la responsabilité au directeur ;
-
-6° Le règlement intérieur de l'établissement et celui du conseil d'administration ;
-
-7° Les conditions générales de vente des produits et services fournis par l'établissement ;
-
-8° Les emprunts ;
-
-9° L'acceptation ou le refus des dons et legs ; il peut, dans les conditions qu'il détermine, déléguer ces attributions au
-directeur ;
-
-10° Les acquisitions, aliénations et échanges d'immeubles, les baux et les octrois d'hypothèque ;
-
-11° La participation à des groupements d'intérêt public ;
-
-12° Les cessions ou concessions de droits de propriété industrielle ;
-
-13° Les conditions générales d'emploi et de rémunération des agents contractuels ;
-
-14° L'exercice des actions en justice et des transactions ; il peut, dans les conditions qu'il détermine, déléguer ces
-attributions au directeur.
-
-Le conseil d'administration donne son avis sur toute question pour laquelle le ministre chargé des sports le consulte.
-
-Le directeur rend compte au conseil des décisions qu'il a prises en vertu de sa délégation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
 
 	**Cité par**:
 
-	  - Code du sport. - art. D211-28 (VT)
+	  - Arrêté du 16 juin 2010 (Ab)
+	  - Décret n°2011-933 du 1er août 2011 - art. 5 (VT)
+	  - Arrêté du 8 juillet 2014 - art. 2 (Ab)
+	  - Arrêté du 22 septembre 2014 - art. 2 (V)
+	  - Code rural et de la pêche maritime - art. R653-14 (V)
 
+	**Anciens textes**:
 
-###### Article D211-28
-
-Les délibérations du conseil d'administration et les décisions prises par le directeur agissant par délégation du conseil
-d'administration qui, dans le délai de dix jours après la réception du procès-verbal ou de la décision par le ministre chargé
-des sports, n'ont pas fait l'objet de la part de celui-ci soit d'une demande de réexamen adressée à l'organe ayant pris la
-délibération ou la décision, soit d'une opposition, deviennent exécutoires. 
-
-Toutefois, les délibérations prévues aux 2° et 3° de l'article D. 211-27 sont approuvées par les ministres chargés du budget
-et des sports dans les conditions déterminées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation
-de certaines décisions financières des établissements publics de l'Etat. 
-
-Pour devenir exécutoires, les délibérations prévues aux 8°, 10° et 11° de l'article D. 211-27 doivent recevoir l'approbation
-expresse des ministres chargés du budget et des sports.
-
-**Liens relatifs à cet article**
+	  - Code du sport. - art. D211-19 (T)
 
 	**Cite**:
 
-	  - Décret n°99-575 du 8 juillet 1999
-	  - Code du sport. - art. D211-27
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-29
-
-Le directeur de l'Ecole nationale d'équitation est nommé par arrêté du ministre chargé des sports.
-
-L'écuyer en chef, responsable technique du " Cadre noir ", est nommé par le ministre chargé de sports après consultation du
-ministre de la défense. Il a la qualité de directeur adjoint.
-
-Le directeur de l'école exerce notamment les compétences suivantes :
-
-1° Il représente l'établissement en justice et dans tous les actes de la vie civile ;
-
-2° Il prépare les travaux et exécute les délibérations du conseil d'administration ;
-
-3° Il prépare et exécute le budget de l'établissement ;
-
-4° Il est ordonnateur des dépenses et des recettes ;
-
-5° Il est responsable de la gestion administrative, technique et financière de l'établissement ;
-
-6° Il conclut les conventions de l'établissement et est la personne responsable des marchés ;
-
-7° Il a autorité sur l'ensemble des personnels affectés dans l'établissement ou mis à sa disposition, ainsi que sur toute
-personne qui intervient dans l'établissement, dans le respect de leur statut ;
-
-8° Il prend toute disposition, en liaison avec les autorités administratives compétentes, pour assurer la sécurité des
-personnes et des biens, l'hygiène et la salubrité ;
-
-9° Il veille au respect des droits et des devoirs des personnels et assure l'application du règlement intérieur ;
-
-10° Il peut, dans les conditions qu'il détermine, donner délégation de signature à son ou ses adjoints et aux fonctionnaires
-appartenant à un corps de catégorie A ou assimilé et aux contractuels de niveau équivalent placés sous son autorité.
-
-Le directeur informe le conseil d'administration de sa gestion et en rend compte à l'autorité de tutelle.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-##### Paragraphe 3 : Régime comptable et financier
-
-###### Article D211-30
-
-L'école est soumise au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 relatif à la
-réglementation comptable applicable aux établissements publics nationaux à caractère administratif et par les articles 151 à
-189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique ainsi qu'au contrôle
-financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°53-1227 du 10 décembre 1953
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151
-	  - Décret n°2005-757 du 4 juillet 2005
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-32
-
-Les recettes de l'Ecole nationale d'équitation sont constituées notamment par :
-
-1° Les subventions de l'Etat, des collectivités territoriales, des établissements publics et de toute autre personne publique
-ou privée ;
-
-2° Les produits de prestations ;
-
-3° Les sommes perçues au titre de la formation professionnelle ;
-
-4° Le produit des représentations, des compétitions et des manifestations sportives ;
-
-5° L'exploitation de la marque " Le Cadre noir " et de tous ses dérivés ;
-
-6° Le produit des biens meubles ou immeubles ;
-
-7° Les aliénations des biens meubles ou immeubles ;
-
-8° Les redevances et remboursements divers ;
-
-9° Les dons et legs ;
-
-10° Les produits financiers résultant du placement de ses fonds ;
-
-11° De façon générale, toutes les recettes autorisées par les lois et règlements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-33
-
-Les dépenses de l'Ecole nationale d'équitation comprennent :
-
-1° Les frais de personnels de l'établissement ;
-
-2° Les frais de fonctionnement et d'investissement ;
-
-3° De façon générale, toute dépense nécessaire à son activité.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article D211-34
-
-Des régies de recettes et des régies d'avances peuvent être créées dans les conditions fixées par le décret n° 92-681 du 20
-juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances des organismes publics.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°92-681 du 20 juillet 1992
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-###### Article R211-31
-
-Par dérogation à l'article 157 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
-publique, l'agent comptable est nommé par arrêté des ministres chargés du budget et des sports et du ministre dont il relève
-pour sa gestion.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 157
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
-
-
-##### Paragraphe 4 : Personnel
-
-###### Article D211-35
-
-Le personnel de l'école comprend notamment : 
-
-1° Des fonctionnaires de l'Etat, civils et militaires, dans les conditions prévues par leurs statuts respectifs ; 
-
-2° Des personnels contractuels dans les conditions prévues par les articles 4 et 6 de la loi n° 84-16 du 11 janvier 1984.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-16 du 11 janvier 1984 - art. 4
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
+	  - Code rural - art. R*653-13
 
 
 ##### Sous-section 3 : L'Ecole nationale de voile et des sports nautiques
@@ -32765,18 +32316,18 @@ sports.
 
 ###### Article A211-27
 
-Un conseil de perfectionnement assiste le directeur de l'Ecole nationale d'équitation, par ses avis, dans la définition des
-objectifs et des programmes de l'école, notamment en matière de formation.
+Un conseil de perfectionnement assiste le directeur de l'Institut français du cheval et de l'équitation, par ses avis, dans
+la définition des objectifs et des programmes de l'école, notamment en matière de formation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 9 juillet 1990 - art. 1 et art 2, 2ème phrase (Ab)
+	  - Décret n°2010-90 du 22 janvier 2010 - art. 9
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 12 septembre 2011 - art. 4
 
 
 ###### Article A211-28
@@ -32802,60 +32353,61 @@ sports.
 
 ###### Article A211-29
 
-Le conseil de perfectionnement est présidé par le directeur de l'Ecole nationale d'équitation et comprend :
+Le conseil de perfectionnement est présidé par le directeur de l'Institut français du cheval et de l'équitation et
+comprend : 
 
-1° Le président du conseil régional des Pays de la Loire ;
+1° Le président du conseil régional des Pays de la Loire ; 
 
-2° Le président du conseil général de Maine-et-Loire ;
+2° Le président du conseil général de Maine-et-Loire ; 
 
-3° Le maire de la ville de Saumur ;
+3° Le maire de la ville de Saumur ; 
 
-4° Le président du comité économique et social des Pays de la Loire ;
+4° Le président du comité économique et social des Pays de la Loire ; 
 
-5° Le recteur de l'académie de Nantes ;
+5° Le recteur de l'académie de Nantes ; 
 
-6° Le général commandant de l'école d'application de l'arme blindée et de la cavalerie ;
+6° Le général commandant de l'école d'application de l'arme blindée et de la cavalerie ; 
 
-7° Le président de l'Université d'Angers ;
+7° Le président de l'Université d'Angers ; 
 
-8° Le président de l'Université de Poitiers ;
+8° Le président de l'Université de Poitiers ; 
 
-9° Le président de l'Université de Caen ;
+9° Le président de l'Université de Caen ; 
 
-10° Le directeur de l'Ecole nationale vétérinaire de Nantes ;
+10° Le directeur de l'Ecole nationale vétérinaire de Nantes ; 
 
-11° Le président de l'Union nationale interprofessionnelle du cheval ;
+11° Le président de l'Union nationale interprofessionnelle du cheval ; 
 
-12° Le président du Groupement hippique national ;
+12° Le président du Groupement hippique national ; 
 
-13° Le président de la fédération française des exploitants d'établissements professionnels d'enseignement équestre ;
+13° Le président de la fédération française des exploitants d'établissements professionnels d'enseignement équestre ; 
 
-14° Le président du Syndicat national des exploitants d'établissements professionnels d'enseignement équestre ;
+14° Le président du Syndicat national des exploitants d'établissements professionnels d'enseignement équestre ; 
 
-15° Le président du Syndicat national des enseignants de l'équitation ;
+15° Le président du Syndicat national des enseignants de l'équitation ; 
 
-16° Le président de l'Association des amis du Cadre Noir.
+16° Le président de l'Association des amis du Cadre Noir. 
 
-Sont également membres de droit, au titre de l'Ecole nationale d'équitation :
+Sont également membres de droit, au titre de l'Institut français du cheval et de l'équitation : 
 
-17° L'écuyer en chef ;
+17° L'écuyer en chef ; 
 
-18° Le chef du département de la formation ;
+18° Le chef du département de la formation ; 
 
-19° Le chef du département de l'équitation.
+19° Le chef du département de l'équitation. 
 
 Les membres du conseil d'administration de l'école peuvent, s'ils le souhaitent, s'associer aux travaux du conseil de
 perfectionnement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 9 juillet 1990 - art. 3 (Ab)
+	  - Décret n°2010-90 du 22 janvier 2010 - art. 9
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 12 septembre 2011 - art. 4
 
 
 ###### Article A211-30
@@ -32902,19 +32454,24 @@ d'administration.
 
 ###### Article A211-32
 
-L'autorité chargée du contrôle financier sur l'Ecole nationale d'équitation, ci-après dénommée « le contrôleur », exerce une
-mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue de leur prévention, à
-l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible d'être confronté. A
-cette fin, elle s'appuie sur une analyse des risques et de la performance.
+L'autorité chargée du contrôle financier sur l'Institut français du cheval et de l'équitation, ci-après dénommée  le
+contrôleur , exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue
+de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible
+d'être confronté.A cette fin, elle s'appuie sur une analyse des risques et de la performance. 
 
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Ecole nationale d'équitation, les circuits et procédures mis en
-place. Il coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé partenarial.
+Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Institut français du cheval et de l'équitation, les circuits et
+procédures mis en place. Il coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé
+partenarial.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2010-90 du 22 janvier 2010 - art. 9
+
+	**Abrogé par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 4
 
 
 ###### Article A211-33
@@ -33077,6 +32634,12 @@ chargé des sports.
 
 	  - Arrêté du 12 septembre 2011 - art. 4
 
+
+##### Section 2 : L'    Institut français du cheval et de l'équitation
+
+#####  Sous-section 1 : Fonctionnement de l'école
+
+#####  Sous-section 2 : Contrôle financier
 
 #####  Section 3 : L'Ecole nationale de voile et des sports nautiques
 
