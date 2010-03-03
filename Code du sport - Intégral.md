@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-02-01
+Version Consolidée au 2010-03-04
 
 # Partie législative
 
@@ -7768,9 +7768,10 @@ La tentative du délit prévu au premier alinéa est punie des mêmes peines.
 
 ###### Article L332-8
 
-Le fait d'introduire des fusées ou artifices de toute nature ou d'introduire sans motif légitime tous objets susceptibles de
-constituer une arme au sens de l'article 132-75 du code pénal dans une enceinte sportive lors du déroulement ou de la
-retransmission en public d'une manifestation sportive est puni de trois ans d'emprisonnement et de 15 000 euros d'amende. 
+Le fait d'introduire, de détenir ou de faire usage des fusées ou artifices de toute nature ou d'introduire sans motif
+légitime tous objets susceptibles de constituer une arme au sens de l'article 132-75 du code pénal dans une enceinte sportive
+lors du déroulement ou de la retransmission en public d'une manifestation sportive est puni de trois ans d'emprisonnement et
+de 15 000 euros d'amende. 
 
 La tentative du délit prévu au premier alinéa est punie des mêmes peines. 
 
@@ -7780,16 +7781,15 @@ Le tribunal peut également prononcer la confiscation de l'objet qui a servi ou 
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42-8 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42-8 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2010-201 du 2 mars 2010 - art. 9
 
 	**Cite**:
 
-	  - Code pénal - art. 132-75 (V)
+	  - Code pénal - art. 132-75
 
 	**Cité par**:
 
@@ -7994,20 +7994,22 @@ des personnes ayant été condamnées à la peine complémentaire en application
 
 ###### Article L332-16
 
-Lorsque, par son comportement d'ensemble à l'occasion de manifestations sportives, une personne constitue une menace pour
-l'ordre public, le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent, par arrêté motivé,
-prononcer à son encontre une mesure d'interdiction de pénétrer ou de se rendre aux abords des enceintes où de telles
-manifestations se déroulent ou sont retransmises en public.
+Lorsque, par son comportement d'ensemble à l'occasion de manifestations sportives ou par la commission d'un acte grave à
+l'occasion de l'une de ces manifestations, une personne constitue une menace pour l'ordre public, le représentant de l'Etat
+dans le département et, à Paris, le préfet de police peuvent, par arrêté motivé, prononcer à son encontre une mesure
+d'interdiction de pénétrer ou de se rendre aux abords des enceintes où de telles manifestations se déroulent ou sont
+retransmises en public.
 
 L'arrêté, valable sur le territoire national, fixe le type de manifestations sportives concernées. Il ne peut excéder une
-durée de trois mois. 
+durée de six mois. Toutefois, cette durée peut être portée à douze mois si, dans les trois années précédentes, cette personne
+a fait l'objet d'une mesure d'interdiction. 
 
 Le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent également imposer, par le même arrêté,
 à la personne faisant l'objet de cette mesure l'obligation de répondre, au moment des manifestations sportives objet de
 l'interdiction, aux convocations de toute autorité ou de toute personne qualifiée qu'il désigne. 
 
 Le fait, pour la personne, de ne pas se conformer à l'un ou à l'autre des arrêtés pris en application des alinéas précédents
-est puni de 3 750 euros d'amende. 
+est puni d'un an d'emprisonnement et de 3 750 euros d'amende. 
 
 Le préfet du département et, à Paris, le préfet de police peut communiquer aux fédérations sportives agréées en application
 de l'article L. 131-8 et aux associations de supporters mentionnées à l'article L. 332-17 l'identité des personnes faisant
@@ -8034,18 +8036,14 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 	  - Code du sport. - art. R332-5 (V)
 	  - Code du sport. - art. R332-7 (V)
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
 	**Modifié par**:
 
-	  - Loi n°2006-784 du 5 juillet 2006 - art. 3 () JORF 6 juillet 2006
+	  - Loi n°2010-201 du 2 mars 2010 - art. 10
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-8 (V)
-	  - Code du sport. - art. L332-17 (V)
+	  - Code du sport. - art. L131-8
+	  - Code du sport. - art. L332-17
 
 
 ###### Article L332-17
@@ -8082,12 +8080,13 @@ aux articles L. 312-14 à L. 312-17 et L. 332-3 à L. 332-10.
 
 ###### Article L332-18
 
-Peut être dissous par décret, après avis de la Commission nationale consultative de prévention des violences lors des
-manifestations sportives, toute association ou groupement de fait ayant pour objet le soutien à une association sportive
-mentionnée à l'article L. 122-1, dont des membres ont commis en réunion, en relation ou à l'occasion d'une manifestation
-sportive, des actes répétés constitutifs de dégradations de biens, de violence sur des personnes ou d'incitation à la haine
-ou à la discrimination contre des personnes à raison de leur origine, de leur orientation sexuelle, de leur sexe ou de leur
-appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée. 
+Peut être dissous ou suspendu d'activité pendant douze mois au plus par décret, après avis de la Commission nationale
+consultative de prévention des violences lors des manifestations sportives, toute association ou groupement de fait ayant
+pour objet le soutien à une association sportive mentionnée à l'article L. 122-1, dont des membres ont commis en réunion, en
+relation ou à l'occasion d'une manifestation sportive, des actes répétés ou un acte d'une particulière gravité et qui sont
+constitutifs de dégradations de biens, de violence sur des personnes ou d'incitation à la haine ou à la discrimination contre
+des personnes à raison de leur origine, de leur orientation sexuelle, de leur sexe ou de leur appartenance, vraie ou
+supposée, à une ethnie, une nation, une race ou une religion déterminée. 
 
 Les représentants des associations ou groupements de fait et les dirigeants de club concernés peuvent présenter leurs
 observations à la commission. 
@@ -8108,14 +8107,6 @@ Les conditions de fonctionnement de la commission sont fixées par décret en Co
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
-	**Créé par**:
-
-	  - Loi n°2006-784 du 5 juillet 2006 - art. 4 () JORF 6 juillet 2006
-
 	**Cité par**:
 
 	  - Décret n°2006-1550 du 8 décembre 2006 - art. 2 (Ab)
@@ -8124,9 +8115,13 @@ Les conditions de fonctionnement de la commission sont fixées par décret en Co
 	  - Code du sport. - art. L332-19 (M)
 	  - Code du sport. - art. R332-11 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-201 du 2 mars 2010 - art. 10
+
 	**Cite**:
 
-	  - Code du sport. - art. L122-1 (V)
+	  - Code du sport. - art. L122-1
 
 
 ###### Article L332-19
@@ -32310,7 +32305,7 @@ sports.
 	  - Arrêté du 30 janvier 2015 - art. 1
 
 
-#####  Section 2 : L'Ecole nationale d'équitation
+##### Section 2 : L'    Institut français du cheval et de l'équitation
 
 #####  Sous-section 1 : Fonctionnement de l'école
 
@@ -32634,12 +32629,6 @@ chargé des sports.
 
 	  - Arrêté du 12 septembre 2011 - art. 4
 
-
-##### Section 2 : L'    Institut français du cheval et de l'équitation
-
-#####  Sous-section 1 : Fonctionnement de l'école
-
-#####  Sous-section 2 : Contrôle financier
 
 #####  Section 3 : L'Ecole nationale de voile et des sports nautiques
 
