@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-04-02
+Version Consolidée au 2010-04-17
 
 # Partie législative
 
@@ -3985,7 +3985,85 @@ fixée au 1er février 2006.
 	  - Code de la santé publique - art. L3611-1 (M)
 
 
+###### Article L230-2
+
+Pour l'application du présent titre, une manifestation sportive internationale est une manifestation sportive pour laquelle
+un organisme sportif international : 
+
+1° Soit édicte les règles qui sont applicables à cette manifestation ; 
+
+2° Soit nomme les personnes chargées de faire respecter les règles applicables à cette manifestation. 
+
+Constituent des organismes sportifs internationaux au sens du présent article : 
+
+1° Le Comité international olympique ; 
+
+2° Le Comité international paralympique ; 
+
+3° Une fédération sportive internationale signataire du code mondial antidopage mentionné par la convention internationale
+contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005 ; 
+
+4° Une organisation responsable d'une grande manifestation sportive internationale signataire du code mondial antidopage
+mentionné par la convention internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 5 juin 2012 - art. 1 (Ab)
+	  - Code du sport. - art. L212-1-1 (V)
+	  - Code du sport. - art. L232-13 (V)
+	  - Code du sport. - art. L232-2 (VD)
+	  - Code du sport. - art. L232-2-1 (Ab)
+	  - Code du sport. - art. L232-2-2 (Ab)
+	  - Code du sport. - art. L232-23-3-3 (V)
+	  - Code du sport. - art. L232-23-3-6 (V)
+	  - Code du sport. - art. L232-23-4 (V)
+	  - Code du sport. - art. L232-24 (VD)
+	  - Code du sport. - art. L232-5 (V)
+	  - Code du sport. - art. L232-9 (V)
+	  - Code du sport. - art. L425-2 (V)
+	  - Code du sport. - art. L425-4 (V)
+	  - Code du sport. - art. R232-66 (V)
+
+
+###### Article L230-3
+
+Est un sportif au sens du présent titre toute personne qui participe ou se prépare : 
+
+1° Soit à une manifestation sportive organisée par une fédération agréée ou autorisée par une fédération délégataire ; 
+
+2° Soit à une manifestation sportive internationale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. Annexe II-2 (art R232-86) (M)
+	  - Code du sport. - art. L232-13-1 (VD)
+	  - Code du sport. - art. L232-15-1 (VD)
+	  - Code du sport. - art. L232-2 (VD)
+	  - Code du sport. - art. L232-5 (V)
+	  - Code du sport. - art. L425-1 (V)
+	  - Code du sport. - art. L425-4 (V)
+	  - Code du sport. - art. R232-85-2 (V)
+	  - Code du sport. - art. R232-85-3 (V)
+	  - Code du sport. - art. R232-85-5 (V)
+	  - Code du sport. - art. R232-85-7 (V)
+	  - Code du sport. - art. R232-98 (V)
+
+
 #### Chapitre Ier : Suivi médical des sportifs
+
+##### Section préliminaire
 
 ###### Article L231-1
 
@@ -4004,45 +4082,42 @@ le 1er février 2006.
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 du 16 juillet 1984 - art. 36 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 36 (Ab)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 17
 
 	**Cité par**:
 
 	  - Code de l'éducation - art. L632-1-1 (Ab)
 
 
+###### Article L231-1-1
+
+Les modalités d'application du présent chapitre sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 17
+
+
 ##### Section 1 : Certificat médical
 
 ###### Article L231-2
 
-La première délivrance d'une licence sportive mentionnée à l'article L. 131-6 est subordonnée à la production d'un certificat
-médical attestant l'absence de contre-indication à la pratique de l'activité physique ou sportive pour laquelle elle est
-sollicitée. Un renouvellement régulier du certificat médical peut être exigé par la fédération en fonction de l'âge du
-sportif et de la discipline. 
-
-Pour certaines disciplines, dont la liste est fixée par arrêté des ministres chargés des sports et de la santé au regard des
-risques qu'elles présentent pour la sécurité ou la santé des pratiquants, ce certificat médical ne peut être délivré que dans
-les conditions prévues au même arrêté.L'arrêté précise la fréquence du renouvellement de ce certificat médical. 
-
-La délivrance de ce certificat est mentionnée dans le carnet de santé prévu à l'article L. 2132-1 du code de la santé
-publique.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
+L'obtention ou le renouvellement d'une licence sportive permettant la participation aux compétitions organisées par la
+fédération sportive qui la délivre est subordonnée à la présentation d'un certificat médical datant de moins d'un an et
+attestant l'absence de contre-indication à la pratique en compétition de la discipline ou activité sportive pour laquelle
+elle est sollicitée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 18
 
 	**Cité par**:
 
@@ -4056,54 +4131,105 @@ le 1er février 2006.
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3622-1 (MMN)
-	  - Code de la santé publique - art. L3622-1 (M)
+
+
+###### Article L231-2-1
+
+La pratique en compétition d'une discipline sportive à l'occasion d'une manifestation organisée par une fédération agréée ou
+autorisée par une fédération délégataire est subordonnée à la présentation : 
+
+1° Soit d'un certificat médical datant de moins d'un an et attestant l'absence de contre-indication à la pratique en
+compétition de cette discipline ou activité sportive ; 
+
+2° Soit d'une licence mentionnée à l'article L. 231-2 délivrée pour la même discipline ou activité sportive et portant
+attestation de la délivrance de ce certificat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 18
+
+	**Cité par**:
+
+	  - Code du sport. - art. D231-1-1 (V)
+	  - Code du sport. - art. D232-83 (V)
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-6 (V)
-	  - Code de la santé publique - art. L2132-1 (V)
+	  - Code du sport. - art. L231-2
+
+
+###### Article L231-2-2
+
+L'obtention d'une première licence sportive ne permettant pas la participation aux compétitions organisées par la fédération
+sportive qui la délivre est subordonnée à la présentation d'un certificat médical datant de moins d'un an et attestant
+l'absence de contre-indication à la pratique de la discipline sportive pour laquelle elle est sollicitée. Les fédérations
+sportives peuvent, selon une fréquence qu'elles définissent, demander pour une nouvelle délivrance de licence la présentation
+d'un certificat médical.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 18
+
+	**Abrogé par**:
+
+	  - Loi n°2016-41 du 26 janvier 2016 - art. 219
+
+
+###### Article L231-2-3
+
+Pour certaines disciplines, dont la liste est fixée par arrêté des ministres chargés des sports et de la santé au regard des
+risques qu'elles présentent pour la sécurité ou la santé des pratiquants, le certificat médical mentionné aux articles L.
+231-2 à L. 231-2-2 ne peut être délivré que dans les conditions prévues au même arrêté. 
+
+Le certificat médical mentionné au présent article doit dater de moins d'un an.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 18
+
+	**Cité par**:
+
+	  - Code du sport. - art. D231-1-1 (V)
+	  - Code du sport. - art. D231-1-5 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L231-2
 
 
 ###### Article L231-3
-
-La participation aux compétitions sportives organisées ou autorisées par les fédérations sportives est subordonnée à la
-présentation d'une licence sportive mentionnée à l'article L. 131-6 portant attestation de la délivrance d'un certificat
-médical mentionnant l'absence de contre-indication à la pratique sportive en compétition ou, pour les non-licenciés auxquels
-ces compétitions sont ouvertes, à la présentation de ce seul certificat ou de sa copie, qui doit dater de moins d'un an. 
 
 Le médecin chargé, au sein de la fédération sportive, de coordonner les examens requis dans le cadre de la surveillance
 médicale particulière prévue à l'article L. 231-6 peut établir un certificat de contre-indication à la participation aux
 compétitions sportives au vu des résultats de cette surveillance médicale. 
 
 Ce certificat est transmis au président de la fédération, qui suspend la participation de l'intéressé aux compétitions
-sportives organisées ou autorisées par ladite fédération jusqu'à la levée par le médecin de la contre-indication.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
+sportives organisées ou autorisées par ladite fédération jusqu'à la levée de la contre-indication par le médecin.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 	**Cité par**:
 
 	  - Décret n°2007-461 du 25 mars 2007 - art. 12 (Ab)
 	  - Code du sport. - art. R232-83 (T)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 18
+
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3622-2 (MMN)
-	  - Code de la santé publique - art. L3622-2 (M)
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-6 (V)
-	  - Code du sport. - art. L231-6 (V)
+	  - Code du sport. - art. L231-6
 
 
 ###### Article L231-4
@@ -4344,17 +4470,15 @@ le 1er février 2006.
 
 ###### Article L232-2
 
-Le sportif participant à des compétitions ou manifestations mentionnées au 2° du I de l'article L. 232-5 fait état de sa
-qualité lors de toute consultation médicale qui donne lieu à prescription.
+Le sportif fait état de sa qualité lors de toute consultation médicale qui donne lieu à prescription. 
 
-L'utilisation ou la détention des substances ou procédés mentionnés sur la liste visée à l'article L. 232-9 n'entraîne ni
-sanction disciplinaire ni sanction pénale si cette utilisation ou cette détention est conforme soit à l'autorisation qui a
-été accordée au sportif pour usage à des fins thérapeutiques par l'Agence française de lutte contre le dopage après avis
-conforme d'un comité composé de médecins placé auprès de l'agence, soit à l'autorisation pour usage à des fins thérapeutiques
-dont la validité a été reconnue par l'agence, conformément au 7° du I de l'article L. 232-5. 
+Le sportif qui participe ou se prépare aux manifestations mentionnées au 1° de l'article L. 230-3 et dont l'état de santé
+requiert l'utilisation d'une substance ou méthode mentionnée au dernier alinéa de l'article L. 232-9 adresse à l'Agence
+française de lutte contre le dopage : 
 
-Lorsque la liste mentionnée à l'article L. 232-9 le prévoit, cette autorisation est réputée acquise dès réception de la
-demande par l'agence, sauf décision contraire de sa part.
+1° Soit les demandes d'autorisation d'usage à des fins thérapeutiques ; 
+
+2° Soit les déclarations d'usage.
 
 **Liens relatifs à cet article**
 
@@ -4389,18 +4513,94 @@ demande par l'agence, sauf décision contraire de sa part.
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 9
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 2
 
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3622-3 (MMN)
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-3
+
+
+###### Article L232-2-1
+
+Lorsqu'un professionnel de santé prescrit à un sportif lors d'un traitement une ou des substances ou méthodes inscrites sur
+la liste mentionnée à l'article L. 232-9, leur utilisation ou leur détention n'entraîne à l'égard de celui-ci ni sanction
+disciplinaire ni sanction pénale, si cette utilisation ou cette détention est conforme : 
+
+1° Soit à une autorisation d'usage à des fins thérapeutiques accordée au sportif par l'agence ; 
+
+2° Soit à une déclaration d'usage faite par le sportif auprès de l'agence ; 
+
+3° Soit à une autorisation d'usage à des fins thérapeutiques accordée au sportif par une organisation nationale antidopage
+étrangère ou par une fédération internationale et dont l'agence reconnaît la validité conformément à l'annexe II de la
+convention internationale mentionnée à l'article L. 230-2 ; 
+
+4° Soit à une déclaration d'usage faite par le sportif auprès d'une organisation nationale antidopage étrangère ou auprès
+d'une fédération internationale et dont l'agence reconnaît la validité conformément à l'annexe II de la convention
+internationale mentionnée à l'article L. 230-2. 
+
+Les autorisations d'usage à des fins thérapeutiques sont accordées par l'Agence française de lutte contre le dopage, après
+avis conforme d'un comité d'experts placé auprès d'elle. Ce comité est composé d'au moins trois médecins.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 2
+
+	**Abrogé par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 16
+
+	**Cité par**:
+
+	  - Code du sport. - art. D232-75 (V)
+	  - Code du sport. - art. D232-76 (V)
+	  - Code du sport. - art. D232-78 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-2
+	  - Code du sport. - art. L232-9
+
+
+###### Article L232-2-2
+
+Les substances et méthodes inscrites sur la liste mentionnée à l'article L. 232-9 qui nécessitent pour leur détention ou leur
+utilisation une autorisation d'usage à des fins thérapeutiques ou une déclaration d'usage sont fixées par arrêté du ministre
+chargé des sports en application des annexes I et II de la convention internationale mentionnée à l'article L. 230-2. 
+
+Les conditions de délivrance des autorisations d'usage à des fins thérapeutiques et les modalités des déclarations d'usage
+sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 2
+
+	**Cité par**:
+
+	  - Arrêté du 25 juin 2010 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 16
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-2
+	  - Code du sport. - art. L232-9
 
 
 ###### Article L232-3
 
 Le médecin qui est amené à déceler des signes évoquant une pratique de dopage : 
 
-1° Est tenu de refuser la délivrance d'un des certificats médicaux définis aux articles L. 231-2 et L. 231-3 ; 
+1° Est tenu de refuser la délivrance d'un des certificats médicaux définis aux articles L. 231-2, L. 231-2-1 et L. 231-2-2 ; 
 
 2° Informe son patient des risques qu'il court et lui propose soit de le diriger vers l'une des antennes médicales
 mentionnées à l'article L. 232-1, soit en liaison avec celle-ci et en fonction des nécessités, de lui prescrire des examens,
@@ -4410,17 +4610,7 @@ un traitement ou un suivi médical ;
 qu'il a faites et informe son patient de cette obligation de transmission. Cette transmission est couverte par le secret
 médical.
 
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 	**Cité par**:
 
@@ -4429,14 +4619,18 @@ le 1er février 2006.
 	  - Code du sport. - art. D232-1 (VD)
 	  - Code du sport. - art. L232-4 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 19
+
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3622-4 (Ab)
 
 	**Cite**:
 
-	  - Code du sport. - art. L231-2 (V)
-	  - Code du sport. - art. L232-1 (V)
+	  - Code du sport. - art. L231-2
+	  - Code du sport. - art. L232-1
 
 
 ###### Article L232-4
@@ -4471,48 +4665,76 @@ le 1er février 2006.
 ###### Article L232-5
 
 I.-L'Agence française de lutte contre le dopage, autorité publique indépendante dotée de la personnalité morale, définit et
-met en oeuvre les actions de lutte contre le dopage. A cette fin, elle coopère avec l'Agence mondiale antidopage et avec les
+met en oeuvre les actions de lutte contre le dopage.A cette fin, elle coopère avec l'Agence mondiale antidopage et avec les
 fédérations sportives internationales.
 
 A cet effet : 
 
-1° Elle définit un programme national annuel de contrôles ; 
+1° Elle définit un programme annuel de contrôles ; 
 
-2° Elle diligente les contrôles dans les conditions prévues aux articles L. 232-12 à L. 232-15 : 
+2° Elle diligente les contrôles dans les conditions prévues aux articles L. 232-12 à L. 232-16 : 
 
-a) Pendant les compétitions et manifestations sportives visées à l'article L. 232-9, à l'exception des compétitions
-internationales visées à l'article L. 131-15 ; 
+a) Pendant les manifestations sportives organisées par les fédérations agréées ou autorisées par les fédérations
+délégataires ; 
 
-b) Pendant les entraînements préparant aux compétitions ou manifestations sportives ; 
+b) Pendant les manifestations sportives internationales définies à l'article L. 230-2 avec l'accord de l'organisme
+international compétent ou, à défaut, de l'Agence mondiale antidopage ; 
 
-3° Elle peut, en coordination et avec l'accord de l'organisme international chargé de la lutte contre le dopage reconnu par
-le Comité international olympique ou d'une fédération sportive internationale, diligenter des contrôles dans les conditions
-prévues à l'article L. 232-16 ; 
+c) Pendant les périodes d'entraînement préparant aux manifestations sportives mentionnées à l'article L. 230-3 ; 
 
-4° Elle est informée des faits de dopage portés à la connaissance de l'administration ou des fédérations sportives ; 
+3° Pour les sportifs soumis à l'obligation de localisation mentionnée à l'article L. 232-15, elle diligente les contrôles
+dans les conditions prévues aux articles L. 232-12 à L. 232-16 : 
 
-5° Elle réalise ou fait réaliser l'analyse des prélèvements effectués lors de contrôles ; dans ce cadre, elle peut effectuer
-des analyses pour le compte de tiers ; 
+a) Pendant les manifestations sportives organisées par les fédérations agréées ou autorisées par les fédérations
+délégataires ; 
 
-6° Elle exerce un pouvoir disciplinaire dans les conditions prévues aux articles L. 232-22 et L. 232-23 ; 
+b) Pendant les manifestations sportives internationales définies à l'article L. 230-2 avec l'accord de l'organisme
+international compétent ou, à défaut, de l'Agence mondiale antidopage ; 
 
-7° Elle délivre les autorisations prévues par l'article L. 232-2  ; elle peut reconnaître la validité des autorisations
-d'usage à des fins thérapeutiques délivrées conformément à l'annexe II de la convention internationale contre le dopage dans
-le sport, adoptée à Paris le 19 octobre 2005 ; 
+c) Pendant les périodes d'entraînement préparant aux manifestations sportives mentionnées à l'article L. 230-3 ; 
 
-8° Elle est consultée sur tout projet de loi ou de règlement relatif à la lutte contre le dopage ; 
+d) Hors des manifestations sportives mentionnées à l'article L. 230-3, et hors des périodes d'entraînement y préparant ; 
 
-9° Elle participe aux actions de prévention, d'éducation et de recherche mises en oeuvre en matière de lutte contre le
+4° Lorsqu'au moins deux sportifs d'une même équipe ont utilisé ou détenu une substance ou une méthode interdite, le directeur
+des contrôles de l'Agence française de lutte contre le dopage apprécie la nature des contrôles auxquels doivent être soumis
+les membres de l'équipe ayant participé à la même compétition ou à la même épreuve ; 
+
+5° L'agence est informée des faits de dopage portés à la connaissance de l'Etat, des fédérations sportives ainsi que, dans
+des conditions fixées par décret, des sanctions pénales prononcées en cas de non-respect de l'obligation mentionnée à
+l'article L. 232-10-1 ; 
+
+6° Elle réalise ou fait réaliser l'analyse des prélèvements effectués lors de contrôles ; dans ce cadre, elle peut effectuer
+des analyses ou des prélèvements pour le compte de tiers ; 
+
+7° Elle exerce un pouvoir disciplinaire dans les conditions prévues aux articles L. 232-22 et L. 232-23 ; 
+
+8° Elle délivre les autorisations d'usage à des fins thérapeutiques prévues à l'article L. 232-2 ; 
+
+9° Elle reçoit les déclarations d'usage à des fins thérapeutiques prévues à l'article L. 232-2 ; 
+
+10° Elle peut reconnaître la validité des : 
+
+a) Autorisations d'usage à des fins thérapeutiques délivrées en conformité avec les annexes I et II de la convention
+internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005, par une organisation nationale antidopage
+étrangère ou par une fédération internationale ; 
+
+b) Déclarations d'usage effectuées en conformité avec les annexes I et II de la convention internationale contre le dopage
+dans le sport, adoptée à Paris le 19 octobre 2005, par une organisation nationale antidopage étrangère ou par une fédération
+internationale ; 
+
+11° Elle est consultée sur tout projet de loi ou de règlement relatif à la lutte contre le dopage ; 
+
+12° Elle participe aux actions de prévention, d'éducation et de recherche mises en œuvre en matière de lutte contre le
 dopage ; 
 
-10° Elle est associée aux activités internationales dans le domaine de la lutte contre le dopage et apporte son expertise à
-l'Etat, notamment lors de l'élaboration de la liste des produits interdits mentionnée à l'article L. 232-9 ; 
+13° Elle est associée aux activités internationales dans le domaine de la lutte contre le dopage et apporte son expertise à
+l'Etat, notamment lors de l'élaboration de la liste des substances ou méthodes interdites mentionnée à l'article L. 232-9 ; 
 
-11° Elle peut être consultée par les fédérations sportives sur les questions relevant de ses compétences ; 
+14° Elle peut être consultée par les fédérations sportives sur les questions relevant de ses compétences ; 
 
-12° Elle adresse aux fédérations sportives des recommandations dans les matières relevant de sa compétence ; 
+15° Elle adresse aux fédérations sportives des recommandations dans les matières relevant de ses compétences ; 
 
-13° Elle remet chaque année un rapport d'activité au Gouvernement et au Parlement. Ce rapport est rendu public. 
+16° Elle remet chaque année un rapport d'activité au Gouvernement et au Parlement. Ce rapport est rendu public. 
 
 Les missions de l'agence sont exercées par le collège, sauf disposition contraire. 
 
@@ -4522,11 +4744,10 @@ le dopage ne peuvent être exercées par les mêmes personnes.
 Pour l'exercice de ses missions de contrôle, l'agence peut faire appel aux services du ministre chargé des sports, dans des
 conditions définies par voie conventionnelle. 
 
-III.-Pour l'établissement du programme national annuel de contrôles mentionné au I, les administrations compétentes, les
-fédérations, associations et sociétés sportives et établissements d'activités physiques ou sportives, ainsi que, sur sa
-demande, les sportifs, communiquent à l'agence toutes informations relatives à la préparation, à l'organisation et au
-déroulement des entraînements, compétitions et manifestations sportives ; elle est informée des décisions prises par les
-fédérations en application de l'article L. 232-21 ; 
+III.-Pour l'établissement du programme annuel de contrôles mentionné au I, les services de l'Etat compétents, les fédérations
+agréées, les associations et sociétés sportives et les établissements d'activités physiques ou sportives communiquent à
+l'agence toutes informations relatives à la préparation, à l'organisation et au déroulement des entraînements et
+manifestations sportives ; 
 
 Le programme national annuel de contrôles comprend des contrôles individualisés, mis en oeuvre dans les conditions prévues à
 l'article L. 232-15.
@@ -4561,7 +4782,7 @@ l'article L. 232-15.
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 10
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 3
 
 	**Anciens textes**:
 
@@ -4569,7 +4790,9 @@ l'article L. 232-15.
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-15
+	  - Code du sport. - art. L230-2
+	  - Code du sport. - art. L230-3
+	  - Code du sport. - art. L232-10-1
 	  - Code du sport. - art. L232-12
 	  - Code du sport. - art. L232-9
 
@@ -4726,22 +4949,25 @@ le 1er février 2006.
 
 ###### Article L232-9
 
-Il est interdit à tout sportif participant à une compétition ou manifestation sportive organisée ou autorisée conformément au
-titre III du livre Ier du présent code, ou se préparant à y participer : 
+Il est interdit à tout sportif : 
 
-1° De détenir, sans raison médicale dûment justifiée, une ou des substances ou procédés interdits par la liste mentionnée au
-dernier alinéa du présent article, pour lesquels l'appendice 1 à la convention internationale contre le dopage dans le sport,
-adoptée à Paris le 19 octobre 2005, ne prévoit la possibilité de sanctions réduites qu'en cas de circonstances
-exceptionnelles ; 
+1° De détenir ou tenter de détenir, sans raison médicale dûment justifiée, une ou des substances ou méthodes interdites
+figurant sur la liste mentionnée au dernier alinéa du présent article ; 
 
-2° D'utiliser une ou des substances et procédés interdits par la liste mentionnée au dernier alinéa du présent article.
+2° D'utiliser ou tenter d'utiliser une ou des substances ou méthodes interdites figurant sur la liste mentionnée au dernier
+alinéa du présent article.
 
-L'interdiction prévue au 2° ne s'applique pas aux substances et procédés pour lesquels le sportif dispose d'une autorisation
-pour usage à des fins thérapeutiques conformément aux modalités prévues par l'article L. 232-2. 
+L'interdiction prévue au 2° ne s'applique pas aux substances et méthodes pour lesquelles le sportif : 
 
-La liste des substances et procédés mentionnés au présent article est celle qui est élaborée en application de la convention
-internationale contre le dopage dans le sport précitée ou de tout autre accord ultérieur qui aurait le même objet et qui s'y
-substituerait. Elle est publiée au Journal officiel.
+a) Dispose d'une autorisation pour usage à des fins thérapeutiques ; 
+
+b) Peut se prévaloir d'une déclaration d'usage, conformément aux dispositions de l'article L. 232-2 ; 
+
+c) Dispose d'une raison médicale dûment justifiée. 
+
+La liste des substances et méthodes mentionnées au présent article est celle qui est élaborée en application de la convention
+internationale mentionnée à l'article L. 230-2 ou de tout autre accord ultérieur qui aurait le même objet et qui s'y
+substituerait. Elle est publiée au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
 
@@ -4789,25 +5015,29 @@ substituerait. Elle est publiée au Journal officiel.
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 1
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 4
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-2
 
 
 ###### Article L232-10
 
 Il est interdit à toute personne de : 
 
-1° Prescrire, céder, offrir, administrer ou appliquer aux sportifs participant aux compétitions et manifestations mentionnées
-à l'article L. 232-9, ou se préparant à y participer, une ou plusieurs substances ou procédés mentionnés à cet article, ou de
-faciliter leur utilisation ou d'inciter à leur usage ; 
+1° Prescrire, administrer, appliquer, céder ou offrir aux sportifs, sans raison médicale dûment justifiée, une ou plusieurs
+substances ou méthodes mentionnées à l'article L. 232-9, ou de faciliter leur utilisation ou d'inciter à leur usage ; 
 
 2° Produire, fabriquer, importer, exporter, transporter, détenir ou acquérir, aux fins d'usage par un sportif sans raison
-médicale dûment justifiée, une ou des substances ou procédés figurant sur la liste mentionnée au dernier alinéa de l'article
+médicale dûment justifiée, une ou des substances ou méthodes figurant sur la liste mentionnée au dernier alinéa de l'article
 L. 232-9 ; 
 
-3° Se soustraire ou s'opposer par quelque moyen que ce soit aux mesures de contrôle prévues par le présent titre. 
+3° S'opposer par quelque moyen que ce soit aux mesures de contrôle prévues par le présent titre ; 
 
-Le 1° ne s'applique pas aux substances et procédés destinés à l'usage d'un sportif se trouvant dans le cas prévu à l'article
-L. 232-2.
+4° Falsifier, détruire ou dégrader tout élément relatif au contrôle, à l'échantillon ou à l'analyse ; 
+
+5° Tenter d'enfreindre les interdictions prévues au présent article.
 
 **Liens relatifs à cet article**
 
@@ -4831,7 +5061,7 @@ L. 232-2.
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 2
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 4
 
 	**Anciens textes**:
 
@@ -4839,18 +5069,38 @@ L. 232-2.
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-2
 	  - Code du sport. - art. L232-9
+
+
+###### Article L232-10-1
+
+Les organismes sportifs internationaux compétents pour diligenter ou effectuer les contrôles relatifs à la lutte contre le
+dopage lors des manifestations sportives internationales ainsi que les organisateurs de manifestations sportives nationales
+ou internationales et leurs préposés qui, dans l'exercice de leurs fonctions, acquièrent la connaissance de faits délictueux
+mentionnés aux articles L. 232-25 et L. 232-26 les signalent à l'autorité judiciaire compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 20
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-25
+
+	**Cité par**:
+
+	  - Code du sport. - art. L232-5 (V)
 
 
 ###### Article L232-11
 
 Outre les officiers et agents de police judiciaire agissant dans le cadre des dispositions du code de procédure pénale, sont
-habilités à procéder aux contrôles diligentés par l'Agence française de lutte contre le dopage ou demandés par les
-fédérations à l'agence pour les entraînements, manifestations et compétitions mentionnées au 2° du I de l'article L. 232-5 du
-présent code et à rechercher et constater les infractions aux dispositions prévues aux articles L. 232-9 et L. 232-10 les
-agents relevant du ministre chargé des sports et les personnes agréés par l'agence et assermentés dans des conditions fixées
-par décret en Conseil d'Etat. 
+habilités à procéder aux contrôles diligentés par l'Agence française de lutte contre le dopage ou demandés par les personnes
+mentionnées à l'article L. 232-13 et à rechercher et constater les infractions aux dispositions prévues aux articles L. 232-9
+et L. 232-10 les agents relevant du ministre chargé des sports et les personnes agréées par l'agence et assermentés dans des
+conditions fixées par décret en Conseil d'Etat. 
 
 Ces agents et personnes sont tenus au secret professionnel, dans les conditions prévues à l'article 226-13 du code pénal.
 
@@ -4878,12 +5128,12 @@ Ces agents et personnes sont tenus au secret professionnel, dans les conditions 
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 11
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 21
 
 	**Cite**:
 
 	  - Code pénal - art. 226-13
-	  - Code du sport. - art. L232-5
+	  - Code du sport. - art. L232-13
 	  - Code du sport. - art. L232-9
 
 	**Anciens textes**:
@@ -4896,24 +5146,14 @@ Ces agents et personnes sont tenus au secret professionnel, dans les conditions 
 Les opérations de contrôle sont diligentées par le directeur du département des contrôles de l'Agence française de lutte
 contre le dopage. Les personnes mentionnées à l'article L. 232-11 ayant la qualité de médecin peuvent procéder à des examens
 médicaux cliniques et à des prélèvements biologiques destinés à mettre en évidence l'utilisation de procédés prohibés ou à
-déceler la présence dans l'organisme de substances interdites. Les personnes mentionnées à l'article L. 232-11 qui n'ont pas
-la qualité de médecin peuvent également procéder à ces prélèvements biologiques. Seules celles des personnes mentionnées à
-l'article L. 232-11 qui ont la qualité de médecin ou d'infirmier peuvent procéder à des prélèvements sanguins. 
+déceler la présence dans l'organisme de substances interdites. Les personnes agréées par l'agence et assermentées peuvent
+également procéder à ces prélèvements biologiques. Seules les personnes mentionnées à l'article L. 232-11 et qui y sont
+autorisées par le code de la santé publique peuvent procéder à des prélèvements sanguins.  
 
 Les contrôles donnent lieu à l'établissement de procès-verbaux qui sont transmis à l'agence et à la fédération intéressée. Un
 double en est laissé aux parties intéressées.
 
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
-
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 	**Cité par**:
 
@@ -4931,36 +5171,33 @@ le 1er février 2006.
 	  - Code du sport. - art. R232-42 (V)
 	  - Code du sport. - art. R232-50 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 22
+
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3632-2 (MMN)
-	  - Code de la santé publique - art. L3632-2 (M)
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-11 (V)
+	  - Code du sport. - art. L232-11
 
 
 ###### Article L232-13
 
-Les contrôles sont réalisés dans les conditions suivantes : 
+Les contrôles peuvent être diligentés : 
 
-1° Dans le cadre du programme national annuel de contrôles mentionné au 1° du I de l'article L. 232-5, ou à la demande d'une
-fédération sportive : 
+1° Dans le cadre du programme annuel de contrôles mentionné au 1° du I de l'article L. 232-5 ou à la demande d'une fédération
+agréée ; 
 
-a) Dans tout lieu où se déroule un entraînement, une compétition ou une manifestation mentionnés au 2° du I de l'article L.
-232-5, dans tout établissement dans lequel sont pratiquées des activités physiques ou sportives mentionné à l'article L.
-322-2, ainsi que dans leurs annexes ; 
+2° Ou à la demande : 
 
-b) Lorsque l'entraînement du sportif ne se déroule pas habituellement dans l'un des lieux mentionnés au a, dans tout autre
-lieu choisi avec l'accord du sportif permettant d'assurer le respect de son intimité ou, à sa demande, à son domicile ; 
+a) De l'Agence mondiale antidopage ; 
 
-c) Dans le cadre de la garde à vue d'un sportif soupçonné d'avoir commis les délits prévus aux articles L. 232-9 et L.
-232-10 ; 
+b) D'une organisation nationale antidopage ; 
 
-2° Dans les cas prévus au 1°, le sportif licencié est convoqué par la personne chargée de procéder au prélèvement. Lorsque le
-sportif ne s'entraîne pas dans un lieu fixe, la convocation peut être adressée par tout moyen permettant de garantir son
-origine et sa réception, pendant les périodes d'entraînement.
+c) D'un organisme sportif international au sens de l'article L. 230-2.
 
 **Liens relatifs à cet article**
 
@@ -4977,7 +5214,7 @@ origine et sa réception, pendant les périodes d'entraînement.
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 3
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 6
 
 	**Anciens textes**:
 
@@ -4985,37 +5222,91 @@ origine et sa réception, pendant les périodes d'entraînement.
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-10
+	  - Code du sport. - art. L230-2
 	  - Code du sport. - art. L232-5
+
+
+###### Article L232-13-1
+
+Les contrôles peuvent être réalisés : 
+
+1° Dans tout lieu où se déroule un entraînement ou une manifestation mentionnés à l'article L. 230-3 ; 
+
+2° Dans tout établissement mentionné à l'article L. 322-2, dans lequel sont pratiquées des activités physiques ou sportives,
+ainsi que dans ses annexes ; 
+
+3° Dans tout lieu choisi avec l'accord du sportif, permettant de réaliser le contrôle, dans le respect de sa vie privée et de
+son intimité, y compris, à sa demande, à son domicile ; 
+
+4° Dans le cadre de la garde à vue d'un sportif soupçonné d'avoir commis les délits prévus aux articles L. 232-9 et L.
+232-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 6
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-3
 	  - Code du sport. - art. L232-9
 	  - Code du sport. - art. L322-2
+
+	**Cité par**:
+
+	  - Code du sport. - art. L232-14 (VD)
+	  - Code du sport. - art. L232-14-1 (V)
+	  - Code du sport. - art. L232-16 (VD)
+	  - Code du sport. - art. L232-19 (VD)
+	  - Code du sport. - art. R232-48 (V)
+
+
+###### Article L232-13-2
+
+Les contrôles mentionnés à l'article L. 232-13 sont réalisés après notification du contrôle au sportif soit : 
+
+1° Par la personne chargée de procéder au prélèvement ; 
+
+2° Par une personne désignée par la personne chargée de procéder au prélèvement. 
+
+Les modalités de notification du contrôle au sportif sont fixées par décret. 
+
+Lorsqu'un sportif n'est pas soumis aux obligations de localisation mentionnées à l'article L. 232-15 et ne s'entraîne pas
+dans un lieu fixe, la notification mentionnée à l'alinéa précédent peut lui être adressée par tout moyen permettant de
+garantir son origine et sa réception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 6
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-13
+	  - Code du sport. - art. L232-15
 
 
 ###### Article L232-14
 
 Dans l'exercice de leur mission de contrôle, les personnes mentionnées à l'article L. 232-11 ne peuvent accéder aux lieux
-mentionnés à l'article L. 232-13 qu'entre 6 heures et 21 heures, ou à tout moment dès lors que ces lieux sont ouverts au
-public ou qu'une compétition ou une manifestation sportive ou un entraînement y préparant est en cours. Un contrôle réalisé
-au domicile d'un sportif ne peut avoir lieu qu'entre 6 heures et 21 heures. 
+mentionnés à l'article L. 232-13-1 qu'entre 6 heures et 21 heures, ou à tout moment dès lors que ces lieux sont ouverts au
+public ou qu'une manifestation sportive ou un entraînement y préparant est en cours. Un contrôle réalisé au domicile d'un
+sportif ne peut avoir lieu qu'entre 6 heures et 21 heures. 
 
 Elles peuvent être assistées, à leur demande, par un membre délégué de la fédération sportive compétente. 
 
 Elles peuvent demander la communication de toute pièce ou de tout document utile, en prendre copie et recueillir les
 observations des intéressés. 
 
-Seuls des médecins peuvent recueillir les informations à caractère médical. 
-
-Dans le cas où les opérations de contrôle sont envisagées en vue de la recherche d'infractions, le procureur de la République
-en est préalablement informé et peut s'y opposer. Le procureur de la République est informé sans délai, par tout moyen, dès
-qu'une infraction est constatée. Les procès-verbaux établis à la suite de ces opérations de police judiciaire lui sont remis,
-sous peine de nullité, dans les cinq jours suivant la clôture des opérations. Une copie des procès-verbaux est également
-remise dans le même délai à l'intéressé.
+Seuls des médecins peuvent recueillir les informations à caractère médical.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 4
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 23
 
 	**Anciens textes**:
 
@@ -5025,7 +5316,7 @@ remise dans le même délai à l'intéressé.
 	**Cite**:
 
 	  - Code du sport. - art. L232-11
-	  - Code du sport. - art. L232-13
+	  - Code du sport. - art. L232-13-1
 
 	**Cité par**:
 
@@ -5036,28 +5327,24 @@ remise dans le même délai à l'intéressé.
 
 ###### Article L232-15
 
-Pour mettre en oeuvre les contrôles individualisés mentionnés au III de l'article L. 232-5, le directeur des contrôles
-désigne les personnes qui doivent transmettre à l'Agence française de lutte contre le dopage les informations propres à
-permettre leur localisation pendant les périodes d'entraînement ainsi que le programme des compétitions ou manifestations
-mentionnées au 2° du I de l'article L. 232-5 auxquelles elles participent. Ces informations peuvent faire l'objet d'un
-traitement informatisé par l'agence, en vue d'organiser des contrôles. Ce traitement automatisé portant sur les données
-relatives à la localisation individuelle des sportifs est autorisé par décision du collège de l'agence prise après avis
-motivé et publié de la Commission nationale de l'informatique et des libertés. 
+Sont tenus de fournir des renseignements précis et actualisés sur leur localisation permettant la réalisation de contrôles
+mentionnés à l'article L. 232-5 les sportifs, constituant le groupe cible, désignés pour une année par l'Agence française de
+lutte contre le dopage parmi : 
 
-Ces personnes sont choisies parmi, d'une part, celles qui sont inscrites sur les listes de sportifs de haut niveau fixées en
-application de l'article L. 221-2 et, d'autre part, les sportifs professionnels licenciés des fédérations sportives agréées.
+1° Les sportifs inscrits sur la liste des sportifs de haut niveau ou sur la liste des sportifs Espoir au sens du présent
+code, ou les sportifs ayant été inscrits sur une de ces listes au moins une année durant les trois dernières années ; 
 
-**Nota:**
+2° Les sportifs professionnels licenciés des fédérations agréées ou ayant été professionnels au moins une année durant les
+trois dernières années ; 
 
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
+3° Les sportifs qui ont fait l'objet d'une sanction disciplinaire sur le fondement des articles L. 232-9, L. 232-10 ou L.
+232-17 lors des trois dernières années. 
+
+Ces renseignements peuvent faire l'objet d'un traitement informatisé par l'agence, en vue d'organiser des contrôles. Ce
+traitement informatisé portant sur les données relatives à la localisation des sportifs est autorisé par décision du collège
+de l'agence prise après avis de la Commission nationale de l'informatique et des libertés.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 	**Cité par**:
 
@@ -5079,19 +5366,27 @@ le 1er février 2006.
 	  - Code du sport. - art. R232-46 (V)
 	  - Code du sport. - art. R232-66 (V)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 7
+
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3632-2-3 (MMN)
 
+	**Cite**:
+
+	  - Code du sport. - art. L232-17
+	  - Code du sport. - art. L232-9
+
 
 ###### Article L232-16
 
-L'Agence française de lutte contre le dopage peut, en coordination et avec l'accord de l'Agence mondiale antidopage ou d'une
-fédération sportive internationale, diligenter des contrôles à l'occasion des compétitions ou des manifestations sportives
-organisées ou autorisées par une fédération sportive autres que celles mentionnées au 2° du I de l'article L. 232-5. Dans ce
-cas, les contrôles sont réalisés dans les conditions prévues à l'article L. 232-12, au a du 1° de l'article L. 232-13 et à
-l'article L. 232-14. Ils ne peuvent donner lieu à l'engagement d'une procédure disciplinaire de la part de l'agence ou de la
-fédération sportive délégataire.
+Sans préjudice des compétences de l'organisme sportif international compétent, l'Agence française de lutte contre le dopage
+peut, après avoir obtenu l'accord de cet organisme ou, à défaut, de l'Agence mondiale antidopage, diligenter des contrôles à
+l'occasion des manifestations sportives internationales. 
+
+Ces contrôles sont réalisés dans les conditions prévues aux articles L. 232-12, L. 232-13-1, L. 232-13-2 et L. 232-14.
 
 **Liens relatifs à cet article**
 
@@ -5103,21 +5398,22 @@ fédération sportive délégataire.
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 12
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 8
 
 	**Cite**:
 
 	  - Code du sport. - art. L232-12
-	  - Code du sport. - art. L232-13
+	  - Code du sport. - art. L232-13-1
 	  - Code du sport. - art. L232-14
 
 
 ###### Article L232-17
 
-I. - Le refus de se soumettre aux contrôles prévus aux articles L. 232-12 à L. 232-15, ou de se conformer à leurs modalités,
-est passible des sanctions administratives prévues par les articles L. 232-21 à L. 232-23.
+I.-Se soustraire, tenter de se soustraire ou refuser de se soumettre aux contrôles prévus aux articles L. 232-12 à L. 232-16,
+ou de se conformer à leurs modalités, est passible des sanctions administratives prévues par les articles L. 232-21 à L.
+232-23.
 
-II. - Les manquements aux obligations de localisation prévues par l'article L. 232-15 sont également passibles des sanctions
+II.-Les manquements aux obligations de localisation prévues par l'article L. 232-15 sont également passibles des sanctions
 administratives prévues par les articles L. 232-21 à L. 232-23.
 
 **Liens relatifs à cet article**
@@ -5139,7 +5435,7 @@ administratives prévues par les articles L. 232-21 à L. 232-23.
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 13
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 5
 
 	**Anciens textes**:
 
@@ -5199,11 +5495,15 @@ le 1er février 2006.
 
 ###### Article L232-19
 
-Dans l'ensemble des lieux mentionnés à l'article L. 232-13 auxquels ils ont accès et pour l'exercice des missions de police
+Dans le cas où les opérations de contrôle sont envisagées en vue de la recherche d'infractions, le procureur de la République
+en est préalablement informé et peut s'y opposer. Le procureur de la République est informé sans délai, par tout moyen, dès
+qu'une infraction est constatée. 
+
+Dans l'ensemble des lieux mentionnés à l'article L. 232-13-1 auxquels ils ont accès et pour l'exercice des missions de police
 judiciaire diligentées dans les conditions définies à l'article L. 232-14, les agents relevant du ministre chargé des sports
 et les personnes agréées par l'agence mentionnés à l'article L. 232-11 ne peuvent saisir des objets ou documents se
-rapportant aux infractions aux dispositions du présent chapitre que sur autorisation judiciaire donnée par ordonnance du
-président du tribunal de grande instance dans le ressort duquel sont situés les éléments à saisir. 
+rapportant aux infractions aux dispositions du présent chapitre que sur autorisation judiciaire donnée par ordonnance du juge
+des libertés et de la détention dans le ressort duquel sont situés les éléments à saisir. 
 
 La demande d'ordonnance doit comporter tous les éléments d'information de nature à justifier la saisie. Les agents munis de
 cette ordonnance peuvent en tant que de besoin requérir la force publique. Les opérations s'effectuent sous l'autorité et le
@@ -5212,8 +5512,7 @@ contrôle du juge qui les a autorisées.
 L'ordonnance est notifiée sur place, au moment de l'accès dans les lieux ou de la saisie, au responsable des lieux ou à son
 représentant, qui en reçoit copie. En l'absence du responsable des lieux ou de son représentant, l'ordonnance lui est
 notifiée, après la visite, par lettre recommandée avec demande d'avis de réception. La notification est réputée faite à la
-date de réception figurant sur l'avis. Cette ordonnance n'est susceptible que d'un pourvoi en cassation. Ce pourvoi n'est pas
-suspensif. 
+date de réception figurant sur l'avis. 
 
 Les éléments saisis sont immédiatement inventoriés, en présence du responsable des lieux ou locaux, ou de son représentant.
 
@@ -5221,7 +5520,7 @@ L'inventaire est annexé au procès-verbal relatant le déroulement des opérati
 verbal et l'inventaire sont transmis au juge qui a autorisé les opérations dans les cinq jours qui suivent leur clôture. Une
 copie est remise à l'intéressé. 
 
-Le président du tribunal de grande instance peut à tout moment ordonner la mainlevée de la saisie. 
+Le juge des libertés et de la détention peut à tout moment ordonner la mainlevée de la saisie. 
 
 Les personnes mentionnées à l'article L. 232-11 constatent les infractions mentionnées au présent chapitre par des procès-
 verbaux qui font foi jusqu'à preuve contraire. 
@@ -5238,7 +5537,7 @@ afin de leur prêter assistance. Elles prêtent alors serment, sauf lorsqu'elles
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 5
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 24
 
 	**Anciens textes**:
 
@@ -5247,7 +5546,7 @@ afin de leur prêter assistance. Elles prêtent alors serment, sauf lorsqu'elles
 	**Cite**:
 
 	  - Code du sport. - art. L232-11
-	  - Code du sport. - art. L232-13
+	  - Code du sport. - art. L232-13-1
 	  - Code du sport. - art. L232-14
 
 
@@ -5285,14 +5584,15 @@ Les modalités d'application du présent article sont déterminées par décret.
 	  - Code de la santé publique - art. L3632-6 (Ab)
 
 
-##### Section 4 : Sanctions administratives
+##### Section 4 : Sanctions administratives et mesures conservatoires
+
+##### Sous-section 1 : Sanctions administratives
 
 ###### Article L232-21
 
-Les sportifs licenciés ou les membres licenciés de groupements sportifs affiliés à des fédérations sportives qui, soit à
-l'occasion des entraînements, compétitions ou manifestations mentionnés au 2° du I de l'article L. 232-5, soit à l'occasion
-du contrôle individualisé mentionné au 1° du I du même article, ont contrevenu aux dispositions des articles L. 232-9, L.
-232-10 et L. 232-17, encourent des sanctions disciplinaires. 
+Le sportif licencié qui a contrevenu aux dispositions des articles L. 232-9, L. 232-10 et L. 232-17 et dont le contrôle a été
+effectué dans les conditions prévues aux 1°, 2°, 3° ou 4° du I de l'article L. 232-5 ou à l'article L. 232-16 encourt des
+sanctions disciplinaires. 
 
 Ces sanctions sont prononcées par les fédérations sportives mentionnées à l'article L. 131-8.
 
@@ -5307,15 +5607,12 @@ dessaisi de l'ensemble du dossier. Le dossier est alors transmis à l'instance d
 cas, sa décision dans un délai maximum de quatre mois à compter de la même date. 
 
 Les sanctions disciplinaires prises par les fédérations sportives peuvent aller jusqu'à l'interdiction définitive de
-participer aux compétitions et manifestations sportives prévues à l'article L. 232-9. 
+participer aux manifestations sportives prévues à l'article L. 232-9. 
 
-Ces sanctions ne donnent pas lieu à la procédure de conciliation prévue par l'article L. 141-4.
+Ces sanctions ne donnent pas lieu à la procédure de conciliation prévue par l'article L. 141-4. 
 
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
+Les fédérations agréées informent sans délai l'Agence française de lutte contre le dopage des décisions prises en application
+du présent article.
 
 **Liens relatifs à cet article**
 
@@ -5340,20 +5637,24 @@ le 1er février 2006.
 	  - Code du sport. - art. R232-98 (V)
 	  - Code du sport. - art. R241-13 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 10
+
+	**Liens**:
+
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 9
 
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3634-1 (MMN)
-	  - Code de la santé publique - art. L3634-1 (M)
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-8 (V)
-	  - Code du sport. - art. L141-4 (V)
-	  - Code du sport. - art. L232-9 (V)
+	  - Code du sport. - art. L131-8
+	  - Code du sport. - art. L141-4
+	  - Code du sport. - art. L232-16
+	  - Code du sport. - art. L232-9
 
 
 ###### Article L232-22
@@ -5361,16 +5662,21 @@ le 1er février 2006.
 En cas d'infraction aux dispositions des articles L. 232-9, L. 232-10 et L. 232-17, l'Agence française de lutte contre le
 dopage exerce un pouvoir de sanction disciplinaire dans les conditions suivantes : 
 
-1° Elle est compétente pour infliger des sanctions disciplinaires aux personnes non licenciées participant à des
-entraînements, des compétitions ou des manifestations mentionnés au 2° du I de l'article L. 232-5 ; 
+1° Elle est compétente pour infliger des sanctions disciplinaires aux personnes non licenciées : 
+
+a) Participant à des manifestations ou entraînements mentionnés aux 2° ou 3° du I de l'article L. 232-5 ; 
+
+b) Organisant ou participant à l'organisation des manifestations ou entraînements mentionnés aux 2° ou 3° du I de l'article
+L. 232-5 ; 
 
 2° Elle est compétente pour infliger des sanctions disciplinaires aux personnes relevant du pouvoir disciplinaire d'une
-fédération sportive lorsque celle-ci n'a pas statué dans les délais prévus à l'article L. 232-21. Dans ce cas, elle est
-saisie d'office dès l'expiration de ces délais ; 
+fédération sportive lorsque celle-ci n'a pas statué dans les délais prévus à l'article L. 232-21. Dans ce cas, l'agence se
+saisit d'office dès l'expiration de ces délais ; 
 
-3° Elle peut réformer les décisions prises en application de l'article L. 232-21. Dans ce cas, l'agence se saisit dans un
-délai d'un mois suivant la date à laquelle elle a été informée de ces décisions en application du III de l'article L.
-232-5 ; 
+3° Elle peut réformer les décisions prises en application de l'article L. 232-21. Dans ces cas, l'agence se saisit, dans un
+délai de deux mois à compter de la réception du dossier complet, des décisions prises par les fédérations agréées.
+Lorsqu'elle intervient en cas de carence de l'instance disciplinaire fédérale d'appel, elle peut aggraver la sanction
+prononcée par la fédération ; 
 
 4° Elle peut décider l'extension d'une sanction disciplinaire prononcée par une fédération aux activités de l'intéressé
 relevant des autres fédérations, de sa propre initiative ou à la demande de la fédération ayant prononcé la sanction. 
@@ -5406,7 +5712,12 @@ La saisine de l'agence n'est pas suspensive, sauf décision contraire de celle-c
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 14
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 11
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 25
+
+	**Liens**:
+
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 9
 
 	**Anciens textes**:
 
@@ -5421,32 +5732,37 @@ La saisine de l'agence n'est pas suspensive, sauf décision contraire de celle-c
 
 ###### Article L232-23
 
-L'Agence française de lutte contre le dopage, dans l'exercice de son pouvoir de sanction, conformément à l'article L. 232-22,
-peut prononcer : 
+L'Agence française de lutte contre le dopage, dans l'exercice de son pouvoir de sanction, peut prononcer : 
 
-1° A l'encontre des sportifs reconnus coupables des faits interdits par les articles L. 232-9 et L. 232-17, une interdiction
-temporaire ou définitive de participer aux compétitions et manifestations mentionnées à l'article L. 232-9 ; 
+1° A l'encontre des sportifs ayant enfreint les dispositions des articles L. 232-9, du 3° de l'article L. 232-10 ou de
+l'article L. 232-17 : 
 
-2° A l'encontre des licenciés participant à l'organisation et au déroulement de ces compétitions et manifestations ou aux
-entraînements y préparant reconnus coupables des faits interdits par l'article L. 232-10, une interdiction temporaire ou
-définitive de participer, directement ou indirectement, à l'organisation et au déroulement des compétitions et manifestations
-sportives mentionnées à l'article L. 232-9, et aux entraînements y préparant, ainsi qu'une interdiction temporaire ou
-définitive d'exercer les fonctions définies au premier alinéa de l'article L. 212-1. 
+a) Un avertissement ; 
 
-Ces sanctions sont prononcées dans le respect des droits de la défense.
+b) Une interdiction temporaire ou définitive de participer aux manifestations organisées par les fédérations agréées ou
+autorisées par la fédération délégataire compétente. 
 
-A la demande d'un sportif susceptible d'être sanctionné ou de sa propre initiative, l'agence peut, si elle ne s'estime pas
-suffisamment éclairée au vu des pièces du dossier, proposer à l'intéressé de se soumettre à une expertise en vue de
-déterminer s'il a respecté les dispositions de l'article L. 232-9.
+Les sanctions prévues au 1° peuvent être complétées par une sanction pécuniaire, dont le montant ne peut excéder 45 000 € ; 
 
-L'expertise est réalisée par un expert choisi par le sportif intéressé sur une liste établie par l'agence. Les résultats de
-l'expertise sont communiqués à l'agence et à l'intéressé, qui peut présenter des observations. Les frais de l'expertise sont
-à la charge de l'agence.
+2° A l'encontre de toute personne participant à l'organisation des manifestations ou aux entraînements mentionnés aux 2° et
+3° du I de l'article L. 232-5, ayant enfreint les dispositions de l'article L. 232-10 : 
 
-Lorsque, à la suite d'un contrôle effectué au cours d'une compétition ou manifestation sportive organisée ou autorisée par
-une fédération, un sportif non licencié en France a fait l'objet d'une sanction administrative prévue au présent article, la
-fédération annule, à la demande de l'Agence française de lutte contre le dopage, les résultats individuels du sportif
-sanctionné avec toutes les conséquences en résultant, y compris le retrait de médailles, points et prix.
+a) Un avertissement ; 
+
+b) Une interdiction temporaire ou définitive de participer aux manifestations sportives organisées par les fédérations
+agréées ou autorisées par la fédération délégataire compétente ou une interdiction temporaire ou définitive d'organiser une
+telle manifestation ; 
+
+c) Une interdiction temporaire ou définitive de participer à l'organisation des entraînements y préparant ; 
+
+d) Une interdiction temporaire ou définitive d'exercer les fonctions définies au premier alinéa de l'article L. 212-1. 
+
+Les sanctions prévues au 2° peuvent être complétées par une sanction pécuniaire, dont le montant ne peut excéder 150 000 €. 
+
+Ces sanctions sont prononcées dans le respect des droits de la défense. 
+
+Le produit des sanctions pécuniaires prévues au présent article est recouvré comme les créances de l'Etat étrangères à
+l'impôt et au domaine.
 
 **Liens relatifs à cet article**
 
@@ -5469,7 +5785,11 @@ sanctionné avec toutes les conséquences en résultant, y compris le retrait de
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 15
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 12
+
+	**Liens**:
+
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 9
 
 	**Anciens textes**:
 
@@ -5480,26 +5800,114 @@ sanctionné avec toutes les conséquences en résultant, y compris le retrait de
 	  - Code du sport. - art. L212-1
 	  - Code du sport. - art. L232-10
 	  - Code du sport. - art. L232-17
-	  - Code du sport. - art. L232-22
+	  - Code du sport. - art. L232-5
 	  - Code du sport. - art. L232-9
 
+
+###### Article L232-23-1
+
+A la demande d'un sportif susceptible de faire l'objet d'une sanction ou de sa propre initiative, l'agence peut, si elle ne
+s'estime pas suffisamment informée au vu des pièces du dossier, proposer à l'intéressé de se soumettre à une expertise afin
+de déterminer s'il a respecté les dispositions de l'article L. 232-9.
+
+L'expertise est réalisée par un expert choisi par le sportif sur une liste établie par l'agence. Les résultats de l'expertise
+sont communiqués à l'agence et à l'intéressé, qui peut présenter des observations. Les frais de l'expertise sont à la charge
+de l'agence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 13
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-9
+
+
+###### Article L232-23-2
+
+Lorsque, à la suite d'un contrôle effectué au cours d'une manifestation sportive organisée par une fédération agréée ou
+autorisée par la fédération délégataire compétente, un sportif a fait l'objet d'une sanction administrative prévue à
+l'article L. 232-23, la fédération annule, à la demande de l'Agence française de lutte contre le dopage, les résultats
+individuels du sportif ayant fait l'objet de la sanction avec toutes les conséquences en résultant, y compris le retrait de
+médailles, points, prix et gains.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 13
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-23
+
+
+###### Article L232-23-3
+
+Dans les sports collectifs, lorsque, à la suite d'un contrôle effectué au cours d'une manifestation sportive organisée par
+une fédération agréée ou autorisée par la fédération délégataire compétente, plus de deux sportifs d'une équipe ont fait
+l'objet d'une sanction administrative prévue à l'article L. 232-23, la fédération prend les mesures appropriées à l'encontre
+de l'équipe à laquelle ils appartiennent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 13
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-23
+
+
+##### Sous-section 2 : Mesures conservatoires
+
+###### Article L232-23-4
+
+Lorsque les circonstances le justifient, le président de l'Agence française de lutte contre le dopage peut ordonner à
+l'encontre du sportif, à titre conservatoire et dans l'attente d'une décision définitive de l'agence, une suspension
+provisoire de sa participation aux manifestations organisées par les fédérations agréées ou autorisées par la fédération
+délégataire compétente. Cette décision est motivée. Le sportif est convoqué par le président de l'agence, dans les meilleurs
+délais, pour faire valoir ses observations sur cette suspension provisoire. La durée de suspension ne peut excéder deux mois.
+La suspension est renouvelable une fois dans les mêmes conditions. 
+
+La durée de la suspension provisoire est déduite de la durée de l'interdiction de participer aux manifestations sportives que
+l'agence peut ultérieurement prononcer.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 13
+
+	**Cité par**:
+
+	  - Code du sport. - art. L232-5 (V)
+	  - Code du sport. - art. R232-98 (V)
+
+
+##### Section 5 : Voies de recours et prescription
 
 ###### Article L232-24
 
 Les parties intéressées peuvent former un recours de pleine juridiction contre les décisions de l'Agence française de lutte
 contre le dopage prises en application des articles L. 232-22 et L. 232-23.
 
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
+L'Agence mondiale antidopage peut saisir la juridiction administrative compétente d'une décision prise par l'organe
+disciplinaire d'une fédération sportive délégataire ainsi que d'une décision de l'Agence française de lutte contre le dopage.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 14
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 9
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 15
 
 	**Cité par**:
 
@@ -5508,14 +5916,27 @@ le 1er février 2006.
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3634-4 (MMN)
-	  - Code de la santé publique - art. L3634-4 (M)
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-22 (V)
+	  - Code du sport. - art. L232-22
 
 
-##### Section 5 : Dispositions pénales
+###### Article L232-24-1
+
+L'action disciplinaire se prescrit par huit années révolues à compter du jour du contrôle. Ce délai est interrompu par tout
+acte d'instruction ou de poursuite. 
+
+Durant ce délai, l'agence peut réaliser des analyses des échantillons prélevés, dont elle a la garde.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 16
+
+
+##### Section 6 :  Dispositions pénales
 
 ###### Article L232-25
 
@@ -5527,9 +5948,9 @@ puni des mêmes peines.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 17
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 14
 
 	**Anciens textes**:
 
@@ -5551,9 +5972,15 @@ puni des mêmes peines.
 
 ###### Article L232-26
 
-I.-La violation du 1° de l'article L. 232-9 est punie d'un an d'emprisonnement et de 3 750 € d'amende. 
+I.-La détention, sans raison médicale dûment justifiée, d'une ou des substances ou méthodes interdites fixées par arrêté du
+ministre chargé des sports est punie d'un an d'emprisonnement et de 3 750 € d'amende. 
 
-II.-La violation des 1° et 2° de l'article L. 232-10 est punie de cinq ans d'emprisonnement et de 75 000 € d'amende. 
+Cet arrêté énumère les substances et méthodes interdites figurant sur la liste mentionnée au dernier alinéa de l'article L.
+232-9, pour lesquelles l'appendice 1 à la convention internationale mentionnée à l'article L. 230-2 ne prévoit la possibilité
+de sanctions réduites qu'en cas de circonstances exceptionnelles. 
+
+II.-La méconnaissance des 1°, 2° et 4° de l'article L. 232-10 est punie de cinq ans d'emprisonnement et de 75 000 €
+d'amende. 
 
 Les peines prévues au premier alinéa du présent II sont portées à sept ans d'emprisonnement et à 150 000 € d'amende lorsque
 les faits sont commis en bande organisée, au sens de l'article 132-71 du code pénal, ou lorsqu'ils sont commis à l'égard d'un
@@ -5561,9 +5988,13 @@ mineur ou par une personne ayant autorité sur un ou des sportifs.
 
 **Liens relatifs à cet article**
 
+	**Liens**:
+
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 14
+
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 7
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 26
 
 	**Cité par**:
 
@@ -5612,15 +6043,15 @@ le 1er février 2006.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 14
 
 	**Cite**:
 
-	  - Code pénal - art. 131-27 (V)
-	  - Code pénal - art. 131-35 (V)
-	  - Code du sport. - art. L232-26 (V)
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35
+	  - Code du sport. - art. L232-26
 
 	**Anciens textes**:
 
@@ -5644,13 +6075,13 @@ l'entreprise ayant servi à commettre l'infraction et appartenant à la personne
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2009-526 du 12 mai 2009 - art. 125
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 14
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 121-2
 	  - Code pénal - art. 131-38
 	  - Code pénal - art. 131-39
 	  - Code du sport. - art. L232-25
@@ -5663,31 +6094,6 @@ l'entreprise ayant servi à commettre l'infraction et appartenant à la personne
 	**Cité par**:
 
 	  - Code du sport. - art. L241-5 (V)
-
-
-###### Article L232-29
-
-La tentative des délits prévus à la présente section est punie des mêmes peines que l'infraction elle-même.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 27
-
-	**Anciens textes**:
-
-	  - Code de la santé publique - art. L3633-4 (Ab)
 
 
 ###### Article L232-30
@@ -5707,9 +6113,9 @@ partie civile.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 8
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 14
 
 	**Anciens textes**:
 
@@ -5722,20 +6128,7 @@ partie civile.
 
 ###### Article L232-31
 
-Sauf disposition contraire, les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat. 
-
-Sont notamment précisés : 
-
-1° Les conditions dans lesquelles les fédérations sportives assurent l'organisation de la surveillance médicale particulière
-prévue à l'article L. 231-6 ;
-
-2° Les examens et prélèvements autorisés ainsi que leurs modalités.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
+Sauf disposition contraire, les modalités d'application du présent titre sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -5743,9 +6136,13 @@ le 1er février 2006.
 
 	  - Loi n°2006-405 du 5 avril 2006 - art. 25 (VD)
 
-	**Codifié par**:
+	**Liens**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 14
+
+	**Modifié par**:
+
+	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 28
 
 	**Anciens textes**:
 
@@ -5756,13 +6153,10 @@ le 1er février 2006.
 	  - Code de la santé publique - art. L3622-7 (MMN)
 	  - Code de la santé publique - art. L3631-4 (Ab)
 	  - Code de la santé publique - art. L3632-7 (MMN)
-	  - Code de la santé publique - art. L3612-4 (M)
-	  - Code de la santé publique - art. L3622-7 (M)
-	  - Code de la santé publique - art. L3632-7 (M)
 
 	**Cite**:
 
-	  - Code du sport. - art. L231-6 (V)
+	  - Code du sport. - art. L231-6
 
 
 ### TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL
