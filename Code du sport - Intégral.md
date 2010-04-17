@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-04-17
+Version Consolidée au 2010-04-18
 
 # Partie législative
 
@@ -29340,6 +29340,8 @@ et R. 332-8 en sont informés sans délai selon la même procédure.
 
 ##### Section 2 : Dissolution d'une association ou d'un groupement de fait ayant pour objet le soutien à une association sportive
 
+##### Section 2 : Dissolution ou suspension d'activité d'une association ou d'un groupement de fait ayant pour objet le soutien à une association sportive
+
 ###### Article R332-10
 
 Les membres de la Commission nationale consultative de prévention des violences lors des manifestations sportives sont nommés
@@ -29360,7 +29362,11 @@ pour une durée de trois ans, renouvelable une fois.
 ###### Article R332-11
 
 Saisie par le ministre de l'intérieur d'un projet de dissolution d'une association ou d'un groupement de fait mentionnés à
-l'article L. 332-18, la commission rend son avis dans le mois qui suit sa saisine.
+l'article L. 332-18, la commission rend son avis dans le mois qui suit sa saisine. 
+
+Saisie par le ministre de l'intérieur d'un projet de suspension d'activité pendant douze mois au plus d'une association ou
+d'un groupement de fait mentionnés à l'article L. 332-18, la commission rend son avis dans les quinze jours qui suivent sa
+saisine. 
 
 Le ministre chargé des sports est tenu informé de cette demande d'avis.
 
@@ -29368,23 +29374,22 @@ Le ministre chargé des sports est tenu informé de cette demande d'avis.
 
 	**Anciens textes**:
 
-	  - Art. 2 du décret n°2006-1550 du 8 décembre 2006 relatif au fonctionnement de la Commission nationale consultative de prévention des violences lors des manifestations sportives
 	  - Décret n°2006-1550 du 8 décembre 2006 - art. 2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2010-385 du 16 avril 2010 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. L332-18 (V)
+	  - Code du sport. - art. L332-18
 
 
 ###### Article R332-12
 
 Le président de la commission définit les modalités de l'instruction de l'affaire et invite les représentants des
-associations ou des groupements de fait mentionnés par le projet de dissolution à présenter leurs observations écrites ou
-orales.
+associations ou des groupements de fait mentionnés par le  projet de dissolution ou de suspension d'activité pendant douze
+mois au plus à présenter leurs observations écrites ou orales. 
 
 Les dirigeants des clubs sportifs concernés sont informés qu'ils peuvent également présenter leurs observations écrites ou
 orales.
@@ -29393,12 +29398,11 @@ orales.
 
 	**Anciens textes**:
 
-	  - Art. 3 du décret n°2006-1550 du 8 décembre 2006 relatif au fonctionnement de la Commission nationale consultative de prévention des violences lors des manifestations sportives
 	  - Décret n°2006-1550 du 8 décembre 2006 - art. 3 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2010-385 du 16 avril 2010 - art. 3
 
 
 ###### Article R332-13
