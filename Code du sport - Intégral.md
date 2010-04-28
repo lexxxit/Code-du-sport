@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-04-18
+Version Consolidée au 2010-04-29
 
 # Partie législative
 
@@ -22955,24 +22955,22 @@ Les fonds de l'agence sont déposés et placés dans les conditions prévues par
 
 ###### Article R232-41
 
-L'agence est soumise aux dispositions du titre II de la loi n° 91-3 du 3 janvier 1991 relative à la transparence et à la
-régularité des procédures de marchés et soumettant la passation de certains contrats à des règles de publicité et de mise en
-concurrence.
+L'agence est soumise aux dispositions de l'ordonnance n° 2005-649 du 6 juin 2005 relative aux marchés passés par certaines
+personnes publiques ou privées non soumises au code des marchés publics.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 32 du décret n°2006-1204 du 29 septembre 2006 relatif à l'organisation et au fonctionnement de l'Agence française de lutte contre le dopage
-	  - Décret n°2006-1204 du 29 septembre 2006 - art. 32 (Ab)
-
 	**Cite**:
 
-	  - Loi n°91-3 1991-01-03
+	  - Ordonnance n°2005-649 du 6 juin 2005
 
-	**Codifié par**:
+	**Anciens textes**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2006-1204 du 29 septembre 2006 - art. 32 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-406 du 26 avril 2010 - art. 38
 
 
 ##### Section 3 : Agissements interdits et contrôles
@@ -29337,8 +29335,6 @@ et R. 332-8 en sont informés sans délai selon la même procédure.
 	  - Code du sport. - art. R332-7 (V)
 	  - Code du sport. - art. R332-8 (V)
 
-
-##### Section 2 : Dissolution d'une association ou d'un groupement de fait ayant pour objet le soutien à une association sportive
 
 ##### Section 2 : Dissolution ou suspension d'activité d'une association ou d'un groupement de fait ayant pour objet le soutien à une association sportive
 
