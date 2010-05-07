@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-04-29
+Version Consolidée au 2010-05-08
 
 # Partie législative
 
@@ -6517,13 +6517,13 @@ Le présent titre s'applique aux épreuves organisées en vue de la sélection e
 six ans et moins. 
 
 Toutefois, à l'occasion de ces épreuves, les compétences confiées aux fédérations sportives en vertu du présent titre sont
-exercées par les organismes agréés en application de l'article L. 653-3 du code rural.
+exercées par les organismes agréés en application de l'article L. 653-3 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 20
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cite**:
 
@@ -14819,17 +14819,17 @@ budget.
 
 ###### Article R211-19
 
-L'Institut français du cheval et de l'équitation, régi par les articles R. 653-13 à R. 653-29 du code rural, gère une école
-située à Saumur dont les professeurs d'équitation sont les écuyers du Cadre noir. 
+L'Institut français du cheval et de l'équitation, régi par les articles R. 653-13 à R. 653-29 du code rural et de la pêche
+maritime, gère une école située à Saumur dont les professeurs d'équitation sont les écuyers du Cadre noir. 
 
 Cette école exerce notamment les missions dévolues à l'Institut français du cheval et de l'équitation par les 6°, 7°, 8°, 9°,
-10° et 11° du II de l'article R. 653-14 du code rural.
+10° et 11° du II de l'article R. 653-14 du code rural et de la pêche maritime.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 2
+	  - Ordonnance n°2010-462 du 6 mai 2010 - art. 1
 
 	**Cité par**:
 
@@ -14839,13 +14839,9 @@ Cette école exerce notamment les missions dévolues à l'Institut français du 
 	  - Arrêté du 22 septembre 2014 - art. 2 (V)
 	  - Code rural et de la pêche maritime - art. R653-14 (V)
 
-	**Anciens textes**:
-
-	  - Code du sport. - art. D211-19 (T)
-
 	**Cite**:
 
-	  - Code rural - art. R*653-13
+	  - Code rural - art. R653-13 (V)
 
 
 ##### Sous-section 3 : L'Ecole nationale de voile et des sports nautiques
