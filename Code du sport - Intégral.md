@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-05-13
 
 # Partie législative
 
@@ -8642,6 +8642,79 @@ cession bénéficie alors à chacune de ces sociétés.
 	  - Code du sport. - art. L331-5 (V)
 
 
+###### Article L333-1-1
+
+Le droit d'exploitation défini au premier alinéa de l'article L. 333-1 inclut le droit de consentir à l'organisation de paris
+sur les manifestations ou compétitions sportives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 63
+
+
+###### Article L333-1-2
+
+Lorsque le droit d'organiser des paris est consenti par une fédération sportive ou par un organisateur de manifestations
+sportives mentionné au premier alinéa de l'article L. 331-5 à des opérateurs de paris en ligne, le projet de contrat devant
+lier ces derniers est, préalablement à sa signature, transmis pour avis à l'Autorité de régulation des jeux en ligne et à
+l'Autorité de la concurrence, qui se prononcent dans un délai de quinze jours à compter de la date de réception de ce
+document. 
+
+L'organisateur de manifestations ou de compétitions sportives peut donner mandat à la fédération délégataire ou agréée
+concernée ou au comité mentionné à l'article L. 141-1 pour signer, avec les opérateurs de paris en ligne, le contrat
+mentionné à l'alinéa précédent. 
+
+Les fédérations sportives et organisateurs de manifestations sportives ne peuvent ni attribuer à un opérateur le droit
+exclusif d'organiser des paris ni exercer une discrimination entre les opérateurs agréés pour une même catégorie de paris. 
+
+Tout refus de conclure un contrat d'organisation de paris est motivé par la fédération sportive ou l'organisateur de cette
+manifestation sportive et notifié par lui au demandeur et à l'Autorité de régulation des jeux en ligne. 
+
+Le contrat mentionné à l'alinéa précédent précise les obligations à la charge des opérateurs de paris en ligne en matière de
+détection et de prévention de la fraude, notamment les modalités d'échange d'informations avec la fédération sportive ou
+l'organisateur de cette manifestation sportive. 
+
+Il ouvre droit, pour ces derniers, à une rémunération tenant compte notamment des frais exposés pour la détection et la
+prévention de la fraude.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 63
+
+	**Cité par**:
+
+	  - Décret n°2010-614 du 7 juin 2010 - art. 5 (V)
+
+
+###### Article L333-1-3
+
+Les associations visées à l'article L. 122-1 et les sociétés sportives visées à l'article L. 122-2 peuvent concéder aux
+opérateurs de paris en ligne, en tout ou partie, à titre gratuit ou onéreux, de manière exclusive ou non, des droits sur les
+actifs incorporels dont elles sont titulaires, sous réserve des dispositions des articles L. 333-1 et L. 333-2. 
+
+Les dispositions qui précèdent s'appliquent aux fédérations sportives et organisateurs de manifestations sportives mentionnés
+à l'article L. 331-5 pour les actifs incorporels dont ils sont titulaires, à l'exception du droit de consentir à
+l'organisation de paris mentionné à l'article L. 333-1-1. 
+
+Les conditions de commercialisation du droit d'organiser des paris sur les manifestations ou compétitions sportives et la
+définition des actifs incorporels pouvant être concédés aux opérateurs de paris en ligne sont précisées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 63
+
+	**Cite**:
+
+	  - Code du sport. - art. L122-1
+	  - Code du sport. - art. L122-2
+
+
 ###### Article L333-2
 
 Les droits d'exploitation audiovisuelle cédés aux sociétés sportives sont commercialisés par la ligue professionnelle dans
@@ -8868,6 +8941,12 @@ loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 	  - Code du sport. - art. L425-1 (V)
 
 
+#### Chapitre III : Exploitation des manifestations sportives
+
+##### Section 1 : Droit d'exploitation
+
+##### Section 2 : Liberté de diffusion
+
 ## LIVRE IV : DISPOSITIONS DIVERSES
 
 ### TITRE Ier : FINANCEMENT DU SPORT
@@ -8878,45 +8957,37 @@ loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
 ###### Article L411-1
 
-Ainsi qu'il est dit à l'article 53 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006, un prélèvement effectué
-chaque année dans les conditions déterminées par la loi de finances sur les sommes misées sur les jeux exploités en France et
-dans les départements d'outre-mer par La Française des jeux est affecté à l'établissement public chargé du développement du
-sport.
+Un prélèvement effectué chaque année dans les conditions déterminées par la loi de finances sur les sommes misées sur les
+jeux exploités en France et dans les départements d'outre-mer par La Française des jeux est affecté à l'établissement public
+chargé du développement du sport.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 53 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2010-476 du 12 mai 2010 - art. 51
 
 
 ###### Article L411-2
 
-Ainsi qu'il est dit à l'article 53 de la loi n° 2005-1719 du 30 décembre 2005 de finances pour 2006, une contribution sur la
-cession à tout service de télévision des droits de diffusion de manifestations ou compétitions sportives perçue dans les
-conditions prévues à l'article 302 bis ZE du code général des impôts est affectée à l'établissement public chargé du
-développement du sport. Le produit de cette contribution est destiné à financer le développement des associations sportives
-locales et la formation de leurs animateurs.
+Une contribution sur la cession à tout service de télévision des droits de diffusion de manifestations ou compétitions
+sportives perçue dans les conditions prévues à l'article 302 bis ZE du code général des impôts est affectée à l'établissement
+public chargé du développement du sport. Le produit de cette contribution est destiné à financer le développement des
+associations sportives locales et la formation de leurs animateurs.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 du 16 juillet 1984 - art. 24 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 24 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 51
 
 	**Cite**:
 
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 53 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 302 bis ZE (VT)
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Code général des impôts, CGI. - art. 302 bis ZE
 
 
 ### TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER
