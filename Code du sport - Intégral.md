@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-05-13
+Version Consolidée au 2010-05-27
 
 # Partie législative
 
@@ -8605,7 +8605,7 @@ l'association ou le groupement maintenu ou reconstitué.
 	  - Code du sport. - art. L332-19 (V)
 
 
-#### Chapitre III : Retransmission des manifestations sportives
+#### Chapitre III : Exploitation des manifestations sportives
 
 ##### Section 1 : Droit d'exploitation
 
@@ -8940,12 +8940,6 @@ loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 	  - Code du sport. - art. L424-1 (V)
 	  - Code du sport. - art. L425-1 (V)
 
-
-#### Chapitre III : Exploitation des manifestations sportives
-
-##### Section 1 : Droit d'exploitation
-
-##### Section 2 : Liberté de diffusion
 
 ## LIVRE IV : DISPOSITIONS DIVERSES
 
@@ -30779,9 +30773,7 @@ Fédération française d'aéromodélisme : Aéromodèles.
 
 Fédération nationale d'aéronautique : Info pilote. 
 
-Fédération française d'aérostation : L'Aéronote. 
-
-Fédération française d'athlétisme : Infos FFA. 
+Fédération française d'aérostation : L'Aéronote.
 
 Fédération française des sociétés d'aviron : Aviron magazine. 
 
@@ -30880,7 +30872,7 @@ Fédération française de vol libre : Vol passion.
 
 	**Modifié par**:
 
-	  - Arrêté du 29 octobre 2008 - art. 1
+	  - Arrêté du 4 mai 2010 - art. 1
 
 	**Cite**:
 
