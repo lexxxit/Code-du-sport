@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-06-05
+Version Consolidée au 2010-06-11
 
 # Partie législative
 
@@ -1793,15 +1793,14 @@ alinéa est fixée par décret en Conseil d'Etat.
 ###### Article L131-19
 
 Lorsque, dans une discipline sportive, aucune fédération sportive n'a reçu de délégation, les compétences attribuées aux
-fédérations délégataires par la présente section et par les articles L. 311-2 et L. 331-4 à L. 331-7 peuvent être exercées,
-pour une période déterminée et avec l'autorisation du ministre chargé des sports, par une commission spécialisée mise en
-place par le Comité national olympique et sportif français.
+fédérations délégataires par la présente section et par les articles L. 222-7, L. 222-11, L. 222-15, L. 222-16, L. 222-18, L.
+222-19, L. 311-2 et L. 331-4 à L. 331-7 peuvent être exercées, pour une période déterminée et avec l'autorisation du ministre
+chargé des sports, par une commission spécialisée mise en place par le Comité national olympique et sportif français.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 19-1 A, alinéa 1
 	  - Loi n°84-610 du 16 juillet 1984 - art. 19-1 A (Ab)
 
 	**Cité par**:
@@ -1812,14 +1811,16 @@ place par le Comité national olympique et sportif français.
 	  - Code du sport. - art. L241-2 (V)
 	  - Code du sport. - art. R131-4 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2010-626 du 9 juin 2010 - art. 5
 
 	**Cite**:
 
-	  - Code du sport. - art. L311-2 (V)
-	  - Code du sport. - art. L331-4 (V)
+	  - Code du sport. - art. L222-15
+	  - Code du sport. - art. L222-7
+	  - Code du sport. - art. L311-2
+	  - Code du sport. - art. L331-4
 
 
 ###### Article L131-20
@@ -2071,8 +2072,8 @@ par lui après avis de la Commission nationale du sport de haut niveau.
 ###### Article L141-4
 
 Le Comité national olympique et sportif français est chargé d'une mission de conciliation dans les conflits opposant les
-licenciés, les associations et sociétés sportives et les fédérations sportives agréées, à l'exception des conflits mettant en
-cause des faits de dopage. 
+licenciés, les agents sportifs, les associations et sociétés sportives et les fédérations sportives agréées, à l'exception
+des conflits mettant en cause des faits de dopage. 
 
 Il constitue une conférence des conciliateurs dont il nomme les membres. 
 
@@ -2085,17 +2086,15 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 19, alinéas 10, 11 et 17
-	  - Loi n°84-610 du 16 juillet 1984 - art. 19 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 19 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2010-626 du 9 juin 2010 - art. 3
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (V)
+	  - Code pénal - art. 226-13
 
 	**Cité par**:
 
@@ -3563,27 +3562,21 @@ application du 3° de l'article L. 1242-2 du code du travail, dans le secteur d'
 
 ###### Article L222-5
 
-Les dispositions des articles L. 7124-9 à L. 7124-12 du code du travail s'appliquent aux rémunérations de toute nature
-perçues pour l'exercice d'une activité sportive par des enfants de seize ans et moins soumis à l'obligation scolaire. 
+L'article L. 7124-9 du code du travail s'applique aux rémunérations de toute nature perçues pour l'exercice d'une activité
+sportive par des enfants de seize ans et moins soumis à l'obligation scolaire.
 
-La conclusion d'un contrat relatif à l'exercice d'une activité sportive par un mineur ne donne lieu à aucune rémunération ou
-indemnité ni à l'octroi de quelque avantage que ce soit au bénéfice : 
+La conclusion d'un contrat soit relatif à l'exercice d'une activité sportive par un mineur, soit dont la cause est l'exercice
+d'une activité sportive par un mineur ne donne lieu à aucune rémunération ou indemnité ni à l'octroi de quelque avantage que
+ce soit au bénéfice d'une personne physique ou morale mettant en rapport les parties intéressées à la conclusion d'un de ces
+contrats ou d'une personne physique ou morale agissant au nom et pour le compte du mineur.
 
-1° D'une personne exerçant l'activité définie au premier alinéa de l'article L. 222-6 ;
+Les conventions écrites en exécution desquelles une personne physique ou morale met en rapport les parties intéressées à la
+conclusion d'un de ces contrats ou agit au nom et pour le compte du mineur mentionnent l'interdiction prévue au deuxième
+alinéa. La personne physique ou morale partie à une telle convention la transmet à la fédération délégataire compétente.
+Cette fédération édicte également les règles relatives à la communication des contrats relatifs à l'exercice d'une activité
+sportive par un mineur.
 
-2° D'une association sportive ou d'une société sportive ; 
-
-3° Ou de toute personne agissant au nom et pour le compte du mineur. 
-
-Toute convention contraire aux dispositions du présent article est nulle.
-
-**Nota:**
-
-Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
-la partie réglementaire du code du travail et au plus tard le 1er mars 2008.
-
-La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
-du travail au 1er mai 2008.
+Toute convention contraire au présent article est nulle.
 
 **Liens relatifs à cet article**
 
@@ -3606,40 +3599,27 @@ du travail au 1er mai 2008.
 
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-3 (Ab)
 
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
 	**Modifié par**:
 
-	  - Ordonnance 2007-329 2007-03-12 art. 10 1° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
 
 	**Cite**:
 
-	  - Code du travail - art. L7124-9 (V)
+	  - Code du travail - art. L7124-9
 
 
 ###### Article L222-6
 
-Toute personne exerçant à titre occasionnel ou habituel, contre rémunération, l'activité consistant à mettre en rapport les
-parties intéressées à la conclusion d'un contrat relatif à l'exercice rémunéré d'une activité sportive doit être titulaire
-d'une licence d'agent sportif. La licence est délivrée pour trois ans par la fédération délégataire compétente et doit être
-renouvelée à l'issue de cette période.
+Les infractions aux règles de rémunération mentionnées au premier alinéa de l'article L. 222-5 sont punies d'une amende de 7
+500 €. 
 
-Les modalités d'attribution, de délivrance et de retrait de la licence d'agent sportif par la fédération sont définies par
-décret en Conseil d'Etat.
+La récidive est punie d'un emprisonnement de six mois et d'une amende de 15 000 €.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 15-2, 1er alinéa, 1ère et 2e phrases
-	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 	**Cité par**:
 
@@ -3651,32 +3631,24 @@ décret en Conseil d'Etat.
 	  - Code du travail - art. L5321-3 (VD)
 	  - Code du travail - art. L5323-3 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
 
 ###### Article L222-7
 
-Nul ne peut obtenir ou détenir une licence d'agent sportif : 
+L'activité consistant à mettre en rapport, contre rémunération, les parties intéressées à la conclusion d'un contrat soit
+relatif à l'exercice rémunéré d'une activité sportive ou d'entraînement, soit qui prévoit la conclusion d'un contrat de
+travail ayant pour objet l'exercice rémunéré d'une activité sportive ou d'entraînement ne peut être exercée que par une
+personne physique détentrice d'une licence d'agent sportif. 
 
-1° S'il exerce, directement ou indirectement, en droit ou en fait, à titre bénévole ou rémunéré, des fonctions de direction
-ou d'encadrement sportif soit dans une association ou une société employant des sportifs contre rémunération ou organisant
-des manifestations sportives, soit dans une fédération sportive ou un organe qu'elle a constitué ou s'il a été amené à
-exercer l'une de ces fonctions dans l'année écoulée ; 
+La licence est délivrée, suspendue et retirée, selon la discipline concernée, par la fédération délégataire compétente.
+Celle-ci contrôle annuellement l'activité des agents sportifs. 
 
-2° S'il a fait l'objet d'une condamnation pénale figurant au bulletin n° 2 du casier judiciaire pour crime ou pour l'un des
-délits prévus : 
-
-a) Aux sections 3 et 4 du chapitre II du titre II du livre II du code pénal ; 
-
-b) A la section 2 du chapitre V du titre II du livre II du même code ; 
-
-c) Au chapitre II du titre Ier du livre III du même code ; 
-
-d) A la section 1 du chapitre III du titre Ier du livre III du même code ; 
-
-e) A la section 1 du chapitre IV du titre Ier du livre III du même code ; 
-
-f) Aux articles L. 232-25 à L. 232-29 du présent code ; 
-
-g) A l'article 1750 du code général des impôts.
+Chaque fédération délégataire compétente publie la liste des agents sportifs autorisés à exercer dans sa discipline ainsi que
+les sanctions prononcées en application de l'article L. 222-19 à l'encontre des agents, des licenciés et des associations et
+sociétés affiliées.
 
 **Liens relatifs à cet article**
 
@@ -3710,41 +3682,26 @@ g) A l'article 1750 du code général des impôts.
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 15-2, alinéas 2 à 11
-	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
-	**Cite**:
-
-	  - Code général des impôts, CGI. - art. 1750 (V)
-	  - Code du sport. - art. L232-25 (V)
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
 
 
 ###### Article L222-8
 
-Sont soumis aux incompatibilités et incapacités prévues à l'article L. 222-7 les préposés d'un agent sportif ainsi que,
-lorsque la licence a été délivrée à une personne morale, ses dirigeants et, s'il s'agit d'une société en nom collectif, d'une
-société en commandite simple ou d'une société à responsabilité limitée, ses associés.
+L'agent sportif peut, pour l'exercice de sa profession, constituer une société ou être préposé d'une société.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 15-2, alinéa 12
-	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
-	**Cite**:
-
-	  - Code du sport. - art. L222-7 (V)
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -3753,21 +3710,33 @@ société en commandite simple ou d'une société à responsabilité limitée, s
 
 ###### Article L222-9
 
-L'exercice à titre occasionnel de l'activité d'agent sportif par un ressortissant d'un Etat membre de la Communauté
-européenne ou d'un Etat partie à l'accord sur l'Espace économique européen non établi sur le territoire national est
-subordonné au respect des conditions de moralité définies aux articles L. 222-7 et L. 222-8.
+Nul ne peut obtenir ou détenir une licence d'agent sportif :
+
+1° S'il exerce, directement ou indirectement, en droit ou en fait, à titre bénévole ou rémunéré, des fonctions de direction
+ou d'entraînement sportif soit dans une association ou une société employant des sportifs contre rémunération ou organisant
+des manifestations sportives, soit dans une fédération sportive ou un organe qu'elle a constitué, ou s'il a été amené à
+exercer l'une de ces fonctions dans l'année écoulée ;
+
+2° S'il est ou a été durant l'année écoulée actionnaire ou associé d'une société employant des sportifs contre rémunération
+ou organisant des manifestations sportives ;
+
+3° S'il a fait l'objet d'une sanction disciplinaire au moins équivalente à une suspension par la fédération délégataire
+compétente à raison d'un manquement au respect des règles d'éthique, de moralité et de déontologie sportives ;
+
+4° S'il est préposé d'une association ou d'une société employant des sportifs contre rémunération ou organisant des
+manifestations sportives ;
+
+5° S'il est préposé d'une fédération sportive ou d'un organe qu'elle a constitué.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 15-2, alinéa 13
-	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -3778,28 +3747,21 @@ subordonné au respect des conditions de moralité définies aux articles L. 222
 	  - Code du sport. - art. R222-12 (V)
 	  - Code du sport. - art. R222-14 (V)
 
-	**Cite**:
-
-	  - Code du sport. - art. L222-7 (V)
-
 
 ###### Article L222-10
 
-Un agent sportif ne peut agir que pour le compte d'une des parties au même contrat, qui lui donne mandat et peut seule le
-rémunérer. Le mandat précise le montant de cette rémunération, qui ne peut excéder 10 % du montant du contrat conclu. Toute
-convention contraire aux dispositions du présent article est réputée nulle et non écrite.
+Nul ne peut exercer, directement ou indirectement, en droit ou en fait, à titre bénévole ou rémunéré, des fonctions de
+direction ou d'entraînement sportif soit dans une association ou une société employant des sportifs contre rémunération ou
+organisant des manifestations sportives, soit dans une fédération sportive ou un organe qu'elle a constitué s'il a exercé la
+profession d'agent sportif durant l'année écoulée.
 
-Au titre de la délégation de pouvoir qui leur est concédée, les fédérations délégataires veillent à ce que les contrats
-mentionnés au premier alinéa préservent les intérêts des sportifs et de la discipline concernée. A cet effet, les contrats et
-les mandats sont communiqués aux fédérations. Les fédérations édictent des sanctions en cas de non-communication des contrats
-ou des mandats.
+Nul ne peut être actionnaire ou associé d'une société employant des sportifs contre rémunération ou organisant des
+manifestations sportives s'il a exercé la profession d'agent sportif durant l'année écoulée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 15-2, alinéas 14 et 15
-	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (Ab)
 
 	**Cité par**:
@@ -3807,31 +3769,41 @@ ou des mandats.
 	  - Décret n°2002-649 du 29 avril 2002 - art. 18 (Ab)
 	  - Code du sport. - art. R222-21 (V)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
 
 
 ###### Article L222-11
 
-Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait d'exercer l'activité définie à l'article L. 222-6. 
+Nul ne peut obtenir ou détenir une licence d'agent sportif s'il :
 
-1° Sans avoir obtenu la licence d'agent sportif ou en méconnaissance d'une décision de non-renouvellement ou de retrait de
-cette licence ; 
+1° A été l'auteur de faits ayant donné lieu à condamnation pénale pour agissements contraires à l'honneur, à la probité ou
+aux bonnes mœurs ;
 
-2° Ou en violation des dispositions des articles L. 222-7 à L. 222-9.
+2° A été frappé de faillite personnelle ou de l'une des mesures d'interdiction ou de déchéance prévues au livre VI du code de
+commerce ou, dans le régime antérieur à la loi n° 2005-845 du 26 juillet 2005 de sauvegarde des entreprises, en application
+du titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises
+ou, dans le régime antérieur à cette loi, en application du titre II de la loi n° 67-563 du 13 juillet 1967 sur le règlement
+judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes.
+
+Le bulletin n° 2 du casier judiciaire est délivré à la fédération délégataire compétente.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°67-563 du 13 juillet 1967
+	  - Loi n°85-98 du 25 janvier 1985
+	  - Loi n°2005-845 du 26 juillet 2005
+
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 15-2, alinéas 16 à 18
-	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-2 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
 
 	**Cité par**:
 
@@ -3839,45 +3811,326 @@ cette licence ;
 	  - Code du sport. - art. R222-12 (V)
 	  - Code du sport. - art. R222-14 (V)
 
-	**Cite**:
-
-	  - Code du sport. - art. L222-6 (V)
-	  - Code du sport. - art. L222-7 (V)
-
 
 ###### Article L222-12
 
-Les infractions aux règles de rémunération mentionnées au premier alinéa de l'article L. 222-5 sont punies des peines prévues
-par les articles L. 7124-27 et L. 7124-34 du code du travail.
+Sont soumis aux incompatibilités et incapacités prévues aux articles L. 222-9 à L. 222-11 les préposés d'un agent sportif ou
+de la société qu'il a constituée pour l'exercice de son activité. 
 
-**Nota:**
-
-Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que
-la partie réglementaire du code du travail et au plus tard le 1er mars 2008.
-
-La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code
-du travail au 1er mai 2008.
+Il est interdit d'être préposé de plus d'un agent sportif ou de plus d'une société au sein de laquelle est exercée l'activité
+d'agent sportif.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
-	**Créé par**:
-
-	  - Ordonnance 2007-329 2007-03-12 art. 10 2° JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L222-5 (V)
-	  - Code du travail - art. L7124-27 (V)
+	  - Code du sport. - art. L222-9
 
 	**Cité par**:
 
 	  - Code du sport. - art. R222-10 (V)
 	  - Code du sport. - art. R222-39 (V)
 	  - Code du sport. - art. R222-40 (V)
+
+
+###### Article L222-13
+
+Lorsque l'agent sportif constitue une société pour l'exercice de sa profession, ses dirigeants, associés ou actionnaires sont
+soumis aux incompatibilités et incapacités prévues aux articles L. 222-9 à L. 222-11. 
+
+Lorsque l'agent sportif constitue une personne morale pour l'exercice de sa profession, ses associés ou actionnaires ne
+peuvent en aucun cas être : 
+
+1° Une association ou une société employant des sportifs contre rémunération ou organisant des manifestations sportives ; 
+
+2° Une fédération sportive ou un organe qu'elle a constitué.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-9
+
+
+###### Article L222-14
+
+Lorsque l'agent sportif constitue une personne morale pour l'exercice de sa profession, ses dirigeants, associés ou
+actionnaires ne peuvent être des sportifs ou des entraîneurs pour lesquels l'agent peut exercer l'activité mentionnée au
+premier alinéa de l'article L. 222-7.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. L122-16-1 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-7
+
+
+###### Article L222-15
+
+L'activité d'agent sportif peut être exercée sur le territoire national, dans les conditions prévues aux articles L. 222-5 à
+L. 222-22, par les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace
+économique européen : 
+
+1° Lorsqu'ils sont qualifiés pour l'exercer dans l'un des Etats mentionnés au premier alinéa du présent article dans lequel
+la profession ou la formation d'agent sportif est réglementée ; 
+
+2° Ou lorsqu'ils ont exercé à plein temps pendant deux ans au cours des dix années précédentes la profession d'agent sportif
+dans l'un des Etats mentionnés au premier alinéa dans lequel ni la profession ni la formation d'agent sportif ne sont
+réglementées et qu'ils sont titulaires d'une attestation de compétence ou d'un titre de formation délivré par l'autorité
+compétente de l'Etat d'origine. 
+
+Un décret en Conseil d'Etat fixe les conditions auxquelles est soumis l'exercice de l'activité d'agent sportif par les
+ressortissants de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen souhaitant s'établir sur
+le territoire national, lorsqu'il existe une différence substantielle de niveau entre la qualification dont les intéressés se
+prévalent et les exigences requises pour l'obtention de la licence visée à l'article L. 222-7.
+
+L'activité d'agent sportif peut également être exercée de façon temporaire et occasionnelle par les ressortissants légalement
+établis dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord sur l'Espace économique européen dans le
+respect de l'article L. 222-11. Toutefois, lorsque ni l'activité concernée ni la formation permettant de l'exercer ne sont
+réglementées dans l'Etat membre d'établissement, ses ressortissants doivent l'avoir exercée pendant au moins deux années au
+cours des dix années qui précèdent son exercice sur le territoire national. 
+
+Les ressortissants d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
+doivent, préalablement à l'exercice de l'activité d'agent sportif sur le territoire national, y compris temporaire et
+occasionnelle, en faire la déclaration à la fédération délégataire compétente selon des modalités définies par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. L131-19 (V)
+	  - Code du sport. - art. L222-22 (V)
+	  - Code du sport. - art. R222-22 (V)
+	  - Code du sport. - art. R222-23 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-11
+	  - Code du sport. - art. L222-5
+	  - Code du sport. - art. L222-7
+
+
+###### Article L222-16
+
+Le ressortissant d'un Etat qui n'est pas membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen
+et qui n'est pas titulaire d'une licence d'agent sportif mentionnée à l'article L. 222-7 doit passer une convention avec un
+agent sportif ayant pour objet la présentation d'une partie intéressée à la conclusion d'un contrat mentionné au même article
+L. 222-7. 
+
+La convention de présentation mentionnée au premier alinéa du présent article doit être transmise à la fédération délégataire
+compétente. 
+
+Un agent sportif établi dans un des Etats ou territoires considérés comme non coopératifs au sens de l'article 238-0 A du
+code général des impôts ne peut exercer l'activité d'agent sportif sur le territoire national. 
+
+Toute convention de présentation conclue avec un tel agent est nulle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code général des impôts, CGI. - art. 238-0 A
+	  - Code du sport. - art. L222-7
+
+	**Cité par**:
+
+	  - Code du sport. - art. R222-32 (V)
+
+
+###### Article L222-17
+
+Un agent sportif ne peut agir que pour le compte d'une des parties aux contrats mentionnés à l'article L. 222-7. 
+
+Le contrat écrit en exécution duquel l'agent sportif exerce l'activité consistant à mettre en rapport les parties intéressées
+à la conclusion d'un des contrats mentionnés à l'article L. 222-7 précise : 
+
+1° Le montant de la rémunération de l'agent sportif, qui ne peut excéder 10 % du montant du contrat conclu par les parties
+qu'il a mises en rapport ; 
+
+2° La partie à l'un des contrats mentionnés à l'article L. 222-7 qui rémunère l'agent sportif. 
+
+Lorsque, pour la conclusion d'un contrat mentionné à l'article L. 222-7, plusieurs agents sportifs interviennent, le montant
+total de leurs rémunérations ne peut excéder 10 % du montant de ce contrat. 
+
+Le montant de la rémunération de l'agent sportif peut, par accord entre celui-ci et les parties aux contrats mentionnés à
+l'article L. 222-7, être pour tout ou partie acquitté par le cocontractant du sportif ou de l'entraîneur. Cette rémunération
+n'est alors pas qualifiée d'avantage en argent accordé au sportif ou à l'entraîneur en sus des salaires, indemnités ou
+émoluments.L'agent sportif donne quittance du paiement au cocontractant du sportif ou de l'entraîneur. 
+
+Toute convention contraire au présent article est réputée nulle et non écrite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A222-6 (V)
+	  - Code du sport. - art. L222-19 (V)
+	  - Code du sport. - art. R222-32 (V)
+	  - Code du sport. - art. R222-37 (V)
+	  - Code du sport. - art. R222-39 (V)
+	  - Code du sport. - art. R222-40 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-7
+
+
+###### Article L222-18
+
+Au titre de la délégation de pouvoir qui leur est concédée, les fédérations délégataires et, le cas échéant, les ligues
+professionnelles qu'elles ont constituées veillent à ce que les contrats mentionnés aux articles L. 222-7 et L. 222-17
+préservent les intérêts des sportifs, des entraîneurs et de la discipline concernée et soient conformes aux articles L. 222-7
+à L. 222-17.A cette fin, elles édictent les règles relatives : 
+
+1° A la communication des contrats mentionnés à l'article L. 222-7 et de ceux mentionnés au deuxième alinéa de l'article L.
+222-17 ; 
+
+2° A l'interdiction à leurs licenciés ainsi qu'à leurs associations et sociétés affiliées de recourir aux services d'une
+personne exerçant l'activité mentionnée au premier alinéa de l'article L. 222-7 qui ne détient pas de licence d'agent sportif
+au sens de ce même article ; 
+
+3° Au versement de la rémunération de l'agent sportif, qui ne peut intervenir qu'après transmission du contrat visé au
+deuxième alinéa de l'article L. 222-17 à la fédération délégataire compétente.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 66-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-7
+
+
+###### Article L222-19
+
+Les fédérations délégataires compétentes édictent des sanctions à l'encontre des agents sportifs, des licenciés et des
+associations et sociétés affiliées, en cas de : 
+
+1° Non-communication : 
+
+a) Des contrats mentionnés à l'article L. 222-7 ; 
+
+b) Des contrats mentionnés au deuxième alinéa de l'article L. 222-17 ; 
+
+2° Non-respect des articles L. 222-5 et L. 222-7 à L. 222-18 ; 
+
+3° Non-communication des documents nécessaires au contrôle de l'activité de l'agent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-17
+	  - Code du sport. - art. L222-5
+
+	**Cité par**:
+
+	  - Code du sport. - art. L222-7 (V)
+	  - Code du sport. - art. R222-1 (V)
+	  - Code du sport. - art. R222-41 (V)
+	  - Code du sport. - art. R222-42 (V)
+
+
+###### Article L222-20
+
+Est puni de deux ans d'emprisonnement et de 30 000 € d'amende le fait d'exercer l'activité définie à l'article L. 222-7 : 
+
+1° Sans avoir obtenu la licence d'agent sportif ou en méconnaissance d'une décision de suspension ou de retrait de cette
+licence ; 
+
+2° Ou en violation du deuxième alinéa de l'article L. 222-5 ou des articles L. 222-9 à L. 222-17. 
+
+Le montant de l'amende peut être porté au-delà de 30 000 € jusqu'au double des sommes indûment perçues en violation des 1° et
+2° du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°71-1130 du 31 décembre 1971 - art. 6 ter (V)
+	  - Code du sport. - art. L222-21 (V)
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-5
+	  - Code du sport. - art. L222-7
+	  - Code du sport. - art. L222-9
+
+
+###### Article L222-21
+
+Les peines prévues à l'article L. 222-20 peuvent être accompagnées d'une interdiction temporaire ou définitive d'exercer
+l'activité d'agent sportif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-20
+
+
+###### Article L222-22
+
+Les modalités d'application des articles L. 222-7, L. 222-8 et L. 222-15 à L. 222-19 sont définies par décret en Conseil
+d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-15
+	  - Code du sport. - art. L222-7
 
 
 #### Chapitre III : Autres dispositions applicables aux sportifs
