@@ -1,104 +1,60 @@
 # Article Annexe III-16 a (art. A322-77)
 
-CONDITIONS DE PRATIQUE DE LA PLONGÉE EN MILIEU NATUREL EN ENSEIGNEMENT 
+CONDITIONS D'ÉVOLUTION EN ENSEIGNEMENT
+
+EN PLONGÉE À L'AIR EN MILIEU NATUREL
 
 <table>
   <tbody>
     <tr>
       <td>
 
-ESPACES D'ÉVOLUTION
+ESPACES
+
+d'évolution
 
 </td>
       <td>
 
-NIVEAUX DE PRATIQUE
-
-des plongeurs
+APTITUDES MINIMALES DES PLONGEURS
 
 </td>
       <td>
 
-COMPÉTENCE MINIMUM
+COMPÉTENCE MINIMALE
 
-de l'encadrant de palanquée 
-
-</td>
-      <td colspan="2">
-
-EFFECTIF MAXIMUM
-
-de la palanquée encadrement
-
-non compris 
+de l'enseignant
 
 </td>
-    </tr>
-    <tr>
-      <td align="center">
+      <td>
 
-Espace proche : 
+EFFECTIF MAXIMAL
 
-0-6 mètres 
+de la palanquée
 
-</td>
-      <td align="center">
-
-Baptême 
-
-</td>
-      <td align="center">
-
-E1 
-
-</td>
-      <td align="center">
-
-1 
+(enseignant non compris)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
-
-Débutant 
+Espace de 0 à 6 mètres
 
 </td>
       <td align="center">
 
-E1 
+Baptême
 
 </td>
       <td align="center">
 
-4 + 1 P4 éventuellement 
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Espace médian (*) : 
-
-6-20 mètres 
+E-1
 
 </td>
       <td align="center">
 
-Débutant en fin de formation 
-
-</td>
-      <td align="center">
-
-E2 
-
-</td>
-      <td align="center">
-
-4 + 1 P4 éventuellement 
+1 (*)
 
 </td>
     </tr>
@@ -108,111 +64,112 @@ E2
 </td>
       <td align="center">
 
-Niveau P1 
+Débutants
 
 </td>
       <td align="center">
 
-E2 
+E-1
 
 </td>
       <td align="center">
 
-4 + 1 P4 éventuellement 
+4 (*)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
-
-Niveau P2 
+Espace de 0 à 12 mètres 
 
 </td>
       <td align="center">
 
-E2 
+PE-1 ou débutants en cours de formation vers les aptitudes PE-1 ou PA-1
 
 </td>
       <td align="center">
 
-4 + 1 P4 éventuellement 
+E-2
+
+</td>
+      <td align="center">
+
+4 (*)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Espace lointain (*) : 
-
-20-40 mètres 
+Espace de 0 à 20 mètres
 
 </td>
       <td align="center">
 
-Niveau P1 en fin de formation 
+Débutants ou PE-1 en cours de formation vers les aptitudes PE-2 ou PA-2
 
 </td>
       <td align="center">
 
-E3 
+E-2
 
 </td>
       <td align="center">
 
-2 + 1 P4 éventuellement 
+4 (*)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-</td>
-      <td align="center">
-
-Niveau P2 
+Espace de 0 à 40 mètres
 
 </td>
       <td align="center">
 
-E3 
+PE-2 ou PA-2 en cours de formation vers les aptitudes PE-3 ou PA-3 
 
 </td>
       <td align="center">
 
-2 + 1 P4 éventuellement 
+E-3
+
+</td>
+      <td align="center">
+
+3 (*)
 
 </td>
     </tr>
     <tr>
       <td align="center">
 
-Au-delà de 40 mètres et dans la limite de 60 mètres 
+Espace de 0 à 60 mètres
 
 </td>
       <td align="center">
 
-Niveaux P3, P4 et P5 
+PE-3 ou PA-3 encours de formation vers les aptitudes PE-4 ou PA-4
 
 </td>
       <td align="center">
 
-E4 
+E-4
 
 </td>
       <td align="center">
 
-3 + 1 E4 éventuellement 
+3 (*) 
 
 </td>
     </tr>
     <tr>
-      <td colspan="5">
+      <td colspan="4">
 
-(*) Dans des conditions favorables, les espaces médian et lointain peuvent être étendus dans la limite de 5 mètres. La
-plongée est limitée à 60 mètres avec possibilité de dépassement accidentel de 5 mètres.
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de GP.
 
 </td>
     </tr>
@@ -223,7 +180,7 @@ plongée est limitée à 60 mètres avec possibilité de dépassement accidentel
 
 	**Modifié par**:
 
-	  - Arrêté du 18 juillet 2008 - art. 8
+	  - Arrêté du 18 juin 2010 - art. 16
 
 	**Cité par**:
 
