@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-07-02
+Version Consolidée au 2010-07-11
 
 # Partie législative
 
@@ -28258,9 +28258,9 @@ tous les dommages causés aux tiers par les fonctionnaires, agents ou militaires
 leur matériel.
 
 Les conditions générales de la police précisant les limites et les modalités de l'assurance devront être conformes à un
-modèle approuvé par arrêté des ministres de l'intérieur et de la défense et du ministre chargé de l'économie. Ces conditions
-générales d'assurance préciseront notamment, pour chaque sinistre survenu au cours d'une manifestation sportive, le montant
-minimum des garanties couvrant respectivement les dommages corporels et les dommages matériels.
+modèle approuvé par arrêté des ministres de l'intérieur et du ministre chargé de l'économie. Ces conditions générales
+d'assurance préciseront notamment, pour chaque sinistre survenu au cours d'une manifestation sportive, le montant minimum des
+garanties couvrant respectivement les dommages corporels et les dommages matériels.
 
 La police d'assurances devra également comporter une clause aux termes de laquelle l'assureur renoncera, en cas de sinistre,
 à tout recours contre l'Etat et les autorités départementales ou municipales ainsi que contre toute personne relevant
@@ -28272,9 +28272,9 @@ desdites autorités à un titre quelconque.
 
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 5 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2010-773 du 8 juillet 2010 - art. 3
 
 	**Cité par**:
 
@@ -29037,17 +29037,15 @@ renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 La Commission nationale d'examen des circuits de vitesse comprend huit membres :
 
-1° Deux membres désignés par le ministre de l'intérieur ;
+1° Trois membres désignés par le ministre de l'intérieur ;
 
 2° Deux membres désignés par les ministres chargés de l'équipement et des transports ;
 
-3° Un membre désigné par le ministre de la défense ;
+3° Un membre désigné par le ministre chargé des sports ;
 
-4° Un membre désigné par le ministre chargé des sports ;
+4° Un membre proposé par la Fédération française du sport automobile ;
 
-5° Un membre proposé par la Fédération française du sport automobile ;
-
-6° Un membre proposé par la Fédération française de motocyclisme.
+5° Un membre proposé par la Fédération française de motocyclisme.
 
 Les membres de la commission et son président, choisi parmi eux, sont nommés par le ministre de l'intérieur pour un mandat de
 trois ans renouvelable.
@@ -29065,16 +29063,21 @@ Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans (Commission
 nationale d'examen des circuits de vitesse).
 
+Conformément à l'article 1 du décret n° 2014-597 du 6 juin 2014, la Commission nationale d'examen des circuits de vitesse est
+renouvelée jusqu'au 8 juin 2015.
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, la Commission nationale d'examen des circuits de vitesse est
+renouvelée pour une durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 17 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
 	  - Décret n°2006-554 du 16 mai 2006 - art. 17 (Ab)
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2010-773 du 8 juillet 2010 - art. 3
 
 
 ###### Article R331-39
@@ -43851,8 +43854,6 @@ indiqués en bonne place.
 
 
 ##### Section 3 : Etablissements qui organisent et dispensent l'enseignement de la plongée subaquatique.
-
-##### Sous-section 1 : Etablissements qui organisent et dispensent l'enseignement de la plongée autonome à l'air.
 
 ##### Sous-section 1 : Etablissements qui organisent et dispensent l'enseignement de la plongée subaquatique à l'air.
 
