@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-08-22
+Version Consolidée au 2010-09-04
 
 # Partie législative
 
@@ -14319,48 +14319,6 @@ performance pluriannuel qui définit les objectifs qui lui sont assignés et les
 
 ##### Paragraphe 2 : Organisation et fonctionnement
 
-###### Article R*211-7
-
-Le président du conseil d'administration est élu au sein du conseil, parmi les personnalités mentionnées au 5° de l'article
-R. 211-4, pour une durée de quatre ans renouvelable une fois. 
-
-En cas d'empêchement temporaire, le président du conseil d'administration est remplacé dans les conditions prévues par le
-règlement intérieur. 
-
-En cas d'empêchement définitif, il est procédé, dans un délai de trois mois, à l'élection d'un nouveau président selon les
-modalités prévues au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 5 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. R211-4 (V)
-
-
-###### Article R*211-8
-
-Le directeur général de l'établissement est nommé par arrêté du ministre chargé des sports pour une durée de quatre ans
-renouvelable une fois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°76-1330 du 31 décembre 1976 - art. 6 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
-
-
 ###### Article R211-3
 
 L'Institut national du sport, de l'expertise et de la performance est administré par un conseil d'administration. Il comporte
@@ -14567,6 +14525,48 @@ toute personne dont la présence est jugée utile par le président assistent au
 	  - Code du sport. - art. R211-10 (V)
 	  - Code du sport. - art. R211-16 (V)
 	  - Code du sport. - art. R211-9 (V)
+
+
+###### Article R211-7
+
+Le président du conseil d'administration est élu au sein du conseil, parmi les personnalités mentionnées au 5° de l'article
+R. 211-4, pour une durée de quatre ans renouvelable une fois. 
+
+En cas d'empêchement temporaire, le président du conseil d'administration est remplacé dans les conditions prévues par le
+règlement intérieur. 
+
+En cas d'empêchement définitif, il est procédé, dans un délai de trois mois, à l'élection d'un nouveau président selon les
+modalités prévues au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-1035 du 1er septembre 2010 - art. 9 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. D211-4
+
+
+###### Article R211-8
+
+Le directeur général de l'établissement est nommé par arrêté du ministre chargé des sports pour une durée de quatre ans
+renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°76-1330 du 31 décembre 1976 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2010-1035 du 1er septembre 2010 - art. 9 (V)
 
 
 ###### Article R211-9
