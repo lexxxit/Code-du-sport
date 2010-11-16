@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-11-15
+Version Consolidée au 2010-11-17
 
 # Partie législative
 
@@ -15615,7 +15615,7 @@ Le personnel de l'école comprend notamment :
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
-##### Sous-section 4 : L'Ecole nationale de ski et d'alpinisme
+##### Sous-section 4 : L'Ecole nationale des sports de montagne
 
 ##### Paragraphe 1 : Missions
 
@@ -16323,16 +16323,6 @@ de ski nordique et de moyenne montagne.
 
 	  - Décret n°2010-1378 du 12 novembre 2010 - art. 4
 
-
-##### Sous-section 4 : L'Ecole nationale des sports de montagne
-
-##### Paragraphe 1 : Missions
-
-##### Paragraphe 2 : Fonctionnement
-
-##### Paragraphe 3 : Régime comptable et financier
-
-##### Paragraphe 4 : Personnel
 
 ##### Sous-section 5 : Les centres d'éducation populaire et de sport
 
@@ -19315,6 +19305,8 @@ date au 2 avril 2010.
 
 
 ##### Paragraphe 5 : Brevets d'Etat spécifiques à l'encadrement et à l'enseignement des sports de montagne
+
+##### Paragraphe 5 : Diplômes d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
 ###### Article D212-67
 
