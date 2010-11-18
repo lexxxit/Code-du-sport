@@ -1,8 +1,6 @@
 # Article Annexe III-16 b
 
-CONDITIONS D'ÉVOLUTION EN EXPLORATION
-
-EN PLONGÉE À L'AIR EN MILIEU NATUREL
+CONDITIONS D'ÉVOLUTION EN EXPLORATION EN PLONGÉE À L'AIR EN MILIEU NATUREL
 
 <table>
   <tbody>
@@ -31,11 +29,7 @@ Aptitudes minimales des plongeurs encadrés
 </td>
       <td>
 
-Effectif maximal
-
-de la palanquée (encadrement
-
-non compris)
+Effectif maximal de la palanquée (encadrement non compris)
 
 </td>
       <td>
@@ -67,12 +61,12 @@ Débutants
 </td>
       <td align="center">
 
-4
+4 (*)
 
 </td>
       <td align="center">
 
-GP
+E1 ou GP
 
 </td>
       <td align="center">
@@ -91,12 +85,12 @@ PE-1
 </td>
       <td align="center">
 
-4
+4 (*)
 
 </td>
       <td align="center">
 
-GP
+E2 ou GP
 
 </td>
       <td align="center">
@@ -123,12 +117,12 @@ PE-2
 </td>
       <td align="center">
 
-4
+4 (*)
 
 </td>
       <td align="center">
 
-GP
+E2 ou GP
 
 </td>
       <td align="center">
@@ -155,12 +149,12 @@ PE-3
 </td>
       <td align="center">
 
-4
+4 (*)
 
 </td>
       <td align="center">
 
-GP
+E3 ou GP
 
 </td>
       <td align="center">
@@ -187,7 +181,7 @@ PE-4
 </td>
       <td align="center">
 
-2
+3 (*)
 
 </td>
       <td align="center">
@@ -202,7 +196,14 @@ PA-4
 </td>
       <td align="center">
 
-3
+3 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6">
+
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de GP.
 
 </td>
     </tr>
@@ -213,7 +214,7 @@ PA-4
 
 	**Modifié par**:
 
-	  - Arrêté du 18 juin 2010 - art. 16
+	  - Arrêté du 12 novembre 2010 - art. 2
 
 	**Cité par**:
 

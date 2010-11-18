@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-11-17
+Version Consolidée au 2010-11-19
 
 # Partie législative
 
@@ -19303,8 +19303,6 @@ date au 2 avril 2010.
 	  - Code du sport. - art. A212-175-12 (V)
 	  - Code du sport. - art. A212-79 (Ab)
 
-
-##### Paragraphe 5 : Brevets d'Etat spécifiques à l'encadrement et à l'enseignement des sports de montagne
 
 ##### Paragraphe 5 : Diplômes d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
@@ -44318,21 +44316,50 @@ b.
 Une palanquée constituée de plongeurs justifiant des aptitudes PE-3 peut évoluer dans l'espace de 0 à 40 mètres, sous la
 responsabilité d'un guide de palanquée. En cours de formation technique conduisant à un brevet justifiant des aptitudes PE-4
 mentionné à l'annexe III-14 b, la palanquée peut évoluer dans l'espace de 0 à 60 mètres, sous la responsabilité d'un
-enseignant de niveau 4 (E4) mentionné à l'annexe III-15 b. 
-
-Si la palanquée est constituée de plongeurs justifiant des aptitudes PE-1 à PE-4 différentes, celle-ci n'est autorisée à
-évoluer que dans l'espace d'évolution du plongeur justifiant des aptitudes les plus faibles.
+enseignant de niveau 4 (E4) mentionné à l'annexe III-15 b.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 18 juin 2010 - art. 13
+	  - Arrêté du 12 novembre 2010 - art. 1
 
 	**Cite**:
 
 	  - Code du sport. - art. Annexe III-14 b
 	  - Code du sport. - art. Annexe III-15 b
+
+
+###### Article A322-84-1
+
+Une palanquée constituée de plongeurs justifiant des aptitudes PE-4 peut évoluer dans l'espace de 0 à 60 mètres, sous la
+responsabilité d'un enseignant de niveau 4 mentionné à l'annexe III-15 b.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 12 novembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
+
+
+###### Article A322-84-2
+
+Si la palanquée est constituée de plongeurs justifiant des aptitudes différentes allant de PE-1 à PE-4, celle-ci n'est
+autorisée à évoluer que dans l'espace d'évolution du plongeur justifiant des aptitudes les plus faibles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 12 novembre 2010 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 5 janvier 2012 - art. 1
 
 
 ###### Article A322-85
@@ -64221,9 +64248,7 @@ E-4
 
 ###### Article Annexe III-16 b
 
-CONDITIONS D'ÉVOLUTION EN EXPLORATION
-
-EN PLONGÉE À L'AIR EN MILIEU NATUREL
+CONDITIONS D'ÉVOLUTION EN EXPLORATION EN PLONGÉE À L'AIR EN MILIEU NATUREL
 
 <table>
   <tbody>
@@ -64252,11 +64277,7 @@ Aptitudes minimales des plongeurs encadrés
 </td>
       <td>
 
-Effectif maximal
-
-de la palanquée (encadrement
-
-non compris)
+Effectif maximal de la palanquée (encadrement non compris)
 
 </td>
       <td>
@@ -64288,12 +64309,12 @@ Débutants
 </td>
       <td align="center">
 
-4
+4 (*)
 
 </td>
       <td align="center">
 
-GP
+E1 ou GP
 
 </td>
       <td align="center">
@@ -64312,12 +64333,12 @@ PE-1
 </td>
       <td align="center">
 
-4
+4 (*)
 
 </td>
       <td align="center">
 
-GP
+E2 ou GP
 
 </td>
       <td align="center">
@@ -64344,12 +64365,12 @@ PE-2
 </td>
       <td align="center">
 
-4
+4 (*)
 
 </td>
       <td align="center">
 
-GP
+E2 ou GP
 
 </td>
       <td align="center">
@@ -64376,12 +64397,12 @@ PE-3
 </td>
       <td align="center">
 
-4
+4 (*)
 
 </td>
       <td align="center">
 
-GP
+E3 ou GP
 
 </td>
       <td align="center">
@@ -64408,7 +64429,7 @@ PE-4
 </td>
       <td align="center">
 
-2
+3 (*)
 
 </td>
       <td align="center">
@@ -64423,7 +64444,14 @@ PA-4
 </td>
       <td align="center">
 
-3
+3 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="6">
+
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de GP.
 
 </td>
     </tr>
@@ -64434,7 +64462,7 @@ PA-4
 
 	**Modifié par**:
 
-	  - Arrêté du 18 juin 2010 - art. 16
+	  - Arrêté du 12 novembre 2010 - art. 2
 
 	**Cité par**:
 
