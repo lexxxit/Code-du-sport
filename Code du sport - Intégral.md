@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2010-11-19
+Version Consolidée au 2010-12-09
 
 # Partie législative
 
@@ -31415,15 +31415,13 @@ Fédération française de tir à l'arc : Le tir à l'arc.
 
 Fédération française de twirling-bâton : Twirling magazine. 
 
-Fédération française de voile : Lettre de grand voile. 
-
 Fédération française de vol libre : Vol passion.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 9 septembre 2010 - art. 1
+	  - Arrêté du 29 novembre 2010 - art. 1
 
 	**Cite**:
 
