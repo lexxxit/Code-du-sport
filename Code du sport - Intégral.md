@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-01-08
+Version Consolidée au 2011-01-14
 
 # Partie législative
 
@@ -28230,6 +28230,111 @@ inscriptions de nature à créer des confusions avec le marquage " CE " ou à en
 	  - Code du sport. - art. R322-37
 
 
+##### Section 5 : Dispositions spécifiques aux établissements d'activités physiques ou sportives qui organisent la pratique ou dispensent l'enseignement de la plongée subaquatique
+
+###### Article R322-39
+
+La notice de poste prévue à l'article R. 4461-10 du code du travail est réalisée conformément à un modèle type rédigé par le
+ministre chargé des sports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-45 du 11 janvier 2011 - art. 8
+
+	**Cite**:
+
+	  - Code du travail - art. R4461-10
+
+
+###### Article R322-40
+
+Le manuel de sécurité hyperbare mentionné à l'article R. 4461-8 du code du travail est établi conformément à un modèle type
+élaboré par le ministre chargé des sports publié au Bulletin officiel du ministère des sports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-45 du 11 janvier 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code du sport. - art. R322-42 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. R4461-8
+
+
+###### Article R322-41
+
+Dans les établissements de la présente section, le titulaire d'un diplôme mentionné à l'article L. 212-1 du code du sport
+relatif à l'encadrement de la plongée subaquatique est réputé être titulaire, au titre de la mention B, du certificat
+d'aptitude à l'hyperbarie et du certificat de conseiller à la prévention hyperbare mentionnés aux I et II de l'article R.
+4461-27 du code du travail. 
+
+Pour l'application des dispositions du 2° du I de l'article R. 4461-28 du code du travail, l'arrêté mentionné à l'article R.
+212-2 fixe : 
+
+1° Pour le certificat d'aptitude à l'hyperbarie, les profondeurs auxquelles ce diplôme permet d'accéder ; 
+
+2° Pour le certificat de conseiller à la prévention hyperbare, les profondeurs pour lesquelles ce diplôme permet de proposer
+des mesures de prévention.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-45 du 11 janvier 2011 - art. 8
+
+	**Cité par**:
+
+	  - Code du sport. - art. A322-100 (VD)
+
+	**Cite**:
+
+	  - Code du sport. - art. L212-1
+	  - Code du travail - art. R4461-27
+	  - Code du travail - art. R4461-28
+
+
+###### Article R322-42
+
+Dans les établissements de la présente section, la fiche de sécurité à l'article R. 4461-13 du code du travail est établie
+conformément aux dispositifs du manuel de sécurité hyperbare mentionné à l'article R. 322-40.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-45 du 11 janvier 2011 - art. 8
+
+	**Cite**:
+
+	  - Code du sport. - art. R322-40
+	  - Code du travail - art. R4461-13
+
+
+###### Article R322-43
+
+Par dérogation à l'article R. 4461-21 du code du travail, l'employeur peut autoriser un travailleur à utiliser son propre
+équipement de protection individuelle, après s'être assuré qu'il est approprié au travail à réaliser ou convenablement adapté
+à cet effet, conformément aux articles R. 4321-1 et suivants du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-45 du 11 janvier 2011 - art. 8
+
+	**Cite**:
+
+	  - Code du travail - art. R4321-1
+	  - Code du travail - art. R4461-21
+
+
 ### TITRE III : MANIFESTATIONS SPORTIVES
 
 #### Chapitre Ier : Organisation des manifestations sportives
@@ -30044,6 +30149,8 @@ fonctionnement de commissions administratives à caractère consultatif est adre
 
 #### Chapitre III : Retransmission des manifestations sportives
 
+##### Section 1 : Droit d'exploitation
+
 ###### Article R333-1
 
 L'assemblée générale de la fédération sportive est compétente pour statuer sur l'opportunité, l'objet et l'étendue de la
@@ -30053,16 +30160,19 @@ cession des droits d'exploitation audiovisuelle mentionnée au premier alinéa d
 
 	**Anciens textes**:
 
-	  - Art. 1er du décret n°2004-699 du 15 juillet 2004 pris pour l'application de l'article 18-1 de la loi n°84-610 du 16 juillet 1984 et relatif à la commercialisation par les ligues professionnelles des droits d'exploitation audiovisuelle des compétiti
 	  - Décret n°2004-699 du 15 juillet 2004 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2011-47 du 11 janvier 2011 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L333-2 (V)
+	  - Code du sport. - art. L333-2
 
 	**Cité par**:
 
@@ -30088,18 +30198,18 @@ de la ligue adopté conformément à ses statuts.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 2 du décret n°2004-699 du 15 juillet 2004 pris pour l'application de l'article 18-1 de la loi n°84-610 du 16 juillet 1984 et relatif à la commercialisation par les ligues professionnelles des droits d'exploitation audiovisuelle des compétition
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Liens**:
+
+	  - DEPLACE: Décret n°2011-47 du 11 janvier 2011 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L122-2 (V)
-	  - Code du sport. - art. R333-1 (V)
+	  - Code du sport. - art. L122-2
+	  - Code du sport. - art. R333-1
 
 	**Cité par**:
 
@@ -30131,13 +30241,38 @@ prix.
 
 	  - Décret n°2004-699 du 15 juillet 2004 - art. 3 (Ab)
 
-	**Modifié par**:
+	**Liens**:
 
-	  - Décret n°2007-1676 du 28 novembre 2007 - art. 1
+	  - DEPLACE: Décret n°2011-47 du 11 janvier 2011 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. R333-2 (V)
+	  - Code du sport. - art. R333-2
+
+
+##### Section 2 :  Liberté de diffusion
+
+###### Article R333-4
+
+Les brefs extraits d'une manifestation ou d'une compétition sportive diffusés en application de l'article L. 333-7 sont
+prélevés parmi les images du détenteur du droit d'exploitation établi en France par tout éditeur de services de télévision,
+pour la diffusion sur son antenne ou sur ses services de médias audiovisuels à la demande qui mettent à disposition le même
+programme en différé : 
+
+a) Si cet éditeur est établi en France ; ou 
+
+b) S'il est établi dans un autre Etat membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen dès
+lors qu'aucun éditeur de cet Etat n'a acquis ce droit d'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-47 du 11 janvier 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L333-7
 
 
 ## LIVRE IV : DISPOSITIONS DIVERSES
