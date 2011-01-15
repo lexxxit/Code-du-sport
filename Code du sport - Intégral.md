@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-01-14
+Version Consolidée au 2011-01-16
 
 # Partie législative
 
@@ -23649,11 +23649,50 @@ Le comité d'orientation scientifique est réuni au moins deux fois par an.
 
 ##### Paragraphe 2 : Examens et prélèvements autorisés.
 
+###### Article D232-47
+
+Une notification du contrôle est remise au sportif désigné pour être contrôlé par la personne chargée du contrôle ou par une
+personne désignée par elle, cette dernière devant être : 
+
+― un délégué fédéral, ou une personne désignée par la fédération chargée de l'assister en cas d'absence de désignation d'un
+délégué fédéral ou d'inexécution de la part du délégué fédéral de son obligation mentionnée à l'article R. 232-60 ; 
+
+― l'organisateur de la compétition ou de la manifestation ; 
+
+― l'escorte prévue à l'article R. 232-55. 
+
+La notification précise la date, l'heure, le lieu et la nature du contrôle. Elle doit être signée par le sportif et remise ou
+transmise sans délai à la personne chargée du contrôle ou à la personne désignée par elle. 
+
+Pour les sportifs désignés pour être contrôlés qui ne s'entraînent pas dans un lieu fixe, ou en cas de circonstances
+particulières ne permettant pas la notification du contrôle par écrit, l'agence fixe les modalités permettant de garantir
+l'origine et la réception de cette notification. Les fédérations sportives agréées en assurent la diffusion auprès des
+intéressés. 
+
+Le refus de prendre connaissance, de signer ou de retourner la notification est constitutif d'un refus de se soumettre aux
+mesures de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 4
+
+	**Anciens textes**:
+
+	  - Code du sport. - art. R232-47 (T)
+
+	**Cite**:
+
+	  - Code du sport. - art. R232-55
+	  - Code du sport. - art. R232-60
+
+
 ###### Article R232-45
 
-Sont soumis aux dispositions de la présente section les contrôles diligentés, en application des 1° et 2° du I de l'article
-L. 232-5, par l'Agence française de lutte contre le dopage, soit de sa propre initiative, soit à la demande des fédérations
-sportives agréées.
+Sont soumis aux dispositions de la présente section les contrôles diligentés, en application des 1°, 2°, 3° et 4° du I de
+l'article L. 232-5, par l'Agence française de lutte contre le dopage, soit de sa propre initiative, soit à la demande des
+fédérations sportives agréées. 
 
 Les organes disciplinaires des fédérations sportives agréées peuvent également demander à l'Agence française de lutte contre
 le dopage qu'un contrôle soit effectué dans le délai qu'ils proposent sur une personne ayant fait l'objet d'une procédure
@@ -23663,16 +23702,19 @@ disciplinaire close par une de leurs décisions.
 
 	**Anciens textes**:
 
-	  - Art. 1er du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-5 (V)
+	  - Code du sport. - art. L232-5
 
 	**Cité par**:
 
@@ -23684,14 +23726,14 @@ disciplinaire close par une de leurs décisions.
 La décision prescrivant un contrôle mentionné à l'article R. 232-45 est prise par le directeur du département des contrôles
 de l'Agence française de lutte contre le dopage et désigne, parmi les personnes agréées dans les conditions prévues à
 l'article R. 232-68 et dans le respect de la règle énoncée à l'article R. 232-53, celle qui est chargée du contrôle. L'ordre
-de mission que le directeur du département des contrôles établit précise :
+de mission que le directeur du département des contrôles établit précise : 
 
-1° Le type de prélèvement ou de dépistage auquel il sera procédé ;
+1° Le type de prélèvement ou de dépistage auquel il sera procédé ; 
 
-2° Les modalités de choix des sportifs contrôlés, telles que le contrôle individualisé mentionné à l'article L. 232-15, le
-tirage au sort, le classement, l'établissement d'un nouveau record ; la personne chargée du contrôle peut en outre effectuer
-un contrôle sur tout sportif participant à la compétition ou manifestation sportive ou à l'entraînement préparant à celle-
-ci ;
+2° Les modalités de choix des sportifs contrôlés, telles que le fait de figurer dans le groupe cible mentionné à l'article L.
+232-15, le tirage au sort, le classement, l'établissement d'un nouveau record ; la personne chargée du contrôle peut
+également effectuer un contrôle sur tout sportif participant à la compétition ou manifestation sportive ou à l'entraînement
+préparant à celle-ci ; 
 
 3° Le cas échéant, l'obligation d'accompagnement prévue à l'article R. 232-55.
 
@@ -23699,19 +23741,22 @@ ci ;
 
 	**Anciens textes**:
 
-	  - Art. 2 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-15 (V)
-	  - Code du sport. - art. R232-45 (V)
-	  - Code du sport. - art. R232-55 (V)
-	  - Code du sport. - art. R232-68 (V)
+	  - Code du sport. - art. L232-15
+	  - Code du sport. - art. R232-45
+	  - Code du sport. - art. R232-55
+	  - Code du sport. - art. R232-68
 
 	**Cité par**:
 
@@ -23719,51 +23764,29 @@ ci ;
 	  - Code du sport. - art. R232-53 (V)
 
 
-###### Article R232-47
+###### Article R232-47-1
 
-Une convocation au contrôle est remise au sportif désigné pour être contrôlé à l'occasion de la compétition ou de la
-manifestation ou lors de l'entraînement préparant à celles-ci, par la personne chargée du contrôle ou une personne désignée
-par elle, qui peut être un délégué fédéral, l'organisateur de la compétition ou de la manifestation, ou l'escorte prévue à
-l'article R. 232-55.
+Le sportif se présente au contrôle dans les conditions prévues par la notification qui lui a été transmise. 
 
-La convocation suit le modèle arrêté par l'Agence française de lutte contre le dopage. Elle précise l'heure et le lieu où
-doit se dérouler le contrôle ainsi que la nature de celui-ci. Elle comporte un accusé de réception qui doit être signé et
-remis ou transmis sans délai à la personne chargée du contrôle. Pour les sportifs désignés pour être contrôlés qui ne
-s'entraînent pas dans un lieu fixe, l'agence fixe les modalités permettant de garantir l'origine et la réception de leur
-convocation. Les fédérations sportives agréées en assurent la diffusion auprès des intéressés.
-
-Le refus de signer ou de retourner l'accusé de réception est constitutif d'un refus de se soumettre aux mesures de contrôle.
-Il en est de même pour le refus de recevoir la convocation faite selon les modalités fixées par l'agence à un sportif qui ne
-s'entraîne pas dans un lieu fixe.
+La personne chargée du contrôle peut, en cas de circonstances exceptionnelles et à la demande du sportif, différer l'heure du
+contrôle à la condition que celui-ci soit dans l'intervalle accompagné de manière continue par une des personnes mentionnées
+aux deuxième à quatrième alinéas de l'article R. 232-52.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Art. 3 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
-	  - Décret n°2007-462 du 25 mars 2007 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 du 24 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 4
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D232-47 (V)
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 4
 
 	**Cite**:
 
-	  - Code du sport. - art. R232-55
+	  - Code du sport. - art. R232-52
 
 
 ###### Article R232-48
 
-La personne physique ou morale responsable des lieux mentionnés à l'article L. 232-13 met des locaux appropriés à la
-disposition de la personne chargée du contrôle.
+La personne physique ou morale responsable des lieux mentionnés à l'article L. 232-13-1 met des locaux appropriés à la
+disposition de la personne chargée du contrôle. 
 
 Les fédérations sportives agréées et les organisateurs de compétition ou de manifestation sportives sont tenus de prévoir la
 présence d'un délégué fédéral lors de toute compétition ou manifestation sportive.
@@ -23772,54 +23795,60 @@ présence d'un délégué fédéral lors de toute compétition ou manifestation 
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 5
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-13 (V)
+	  - Code du sport. - art. L232-13-1
 
 
 ###### Article R232-49
 
-Chaque contrôle comprend :
+Chaque contrôle comprend : 
 
-1° Un entretien avec le sportif, qui porte notamment sur la prise, l'administration ou l'utilisation de produits de santé
+1° Le cas échéant, l'information de la personne en charge du contrôle de l'utilisation par le sportif des produits de santé
 définis à l'article L. 5311-1 du code de la santé publique, en particulier de médicaments, qu'ils aient fait ou non l'objet
-d'une prescription ; cet entretien ne peut être réalisé que si la personne chargée du contrôle est médecin ;
+d'une prescription ; 
 
-2° Un examen médical auquel la personne chargée du contrôle procède si elle est médecin et si elle l'estime nécessaire ;
+2° Un examen médical auquel la personne chargée du contrôle procède si elle est médecin et si elle l'estime nécessaire ; 
 
-3° Un ou plusieurs des prélèvements et opérations de dépistage énumérés à l'article R. 232-51 du présent code ;
+3° Un ou plusieurs des prélèvements et opérations de dépistage énumérés à l'article R. 232-50 du présent code ; 
 
-4° La rédaction et la signature du procès-verbal.
+4° La rédaction et la signature du procès-verbal. 
 
-Le sportif peut présenter l'autorisation d'usage à des fins thérapeutiques accordée par l'Agence française de lutte contre le
-dopage sur le fondement de l'article L. 232-2 du code du sport et fournir tout autre élément à l'appui de ses déclarations.
-Si la personne chargée du contrôle est médecin, elle peut en outre se faire présenter le livret individuel médical et sportif
-prévu à l'article L. 231-7 du même code.
+Le sportif peut faire état d'une autorisation d'usage à des fins thérapeutiques ou du dépôt d'une déclaration d'usage ou
+d'une demande d'autorisation d'usage à des fins thérapeutiques prévues à l'article L. 232-2 du code du sport et fournir tout
+autre élément à l'appui de ses déclarations. Si la personne chargée du contrôle est médecin, elle peut en outre se faire
+présenter le livret individuel médical et sportif prévu à l'article L. 231-7 du même code.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 5 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 6
 
 	**Cite**:
 
 	  - Code du sport. - art. L231-7 (V)
 	  - Code du sport. - art. L232-2 (V)
-	  - Code du sport. - art. R232-51 (V)
-	  - Code de la santé publique - art. L5311-1 (M)
+	  - Code du sport. - art. R232-50
+	  - Code de la santé publique - art. L5311-1 (V)
 
 	**Cité par**:
 
@@ -23917,24 +23946,34 @@ par le département des analyses de l'agence.
 
 ###### Article R232-52
 
-La personne chargée du contrôle vérifie l'identité du sportif contrôlé, au besoin avec l'assistance du délégué fédéral
-mentionné à l'article R. 232-60.
+La personne chargée du contrôle vérifie, par tout moyen, l'identité du sportif contrôlé, au besoin avec l'assistance
+notamment :
+
+- du délégué fédéral prévu à l'article R. 232-60 ou d'une personne désignée par la fédération en cas d'absence de désignation
+d'un délégué fédéral ou d'inexécution de sa part de l'obligation mentionnée à l'article R. 232-60 ;
+
+- de l'organisateur de la compétition ou de la manifestation ;
+
+- de l'escorte prévue à l'article R. 232-55. 
 
 Si le sportif contrôlé est un mineur ou un majeur protégé, tout prélèvement nécessitant une technique invasive, notamment un
 prélèvement de sang, ne peut être effectué qu'au vu d'une autorisation écrite de la ou des personnes investies de l'autorité
-parentale ou du représentant légal de l'intéressé remise lors de la prise ou du renouvellement de la licence. L'absence
+parentale ou du représentant légal de l'intéressé remise lors de la prise ou du renouvellement de la licence.L'absence
 d'autorisation est constitutive d'un refus de se soumettre aux mesures de contrôle.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 7 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 7
 
 	**Cité par**:
 
@@ -23943,7 +23982,8 @@ d'autorisation est constitutive d'un refus de se soumettre aux mesures de contr�
 
 	**Cite**:
 
-	  - Code du sport. - art. R232-60 (V)
+	  - Code du sport. - art. R232-55
+	  - Code du sport. - art. R232-60
 
 
 ###### Article R232-53
@@ -24075,22 +24115,32 @@ formées lui est transmise chaque année.
 
 ###### Article R232-58
 
-La personne contrôlée doit assister à l'ensemble des opérations de contrôle.
+La personne contrôlée doit assister à l'ensemble des opérations de contrôle. 
 
 La personne chargée du contrôle dresse sans délai procès-verbal des conditions dans lesquelles elle a procédé aux
-prélèvements et opérations de dépistage.
+prélèvements et opérations de dépistage. 
 
 Les observations que la personne chargée du contrôle ou le sportif contrôlé souhaite présenter sur les conditions de
-déroulement du contrôle sont consignées dans le procès-verbal.
+déroulement du contrôle sont consignées dans le procès-verbal. 
 
 Le sportif contrôlé vérifie l'identité entre les numéros de code des échantillons mentionnés au 5° de l'article R. 232-51 et
-ceux qui sont inscrits sur le procès-verbal. Cette vérification est consignée au procès-verbal.
+ceux qui sont inscrits sur le procès-verbal. Cette vérification est consignée au procès-verbal. 
 
-Le procès-verbal mentionne la production de l'autorisation d'usage à des fins thérapeutiques et des autres éléments fournis
-par le sportif à l'appui de ses déclarations.
+Le sportif contrôlé peut préciser sur le procès-verbal s'il a récemment utilisé une spécialité pharmaceutique ou suivi un
+traitement médical. 
+
+Le sportif y fait également état :
+
+- de toute autorisation d'usage à des fins thérapeutiques ;
+
+- de toute déclaration d'usage effectuée auprès de l'agence ;
+
+- de toute demande d'autorisation d'usage à des fins thérapeutiques ;
+
+- de tout autre élément à l'appui de ses déclarations. 
 
 Le procès-verbal est signé par la personne chargée du contrôle et par le sportif. Le refus de signer de ce dernier ne fait
-pas obstacle à la transmission des échantillons aux fins d'analyse.
+pas obstacle à la transmission des échantillons aux fins d'analyse. 
 
 Le modèle de procès-verbal est arrêté par l'Agence française de lutte contre le dopage.
 
@@ -24098,16 +24148,19 @@ Le modèle de procès-verbal est arrêté par l'Agence française de lutte contr
 
 	**Anciens textes**:
 
-	  - Art. 14 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 14 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 8
 
 	**Cite**:
 
-	  - Code du sport. - art. R232-51 (V)
+	  - Code du sport. - art. R232-51
 
 
 ###### Article R232-59
@@ -24167,10 +24220,10 @@ Il ne peut être présent aux opérations prévues aux 1° à 3° de l'article R
 
 ###### Article R232-61
 
-En l'absence de désignation d'un délégué fédéral ou en cas de refus du délégué fédéral de prêter son concours, la personne
-chargée du contrôle en fait mention au procès-verbal.
+En l'absence de désignation d'un délégué fédéral ou en cas d'inexécution de l'obligation mentionnée à l'article R. 232-60 de
+prêter son concours, la personne chargée du contrôle en fait mention au procès-verbal. 
 
-Elle peut demander l'assistance d'un autre membre de la fédération.
+Elle peut demander l'assistance d'une personne mentionnée à l'article R. 232-52. 
 
 En aucun cas, l'absence ou le refus de concours d'un délégué fédéral ne peut empêcher la personne chargée du contrôle de
 désigner les sportifs à contrôler et de procéder aux opérations de contrôle.
@@ -24179,12 +24232,20 @@ désigner les sportifs à contrôler et de procéder aux opérations de contrôl
 
 	**Anciens textes**:
 
-	  - Art. 17 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 17 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 9
+
+	**Cite**:
+
+	  - Code du sport. - art. R232-52
+	  - Code du sport. - art. R232-60
 
 
 ###### Article R232-62
@@ -24249,16 +24310,28 @@ Il conserve l'échantillon B en vue d'une éventuelle analyse de contrôle. Cell
 Elle est effectuée à ses frais et en présence éventuellement d'un expert convoqué par ses soins et choisi par lui, le cas
 échéant, sur une liste arrêtée par l'agence et transmise à l'intéressé.
 
+L'utilisation d'une substance interdite est établie :
+
+- soit au vu de la présence de cette substance, de l'un de ses métabolites ou de ses marqueurs, dans l'échantillon A lorsque
+le sportif ne demande pas l'analyse de l'échantillon B ;
+
+- soit, lorsque l'analyse de l'échantillon B est demandée par le sportif ou, dans le cadre de leur compétence disciplinaire
+respective, par la fédération ou par l'agence, si les résultats de cette analyse confirment la présence de la substance
+décelée dans l'échantillon A, ou de l'un de ses métabolites ou de ses marqueurs.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 20 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 20 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 10
 
 	**Cité par**:
 
@@ -24268,21 +24341,28 @@ Elle est effectuée à ses frais et en présence éventuellement d'un expert con
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-18 (V)
-	  - Code du sport. - art. R232-62 (V)
+	  - Code du sport. - art. L232-18
+	  - Code du sport. - art. R232-62
 
 
 ###### Article R232-65
 
 Le département des analyses de l'Agence française de lutte contre le dopage ou le laboratoire auquel il a été fait appel en
 application de l'article L. 232-18 établit un rapport d'analyse qui présente le résultat des analyses ainsi que les types de
-méthodes utilisées.
+méthodes utilisées. 
 
-Le département des analyses transmet le rapport d'analyse au président de l'agence et à la fédération.
+Le département des analyses transmet le rapport d'analyse au président de l'agence et à la fédération. 
 
-Le sportif contrôlé et, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal
-doivent recevoir dans tous les cas communication du résultat de l'analyse de la part de la fédération ou, lorsque le sportif
-n'est pas titulaire d'une licence, de l'agence.
+Seul le résultat d'analyse positif est notifié au sportif contrôlé et, le cas échéant, à la ou aux personnes investies de
+l'autorité parentale ou au représentant légal par la fédération ou, lorsque le sportif n'est pas titulaire d'une licence, par
+l'agence. 
+
+Le sportif contrôlé peut demander par écrit à la fédération, ou à l'agence lorsqu'il n'est pas licencié, la notification du
+résultat de l'analyse lorsque celui-ci est négatif. 
+
+Lorsqu'une des personnes mentionnées au 2° de l'article L. 232-13 demande que l'agence diligente un contrôle, l'agence
+informe ces personnes de la présence d'une substance interdite dans les prélèvements qu'elle a effectués, ainsi que des
+décisions éventuellement prises.
 
 L'agence informe, le cas échéant, la personne chargée du contrôle de la présence d'une substance interdite dans les
 prélèvements qu'elle a effectués, ainsi que des décisions éventuellement prises.
@@ -24291,34 +24371,41 @@ prélèvements qu'elle a effectués, ainsi que des décisions éventuellement pr
 
 	**Anciens textes**:
 
-	  - Art. 21 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 21 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 11
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-18 (V)
+	  - Code du sport. - art. L232-13
+	  - Code du sport. - art. L232-18
 
 
 ###### Article R232-66
 
-La conservation des échantillons après leur analyse par le département des analyses ou par le laboratoire auquel il a été
-fait appel en application de l'article L. 232-18 s'effectue dans les délais et conditions techniques prévues par les normes
-internationales.
+La conservation des échantillons après leur analyse par le département des analyses, ou par le laboratoire auquel il a été
+fait appel par l'Agence française de lutte contre le dopage en application de l'article L. 232-18, a lieu dans les conditions
+techniques prévues par les normes internationales et pour un délai de huit ans à compter de la date du prélèvement.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 22 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 22 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 12
 
 	**Cité par**:
 
@@ -24326,7 +24413,7 @@ internationales.
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-18 (V)
+	  - Code du sport. - art. L232-18
 
 
 ###### Article R232-67
@@ -24356,10 +24443,10 @@ prévention du dopage et de lutte contre les trafics de substances interdites.
 ###### Article R232-68
 
 L'agrément des personnes chargées du contrôle au titre de l'article L. 232-11 est accordé et renouvelé par l'Agence française
-de lutte contre le dopage dans les conditions qu'elle arrête et dans le respect des dispositions qui suivent.
+de lutte contre le dopage dans les conditions qu'elle arrête et dans le respect des dispositions qui suivent. 
 
-Il ne peut être accordé au médecin qui a fait l'objet d'une sanction disciplinaire infligée par l'ordre des médecins dans les
-cinq années qui précèdent. Les modalités de consultation des instances ordinales sont précisées par l'agence.
+Il ne peut être accordé aux professionnels de santé qui ont fait l'objet d'une sanction disciplinaire dans les cinq années
+qui précèdent.
 
 L'agrément est donné pour une durée de cinq ans. Toutefois la durée de l'agrément donné pour la première fois est limitée à
 deux ans.
@@ -24368,12 +24455,15 @@ deux ans.
 
 	**Anciens textes**:
 
-	  - Art. 24 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 24 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 13
 
 	**Cité par**:
 
@@ -24383,18 +24473,18 @@ deux ans.
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-11 (V)
+	  - Code du sport. - art. L232-11
 
 
 ###### Article R232-69
 
-Les personnes chargées du contrôle reçoivent une formation initiale théorique et pratique, préalablement à leur agrément. Ils
-suivent également une formation continue.
+Les personnes chargées du contrôle reçoivent une formation initiale théorique et pratique, préalablement à leur agrément.
+Elles suivent également une formation continue. 
 
 Ces formations, destinées à leur permettre de pratiquer les contrôles prévus à l'article L. 232-5, portent sur les questions
 administratives et juridiques relatives aux contrôles, sur les relations lors de ceux-ci entre les personnes chargées du
 contrôle, les sportifs et les organisateurs ainsi que sur les techniques de dépistage, de recueil et de conservation des
-prélèvements.
+prélèvements. 
 
 Le contenu des formations, la qualification des personnes qui en sont chargées et les modalités d'évaluation des
 connaissances sont fixés par l'Agence française de lutte contre le dopage.
@@ -24403,16 +24493,19 @@ connaissances sont fixés par l'Agence française de lutte contre le dopage.
 
 	**Anciens textes**:
 
-	  - Art. 25 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 25 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 14
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-5 (V)
+	  - Code du sport. - art. L232-5
 
 
 ###### Article R232-70
@@ -24436,14 +24529,38 @@ Il n'est procédé qu'à une seule prestation de serment.
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
 
+###### Article R232-70-1
+
+Les agents relevant du ministre chargé des sports sont habilités à rechercher et constater les infractions aux dispositions
+prévues aux articles L. 232-9 et L. 232-10 du code du sport après qu'ils ont prêté serment devant le tribunal de grande
+instance de leur résidence, en déclarant : " Je jure de procéder avec exactitude et probité à tous contrôles, enquêtes,
+recherches, constats et opérations entrant dans le cadre de ma mission. Je jure également de ne rien révéler ou utiliser de
+ce qui sera porté à ma connaissance à l'occasion de l'exercice de celle-ci. " 
+
+L'habilitation désigne nommément l'agent. Elle est donnée pour une durée de deux ans renouvelable.L'autorité administrative
+qui la délivre s'assure préalablement que l'agent dispose d'une formation juridique et pratique suffisante.
+
+L'habilitation est retirée à l'agent qui a fait l'objet d'une sanction disciplinaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 15
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-10
+	  - Code du sport. - art. L232-9
+
+
 ###### Article R232-71
 
 L'agrément est retiré par l'Agence française de lutte contre le dopage :
 
-1° Au fonctionnaire qui a fait l'objet d'une sanction disciplinaire postérieurement à son agrément ;
+1° Au professionnel de santé qui a fait l'objet d'une sanction disciplinaire infligée postérieurement à son agrément ;
 
-2° Au médecin qui a fait l'objet d'une sanction disciplinaire infligée par l'ordre des médecins postérieurement à son
-agrément ;
+2° A la personne chargée du contrôle qui commet une faute dans l'accomplissement de sa mission de contrôle ; 
 
 3° A la personne chargée du contrôle qui commet une faute dans l'accomplissement de sa mission de contrôle.
 
@@ -24454,98 +24571,296 @@ dopage, le contrôle du respect de leurs obligations par les personnes agréées
 
 	**Anciens textes**:
 
-	  - Art. 27 du décret n°2007-462 du 25 mars 2007 relatif aux contrôles autorisés pour la lutte contre le dopage et à l'agrément et l'assermentation des personnes chargées des contrôles
 	  - Décret n°2007-462 du 25 mars 2007 - art. 27 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques.
-
-###### Article R232-72
-
-L'autorisation d'usage à des fins thérapeutiques d'une substance ou d'un procédé interdit prévue à l'article L. 232-2 du code
-du sport est refusée à un sportif par l'Agence française de lutte contre le dopage si la demande ne satisfait pas l'une des
-conditions suivantes :
-
-1° La substance ou le procédé interdit pour lequel l'autorisation est demandée est prescrit au demandeur dans le cadre de la
-prise en charge d'un état pathologique aigu ou chronique et l'intéressé subirait un préjudice de santé significatif s'il ne
-pouvait en faire usage, faute notamment d'alternative thérapeutique exclusive d'usage de substance ou de procédé interdit ;
-
-2° L'usage à des fins thérapeutiques de ladite substance ou dudit procédé n'est susceptible de produire aucune amélioration
-de la performance autre que celle attribuable au retour à un état de santé normal ;
-
-3° La nécessité de la prescription n'est pas une conséquence de l'usage antérieur à des fins non thérapeutiques de substances
-ou procédés interdits.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 1er du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D232-72 (M)
-
-
-###### Article R232-73
-
-La demande d'autorisation d'usage à des fins thérapeutiques est adressée à l'agence par le sportif, la ou les personnes
-investies de l'autorité parentale ou le représentant légal de l'intéressé, par lettre recommandée avec demande d'avis de
-réception. Elle comporte :
-
-1° Le formulaire de demande d'autorisation arrêté par l'agence, rempli par le médecin choisi par le demandeur ;
-
-2° La copie de la prescription, revêtue du cachet et de la signature du prescripteur et précisant la nature, la posologie et
-la durée du traitement prescrit ;
-
-3° Les pièces et examens médicaux dont la liste est fixée pour chaque pathologie par l'agence ;
-
-4° Le cas échéant, la mention que l'autorisation demandée entre dans les prévisions du dernier alinéa de l'article L. 232-2.
-
-Le médecin qui remplit le formulaire de demande d'autorisation établit la prescription et procède aux examens mentionnés au
-3° ne peut être le demandeur lui-même.
-
-Le sportif doit demander une autorisation par pathologie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 2 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 2 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
-	**Liens**:
+	**Modifié par**:
 
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 2
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 16
 
-	**Nouveaux textes**:
 
-	  - Code du sport. - art. D232-73 (V)
+##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques.
+
+##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques et les déclarations d'usage
+
+###### Article D232-72
+
+L'autorisation d'usage à des fins thérapeutiques d'une substance ou d'une méthode interdite, prévue à l'article L. 232-2, est
+délivrée par l'Agence française de lutte contre le dopage lorsque les conditions suivantes sont remplies : 
+
+1° Le sportif subit un préjudice de santé significatif si la substance ou la méthode interdite ne peut lui être administrée,
+lors de la prise en charge d'un état pathologique aigu ou chronique ; 
+
+2° L'utilisation à des fins thérapeutiques de la substance ou de la méthode interdite n'est susceptible de produire aucune
+amélioration de la performance autre que celle attribuable au retour à un état de santé normal après le traitement
+thérapeutique d'un état pathologique avéré ; 
+
+3° Il n'existe aucune autre solution thérapeutique permettant l'utilisation d'une substance ou d'une méthode qui ne sont pas
+interdites ; 
+
+4° La nécessité d'utiliser une substance ou une méthode interdite n'est pas une conséquence partielle ou totale de
+l'utilisation sans autorisation d'usage à des fins thérapeutiques d'une substance ou d'une méthode interdite au moment de
+cette utilisation. 
+
+En dehors de tout état pathologique avéré, l'utilisation d'une substance ou d'une méthode interdite afin d'augmenter les
+niveaux d'hormones endogènes d'un sportif ne peut donner lieu à l'octroi d'une autorisation d'usage à des fins
+thérapeutiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
 
 	**Cite**:
 
 	  - Code du sport. - art. L232-2
 
-	**Cité par**:
+	**Anciens textes**:
+
+	  - Code du sport. - art. R232-72 (T)
+
+
+###### Article D232-73
+
+La demande d'autorisation d'usage à des fins thérapeutiques est adressée à l'agence par le sportif, la ou les personnes
+investies de l'autorité parentale ou le représentant légal de l'intéressé, par lettre recommandée avec demande d'avis de
+réception. Elle comporte : 
+
+1° Le formulaire de demande d'autorisation arrêté par l'agence ; 
+
+2° L'attestation du médecin traitant sur le formulaire mentionné au 1°, qui établit la nécessité de l'utilisation de la
+substance ou de la méthode interdite pour le traitement du sportif, en décrivant les raisons pour lesquelles une substance ou
+une méthode autorisée ne peut être utilisée dans le traitement de sa pathologie ; 
+
+3° La copie de la prescription, revêtue du cachet et de la signature du prescripteur et précisant la substance, sa voie
+d'administration, la posologie et la durée du traitement prescrit ; 
+
+4° Les pièces et les résultats des examens médicaux en rapport avec la pathologie. 
+
+Pour certaines pathologies, la liste des pièces et examens médicaux est fixée par l'agence. 
+
+Le médecin qui remplit le formulaire de demande d'autorisation, établit la prescription, ou procède aux examens mentionnés au
+4°, ne peut être le demandeur lui-même. 
+
+Le sportif doit demander une autorisation par pathologie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du sport. - art. R232-73 (T)
+
+
+###### Article D232-75
+
+Pour l'instruction de la demande d'autorisation, l'agence peut demander au sportif tous examens médicaux ou documents
+complémentaires jugés nécessaires par le comité d'experts prévu à l'article L. 232-2-1. 
+
+La décision est notifiée au sportif par lettre recommandée avec demande d'avis de réception. Le cas échéant, la ou les
+personnes investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés selon les mêmes modalités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-2-1
+
+	**Anciens textes**:
 
 	  - Code du sport. - art. R232-75 (T)
+
+
+###### Article D232-76
+
+Le comité mentionné à l'article L. 232-2-1 comprend au moins trois médecins, choisis par l'agence sur la liste arrêtée par
+elle en application de l'article R. 232-10. Le comité désigne celui de ses membres qui en est le secrétaire et dont la voix
+est prépondérante en cas de partage. 
+
+Le secrétaire du comité dresse et signe le procès-verbal de la réunion, qui comprend l'avis motivé du comité. Un extrait de
+cet avis est adressé au président de l'agence dans le respect des règles prévues à l'article L. 1110-4 du code de la santé
+publique. 
+
+L'avis du comité peut être recueilli par voie de consultation électronique dans des conditions qui garantissent la
+confidentialité des échanges.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-2-1 (V)
+	  - Code du sport. - art. R232-10 (V)
+	  - Code de la santé publique - art. L1110-4 (V)
+
+	**Anciens textes**:
+
+	  - Code du sport. - art. R232-76 (T)
+
+
+###### Article D232-77
+
+L'autorisation d'usage à des fins thérapeutiques précise la substance, sa posologie et sa voie d'administration, ou la
+méthode à laquelle elle se rapporte. Toute modification d'un de ces éléments nécessite une nouvelle demande
+d'autorisation.L'autorisation précise la durée pour laquelle elle est accordée, qui ne peut excéder un an.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+
+	**Cité par**:
+
+	  - Code du sport. - art. D232-85 (V)
+
+	**Anciens textes**:
+
+	  - Code du sport. - art. R232-77 (T)
+
+
+###### Article D232-78
+
+Le refus d'autorisation est motivé, dans le respect des règles prévues à l'article L. 1110-4 du code de la santé publique. Sa
+notification au demandeur et, le cas échéant, à la ou aux personnes investies de l'autorité parentale ou au représentant
+légal de l'intéressé est accompagnée, sous enveloppe fermée, de l'avis défavorable motivé du comité d'experts prévu à
+l'article L. 232-2-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-2-1
+	  - Code de la santé publique - art. L1110-4 (V)
+
+	**Anciens textes**:
+
+	  - Code du sport. - art. R232-78 (T)
+
+
+###### Article D232-83
+
+L'autorisation d'usage à des fins thérapeutiques ne tient pas lieu de certificat attestant l'absence de contre-indication à
+la participation à des compétitions sportives délivré en application de l'article L. 231-2-1. 
+
+Elle ne tient pas lieu de prescription par un médecin de la substance ou de la méthode dont elle autorise l'usage.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. L231-2-1
+
+	**Anciens textes**:
+
+	  - Code du sport. - art. R232-83 (T)
+
+
+###### Article D232-84
+
+Les décisions accordant les autorisations d'usage à des fins thérapeutiques aux sportifs constituant le groupe cible de
+l'Agence française de lutte contre le dopage mentionné à l'article L. 232-15 sont transmises par cette dernière à l'Agence
+mondiale antidopage. 
+
+Lorsque l'agence a connaissance qu'un sportif est soumis, par la fédération internationale dont il relève, à l'obligation de
+fournir des renseignements précis et actualisés sur sa localisation, elle transmet à l'Agence mondiale antidopage et à la
+fédération internationale concernée les décisions accordant les autorisations d'usage à des fins thérapeutiques à ce sportif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-15
+
+	**Anciens textes**:
+
+	  - Code du sport. - art. R232-84 (T)
+
+
+###### Article D232-85
+
+L'autorisation d'usage à des fins thérapeutiques prévue à l'article D. 232-77 accordée à un sportif qui a fait l'objet, lors
+d'un contrôle, d'un rapport d'analyse constatant des résultats positifs est transmise par l'agence à la fédération de
+laquelle le sportif est licencié.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. D232-77
+
+	**Anciens textes**:
+
+	  - Code du sport. - art. R232-85 (T)
+
+
+###### Article D232-86
+
+La déclaration d'usage comporte : 
+
+1° Le formulaire de déclaration arrêté par l'agence dûment et lisiblement complété ; 
+
+2° La copie de la prescription, revêtue du cachet, des coordonnées, du nom et de la signature du prescripteur et précisant la
+substance, sa voie d'administration, la posologie et la durée du traitement prescrit. 
+
+Le sportif doit déposer une déclaration par pathologie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
+
+
+###### Article D232-87
+
+La déclaration d'usage est adressée par le sportif ou les personnes investies de l'autorité parentale ou le représentant
+légal de l'intéressé à l'Agence française de lutte contre le dopage, par lettre recommandée avec demande d'avis de réception,
+au moment où débute l'usage de cette substance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-59 du 13 janvier 2011 - art. 3
+
+	**Abrogé par**:
+
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
 
 
 ###### Article R232-74
@@ -24581,206 +24896,13 @@ l'intéressé sont informés selon les mêmes modalités.
 	  - Code du sport. - art. R232-81 (Ab)
 
 
-###### Article R232-75
-
-Lorsque la demande d'autorisation entre dans les prévisions du dernier alinéa de l'article L. 232-2, l'agence accuse
-réception de la demande comportant les pièces prévues à l'article R. 232-73 par tout moyen permettant de garantir
-l'information de l'intéressé et, le cas échéant, de la ou des personnes investies de l'autorité parentale ou du représentant
-légal de l'intéressé. Cet accusé de réception mentionne la date de réception de la demande et précise qu'il vaut autorisation
-à compter de cette date et pour la durée du traitement mentionnée dans ladite demande, qui ne peut excéder un an. A tout
-moment de cette période de validité, l'agence peut demander au sportif tous examens médicaux ou documents complémentaires
-jugés nécessaires par le comité de médecins.
-
-L'autorisation ainsi tacitement acquise peut être abrogée par une décision de refus d'autorisation prise dans les conditions
-fixées aux articles R. 232-76, R. 232-77 et R. 232-79. Cette décision prend effet à compter de la date de sa notification,
-qui est faite dans les conditions prévues à l'article R. 232-76.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 4 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D232-75 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. L232-2
-	  - Code du sport. - art. R232-73
-	  - Code du sport. - art. R232-76
-	  - Code du sport. - art. R232-77
-	  - Code du sport. - art. R232-79
-
-	**Cité par**:
-
-	  - Code du sport. - art. R232-78 (T)
-	  - Code du sport. - art. R232-80 (Ab)
-
-
-###### Article R232-76
-
-Pour l'instruction de la demande d'autorisation, l'agence peut demander au sportif tous examens médicaux ou documents
-complémentaires jugés nécessaires par le comité de médecins prévu à l'article L. 232-2.
-
-La décision est notifiée au sportif par lettre recommandée avec demande d'avis de réception. Le cas échéant, la ou les
-personnes investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés selon les mêmes modalités.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 5 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D232-76 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. L232-2
-
-	**Cité par**:
-
-	  - Code du sport. - art. R232-75 (T)
-	  - Code du sport. - art. R232-81 (Ab)
-
-
-###### Article R232-77
-
-Le comité mentionné à l'article L. 232-2 du code du sport comprend au moins trois médecins, choisis par l'agence sur la liste
-arrêtée par elle en application de l'article R. 232-10. Le comité désigne celui de ses membres qui en est le secrétaire et
-dont la voix est prépondérante en cas de partage.
-
-Le secrétaire du comité dresse et signe le procès-verbal de la réunion, qui comprend l'avis motivé du comité. Un extrait de
-cet avis est adressé au président de l'agence dans le respect des règles prévues à l'article L. 1110-4 du code de la santé
-publique.
-
-L'avis du comité peut être recueilli par voie de consultation électronique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 6 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 6 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D232-77 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. L232-2
-	  - Code du sport. - art. R232-10
-	  - Code de la santé publique - art. L1110-4
-
-	**Cité par**:
-
-	  - Code du sport. - art. R232-75 (T)
-	  - Code du sport. - art. R232-79 (V)
-	  - Code du sport. - art. R232-81 (Ab)
-
-
-###### Article R232-78
-
-La décision d'autorisation précise la substance et sa posologie, ou le procédé auquel elle se rapporte. Sauf dans les cas
-prévus aux articles R. 232-75 et R. 232-81, elle précise la durée pour laquelle elle est accordée, qui ne peut excéder un an.
-Elle mentionne, le cas échéant, que l'autorisation peut faire l'objet de la procédure simplifiée de renouvellement prévue par
-l'article R. 232-81.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 7 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 7 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 2
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D232-78 (V)
-
-	**Cité par**:
-
-	  - Code du sport. - art. R232-11 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. R232-75
-	  - Code du sport. - art. R232-81
-
-
 ###### Article R232-79
 
-Le refus d'autorisation est motivé, dans le respect des règles prévues à l'article L. 1110-4 du code de la santé publique. Sa
-notification au demandeur et, le cas échéant, à la ou aux personnes investies de l'autorité parentale ou au représentant
-légal de l'intéressé est accompagnée, sous enveloppe fermée, de l'avis défavorable motivé du comité de médecins mentionné à
-l'article R. 232-77.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 8 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 8 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Cité par**:
-
-	  - Code du sport. - art. R232-75 (T)
-	  - Code du sport. - art. R232-81 (Ab)
-
-	**Cite**:
-
-	  - Code du sport. - art. R232-77 (V)
-	  - Code de la santé publique - art. L1110-4 (M)
-
-
-###### Article R232-80
-
-Sauf dans les cas prévus aux articles R. 232-75 et R. 232-81, la décision d'autorisation prend effet à la date où elle est
-notifiée. Toutefois, une autorisation peut prendre effet à une date antérieure qu'elle mentionne :
+Une autorisation à des fins thérapeutiques prend effet à la date à laquelle elle est notifiée. Toutefois, une autorisation
+peut prendre effet à une date antérieure, qu'elle mentionne : 
 
 1° Dans le cas d'une urgence médicale, d'un état pathologique aigu ou de circonstances exceptionnelles n'ayant pas permis au
-demandeur de déposer sa demande trente jours avant le contrôle ;
+demandeur de déposer sa demande trente jours avant le contrôle ; 
 
 2° Dans le cas où l'agence n'a pas statué dans le délai prévu à l'article R. 232-74.
 
@@ -24788,60 +24910,24 @@ demandeur de déposer sa demande trente jours avant le contrôle ;
 
 	**Anciens textes**:
 
-	  - Art. 9 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 9 (Ab)
+	  - Décret n°2007-461 du 25 mars 2007 - art. 8 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-57 du 13 janvier 2011 - art. 18
-
-	**Cite**:
-
-	  - Code du sport. - art. R232-74
-	  - Code du sport. - art. R232-75
-	  - Code du sport. - art. R232-81
-
-
-###### Article R232-81
-
-L'autorisation accordée pour une pathologie chronique peut être renouvelée une ou plusieurs fois selon une procédure
-simplifiée, si l'avis du comité de médecins donné pour l'autorisation initiale le prévoit.
-
-Dans ce cas, l'accusé de réception prévu à l'article R. 232-74 vaut autorisation de renouvellement et en fait la mention
-expresse. L'autorisation de renouvellement ainsi acquise est d'une durée d'un an. Elle peut être abrogée par une décision de
-refus d'autorisation prise dans les conditions fixées aux articles R. 232-76, R. 232-77 et R. 232-79. Cette décision prend
-effet à compter de la date de sa notification, qui est faite dans les conditions prévues à l'article R. 232-76.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 10 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2011-59 du 13 janvier 2011 - art. 3
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 17
 
 	**Cite**:
 
 	  - Code du sport. - art. R232-74
-	  - Code du sport. - art. R232-76
-	  - Code du sport. - art. R232-77
-	  - Code du sport. - art. R232-79
 
 	**Cité par**:
 
-	  - Code du sport. - art. R232-78 (T)
-	  - Code du sport. - art. R232-80 (Ab)
+	  - Code du sport. - art. R232-75 (T)
+	  - Code du sport. - art. R232-81 (Ab)
 
 
 ###### Article R232-82
@@ -24865,88 +24951,31 @@ demandeur. Celui-ci acquitte une participation forfaitaire aux frais de cette in
 	  - Code du sport. - art. R232-10 (V)
 
 
-###### Article R232-83
+###### Article R232-85-1
 
-L'autorisation d'usage à des fins thérapeutiques ne tient pas lieu de certificat attestant l'absence de contre-indication à
-la participation à des compétitions sportives délivré en application de l'article L. 231-3.
+Pour l'application de l'article L. 232-9, un sportif peut se prévaloir d'une raison médicale dûment justifiée s'il peut faire
+état soit : 
 
-Elle ne tient pas lieu de prescription par un médecin de la substance ou du procédé dont elle autorise l'usage.
+1° D'une urgence médicale ; 
+
+2° Du traitement d'un état pathologique aigu ; 
+
+3° De circonstances exceptionnelles.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Art. 12 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 12 (Ab)
+	  - Décret n°2011-57 du 13 janvier 2011 - art. 19
 
-	**Codifié par**:
+	**Cité par**:
 
-	  - Décret n°2007-1133 du 24 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D232-83 (V)
+	  - Code du sport. - art. Annexe II-2 (art R232-86) (M)
+	  - Code du sport. - art. R232-90 (V)
 
 	**Cite**:
 
-	  - Code du sport. - art. L231-3
-
-
-###### Article R232-84
-
-La décision d'autorisation ou de refus d'autorisation d'usage à des fins thérapeutiques notifiée à un sportif de niveau
-international ou de niveau national inscrit sur la liste des sportifs soumis aux contrôles fixée par l'organisme
-international chargé de la lutte contre le dopage reconnu par le Comité international olympique ou par une fédération
-internationale est transmise par l'agence à chacun de ces organismes.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 13 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 13 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D232-84 (V)
-
-
-###### Article R232-85
-
-L'autorisation d'usage à des fins thérapeutiques accordée à un sportif licencié auprès d'une fédération sportive française
-qui a fait l'objet, lors d'un contrôle, d'un rapport d'analyse constatant des résultats positifs est transmise par l'agence à
-la fédération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 14 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-59 du 13 janvier 2011 - art. 3
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D232-85 (V)
+	  - Code du sport. - art. L232-9
 
 
 ##### Section 4 : Sanctions administratives
@@ -25023,34 +25052,37 @@ publicité par voie électronique dans les conditions définies par le collège 
 
 ###### Article R232-88
 
-Dans le cas prévu au 3° de l'article L. 232-22 l'information de l'agence est acquise à la date de réception par celle-ci de
-la décision prise par l'organe disciplinaire de la fédération sportive et du dossier soumis à cet organe.
+Dans le cas prévu au 3° de l'article L. 232-22, l'information de l'agence est acquise à la date de réception par celle-ci de
+la décision prise par l'organe disciplinaire de la fédération sportive et de l'ensemble du dossier. 
 
-Dans le cas prévu au 4° du même article :
+Dans le cas prévu au 4° du même article : 
 
 1° Lorsque la demande émane d'une fédération sportive, la saisine de l'agence doit intervenir dans le délai de deux mois à
 compter du jour où la décision de la fédération est devenue définitive. L'agence est saisie dès la date de réception de la
-demande d'extension, accompagnée de la décision prise par l'organe disciplinaire de la fédération ainsi que du dossier soumis
-à cet organe ;
+demande d'extension, accompagnée de la décision prise par l'organe disciplinaire de la fédération ainsi que de l'ensemble du
+dossier ; 
 
-2° Lorsque l'agence se saisit de sa propre initiative, elle dispose d'un délai de huit jours qui court à partir de la date
-réception par celle-ci de la décision prise par l'organe disciplinaire de la fédération sportive ainsi que du dossier soumis
-à cet organe.
+2° Lorsque l'agence se saisit de sa propre initiative, elle dispose d'un délai de deux mois qui court à partir de la date de
+réception par celle-ci de la décision prise par l'organe disciplinaire de la fédération sportive ainsi que de l'ensemble du
+dossier.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 3 du décret n°2006-1768 du 23 décembre 2006 relatif aux procédures et sanctions disciplinaires en matière de lutte contre le dopage humain
 	  - Décret n°2006-1768 du 23 décembre 2006 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-58 du 13 janvier 2011 - art. 5
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-22 (V)
+	  - Code du sport. - art. L232-22
 
 
 ###### Article R232-89
@@ -25082,52 +25114,76 @@ recommandée avec demande d'avis de réception. Cette fédération peut adresser
 
 ###### Article R232-90
 
-Dans les cas mentionnés aux 1° et 2° de l'article L. 232-22, si le sportif a reçu de l'agence, dans les conditions prévues à
-l'article L. 232-2, une autorisation accordée pour usage à des fins thérapeutiques qui justifie le résultat du contrôle,
-l'agence prend une décision de classement.
+Dans les cas mentionnés aux 1° et 2° de l'article L. 232-22, l'agence peut prendre une décision de classement si le sportif
+justifie le résultat du contrôle soit par :
+
+- une autorisation accordée pour usage à des fins thérapeutiques délivrée par l'agence ;
+
+- une autorisation accordée pour usage à des fins thérapeutiques délivrée par une fédération internationale et dont l'agence
+a reconnu la validité ;
+
+- une déclaration d'usage effectuée auprès de l'Agence française de lutte contre le dopage ;
+
+- une déclaration d'usage effectuée auprès d'une fédération internationale et dont l'agence a reconnu la validité ;
+
+- une raison médicale dûment justifiée définie à l'article R. 232-85-1. 
 
 Cette décision est notifiée par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à
-l'intéressé, à la fédération sportive à laquelle il appartient le cas échéant, ainsi que, par tout moyen, à l'organisme
-international chargé de la lutte contre le dopage reconnu par le Comité international olympique et à la fédération
-internationale concernée. Le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal de
-l'intéressé sont informés selon les mêmes modalités.
+l'intéressé, à la fédération sportive à laquelle il appartient le cas échéant, ainsi que, par tout moyen, à l'Agence mondiale
+antidopage et à la fédération internationale concernée. Le cas échéant, la ou les personnes investies de l'autorité parentale
+ou le représentant légal de l'intéressé sont informés selon les mêmes modalités.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 5 du décret n°2006-1768 du 23 décembre 2006 relatif aux procédures et sanctions disciplinaires en matière de lutte contre le dopage humain
 	  - Décret n°2006-1768 du 23 décembre 2006 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-58 du 13 janvier 2011 - art. 6
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-2 (V)
-	  - Code du sport. - art. L232-22 (V)
+	  - Code du sport. - art. L232-22
+	  - Code du sport. - art. R232-85-1
 
 
 ###### Article R232-91
 
-L'intéressé peut être représenté par une personne de son choix. Il peut également être assisté par une ou plusieurs personnes
-de son choix. S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, sur sa demande, de
-l'aide d'un interprète aux frais de l'agence.
+L'intéressé peut être représenté par une personne qu'il mandate à cet effet. Il peut également être assisté par une ou
+plusieurs personnes de son choix. S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, sur
+sa demande, de l'aide d'un interprète aux frais de l'agence.
 
 L'intéressé, la ou les personnes investies de l'autorité parentale ou le représentant légal et, le cas échéant, le défenseur
-peuvent consulter au secrétariat de l'agence l'intégralité du dossier. Ils peuvent en obtenir copie.
+peuvent consulter au secrétariat de l'agence l'intégralité du dossier et peuvent en obtenir copie.
+
+Le document formulant les griefs retenus à l'encontre du sportif doit mentionner la possibilité pour l'intéressé, d'une part,
+de demander par lettre recommandée avec demande d'avis de réception, dans un délai de cinq jours à compter de sa réception,
+qu'il soit procédé à ses frais à l'analyse de l'échantillon B, conformément aux dispositions prévues par l'article R. 232-64
+du code du sport. Le délai de cinq jours est porté à dix jours lorsque l'intéressé est domicilié hors de la métropole.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 6 du décret n°2006-1768 du 23 décembre 2006 relatif aux procédures et sanctions disciplinaires en matière de lutte contre le dopage humain
 	  - Décret n°2006-1768 du 23 décembre 2006 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-58 du 13 janvier 2011 - art. 7
+
+	**Cite**:
+
+	  - Code du sport. - art. R232-64
 
 
 ###### Article R232-92
@@ -25153,13 +25209,17 @@ date de la séance au cours de laquelle l'agence est appelée à se prononcer.
 
 L'intéressé et son défenseur ainsi que, le cas échéant, la ou les personnes investies de l'autorité parentale ou le
 représentant légal, peuvent présenter devant l'Agence française de lutte contre le dopage des observations écrites ou orales.
-Lorsqu'elles sont écrites, ces observations doivent parvenir au siège de l'agence au plus tard la veille du jour au cours
-duquel le dossier disciplinaire de l'intéressé est examiné par la formation disciplinaire.
+Lorsqu'elles sont écrites, ces observations doivent parvenir au siège de l'agence dans un délai de six jours au moins avant
+la réunion de l'organe disciplinaire.
+
+Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole.
 
 L'intéressé et son défenseur ainsi que, le cas échéant, la ou les personnes investies de l'autorité parentale ou le
 représentant légal, peuvent demander que soient entendues les personnes de leur choix dont ils communiquent le nom au moins
-huit jours avant la séance. Le président de l'agence peut refuser, par décision motivée, les demandes d'audition
+six  jours avant la séance. Le président de l'agence peut refuser, par décision motivée, les demandes d'audition
 manifestement abusives.
+
+Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole. 
 
 L'agence peut également demander à entendre toute personne. Si une telle audition est décidée, le président de l'agence en
 informe l'intéressé et, le cas échéant, ses représentants avant la séance. Si cette information s'avère impossible avant la
@@ -25172,12 +25232,15 @@ en charge par l'agence.
 
 	**Anciens textes**:
 
-	  - Art. 8 du décret n°2006-1768 du 23 décembre 2006 relatif aux procédures et sanctions disciplinaires en matière de lutte contre le dopage humain
 	  - Décret n°2006-1768 du 23 décembre 2006 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-58 du 13 janvier 2011 - art. 8
 
 	**Cité par**:
 
@@ -25253,36 +25316,49 @@ La formation disciplinaire statue par décision motivée.
 
 La décision est signée par le président de la formation disciplinaire et le secrétaire de séance. Elle est notifiée par
 lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à l'intéressé, à la fédération
-sportive à laquelle appartient le cas échéant l'intéressé, ainsi que, par tout moyen, à l'organisme international chargé de
-la lutte contre le dopage reconnu par le Comité international olympique et à la fédération internationale concernée. Le cas
-échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés selon
-les mêmes modalités.
+sportive à laquelle appartient le cas échéant l'intéressé et au ministre chargé des sports, ainsi que, par tout moyen, à
+l'agence mondiale antidopage  et à la fédération internationale concernée. Le cas échéant, la ou les personnes investies de
+l'autorité parentale ou le représentant légal de l'intéressé sont informés selon les mêmes modalités.
 
 Les décisions de la formation disciplinaire sont rendues publiques. Le collège de l'agence peut décider de faire publier la
-décision au Journal officiel de la République française, au bulletin officiel du ministère chargé des sports ou au bulletin
-de la fédération sportive concernée. Cette publication s'effectue de manière nominative pour les majeurs, de manière anonyme
-pour les mineurs. Toutefois, pour les personnes majeures, cette publication pourra, en cas de circonstances exceptionnelles,
-être effectuée sous forme anonyme par décision spécialement motivée de l'agence.
+décision ou un résumé de la décision au Journal officiel de la République française ou au bulletin officiel du ministère
+chargé des sports et au bulletin de la fédération sportive concernée. Le résumé comporte au moins les éléments suivants :
+identité du sportif, intitulé de la manifestation, date et lieu du contrôle, nature de l'infraction avec précision, le cas
+échéant, de la substance détectée, date, nature et prise d'effet de la sanction. Cette publication s'effectue de manière
+nominative pour les majeurs, de manière anonyme pour les mineurs. Toutefois, pour les personnes majeures, cette publication
+pourra, en cas de circonstances exceptionnelles, être effectuée sous forme anonyme par décision spécialement motivée de
+l'agence.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 12 du décret n°2006-1768 du 23 décembre 2006 relatif aux procédures et sanctions disciplinaires en matière de lutte contre le dopage humain
 	  - Décret n°2006-1768 du 23 décembre 2006 - art. 12 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-58 du 13 janvier 2011 - art. 9
 
 
 ###### Article R232-98
 
 Lorsque la formation disciplinaire de l'agence décide d'exercer son pouvoir de sanction, conformément aux articles L. 232-22
-et L. 232-23, la durée de la suspension que la personne intéressée a déjà effectuée en exécution de la décision prononcée par
-le président de l'organe disciplinaire fédéral en application des dispositions de l'article 20 du règlement type présenté en
-annexe II-2 ou de la sanction prononcée par l'organe disciplinaire de la fédération est déduite, le cas échéant, de la
-sanction prononcée.
+et L. 232-23, la durée de la suspension provisoire ou de l'interdiction temporaire ou définitive que la personne intéressée a
+déjà effectuée en exécution de la décision prononcée, respectivement, par le président de l'organe disciplinaire de première
+instance fédéral et par l'organe disciplinaire fédéral en application des dispositions de l'article L. 232-21 est déduite des
+sanctions éventuellement prononcées. 
+
+Lorsque le président de l'Agence française de lutte contre le dopage prononce, sur le fondement de l'article L. 232-23-4, une
+mesure conservatoire, la durée de la suspension provisoire déjà effectuée par l'intéressé en exécution de la décision
+prononcée par le président de l'organe disciplinaire fédéral est déduite de la suspension provisoire éventuellement
+prononcée. 
+
+Les sanctions d'interdiction temporaire inférieures à six mois pour la participation aux manifestations mentionnées au 1° de
+l'article L. 230-3 ne peuvent être accomplies en dehors de la période de compétition. 
 
 Lorsque la formation disciplinaire fait application des dispositions du 4° de l'article L. 232-22, l'extension ne vaut que
 pour le reliquat de la sanction fédérale restant à purger par l'intéressé.
@@ -25291,18 +25367,22 @@ pour le reliquat de la sanction fédérale restant à purger par l'intéressé.
 
 	**Anciens textes**:
 
-	  - Art. 13 du décret n°2006-1768 du 23 décembre 2006 relatif aux procédures et sanctions disciplinaires en matière de lutte contre le dopage humain
 	  - Décret n°2006-1768 du 23 décembre 2006 - art. 13 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-58 du 13 janvier 2011 - art. 10
 
 	**Cite**:
 
-	  - Code du sport L232-22, L232-23, annexe II-2
-	  - Code du sport. - art. L232-22 (V)
-	  - Code du sport. - art. L232-23 (V)
+	  - Code du sport. - art. L230-3
+	  - Code du sport. - art. L232-21
+	  - Code du sport. - art. L232-22
+	  - Code du sport. - art. L232-23-4
 
 
 ### TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL
@@ -49440,7 +49520,7 @@ Visa de l'employeur :
 
 ###### Article Annexe II-2 (art R232-86)
 
-**RÈGLEMENT DISCIPLINAIRE TYPE DES FÉDÉRATIONS SPORTIVES AGRÉÉES RELATIF À LA LUTTE CONTRE LE DOPAGE.**
+RÈGLEMENT DISCIPLINAIRE TYPE DES FÉDÉRATIONS SPORTIVES AGRÉÉES RELATIF À LA LUTTE CONTRE LE DOPAGE 
 
 Article 1er 
 
@@ -49449,66 +49529,17 @@ les dispositions du règlement du... (1) relatif à l'exercice du pouvoir discip
 
 Article 2 
 
-I.-Aux termes de l'article L. 232-9 du code du sport : 
+Tous les organes, préposés et licenciés de la fédération sont tenus de respecter les dispositions (législatives) du code du
+sport, notamment celles contenues au titre III du livre II du code du sport et reproduites en annexe au présent règlement. 
 
-" Il est interdit, au cours des compétitions et manifestations sportives organisées ou autorisées par des fédérations
-sportives ou par une commission spécialisée instituée en application de l'article L. 131-19, ou en vue d'y participer : 
+Chapitre Ier 
 
-"-d'utiliser des substances et procédés de nature à modifier artificiellement les capacités ou à masquer l'emploi de sub-
-stances ou procédés ayant cette propriété ; 
-
-"-de recourir à ceux de ces substances ou procédés dont l'utilisation est soumise à des conditions restrictives lorsque ces
-conditions ne sont pas remplies. 
-
-" La liste des substances et procédés mentionnés au présent article est celle qui est élaborée en application de la
-convention contre le dopage, signée à Strasbourg le 16 novembre 1989, ou de tout accord ultérieur qui aurait le même objet ou
-qui s'y substituerait. La liste est publiée au Journal officiel de la République française. " 
-
-II.-Aux termes de l'article L. 232-10 du même code : 
-
-" Il est interdit de prescrire, sauf dans les conditions fixées aux deuxième et troisième alinéas de l'article L. 232-2, de
-céder, d'offrir, d'administrer ou d'appliquer aux sportifs participant aux compétitions et manifestations mentionnées à
-l'article L. 232-9 une ou plusieurs substances ou procédés mentionnés à cet article, ou de faciliter leur utilisation ou
-d'inciter à leur usage. 
-
-" Il est interdit de se soustraire ou de s'opposer par quelque moyen que ce soit aux mesures de contrôle prévues par le
-présent titre. " 
-
-III.-Aux termes de l'article L. 232-15 du même code : 
-
-" Pour mettre en oeuvre les contrôles individualisés mentionnés au III de l'article L. 232-5, le directeur des contrôles
-désigne les personnes qui doivent transmettre à l'Agence française de lutte contre le dopage les informations propres à
-permettre leur localisation pendant les périodes d'entraînement ainsi que le programme des compétitions ou manifestations
-mentionnées au 2° du I de l'article L. 232-5 auxquelles elles participent. Ces informations peuvent faire l'objet d'un
-traitement informatisé par l'agence, en vue d'organiser des contrôles. Ce traitement automatisé portant sur les données
-relatives à la localisation individuelle des sportifs est autorisé par décision du collège de l'agence prise après avis
-motivé et publié de la Commission nationale de l'informatique et des libertés. 
-
-" Ces personnes sont choisies parmi, d'une part, celles qui sont inscrites sur les listes de sportifs de haut niveau fixées
-en application de l'article L. 221-2 et, d'autre part, les sportifs professionnels licenciés des fédérations sportives
-agréées. " 
-
-IV.-Aux termes de l'article L. 232-17 du même code : 
-
-" Le refus de se soumettre aux contrôles prévus aux articles L. 232-12 à L. 232-14, ou de se conformer à leurs modalités, est
-passible des sanctions administratives prévues par les articles L. 232-21 à L. 232-23. " 
-
-V.-Aux termes de l'article L. 232-2 du même code : 
-
-" Si le praticien prescrit des substances ou des procédés dont l'utilisation est interdite en application de l'article L.
-232-9, le sportif n'encourt pas de sanction disciplinaire s'il a reçu une autorisation, accordée pour usage à des fins
-thérapeutiques, de l'Agence française de lutte contre le dopage. Cette autorisation est délivrée après avis conforme d'un
-comité composé de médecins placé auprès d'elle. 
-
-" Lorsque la liste mentionnée à l'article L. 232-9 le prévoit, cette autorisation est réputée acquise dès réception de la
-demande par l'agence, sauf décision contraire de sa part. " 
-
-Chapitre Ier : Enquêtes et contrôles 
+Enquêtes et contrôles 
 
 Article 3 
 
-Tous les organes, les agents et les licenciés de la fédération sont tenus de prêter leur concours à la mise en oeuvre des
-enquêtes, contrôles, perquisitions et saisies organisés en application des articles L. 232-11 et suivants du code du sport. 
+Tous les organes, préposés et licenciés de la fédération sont tenus de prêter leur concours à la mise en œuvre des enquêtes,
+contrôles, perquisitions et saisies organisés en application des articles L. 232-11 à L. 232-20 du code du sport. 
 
 Article 4 
 
@@ -49521,65 +49552,83 @@ Article 5
 
 Peut être choisi par (3) 
 
-en tant que membre délégué de la fédération, pour assister la personne agréée par l'Agence française de lutte contre le
+En tant que membre délégué de la fédération, pour assister la personne agréée par l'Agence française de lutte contre le
 dopage, à sa demande, lors des compétitions, manifestations sportives ou aux entraînements y préparant, (4). 
 
 Nul ne peut être choisi comme membre délégué de la fédération s'il est membre d'un organe disciplinaire prévu par le présent
 règlement. 
 
-Chapitre II : Organes et procédures disciplinaires 
+Chapitre II 
 
-Section 1 : Dispositions communes aux organes disciplinaires de première instance et d'appel 
+Organes et procédures disciplinaires 
+
+Section 1 
+
+Dispositions communes aux organes disciplinaires 
+
+de première instance et d'appel 
 
 Article 6 
 
 Il est institué un organe disciplinaire de première instance et un organe disciplinaire d'appel investis du pouvoir
-disciplinaire à l'égard des licenciés de la fédération qui ont contrevenu aux dispositions des articles L. 232-9, L. 232-10,
-L. 232-15 et L. 232-17 du code du sport. 
+disciplinaire à l'égard des licenciés de la fédération qui ont contrevenu aux dispositions contenues au titre III du livre II
+du code du sport. 
 
-Les membres des organes disciplinaires, y compris leur président, sont désignés par.. (5). 
+Les membres des organes disciplinaires, y compris leur président, sont désignés par... (5). 
 
 Chacun de ces organes disciplinaires se compose de cinq membres titulaires choisis en raison de leurs compétences. Un membre
 au moins appartient à une profession de santé ; un membre au moins est choisi en raison de ses compétences juridiques ; un
-membre au plus peut appartenir aux instances dirigeantes de la fédération. Le président de la fédération ne peut être membre
-d'aucun organe disciplinaire. 
+membre au plus peut appartenir aux instances dirigeantes de la fédération. 
+
+Ne peuvent être membres d'aucun organe disciplinaire :
+
+- Le président de la fédération ;
+
+- Le médecin siégeant au sein des instances dirigeantes de la fédération ;
+
+- Le médecin chargé au sein de la fédération de coordonner les examens requis dans le cadre de la surveillance médicale
+particulière prévue à l'article L. 231-6 ;
+
+- Le médecin chargé par la fédération du suivi médical de l'Equipe de France mentionnée à l'article L. 131-17. 
 
 Chacun de ces organes disciplinaires peut également comporter des membres suppléants, dont le nombre ne peut excéder cinq,
-désignés dans les conditions prévues aux deux alinéas précédents. 
+désignés dans les conditions prévues au présent article. 
 
 Les membres des organes disciplinaires ne peuvent être liés à la fédération par un lien contractuel autre que celui résultant
-éventuellement de leur adhésion. Les personnes qui ont fait l'objet d'une mesure de suspension pour l'une des infractions
-prévues aux articles L. 232-9, L. 232-10, L. 232-15 et L. 232-17 du code du sport ne peuvent être membres de ces organes
-disciplinaires. 
+éventuellement de la licence. Les personnes qui ont fait l'objet d'une sanction relative à la lutte contre le dopage ne
+peuvent être membres de ces organes disciplinaires. Il en est de même de celles qui ont fait l'objet d'une suspension
+provisoire pendant la durée de cette suspension. 
 
 Article 7 
 
 La durée du mandat des membres des organes disciplinaires est fixée à quatre ans et court à compter de l'expiration du délai
-d'un mois mentionné au deuxième alinéa de l'article R. 232-87 du code du sport. En cas d'empêchement définitif ou d'exclusion
-d'un membre, constaté par le président de l'organe disciplinaire, un nouveau membre est désigné dans les mêmes conditions que
-son prédécesseur pour la durée du mandat restant à courir. 
+d'un mois mentionné au deuxième alinéa de l'article R. 232-87 du code du sport ou, en cas d'urgence, à compter de la date de
+l'autorisation de l'entrée en fonction par le président de l'agence. 
 
-En cas d'absence, d'exclusion ou d'empêchement définitif du président constaté par... (6), un membre de l'organe
-disciplinaire est désigné pour assurer la présidence selon les modalités suivantes :... (7). 
+En cas d'empêchement définitif, de démission ou d'exclusion d'un membre, constaté par le président de l'organe disciplinaire,
+un nouveau membre est désigné dans les mêmes conditions que son prédécesseur pour la durée du mandat restant à courir. 
+
+En cas d'absence, de démission, d'exclusion ou d'empêchement définitif du président constaté par... (6), un membre de
+l'organe disciplinaire est désigné pour assurer la présidence selon les modalités suivantes :... (7). 
 
 En dehors des cas prévus ci-dessus et au troisième alinéa de l'article 8, un membre ne peut être démis de ses fonctions en
 cours de mandat. 
 
 Article 8 
 
-Les membres des organes disciplinaires se prononcent en toute indépendance et ne peuvent recevoir d'instruction de
-quiconque. 
+Les membres des organes disciplinaires se prononcent en toute indépendance et ne peuvent recevoir d'instruction. 
 
 Ils sont astreints à une obligation de confidentialité pour les faits, actes et informations dont ils ont connaissance en
 raison de leurs fonctions. 
 
-Toute infraction au premier alinéa ainsi qu'aux dispositions de l'alinéa 5 de l'article 6 du présent règlement entraîne
-l'exclusion du membre de l'organe disciplinaire, par décision de.......... (8). 
+Toute infraction aux règles fixées au premier alinéa ainsi qu'au dernier alinéa de l'article 6 du présent règlement entraîne
+l'exclusion du membre de l'organe disciplinaire, par décision de... (8). 
 
 Article 9 
 
-Les organes disciplinaires de première instance et d'appel se réunissent sur convocation de leur président. Chacun de ces
-organes ne peut délibérer valablement que lorsque trois au moins de ses membres sont présents. 
+Les organes disciplinaires de première instance et d'appel se réunissent sur convocation de leur président ou d'une personne
+qu'il mandate à cet effet. Chacun de ces organes ne peut délibérer valablement que lorsque trois au moins de ses membres sont
+présents. 
 
 En cas de partage égal des voix, le président a voix prépondérante. 
 
@@ -49588,58 +49637,62 @@ désignée par le président de l'organe disciplinaire.
 
 Article 10 
 
-Les débats devant les organes disciplinaires ne sont pas publics sauf demande contraire, formulée avant l'ouverture de la
-séance, par l'intéressé, son représentant, le cas échéant la ou les personnes investies de l'autorité parentale ou le
-représentant légal, ou le défenseur. 
+Les débats devant les organes disciplinaires sont publics. Toutefois, le président de l'organe disciplinaire peut, d'office
+ou à la demande de l'intéressé, de son représentant, le cas échéant de la ou des personnes investies de l'autorité parentale
+ou du représentant légal, ou du défenseur, interdire au public l'accès de la salle pendant tout ou partie de l'audience dans
+l'intérêt de l'ordre public ou lorsque le respect de la vie privée ou du secret professionnel le justifie. 
 
 Article 11 
 
-Les membres des organes disciplinaires ne peuvent prendre part aux délibérations lorsqu'ils ont un intérêt direct ou indirect
-à l'affaire. Dans ce cas, ils doivent faire connaître cet intérêt au président de l'organe dont ils sont membres avant le
-début de la séance.
+Les membres des organes disciplinaires ne peuvent siéger lorsqu'ils ont un intérêt direct ou indirect à l'affaire. Dans ce
+cas, ils doivent faire connaître cet intérêt au président de l'organe dont ils sont membres avant le début de la séance.
 
 A l'occasion d'une même affaire, nul ne peut siéger dans l'organe disciplinaire d'appel s'il a siégé dans l'organe
 disciplinaire de première instance. 
 
-Section 2 : Dispositions relatives aux organes disciplinaires de première instance 
+Section 2 
+
+Dispositions relatives aux organes disciplinaires 
+
+de première instance 
 
 Article 12 
 
-Il est désigné au sein de la fédération par.... (5), une ou plusieurs personnes chargées de l'instruction des affaires
-soumises à l'organe disciplinaire de première instance. 
+Il est désigné au sein de la fédération par... (5) une ou plusieurs personnes chargées de l'instruction des affaires soumises
+à l'organe disciplinaire de première instance. 
 
 Ces personnes ne peuvent être membres d'un des organes disciplinaires prévus à l'article 6 et ne peuvent avoir un intérêt
 direct ou indirect à l'affaire. 
 
 Elles sont astreintes à une obligation de confidentialité pour les faits, actes et informations dont elles ont pu avoir
-connaissance en raison de leurs fonctions. Toute infraction à cette disposition est sanctionnée.... (9). 
+connaissance à raison de leurs fonctions. Toute infraction à cette disposition est sanctionnée.... (9). 
 
 Elles reçoivent délégation du président de la fédération pour toutes les correspondances relatives à l'instruction des
 affaires. 
 
 Article 13 
 
-I.-Lorsqu'une affaire concerne une infraction aux dispositions de l'article L. 232-9 du code du sport, établie à la suite
-d'une analyse positive, l'infraction est constatée par la réception, par la fédération, du procès-verbal de contrôle prévu à
+I.-Lorsqu'une affaire concerne le non-respect des dispositions de l'article L. 232-9 du code du sport, établie à la suite
+d'une analyse positive, le manquement est constaté par la réception, par la fédération, du procès-verbal de contrôle prévu à
 l'article L. 232-12 du code du sport relatant les conditions dans lesquelles les prélèvements et examens ont été effectués et
 mentionnant, le cas échéant, l'existence d'une autorisation accordée pour usage à des fins thérapeutiques ainsi que du
-rapport d'analyse faisant ressortir l'utilisation d'une substance ou d'un procédé interdit, transmis par l'Agence française
-de lutte contre le dopage ou par un laboratoire auquel l'agence aura fait appel en application de l'article L. 232-18 du même
-code. Le délai prévu au quatrième alinéa de l'article L. 232-21 du même code court à compter de la réception du dernier de
-ces deux documents. 
+rapport d'analyse faisant ressortir la présence d'une substance interdite, de l'un de ses métabolites ou de ses marqueurs, ou
+l'utilisation d'une méthode interdite, transmis par l'Agence française de lutte contre le dopage ou par un laboratoire auquel
+l'agence aura fait appel en application de l'article L. 232-18 du même code. Le délai prévu au quatrième alinéa de l'article
+L. 232-21 du même code court à compter de la réception du dernier de ces deux documents. 
 
 Le président de la fédération transmet ces documents au représentant de la fédération chargé de l'instruction. 
 
-II.-Lorsqu'une affaire concerne une infraction aux dispositions de l'article L. 232-9 du code du sport, établie en l'absence
-d'une analyse positive, l'infraction est constatée par la réception, par la fédération, de tout élément utile non couvert par
+II.-Lorsqu'une affaire concerne le non-respect des dispositions de l'article L. 232-9 du code du sport, établie en l'absence
+d'une analyse positive, le manquement est constaté par la réception, par la fédération, de tout élément utile non couvert par
 le secret de l'instruction défini à l'article 11 du code de procédure pénale. 
 
 Le président de la fédération transmet ces éléments au représentant de la fédération chargé de l'instruction. 
 
 Article 14 
 
-Lorsqu'une affaire concerne un licencié qui a contrevenu aux dispositions du premier alinéa de l'article L. 232-10 du code du
-sport, l'infraction est constatée par la réception, par la fédération, de tout élément utile non couvert par le secret de
+Lorsqu'une affaire concerne un licencié qui a contrevenu aux dispositions de l'article L. 232-10 du code du sport,
+l'infraction est constatée par la réception, par la fédération, de tout élément utile non couvert par le secret de
 l'instruction défini à l'article 11 du code de procédure pénale. 
 
 Le président de la fédération transmet ces éléments au représentant chargé de l'instruction ainsi que, le cas échéant, le
@@ -49647,33 +49700,43 @@ procès-verbal de contrôle.
 
 Article 15 
 
-Lorsqu'une affaire concerne un licencié qui a contrevenu aux dispositions du second alinéa de l'article L. 232-10 du code du
-sport, l'infraction est constatée par la réception, par la fédération, du procès-verbal établi en application de l'article L.
-232-12 du même code et constatant la soustraction ou l'opposition aux mesures de contrôle. 
+Lorsqu'une affaire concerne un licencié qui a contrevenu aux dispositions du I de l'article L. 232-17, l'infraction est
+constatée par la réception, par la fédération, du procès-verbal établi en application de l'article L. 232-12 du même code et
+constatant la soustraction ou l'opposition aux mesures de contrôle. 
 
 Le président de la fédération le transmet au représentant chargé de l'instruction ainsi que, le cas échéant, tout élément
 utile non couvert par le secret de l'instruction défini à l'article 11 du code de procédure pénale. 
 
 Article 16 
 
-Lorsqu'une affaire concerne un licencié qui a contrevenu aux dispositions de l'article L. 232-15 du code du sport en
-s'abstenant de transmettre les informations propres à permettre sa localisation dans les conditions fixées par une
-délibération du collège de l'Agence française de lutte contre le dopage, l'agence informe la fédération concernée, par lettre
-recommandée avec demande d'avis de réception, que le sportif se trouve dans le cas prévu à l'article L. 232-17 du même code.
-Le délai prévu au quatrième alinéa de l'article L. 232-21 du même code court à compter de la réception de l'information par
-la fédération. 
+Lorsqu'une affaire concerne un licencié qui, au cours d'une période de dix-huit mois, a contrevenu à trois reprises aux
+dispositions de l'article L. 232-15 du code du sport en s'abstenant de transmettre les informations propres à permettre sa
+localisation dans les conditions fixées par une délibération du collège de l'Agence française de lutte contre le dopage,
+l'agence informe la fédération concernée, par lettre recommandée avec demande d'avis de réception, que le sportif se trouve
+dans le cas prévu au II de l'article L. 232-17 du même code. 
+
+Le délai prévu au quatrième alinéa de l'article L. 232-21 du code du sport court à compter de la réception de cette
+information par la fédération. 
 
 Article 17 
 
-Lorsqu'une affaire concerne une infraction aux dispositions de l'article L. 232-9 du code du sport, si le licencié a reçu de
-l'Agence française de lutte contre le dopage, dans les conditions prévues à l'article L. 232-2 du même code, une autorisation
-accordée pour usage à des fins thérapeutiques qui justifie le résultat du contrôle, le président de l'organe disciplinaire de
-première instance prend, après avis du médecin fédéral donné après consultation éventuelle de l'agence, une décision de
-classement de l'affaire. 
+Lorsqu'une affaire concerne un manquement aux dispositions de l'article L. 232-9 du code du sport, le président de l'organe
+disciplinaire de première instance prend, après avis du médecin fédéral, une décision de classement de l'affaire lorsque
+soit :
+
+- le licencié justifie être titulaire d'une autorisation d'usage à des fins thérapeutiques délivrée par l'Agence française de
+lutte contre le dopage, ou d'une autorisation d'usage à des fins thérapeutiques dont l'agence a reconnu la validité ;
+
+- le licencié justifie avoir procédé à une déclaration d'usage auprès de l'Agence française de lutte contre le dopage, ou à
+une déclaration d'usage dont l'agence a reconnu la validité ;
+
+- le licencié dispose d'une raison médicale dûment justifiée définie à l'article R. 232-85-1. 
 
 Cette décision est notifiée à l'intéressé et, le cas échéant, à la ou les personnes investies de l'autorité parentale ou au
-représentant légal, ainsi qu'à l'agence, par lettre recommandée avec demande d'avis de réception ou par lettre remise contre
-récépissé.
+représentant légal par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé. 
+
+Cette décision est notifiée à l'Agence française de lutte contre le dopage. Celle-ci peut demander communication de
+l'ensemble du dossier.
 
 L'agence peut exercer son pouvoir de réformation de la décision de classement dans le délai prévu à l'article L. 232-22 du
 code du sport. 
@@ -49682,8 +49745,8 @@ Article 18
 
 Le représentant de la fédération chargé de l'instruction informe l'intéressé et, le cas échéant, son défenseur qu'une
 procédure disciplinaire est engagée à son encontre et qu'il pourra faire l'objet, si les circonstances le justifient, d'une
-mesure de suspension provisoire dans les conditions prévues à l'article 21 du présent règlement. Cette information est
-réalisée par l'envoi d'un document énonçant les griefs retenus, sous forme d'une lettre recommandée avec demande d'avis de
+mesure de suspension provisoire dans les conditions prévues aux articles 20 et 21 du présent règlement. Cette information se
+matérialise par l'envoi d'un document énonçant les griefs retenus, sous forme d'une lettre recommandée avec demande d'avis de
 réception ou par tout autre moyen... (10) permettant de faire la preuve de sa réception par le destinataire. 
 
 Le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés
@@ -49692,72 +49755,112 @@ selon les mêmes modalités.
 Article 19 
 
 Le document énonçant les griefs retenus doit être accompagné, le cas échéant, du résultat de l'analyse prévue par l'article
-L. 232-18 du code du sport ou du procès-verbal de contrôle constatant la soustraction ou l'opposition à celui-ci. 
+L. 232-18 du code du sport ou du procès-verbal de contrôle constatant que l'intéressé s'est soustrait ou s'est opposé au
+contrôle. 
 
-Il doit mentionner la possibilité pour l'intéressé de demander par lettre recommandée avec demande d'avis de réception, dans
-un délai de cinq jours à compter de la réception de la lettre recommandée prévue à l'article précédent, qu'il soit procédé à
-ses frais à une seconde analyse dans les conditions prévues par l'article R. 232-64 du code du sport. Le délai de cinq jours
-est porté à dix jours lorsque l'intéressé est domicilié hors de la métropole. 
+Ce document doit mentionner la possibilité pour l'intéressé, d'une part, de demander par lettre recommandée avec demande
+d'avis de réception, dans un délai de cinq jours à compter de sa réception, qu'il soit procédé à ses frais à l'analyse de
+l'échantillon B, conformément aux dispositions prévues par l'article R. 232-64 du code du sport, et, d'autre part, qu'en cas
+d'absence de demande de l'analyse de l'échantillon B de sa part, le résultat porté à sa connaissance constitue le seul
+résultat opposable, sauf décision de l'Agence française de lutte contre le dopage d'effectuer une analyse de l'échantillon
+B. 
 
-Une liste des experts agréés par l'Agence française de lutte contre le dopage conformément à l'article L. 232-23 du code du
-sport est transmise à l'intéressé afin que celui-ci puisse, en demandant une seconde analyse, désigner un expert. 
+Le délai de cinq jours mentionné au deuxième alinéa est porté à dix jours lorsque l'intéressé est domicilié hors de la
+métropole.
 
-La date de la seconde analyse est arrêtée, dans le respect du calendrier fixé par la loi, en accord avec le département des
+L'intéressé peut demander l'analyse de l'échantillon B et désigner, le cas échéant, un expert de son choix. La liste
+indicative d'experts, établie par l'Agence française de lutte contre le dopage et prévue à l'article R. 232-64, est mise à la
+disposition de l'intéressé. 
+
+Lorsque l'analyse de l'échantillon B est pratiquée, la date de cette analyse est arrêtée, en accord avec le département des
 analyses de l'Agence française de lutte contre le dopage, ou avec le laboratoire auquel il a été fait appel en application de
-l'article L. 232-18 du code du sport et, le cas échéant, avec l'expert désigné par l'intéressé. Ces résultats sont
-communiqués par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à l'intéressé, à
-la fédération et à l'Agence française de lutte contre le dopage. 
+l'article L. 232-18 du code du sport et, le cas échéant, avec l'expert désigné par l'intéressé. Le résultat de l'analyse de
+l'échantillon B est communiqué par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé,
+à l'intéressé, à la fédération et à l'Agence française de lutte contre le dopage. 
 
 Article 20 
 
-Lorsque les circonstances le justifient, et dans l'attente de la décision de l'organe disciplinaire, le président de celui-ci
-peut décider une suspension provisoire du licencié, à titre conservatoire, pour les compétitions organisées ou autorisées par
-la fédération concernée. La décision de suspension doit être motivée.
+Lorsqu'à la suite d'un contrôle, l'analyse de l'échantillon A révèle la présence d'une substance interdite, de l'un de ses
+métabolites ou de ses marqueurs, ou l'utilisation d'une méthode interdite qui figurent sur la liste mentionnée au dernier
+alinéa de l'article L. 232-9 et que le licencié ne peut pas faire état d'une autorisation d'usage thérapeutique, d'une
+déclaration d'usage ou d'une raison médicale dûment justifiée, le président de l'organe disciplinaire ordonne à l'encontre du
+licencié, à titre conservatoire et dans l'attente de la décision de l'organe disciplinaire, une suspension provisoire de
+participer aux manifestations et aux compétitions mentionnées au 1° de l'article L. 230-3 du code du sport. La décision de
+suspension doit être motivée. 
 
-L'intéressé et, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal disposent
-alors d'un délai de cinq jours, à compter de la réception de la décision du président de l'organe disciplinaire, pour
-présenter leurs observations. Ce délai est porté à dix jours lorsque l'intéressé est domicilié hors de la métropole. 
-
-Si l'analyse de contrôle éventuellement demandée ne confirme pas le rapport de la première analyse, cette suspension
-provisoire prend fin à compter de la réception par la fédération du rapport de l'analyse de contrôle. 
-
-La suspension provisoire prend également fin en cas de relaxe de l'intéressé par l'organe disciplinaire, si la durée de la
-sanction décidée en application du 2° de l'article 32 est inférieure à celle de la suspension déjà supportée à titre
-conservatoire ou si l'organe disciplinaire n'est pas en mesure de statuer dans le délai de dix semaines qui lui est imparti à
-l'article L. 232-21 du code du sport. Dans le cas contraire, la durée de la suspension provisoire s'impute sur celle de
-l'interdiction devenue définitive prononcée en application du 2° de l'article 32 ou des dispositions de l'article L. 232-23
-du code du sport. 
+Si l'analyse de l'échantillon B ne confirme pas le rapport de l'analyse de l'échantillon A, cette suspension provisoire prend
+fin à compter de la réception par la fédération du rapport de l'analyse de l'échantillon B. 
 
 Article 21 
+
+Lorsque les circonstances le justifient et qu'il est constaté la détention d'une substance ou méthode interdite ou un
+manquement aux articles L. 232-9, L. 232-10, L. 232-15 ou L. 232-17, le président de l'organe disciplinaire peut, à titre
+conservatoire et dans l'attente de la décision de l'organe disciplinaire, suspendre provisoirement la participation du
+licencié aux manifestations et aux compétitions mentionnées au 1° de l'article L. 230-3 du code du sport. La décision de
+suspension doit être motivée. 
+
+Article 22 
+
+Lorsqu'ils en font la demande, le licencié et, le cas échéant, la ou les personnes investies de l'autorité parentale ou le
+représentant légal doivent être entendus, dans les meilleurs délais, par le président de l'organe disciplinaire ou, en cas
+d'empêchement par une personne de l'organe disciplinaire qu'il mandate à cet effet, pour faire valoir leurs observations sur
+la suspension provisoire mentionnée aux articles 20 et 21. 
+
+Cette demande doit être transmise par tout moyen permettant de garantir son origine et sa réception, dans un délai de cinq
+jours, à compter de la réception de la décision du président de l'organe disciplinaire. Ce délai est porté à dix jours
+lorsque l'intéressé est domicilié hors de la métropole. 
+
+La suspension provisoire prend fin soit :
+
+- en cas de retrait par le président de l'organe disciplinaire de la décision de suspension provisoire ;
+
+- en cas d'absence de sanction de l'intéressé par l'organe disciplinaire ;
+
+- si la durée de la sanction décidée par l'organe disciplinaire est inférieure ou égale à celle de la suspension déjà
+supportée à titre conservatoire ;
+
+- si l'organe disciplinaire n'est pas en mesure de statuer dans le délai de dix semaines qui lui est imparti à l'article L.
+232-21 du code du sport. 
+
+Article 23 
+
+Les décisions du président de l'organe disciplinaire relatives aux suspensions provisoires sont notifiées aux licenciés par
+tout moyen permettant de garantir leur origine et leur réception. 
+
+Article 24 
 
 Dès lors qu'une infraction a été constatée, le représentant de la fédération chargé de l'instruction ne peut clore de lui-
 même une affaire. Sauf dans le cas prévu à l'article 17, l'organe disciplinaire est tenu de prendre une décision après
 convocation de l'intéressé. 
 
 Au vu des éléments du dossier, le représentant de la fédération chargé de l'instruction établit un rapport qu'il adresse à
-l'organe disciplinaire et qui est joint au dossier. 
+l'organe disciplinaire et qui est joint au dossier avec l'ensemble des pièces. 
 
 Le président de l'organe disciplinaire de première instance peut faire entendre par celui-ci toute personne dont l'audition
 lui paraît utile. Si une telle audition est décidée, le président en informe l'intéressé avant la séance. 
 
-Article 22 
+Article 25 
 
 L'intéressé, accompagné le cas échéant de la ou des personnes investies de l'autorité parentale ou de son représentant légal,
-ainsi que de son défenseur, est convoqué.......... (11) devant l'organe disciplinaire, par lettre recommandée avec demande
-d'avis de réception ou par lettre remise contre récépissé, quinze jours au moins avant la date de la séance, la date du
-récépissé ou de l'avis de réception faisant foi.
+ainsi que de son défenseur, est convoqué par le président de l'organe disciplinaire ou par une personne mandatée à cet effet
+par ce dernier, par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, quinze jours
+au moins avant la date de la séance, la date du récépissé ou de l'avis de réception faisant foi.
 
-L'intéressé peut être représenté par une personne de son choix. Il peut également être assisté par une ou plusieurs personnes
-de son choix.S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, à sa demande, de l'aide
-d'un interprète aux frais de la fédération.
+L'intéressé peut être représenté par une personne qu'il mandate à cet effet. Il peut également être assisté par une ou
+plusieurs personnes de son choix.S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, à sa
+demande, de l'aide d'un interprète aux frais de la fédération.
 
 L'intéressé ainsi que, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal et le
-défenseur peuvent consulter avant la séance le rapport et l'intégralité du dossier. Ils peuvent en obtenir copie. Ils peuvent
-demander que soient entendues les personnes de leur choix, dont ils communiquent les noms huit jours au moins avant la
-réunion de l'organe disciplinaire. Le président de ce dernier peut refuser, par décision motivée, les demandes d'audition
-manifestement abusives. 
+défenseur peuvent consulter avant la séance le rapport et l'intégralité du dossier et en obtenir copie. 
 
-Article 23 
+Ils peuvent demander que soient entendues les personnes de leur choix, dont ils communiquent les noms dans un délai de six
+jours au moins avant la réunion de l'organe disciplinaire. 
+
+Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole. 
+
+Le président de l'organe disciplinaire peut refuser, par décision motivée, les demandes d'audition manifestement abusives. 
+
+Article 26 
 
 Lors de la séance, le représentant de la fédération chargé de l'instruction présente oralement son rapport. En cas
 d'empêchement du représentant chargé de l'instruction, son rapport peut être lu par un des membres de l'organe disciplinaire.
@@ -49765,7 +49868,7 @@ d'empêchement du représentant chargé de l'instruction, son rapport peut être
 L'intéressé et, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal ainsi que la
 ou les personnes qui l'assistent ou le représentent sont invités à prendre la parole en dernier. 
 
-Article 24 
+Article 27 
 
 L'organe disciplinaire délibère à huis clos, hors de la présence de l'intéressé, de la ou des personnes qui l'assistent ou le
 représentent, le cas échéant de la ou des personnes investies de l'autorité parentale ou du représentant légal, des personnes
@@ -49774,54 +49877,65 @@ entendues à l'audience et du représentant de la fédération chargé de l'inst
 Lorsque les fonctions de secrétaire de séance sont assurées par une personne qui n'est pas membre de l'organe disciplinaire,
 celle-ci peut assister au délibéré sans y participer.
 
-L'organe disciplinaire statue par une décision motivée, signée par le président et le secrétaire de séance. 
+L'organe disciplinaire prend une décision motivée, signée par le président et le secrétaire de séance. 
 
-Elle est aussitôt notifiée par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé à
-l'intéressé et à..... (12). La notification mentionne les voies et délais d'appel. Le cas échéant, la ou les personnes
-investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés selon les mêmes modalités. 
+La décision est notifiée sans délai à l'intéressé, le cas échéant à la ou les personnes investies de l'autorité parentale ou
+au représentant légal ainsi qu'à... (11) par lettre recommandée avec demande d'avis de réception ou par lettre remise contre
+récépissé. La notification mentionne les voies et délais d'appel.
+
+L'association sportive dont le licencié est membre et, le cas échéant, la société dont il est préposé sont informées de cette
+décision. 
 
 Dans les huit jours de son prononcé, la décision, accompagnée de l'ensemble du dossier, est notifiée pour information, par
-lettre recommandée avec demande d'avis de réception, à l'Agence française de lutte contre le dopage. La seule décision est
-notifiée dans les mêmes formes au ministre chargé des sports. 
+lettre recommandée avec demande d'avis de réception, à l'Agence française de lutte contre le dopage. La décision est notifiée
+dans les mêmes formes au ministre chargé des sports. Le ministre chargé des sports peut demander, le cas échéant,
+communication de toute pièce du dossier permettant la compréhension de la décision. 
 
-La décision est transmise par tout moyen à la fédération internationale intéressée et à l'organisme international chargé de
-la lutte contre le dopage reconnu par le Comité international olympique. 
+La décision est transmise par tout moyen à la fédération internationale intéressée et à l'Agence mondiale antidopage. 
 
-Lorsque l'organe disciplinaire de première instance a pris une décision de sanction, telle que définie au 2° de l'article 32
-du présent règlement, et que cette dernière est devenue définitive, cette décision est publiée de manière nominative pour les
-majeurs et de manière anonyme pour les mineurs, au prochain bulletin de la fédération sportive intéressée ou dans le document
-qui en tient lieu. Toutefois, pour les personnes majeures, cette publication pourra, en cas de circonstances exceptionnelles,
-être effectuée sous forme anonyme par décision spécialement motivée de l'organe disciplinaire. 
+Article 28 
 
-Article 25 
+Lorsque l'organe disciplinaire de première instance a pris une décision de sanction, telle que définie aux articles 36 à 41
+du présent règlement, et que cette dernière a été notifiée, cette décision ou un résumé (10 bis) de cette décision est publié
+de manière nominative pour les majeurs et de manière anonyme pour les mineurs au prochain bulletin de la fédération sportive
+intéressée ou dans le document qui en tient lieu. Toutefois, pour les personnes majeures, cette publication pourra, en cas de
+circonstances exceptionnelles, être effectuée sous forme anonyme par décision spécialement motivée de l'organe
+disciplinaire. 
 
-L'organe disciplinaire de première instance doit se prononcer dans le délai prévu à l'article L. 232-21 du code du sport. 
+Article 29 
 
-Faute d'avoir statué dans ce délai, l'organe disciplinaire de première instance est dessaisi et l'ensemble du dossier est
-transmis à l'organe disciplinaire d'appel. 
+L'organe disciplinaire de première instance doit se prononcer dans le délai de dix semaines prévu à l'article L. 232-21 du
+code du sport. 
 
-Section 3 : Dispositions relatives à l'organe disciplinaire d'appel 
+Faute d'avoir pris une décision dans ce délai, l'organe disciplinaire de première instance est dessaisi et l'ensemble du
+dossier est transmis à l'organe disciplinaire d'appel. 
 
-Article 26 
+Section 3 
 
-La décision de l'organe disciplinaire de première instance peut être frappée d'appel par l'intéressé, le cas échéant, par la
-ou les personnes investies de l'autorité parentale ou par le représentant légal et par.... (12), par lettre recommandée avec
-demande d'avis de réception ou par lettre remise contre récépissé, dans un délai de dix jours. Ce délai est porté à quinze
-jours lorsque l'intéressé est domicilié hors de la métropole.
+Dispositions relatives 
+
+à l'organe disciplinaire d'appel 
+
+Article 30 
+
+L'intéressé, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal et... (11)
+peuvent interjeter appel de la décision de l'organe disciplinaire de première instance, par lettre recommandée avec demande
+d'avis de réception ou par lettre remise contre récépissé, dans un délai de dix jours. Ce délai est porté à quinze jours
+lorsque l'intéressé est domicilié hors de la métropole.
 
 L'exercice du droit d'appel ne peut être subordonné au versement d'une somme d'argent à la fédération ou limité par une
 décision d'un organe fédéral.
 
 L'appel n'est pas suspensif. 
 
-Lorsque l'appel émane de la fédération, l'organe disciplinaire d'appel en donne communication à l'intéressé par lettre
-recommandée avec avis de réception ou par lettre remise contre récépissé et l'informe qu'il peut produire ses observations
-dans un délai de cinq jours à compter de la date du récépissé ou de l'avis de réception. 
+Lorsque l'appel émane de la fédération, l'organe disciplinaire d'appel le communique à l'intéressé par lettre recommandée
+avec avis de réception ou par lettre remise contre récépissé et l'informe qu'il peut produire ses observations dans un délai
+de six jours avant la tenue de l'audience. 
 
-Ce délai est porté à dix jours lorsque l'intéressé est domicilié hors de la métropole. Le cas échéant, la ou les personnes
+Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole. Le cas échéant, la ou les personnes
 investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés selon les mêmes modalités. 
 
-Article 27 
+Article 31 
 
 L'organe disciplinaire d'appel statue en dernier ressort. 
 
@@ -49833,162 +49947,167 @@ faits et rappelant les conditions du déroulement de la procédure. Ce rapport e
 dossier.
 
 A compter de la constatation de l'infraction, l'organe disciplinaire d'appel doit se prononcer dans le délai de quatre mois
-prévu à l'article L. 232-21 du code du sport. Faute d'avoir statué dans ce délai, il est dessaisi et l'ensemble du dossier
-est transmis à l'Agence française de lutte contre le dopage. 
-
-Article 28 
-
-L'intéressé, accompagné, le cas échéant, de la ou des personnes investies de l'autorité parentale ou du représentant légal
-ainsi que de son défenseur, est convoqué.... (11) devant l'organe disciplinaire d'appel, par lettre recommandée avec demande
-d'avis de réception ou par lettre remise contre récépissé, quinze jours au moins avant la date de la séance.
-
-L'intéressé peut être représenté par une personne de son choix. Il peut également être assisté par une ou plusieurs personnes
-de son choix.S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, à sa demande, de l'aide
-d'un interprète aux frais de la fédération.
-
-L'intéressé ainsi que, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal et le
-défenseur peuvent consulter avant la séance le rapport et l'intégralité du dossier. Ils peuvent en obtenir copie. Ils peuvent
-demander que soient entendues les personnes de leur choix, dont ils communiquent les noms huit jours au moins avant la
-réunion de l'organe disciplinaire. Le président de ce dernier peut refuser les demandes d'audition manifestement abusives. 
-
-Article 29 
-
-Le président de l'organe disciplinaire d'appel peut faire entendre par celui-ci toute personne dont l'audition lui paraît
-utile. Si une telle audition est décidée, le président en informe l'intéressé avant la séance. 
-
-Lors de la séance, l'intéressé et, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant
-légal ainsi que la ou les personnes qui l'assistent ou la représentent, sont invités à prendre la parole en dernier. 
-
-Article 30 
-
-L'organe disciplinaire d'appel délibère à huis clos, hors de la présence de l'intéressé, de la ou des personnes qui
-l'assistent ou le représentent, le cas échéant de la ou des personnes investies de l'autorité parentale ou du représentant
-légal ainsi que des personnes entendues à l'audience. Lorsque les fonctions de secrétaire de séance sont assurées par une
-personne qui n'est pas membre de l'organe disciplinaire d'appel, celle-ci peut assister au délibéré sans y participer.
-
-L'organe disciplinaire d'appel statue par une décision motivée, signée par le président et le secrétaire de séance. 
-
-Article 31 
-
-La décision est aussitôt notifiée à l'intéressé, le cas échéant à la ou les personnes investies de l'autorité parentale ou au
-représentant légal ainsi qu'à.... (12) par lettre recommandée avec demande d'avis de réception ou par lettre remise contre
-récépissé. 
-
-Dans les huit jours de son prononcé, la décision, accompagnée de l'ensemble du dossier, est notifiée pour information, par
-lettre recommandée avec demande d'avis de réception, à l'Agence française de lutte contre le dopage. La seule décision est
-notifiée dans les mêmes formes au ministre chargé des sports. 
-
-La décision est transmise par tout moyen à la fédération internationale concernée et à l'organisme international chargé de la
-lutte contre le dopage reconnu par le Comité international olympique. 
-
-La notification mentionne les voies et délais de recours. 
-
-Lorsque l'organe disciplinaire d'appel a pris une décision de sanction, telle que définie au 2° de l'article 32 du présent
-règlement, et que cette dernière est devenue définitive, cette décision est publiée de manière nominative pour les majeurs et
-de manière anonyme pour les mineurs, au prochain bulletin de la fédération sportive intéressée ou dans le document qui en
-tient lieu. Toutefois, pour les personnes majeures, cette publication pourra, en cas de circonstances exceptionnelles, être
-effectuée sous forme anonyme par décision spécialement motivée de l'organe disciplinaire. 
-
-Chapitre III : Sanctions disciplinaires. 
+prévu à l'article L. 232-21 du code du sport. Faute d'avoir pris une décision dans ce délai, il est dessaisi et l'ensemble du
+dossier est transmis sans délai à l'Agence française de lutte contre le dopage. 
 
 Article 32 
 
-Sans préjudice des sanctions pénales éventuellement encourues en application de la section 5 du chapitre II du titre III du
-livre II du code du sport, les sanctions applicables en cas d'infraction aux articles L. 232-9, L. 232-10, L. 232-15 et L.
-232-17 du code du sport sont : 
+L'intéressé, accompagné, le cas échéant, de la ou des personnes investies de l'autorité parentale ou du représentant légal
+ainsi que de son défenseur, est convoqué devant l'organe disciplinaire d'appel par son président ou une personne mandatée à
+cet effet par ce dernier, par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé,
+quinze jours au moins avant la date de la séance.
 
-1° Les pénalités sportives suivantes : 
+L'intéressé peut être représenté par une personne qu'il mandate à cet effet. Il peut également être assisté par une ou
+plusieurs personnes de son choix.S'il ne parle ou ne comprend pas suffisamment la langue française, il peut bénéficier, à sa
+demande, de l'aide d'un interprète aux frais de la fédération.
 
-a) Dans le cas d'une infraction constatée lors d'un contrôle en compétition, l'annulation des résultats individuels obtenus
-lors de celle-ci avec toutes les conséquences en résultant, y compris le retrait des médailles, points et prix ; 
+L'intéressé ainsi que, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal et le
+défenseur ou toute personne qu'il mandate à cet effet peuvent consulter avant la séance le rapport et l'intégralité du
+dossier et en obtenir copie. 
 
-b) (13) ; 
+Ils peuvent demander que soient entendues les personnes de leur choix, dont ils communiquent les noms dans un délai de six
+jours au moins avant la réunion de l'organe disciplinaire. 
 
-Dans les sports collectifs ou dans les sports individuels dans lesquels certaines épreuves se déroulent par équipes, les
-pénalités sportives prévues au a peuvent être appliquées à l'ensemble de l'équipe, dès lors que l'organe disciplinaire
-constate qu'au moins l'un de ses membres a méconnu les dispositions des articles L. 232-9, L. 232-10, L. 232-15 et L. 232-17
-du code du sport durant la manifestation à l'occasion de laquelle a été effectué le contrôle (14). 
+Ce délai est ramené à trois jours lorsque l'intéressé est domicilié hors de la métropole. 
 
-2° Des sanctions disciplinaires choisies parmi les mesures ci-après, à l'exclusion de toute sanction pécuniaire : 
-
-a) Un avertissement ; 
-
-b) Une interdiction temporaire ou définitive de participer aux compétitions et manifestations mentionnées à l'article L.
-232-9 du code du sport ; 
-
-c) Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement
-des compétitions et manifestations sportives mentionnées à l'article L. 232-9 du code du sport et aux entraînements y
-préparant ; 
-
-d) Une interdiction temporaire ou définitive d'exercer les fonctions définies à l'article L. 212-1 du code du sport ; 
-
-e) Le retrait provisoire de la licence ; 
-
-f) La radiation. 
+Le président de l'organe disciplinaire peut refuser les demandes d'audition manifestement abusives. 
 
 Article 33 
 
-Lorsque l'organe disciplinaire constate que l'intéressé a méconnu l'une des dispositions de l'article L. 232-9 ou du second
-alinéa de l'article L. 232-10 du code du sport, il prononce une interdiction de participer aux compétitions comprise entre
-deux ans et six ans.A partir de la seconde infraction, l'interdiction de participer aux compétitions est au minimum de quatre
-ans et peut aller jusqu'à l'interdiction définitive. 
+Toute personne dont l'audition paraît utile peut être entendue par l'organe disciplinaire, à l'appréciation de son président.
+Si une telle audition est décidée, le président en informe l'intéressé avant la séance. 
+
+Lors de la séance, l'intéressé et, le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant
+légal ainsi que la ou les personnes qui l'assistent ou la représentent sont invités à prendre la parole en dernier. 
 
 Article 34 
 
-Par dérogation à l'article 33, lorsque la substance interdite utilisée par l'intéressé est au nombre des substances
-qualifiées de spécifiques dans la liste mentionnée au dernier alinéa de l'article L. 232-9 du code du sport, l'organe
-disciplinaire prononce une sanction disciplinaire qui est, en cas de première infraction, au minimum un avertissement et au
-maximum une année d'interdiction de participer aux compétitions. En cas de seconde infraction il prononce une interdiction de
-participer aux compétitions comprise entre deux ans et six ans.A partir de la troisième infraction, l'interdiction de
-participer aux compétitions est au minimum de quatre ans et peut aller jusqu'à l'interdiction définitive. 
+L'organe disciplinaire d'appel délibère à huis clos, hors de la présence de l'intéressé, de la ou des personnes qui
+l'assistent ou le représentent, le cas échéant de la ou des personnes investies de l'autorité parentale ou du représentant
+légal ainsi que des personnes entendues à l'audience. 
+
+Lorsque les fonctions de secrétaire de séance sont assurées par une personne qui n'est pas membre de l'organe disciplinaire
+d'appel, celle-ci peut assister au délibéré sans y participer.
+
+L'organe disciplinaire d'appel prend une décision motivée, signée par le président et le secrétaire de séance. 
 
 Article 35 
 
-En cas d'infraction aux dispositions du premier alinéa de l'article L. 232-10 du code du sport, les sanctions prévues aux b,
-c et d du 2° de l'article 32 ont une durée minimum de quatre ans et peuvent aller jusqu'à l'interdiction définitive. 
+La décision est notifiée sans délai à l'intéressé, le cas échéant à la ou les personnes investies de l'autorité parentale ou
+au représentant légal ainsi qu'à... (11) par lettre recommandée avec demande d'avis de réception ou par lettre remise contre
+récépissé.
+
+L'association sportive dont le licencié est membre et le cas échéant la société dont il est le préposé sont informées de
+cette décision. 
+
+Dans les huit jours de son prononcé, la décision, accompagnée de l'ensemble du dossier, est notifiée pour information, par
+lettre recommandée avec demande d'avis de réception, à l'Agence française de lutte contre le dopage. La décision est notifiée
+dans les mêmes formes au ministre chargé des sports. Le ministre chargé des sports peut demander, le cas échéant,
+communication de toute pièce du dossier permettant la compréhension de la décision. 
+
+La décision est transmise par tout moyen à la fédération internationale concernée et à l'agence mondiale antidopage. 
+
+La notification mentionne les voies et délais de recours (12). 
+
+Lorsque l'organe disciplinaire d'appel a pris une décision de sanction, telle que définie aux articles 36 à 41 du présent
+règlement, et, après notification, cette décision ou un résumé (10 bis) de cette décision est publié de manière nominative
+pour les majeurs et de manière anonyme pour les mineurs au prochain bulletin de la fédération sportive intéressée ou dans le
+document qui en tient lieu. Toutefois, pour les personnes majeures, cette publication pourra, en cas de circonstances
+exceptionnelles, être effectuée sous forme anonyme par décision spécialement motivée de l'organe disciplinaire. 
+
+Chapitre III 
+
+Sanctions 
 
 Article 36 
 
-Lorsque l'organe disciplinaire constate que le sportif a contrevenu aux dispositions de l'article L. 232-15 du code du sport
-en s'abstenant de transmettre les informations propres à permettre sa localisation dans les conditions fixées par une
-délibération du collège de l'Agence française de lutte contre le dopage, il prononce une interdiction de participer aux
-compétitions comprise entre trois mois et deux ans. 
+Sans préjudice des sanctions pénales éventuellement encourues en application de la section 6 du chapitre II du titre III du
+livre II du code du sport, les sanctions applicables à l'encontre des licenciés en cas d'infraction aux articles L. 232-9, L.
+232-10, L. 232-15, L. 232-17 du code du sport sont des sanctions disciplinaires choisies parmi les mesures ci-après : 
+
+1° Un avertissement ; 
+
+2° Une interdiction temporaire ou définitive de participer aux manifestations mentionnées au 1° de l'article L. 230-3 du code
+du sport ; 
+
+3° Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement
+des compétitions et manifestations sportives mentionnées au 1° de l'article L. 230-3 du code du sport et aux entraînements y
+préparant ; 
+
+4° Une interdiction temporaire ou définitive d'exercer les fonctions définies à l'article L. 212-1 du code du sport ; 
+
+5° Le retrait provisoire de la licence ; 
+
+6° La radiation. 
 
 Article 37 
 
-Il n'est encouru aucune des sanctions disciplinaires prévues au 2° de l'article 32 lorsque l'intéressé démontre que la
-violation qui lui est reprochée n'est due à aucune faute ou négligence de sa part. Il devra démontrer, le cas échéant,
-comment la substance interdite a pénétré dans son organisme. 
+I.-a) Les sanctions infligées à un sportif prévues à l'article 36 entraînent l'annulation des résultats individuels avec
+toutes les conséquences en résultant, y compris le retrait des médailles, points, gains et prix, relatifs à la manifestation
+ou à la compétition à l'occasion de laquelle l'infraction a été constatée (13). 
+
+b) Dans les sports collectifs, sont annulés les résultats de l'équipe avec les mêmes conséquences que celles figurant au a
+dès lors que l'organe disciplinaire constate que plus de deux membres ont méconnu les dispositions des articles contenues au
+titre III du livre II du code du sport ; 
+
+c) Il en est de même dans les sports individuels dans lesquels certaines épreuves se déroulent par équipes, dès lors que
+l'organe disciplinaire constate que (14) membres ont méconnu les dispositions des articles contenues au titre III du livre II
+du code du sport. 
+
+II.-a) L'organe disciplinaire qui inflige une sanction peut, en outre, à titre de pénalités, procéder aux annulations et
+retraits mentionnés au I pour les compétitions et manifestations qui se sont déroulées entre le contrôle et la date de
+notification de la sanction. 
+
+b) Une sanction pécuniaire, dont le montant ne peut excéder 45 000 € peut également être infligée. Ces sanctions sont
+modulées selon la gravité des faits et les circonstances de l'infraction. Elles sont prononcées dans le respect des droits de
+la défense. 
 
 Article 38 
 
-L'organe disciplinaire fixe la date d'entrée en vigueur des sanctions. Les sanctions d'une durée inférieure à six mois ne
-peuvent être exécutées en dehors des périodes de compétition. 
+Lorsque le licencié qui a contrevenu à l'article L. 232-10 n'est pas un sportif, les sanctions prévues aux 1° à 6° de
+l'article 36 peuvent être complétées par une sanction pécuniaire, dont le montant ne peut excéder 150 000 €, appréciée selon
+la gravité des faits et prononcée dans le respect des droits de la défense. 
 
 Article 39 
 
-Dans les cas prévus aux articles 34 et 36 du présent règlement et pour une première infraction, l'interdiction de participer
-aux compétitions peut être remplacée, avec l'accord de l'intéressé et, le cas échéant, celui de la ou des personnes investies
-de l'autorité parentale ou du représentant légal, par l'accomplissement, pendant une durée limitée correspondant à
-l'interdiction normalement encourue, d'activités d'intérêt général au bénéfice de la fédération ou d'une association
-sportive. 
+Les organes disciplinaires appliquent les sanctions mentionnées au présent règlement en tenant compte des articles 9 à 11 du
+code mondial antidopage figurant en annexe II de la convention internationale contre le dopage dans le sport, adoptée à Paris
+le 19 octobre 2005, annexés au présent règlement. 
 
 Article 40 
 
-Lorsqu'une personne ayant fait l'objet d'une sanction en application de l'article L. 232-21 ou L. 232-22 du code du sport
-sollicite le renouvellement ou la délivrance d'une licence sportive, la fédération subordonne ce renouvellement ou cette
-délivrance à la production de l'attestation nominative prévue à l'article L. 232-1 du même code et, le cas échéant, à la
-transmission au département des contrôles de l'Agence française de lutte contre le dopage des informations permettant la
-localisation du sportif, conformément aux dispositions de l'article L. 232-15 du même code. 
+Les sanctions prononcées par les organes disciplinaires entrent en vigueur à compter de leur notification aux intéressés qui
+doit être en principe celle de la décision de l'organe disciplinaire. 
+
+Les sanctions d'interdiction temporaire inférieures à six mois portant sur la participation aux manifestations mentionnées au
+1° de l'article L. 230-3 du code du sport ne peuvent être exécutées en dehors des périodes de compétition. Dans ce cas, leur
+date d'entrée en vigueur est fixée par l'organe qui a infligé la sanction. 
+
+La période de suspension provisoire ou d'interdiction portant sur la participation aux manifestations mentionnées au 1° de
+l'article L. 230-3 du code du sport prononcée pour les mêmes faits à l'encontre du sportif est déduite de la période totale
+de l'interdiction restant à accomplir. 
 
 Article 41 
 
-Dans les deux mois à compter du jour où sa décision est devenue définitive, le président de l'organe disciplinaire ayant pris
+Lorsqu'une personne ayant fait l'objet d'une sanction mentionnée à l'article 36 sollicite la restitution, le renouvellement
+ou la délivrance d'une licence sportive, la fédération subordonne cette restitution, ce renouvellement ou cette délivrance à
+la production de l'attestation nominative prévue à l'article L. 232-1 du même code et, s'il y a lieu, à la transmission au
+département des contrôles de l'Agence française de lutte contre le dopage des informations permettant la localisation du
+sportif, conformément aux dispositions de l'article L. 232-15 du même code.
+
+L'inscription à une manifestation ou compétition sportive d'un sportif ou d'un membre d'une équipe ayant fait l'objet de la
+mesure prévue au I de l'article 37 est subordonnée à la restitution des médailles, gains et prix en relation avec les
+résultats annulés. 
+
+Article 42 
+
+Dans les deux mois à compter de la notification de la sanction au licencié, le président de l'organe disciplinaire ayant pris
 une décision de sanction peut décider de saisir l'Agence française de lutte contre le dopage d'une demande d'extension de la
 sanction disciplinaire qui a été prononcée aux activités de l'intéressé relevant d'autres fédérations, conformément aux
 dispositions du 4° de l'article L. 232-22 du code du sport. 
 
-(1) Indiquer la référence des dispositions antérieures devenues caduques. 
+(1) Indiquer la date du précédent règlement disciplinaire dopage adopté par la fédération (qui sera abrogé par le nouveau
+règlement disciplinaire dopage). 
 
 (2) Préciser le ou les organes de la fédération pouvant demander qu'une enquête ou un contrôle soit effectué. 
 
@@ -50010,43 +50129,53 @@ directeur, etc.
 
 (10) Tels que remise par voie d'huissier, remise en mains propres avec décharge. 
 
-(11) Préciser qui a le pouvoir de convoquer : le représentant chargé de l'instruction, le président de l'organe
-disciplinaire... 
+(10 bis) Préciser que le résumé de la décision à publier comporte au moins les éléments suivants : identité du sportif,
+intitulé de la manifestation, date et lieu du contrôle, nature de l'infraction avec précision, le cas échéant, de la
+substance détectée, date, nature et prise d'effet de la sanction. 
 
-(12) Préciser le ou les organes de la fédération détenant la faculté de faire appel. 
+(11) Préciser le ou les organes de la fédération détenant la faculté de faire appel. 
+
+(12) Préciser au code de procédure civile au code de justice administrative selon que la fédération est uniquement agréée ou
+s'est vu accorder la délégation. 
 
 (13) Déclassement, disqualification, etc. 
 
-(14) Pénalité collective facultative que la fédération inclut dans son règlement le cas échéant (pertinence de la notion), et
-si elle le souhaite (opportunité de la notion).
+(14) Préciser le nombre de sportifs compris entre 1 et 3. 
+
+(15) Pénalité collective que la fédération inclut dans son règlement le cas échéant.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-58 du 13 janvier 2011 - art. 1
 
 	**Cite**:
 
-	  - Code de procédure civile - art. 11 (V)
-	  - Code du sport. - art. L131-19 (V)
-	  - Code du sport. - art. L131-8 (V)
-	  - Code du sport. - art. L212-1 (V)
-	  - Code du sport. - art. L232-10 (V)
-	  - Code du sport. - art. L232-11 (V)
-	  - Code du sport. - art. L232-12 (V)
-	  - Code du sport. - art. L232-15 (V)
-	  - Code du sport. - art. L232-17 (V)
-	  - Code du sport. - art. L232-18 (V)
-	  - Code du sport. - art. L232-2 (V)
-	  - Code du sport. - art. L232-21 (V)
-	  - Code du sport. - art. L232-22 (V)
-	  - Code du sport. - art. L232-23 (V)
-	  - Code du sport. - art. L232-5 (V)
-	  - Code du sport. - art. L232-9 (V)
-	  - Code du sport. - art. R232-64 (V)
-	  - Code du sport. - art. R232-86 (V)
-	  - Code du sport. - art. R232-87 (V)
+	  - Code de justice administrative
+	  - Code de procédure pénale - art. 11
+	  - Code du sport.
+	  - Code du sport. - art. L131-17
+	  - Code du sport. - art. L131-8
+	  - Code du sport. - art. L212-1
+	  - Code du sport. - art. L230-3
+	  - Code du sport. - art. L231-6
+	  - Code du sport. - art. L232-10
+	  - Code du sport. - art. L232-11
+	  - Code du sport. - art. L232-12
+	  - Code du sport. - art. L232-15
+	  - Code du sport. - art. L232-17
+	  - Code du sport. - art. L232-18
+	  - Code du sport. - art. L232-21
+	  - Code du sport. - art. L232-22
+	  - Code du sport. - art. L232-9
+	  - Code du sport. - art. R232-64
+	  - Code du sport. - art. R232-85-1
+	  - Code du sport. - art. R232-87
 
 
 ###### Article Annexe II-3 (art. R241-12)
