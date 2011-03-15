@@ -4776,6 +4776,32 @@ populaire et du sport spécialité " activités équestres " mention " tourisme 
 
 </td>
     </tr>
+    <tr>
+      <td>
+
+CQP " enseignant animateur d'équitation ". 
+
+</td>
+      <td>
+
+Conduite en autonomie de séances d'initiation aux pratiques équestres. 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+CQP " organisateur de randonnées équestres ". 
+
+</td>
+      <td>
+
+Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie.
+
+</td>
+      <td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -5250,4 +5276,4 @@ vigueur au 17 juillet 2007.
 
 	**Modifié par**:
 
-	  - Arrêté du 22 octobre 2010 - art. 1
+	  - Arrêté du 17 février 2011 - art. 1

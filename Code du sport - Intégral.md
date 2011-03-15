@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-01-16
+Version Consolidée au 2011-03-16
 
 # Partie législative
 
@@ -7997,22 +7997,22 @@ manifestations concernées par les dispositions du premier alinéa sont précis�
 
 Les fédérations mentionnées à l'article L. 131-14 peuvent être assistées, dans le cadre de leurs actions de prévention des
 violences à l'occasion des manifestations sportives à caractère amateur, par des membres de la réserve civile de la police
-nationale mentionnée à l'article 4 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure.
+nationale mentionnée aux articles 4 à 4-5 de la loi n° 2003-239 du 18 mars 2003 pour la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°2003-239 du 18 mars 2003 - art. 4 (V)
-	  - Code du sport. - art. L131-14 (V)
+	  - Loi n°2003-239 du 18 mars 2003 - art. 4
+	  - Code du sport. - art. L131-14
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-784 du 5 juillet 2006 - art. 1 () JORF 6 juillet 2006
+	  - Loi n°2011-267 du 14 mars 2011 - art. 113 (V)
 
 
 ##### Section 2 : Autorisations préalables
@@ -8261,32 +8261,35 @@ sécurité.
 
 Les sociétés visées par l'article 1er de la loi n° 83-629 du 12 juillet 1983 réglementant les activités privées de sécurité
 assurent la surveillance de l'accès aux enceintes dans lesquelles est organisée une manifestation sportive rassemblant plus
-de 1 500 spectateurs dans les conditions prévues à l'article 3-2 de cette loi.
+de 300 spectateurs dans les conditions prévues à l'article 3-2 de cette loi.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 1 (V)
-	  - Loi n°83-629 du 12 juillet 1983 - art. 3-2 (V)
+	  - Loi n°83-629 du 12 juillet 1983 - art. 1
+	  - Loi n°83-629 du 12 juillet 1983 - art. 3-2
 
 	**Anciens textes**:
 
-	  - Loi n°83-629 du 12 juillet 1983 - art. 3-2 (M)
 	  - Loi n°83-629 du 12 juillet 1983 - art. 3-2 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 95
 
 
 ###### Article L332-2-1
 
-Lorsqu'un système de vidéosurveillance est installé dans une enceinte où une manifestation sportive se déroule, les personnes
+Lorsqu'un système de vidéoprotection est installé dans une enceinte où une manifestation sportive se déroule, les personnes
 chargées de son exploitation, conformément à l'autorisation préfectorale délivrée en application de l'article 10 de la loi n°
 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, et l'organisateur de la manifestation
 sportive s'assurent, préalablement au déroulement de ladite manifestation, du bon fonctionnement du système de
-vidéosurveillance. 
+vidéoprotection. 
 
 Est puni de 15 000 euros d'amende le fait de méconnaître l'obligation fixée au premier alinéa.
 
@@ -8294,15 +8297,15 @@ Est puni de 15 000 euros d'amende le fait de méconnaître l'obligation fixée a
 
 	**Cite**:
 
-	  - Loi n°95-73 du 21 janvier 1995 - art. 10 (V)
+	  - Loi n°95-73 du 21 janvier 1995 - art. 10
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-784 du 5 juillet 2006 - art. 5 () JORF 6 juillet 2006
+	  - Loi n°2011-267 du 14 mars 2011 - art. 17
 
 
 ###### Article L332-3
@@ -8490,8 +8493,9 @@ Les personnes coupables de l'une des infractions définies aux articles L. 332-3
 encourent également la peine complémentaire d'interdiction de pénétrer ou de se rendre aux abords d'une enceinte où se
 déroule une manifestation sportive, pour une durée qui ne peut excéder cinq ans. La personne condamnée à cette peine est
 astreinte par le tribunal à répondre, au moment des manifestations sportives, aux convocations de toute autorité ou de toute
-personne qualifiée désignée par la juridiction. Dès le prononcé de la condamnation, la juridiction de jugement précise les
-obligations découlant pour le condamné de cette astreinte. 
+personne qualifiée que la juridiction désigne dans sa décision. Cette décision peut prévoir que l'obligation de répondre à
+ces convocations s'applique au moment de certaines manifestations sportives, qu'elle désigne, se déroulant sur le territoire
+d'un Etat étranger. 
 
 Cette peine complémentaire est également applicable aux personnes coupables de l'une des infractions définies aux articles
 222-11 à 222-13, 322-1 à 322-4, 
@@ -8502,8 +8506,6 @@ sportive ou, à l'extérieur de l'enceinte, en relation directe avec une manifes
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 42-11, alinéas 1 et 2
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42-11 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42-11 (Ab)
 
 	**Cité par**:
@@ -8521,20 +8523,20 @@ sportive ou, à l'extérieur de l'enceinte, en relation directe avec une manifes
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-784 du 5 juillet 2006 - art. 2 () JORF 6 juillet 2006
+	  - Loi n°2011-267 du 14 mars 2011 - art. 62
 
 	**Cite**:
 
-	  - Code pénal - art. 222-11 (V)
-	  - Code pénal - art. 322-1 (V)
-	  - Code pénal - art. 322-6 (V)
-	  - Code pénal - art. 433-6 (V)
-	  - Code du sport. - art. L332-19 (V)
-	  - Code du sport. - art. L332-3 (V)
+	  - Code pénal - art. 222-11
+	  - Code pénal - art. 322-1
+	  - Code pénal - art. 322-6
+	  - Code pénal - art. 433-6
+	  - Code du sport. - art. L332-19
+	  - Code du sport. - art. L332-3
 
 
 ###### Article L332-12
@@ -8616,21 +8618,28 @@ celle de l'interdiction du territoire français pour une durée au plus égale �
 
 ###### Article L332-15
 
-Dans des conditions précisées par décret en Conseil d'Etat, le préfet du département ou, à Paris, le préfet de police peut
-communiquer aux fédérations sportives agréées et aux associations de supporters mentionnées à l'article L. 332-17 l'identité
-des personnes ayant été condamnées à la peine complémentaire en application des articles L. 332-11 à L. 332-13.
+Dans des conditions précisées par décret en Conseil d'Etat, le préfet du département ou, à Paris, le préfet de police
+communique aux associations et sociétés sportives ainsi qu'aux fédérations sportives agréées l'identité des personnes ayant
+été condamnées à la peine complémentaire en application des articles L. 332-11 à L. 332-13. 
+
+Il peut la communiquer aux associations de supporters mentionnées à l'article L. 332-17.
+
+L'identité des personnes mentionnées au premier alinéa peut également être communiquée aux autorités d'un pays étranger
+lorsque celui-ci accueille une manifestation sportive à laquelle participe une équipe française.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 42-11, alinéa 7
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42-11 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42-11 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 63
 
 	**Cité par**:
 
@@ -8639,32 +8648,39 @@ des personnes ayant été condamnées à la peine complémentaire en application
 
 	**Cite**:
 
-	  - Code du sport. - art. L332-11 (V)
-	  - Code du sport. - art. L332-17 (V)
+	  - Code du sport. - art. L332-11
+	  - Code du sport. - art. L332-17
 
 
 ###### Article L332-16
 
-Lorsque, par son comportement d'ensemble à l'occasion de manifestations sportives ou par la commission d'un acte grave à
-l'occasion de l'une de ces manifestations, une personne constitue une menace pour l'ordre public, le représentant de l'Etat
-dans le département et, à Paris, le préfet de police peuvent, par arrêté motivé, prononcer à son encontre une mesure
-d'interdiction de pénétrer ou de se rendre aux abords des enceintes où de telles manifestations se déroulent ou sont
-retransmises en public.
+Lorsque, par son comportement d'ensemble à l'occasion de manifestations sportives, par la commission d'un acte grave à
+l'occasion de l'une de ces manifestations, du fait de son appartenance à une association ou un groupement de fait ayant fait
+l'objet d'une dissolution en application de l'article L. 332-18 ou du fait de sa participation aux activités qu'une
+association ayant fait l'objet d'une suspension d'activité s'est vue interdire en application du même article, une personne
+constitue une menace pour l'ordre public, le représentant de l'Etat dans le département et, à Paris, le préfet de police
+peuvent, par arrêté motivé, prononcer à son encontre une mesure d'interdiction de pénétrer ou de se rendre aux abords des
+enceintes où de telles manifestations se déroulent ou sont retransmises en public.
 
 L'arrêté, valable sur le territoire national, fixe le type de manifestations sportives concernées. Il ne peut excéder une
-durée de six mois. Toutefois, cette durée peut être portée à douze mois si, dans les trois années précédentes, cette personne
-a fait l'objet d'une mesure d'interdiction. 
+durée de douze mois. Toutefois, cette durée peut être portée à vingt-quatre mois si, dans les trois années précédentes, cette
+personne a fait l'objet d'une mesure d'interdiction. 
 
 Le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent également imposer, par le même arrêté,
 à la personne faisant l'objet de cette mesure l'obligation de répondre, au moment des manifestations sportives objet de
-l'interdiction, aux convocations de toute autorité ou de toute personne qualifiée qu'il désigne. 
+l'interdiction, aux convocations de toute autorité ou de toute personne qualifiée qu'il désigne. Le même arrêté peut aussi
+prévoir que l'obligation de répondre à ces convocations s'applique au moment de certaines manifestations sportives, qu'il
+désigne, se déroulant sur le territoire d'un Etat étranger. 
 
 Le fait, pour la personne, de ne pas se conformer à l'un ou à l'autre des arrêtés pris en application des alinéas précédents
 est puni d'un an d'emprisonnement et de 3 750 euros d'amende. 
 
-Le préfet du département et, à Paris, le préfet de police peut communiquer aux fédérations sportives agréées en application
-de l'article L. 131-8 et aux associations de supporters mentionnées à l'article L. 332-17 l'identité des personnes faisant
-l'objet de la mesure d'interdiction mentionnée au premier alinéa. 
+Le préfet du département et, à Paris, le préfet de police communique aux associations et sociétés sportives, ainsi qu'aux
+fédérations sportives agréées l'identité des personnes faisant l'objet de la mesure d'interdiction mentionnée au premier
+alinéa. En outre, il peut la communiquer aux associations de supporters mentionnées à l'article L. 332-17.
+
+L'identité des personnes mentionnées au premier alinéa peut également être communiquée aux autorités d'un pays étranger
+lorsque celui-ci accueille une manifestation sportive à laquelle participe une équipe française. 
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
@@ -8689,12 +8705,64 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°2010-201 du 2 mars 2010 - art. 10
+	  - Loi n°2011-267 du 14 mars 2011 - art. 64
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-8
 	  - Code du sport. - art. L332-17
+	  - Code du sport. - art. L332-18
+
+
+###### Article L332-16-1
+
+Le ministre de l'intérieur peut, par arrêté, interdire le déplacement individuel ou collectif de personnes se prévalant de la
+qualité de supporter d'une équipe ou se comportant comme tel sur les lieux d'une manifestation sportive et dont la présence
+est susceptible d'occasionner des troubles graves pour l'ordre public.
+
+L'arrêté énonce la durée, limitée dans le temps, de la mesure, les circonstances précises de fait qui la motivent ainsi que
+les communes de point de départ et de destination auxquelles elle s'applique. 
+
+Le fait pour les personnes concernées de ne pas se conformer à l'arrêté pris en application des deux premiers alinéas est
+puni de six mois d'emprisonnement et d'une amende de 30 000 €. 
+
+Dans le cas prévu à l'alinéa précédent, le prononcé de la peine complémentaire d'interdiction judiciaire de stade prévue à
+l'article L. 332-11 pour une durée d'un an est obligatoire, sauf décision contraire spécialement motivée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 60
+
+	**Cite**:
+
+	  - Code du sport. - art. L332-11
+
+
+###### Article L332-16-2
+
+Le représentant de l'Etat dans le département ou, à Paris, le préfet de police peut, par arrêté, restreindre la liberté
+d'aller et de venir des personnes se prévalant de la qualité de supporter d'une équipe ou se comportant comme tel sur les
+lieux d'une manifestation sportive et dont la présence est susceptible d'occasionner des troubles graves pour l'ordre public.
+
+L'arrêté énonce la durée, limitée dans le temps, de la mesure, les circonstances précises de fait et de lieu qui la motivent,
+ainsi que le territoire sur lequel elle s'applique. 
+
+Le fait pour les personnes concernées de ne pas se conformer à l'arrêté pris en application des deux premiers alinéas est
+puni de six mois d'emprisonnement et d'une amende de 30 000 €. 
+
+Dans le cas prévu à l'alinéa précédent, le prononcé de la peine complémentaire d'interdiction judiciaire de stade prévue à
+l'article L. 332-11 pour une durée d'un an est obligatoire, sauf décision contraire spécialement motivée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2011-267 du 14 mars 2011 - art. 61
+
+	**Cite**:
+
+	  - Code du sport. - art. L332-11
 
 
 ###### Article L332-17
@@ -8778,25 +8846,28 @@ Les conditions de fonctionnement de la commission sont fixées par décret en Co
 ###### Article L332-19
 
 Le fait de participer au maintien ou à la reconstitution, ouverte ou déguisée, d'une association ou d'un groupement dissous
-en application de l'article L. 332-18 est puni d'un an d'emprisonnement et de 15 000 euros d'amende. 
+en application de l'article L. 332-18, ainsi que le fait de participer aux activités qu'une association suspendue d'activité
+s'est vu interdire en application du même article, sont punis d'un an d'emprisonnement et de 15 000 euros d'amende. 
 
 Le fait d'organiser le maintien ou la reconstitution, ouverte ou déguisée, d'une association ou d'un groupement dissous en
-application de l'article L. 332-18 est puni de deux ans d'emprisonnement et de 30 000 euros d'amende. 
+application de l'article L. 332-18, ainsi que le fait d'organiser les activités qu'une association suspendue d'activité s'est
+vu interdire en application du même article, sont punis de deux ans d'emprisonnement et de 30 000 euros d'amende. 
 
 Les peines prévues aux premier et deuxième alinéas sont portées respectivement à trois ans d'emprisonnement et 45 000 euros
-d'amende et à cinq ans d'emprisonnement et 75 000 euros d'amende si les infractions à l'origine de la dissolution de
-l'association ou du groupement ont été commises à raison de l'origine de la victime, de son orientation sexuelle, de son sexe
-ou de son appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée.
+d'amende et à cinq ans d'emprisonnement et 75 000 euros d'amende si les infractions à l'origine de la dissolution ou de la
+suspension de l'association ou du groupement ont été commises à raison de l'origine de la victime, de son orientation
+sexuelle, de son sexe ou de son appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion
+déterminée.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2006-784 du 5 juillet 2006 - art. 6 () JORF 6 juillet 2006
+	  - Loi n°2011-267 du 14 mars 2011 - art. 65
 
 	**Cité par**:
 
@@ -8807,7 +8878,7 @@ ou de son appartenance, vraie ou supposée, à une ethnie, une nation, une race 
 
 	**Cite**:
 
-	  - Code du sport. - art. L332-18 (V)
+	  - Code du sport. - art. L332-18
 
 
 ###### Article L332-20
@@ -24581,8 +24652,6 @@ dopage, le contrôle du respect de leurs obligations par les personnes agréées
 
 	  - Décret n°2011-57 du 13 janvier 2011 - art. 16
 
-
-##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques.
 
 ##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques et les déclarations d'usage
 
@@ -56065,6 +56134,32 @@ populaire et du sport spécialité " activités équestres " mention " tourisme 
 
 </td>
     </tr>
+    <tr>
+      <td>
+
+CQP " enseignant animateur d'équitation ". 
+
+</td>
+      <td>
+
+Conduite en autonomie de séances d'initiation aux pratiques équestres. 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
+      <td>
+
+CQP " organisateur de randonnées équestres ". 
+
+</td>
+      <td>
+
+Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie.
+
+</td>
+      <td>
+    </td></tr>
   </tbody>
 </table>
 
@@ -56539,7 +56634,7 @@ vigueur au 17 juillet 2007.
 
 	**Modifié par**:
 
-	  - Arrêté du 22 octobre 2010 - art. 1
+	  - Arrêté du 17 février 2011 - art. 1
 
 
 ###### Article Annexe II-2 (art. A212-2)
