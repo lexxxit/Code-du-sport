@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-03-16
+Version Consolidée au 2011-03-17
 
 # Partie législative
 
@@ -29183,6 +29183,31 @@ demande et les modalités de son dépôt.
 	  - Code du sport. - art. R331-25 (VT)
 
 
+###### Article R331-24-1
+
+Lorsque la demande d'autorisation porte sur l'organisation d'une épreuve ou d'une compétition de sports motorisés se
+déroulant sur des terrains ou des parcours fermés de manière permanente à la circulation publique et non soumis à la
+procédure prévue à l'article L. 421-2 du code de l'urbanisme, un arrêté conjoint du ministre de l'intérieur, du ministre
+chargé des sports et du ministre chargé de l'environnement détermine également, en fonction de l'importance de la
+manifestation, la nature des documents d'évaluation des incidences sur l'environnement et des mesures préventives et
+correctives que le dossier de la demande doit comprendre.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-269 du 15 mars 2011 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 4 mai 2016 (V)
+	  - Arrêté du 4 mai 2016 - art.
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2
+
+
 ###### Article R331-25
 
 Les organisateurs d'une manifestation qui ont leur siège ou leur résidence à l'étranger doivent présenter leur demande
@@ -29211,17 +29236,23 @@ de l'intérieur et aux préfets des départements traversés ou aux seuls préfe
 
 ###### Article R331-26
 
-Dès réception d'une demande d'autorisation, le préfet saisit pour avis les autorités locales investies du pouvoir de police.
+Dès réception d'une demande d'autorisation, le préfet saisit pour avis les autorités locales investies du pouvoir de police. 
 
-Sauf dans le cas prévu au troisième alinéa, l'autorisation est délivrée par le préfet après avis de la commission
+Sauf dans le cas prévu au quatrième alinéa, l'autorisation est délivrée par le préfet après avis de la commission
 départementale de sécurité routière. Celle-ci peut recommander des prescriptions s'ajoutant à celles prévues par les
 organisateurs. Le préfet peut en outre prescrire des mesures complémentaires dans l'intérêt de la circulation, de la sécurité
-ou de la tranquillité publiques.
+ou de la tranquillité publiques, et de l'environnement. 
+
+Si la manifestation se déroule sur des terrains ou des parcours fermés de manière permanente à la circulation publique et non
+soumis à la procédure prévue à l'article L. 421-2 du code de l'urbanisme, le préfet peut en outre consulter les services de
+l'Etat compétents en matière d'environnement ainsi que toute personne ou organisme consultatif dont le concours lui paraît
+utile.L'autorisation délivrée pour ces manifestations vaut autorisation au titre du deuxième alinéa de l'article L. 362-3 du
+code de l'environnement. 
 
 Si la manifestation se déroule sur vingt départements ou plus, l'autorisation est délivrée par le ministre de l'intérieur sur
 l'avis du préfet de chaque département traversé après que celui-ci a consulté la commission départementale de sécurité
 routière. Les commissions départementales peuvent recommander et le ministre prescrire des mesures complémentaires dans les
-conditions prévues au deuxième alinéa.
+conditions prévues au deuxième alinéa. 
 
 La décision d'autorisation est publiée et notifiée à l'auteur de la demande.
 
@@ -29229,12 +29260,15 @@ La décision d'autorisation est publiée et notifiée à l'auteur de la demande.
 
 	**Anciens textes**:
 
-	  - Art. 8 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
 	  - Décret n°2006-554 du 16 mai 2006 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-269 du 15 mars 2011 - art. 1
 
 	**Cité par**:
 
@@ -29242,6 +29276,11 @@ La décision d'autorisation est publiée et notifiée à l'auteur de la demande.
 	  - Code de la route. - art. R411-29 (VD)
 	  - Code du sport. - art. R331-26-1 (VD)
 	  - Code du sport. - art. R331-37 (V)
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-2
+	  - Code de l'environnement - art. L362-3
 
 
 ###### Article R331-27
@@ -31656,7 +31695,7 @@ Fédération française de longue paume : Longue paume infos.
 
 Fédération française motonautique : La lettre motonautique. 
 
-Fédération française de natation : Natation infos. 
+Fédération française de natation : Natation magazine. 
 
 Fédération française de parachutisme : FFP contacts. 
 
@@ -31705,7 +31744,7 @@ Fédération française de vol libre : Vol passion.
 
 	**Modifié par**:
 
-	  - Arrêté du 16 décembre 2010 - art. 1
+	  - Arrêté du 7 mars 2011 - art. 1
 
 	**Cite**:
 
