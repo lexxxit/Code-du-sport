@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-03-31
+Version Consolidée au 2011-05-19
 
 # Partie législative
 
@@ -333,43 +333,6 @@ visées à l'article L. 113-2, ne peuvent excéder un montant fixé par décret.
 	**Cite**:
 
 	  - Code du sport. - art. L113-2 (V)
-
-
-#### Chapitre IV : Groupements d'intérêt public
-
-###### Article L114-1
-
-Des groupements d'intérêt public dotés de la personnalité morale et de l'autonomie financière peuvent être constitués soit
-entre des personnes morales de droit public, soit entre une ou plusieurs d'entre elles et une ou plusieurs personnes morales
-de droit privé pour exercer ensemble, pendant une durée déterminée, des activités d'intérêt commun en matière de sport. 
-
-Ces activités doivent relever de la mission ou de l'objet social de chacune des personnes morales composant le groupement. 
-
-Les dispositions des articles L. 341-1 à L. 341-4 du code de la recherche sont applicables aux groupements prévus au présent
-article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 50 (Ab)
-
-	**Codifié par**:
-
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
-
-	**Abrogé par**:
-
-	  - Loi n°2011-525 du 17 mai 2011 - art. 118
-
-	**Cite**:
-
-	  - Code de la recherche - art. L341-1
-
-	**Cité par**:
-
-	  - Code du sport. - art. D114-1 (Ab)
-	  - Code du sport. - art. D114-5 (Ab)
 
 
 ### TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES
@@ -5828,12 +5791,12 @@ afin de leur prêter assistance. Elles prêtent alors serment, sauf lorsqu'elles
 
 ###### Article L232-20
 
-Les agents des douanes, les agents de la direction générale de la concurrence, de la consommation et de la répression des
-fraudes, les agents relevant du ministre chargé des sports, les agents de l'administration des impôts et les agents de
-l'Agence française de lutte contre le dopage, les officiers et agents de police judiciaire sont habilités à se communiquer
-entre eux tous renseignements obtenus dans l'accomplissement de leur mission respective et relatifs aux substances et
-procédés mentionnés à l'article L. 232-9, à leur emploi et à leur mise en circulation dans le respect des dispositions de la
-loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
+Les agents des douanes, les                 agents de la concurrence, de la consommation et de la répression des fraudes, les
+agents relevant du ministre chargé des sports, les agents de l'administration des impôts et les agents de l'Agence française
+de lutte contre le dopage, les officiers et agents de police judiciaire sont habilités à se communiquer entre eux tous
+renseignements obtenus dans l'accomplissement de leur mission respective et relatifs aux substances et procédés mentionnés à
+l'article L. 232-9, à leur emploi et à leur mise en circulation dans le respect des dispositions de la loi n° 78-17 du 6
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés. 
 
 Les modalités d'application du présent article sont déterminées par décret.
 
@@ -5846,7 +5809,7 @@ Les modalités d'application du présent article sont déterminées par décret.
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 6
+	  - Loi n°2011-525 du 17 mai 2011 - art. 94
 
 	**Cité par**:
 
