@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-05-19
+Version Consolidée au 2011-06-06
 
 # Partie législative
 
@@ -9822,44 +9822,38 @@ Ier du livre IV.
 
 ##### Section 3 : Les établissements publics de formation
 
-###### Article R112-3
+###### Article D112-3
 
 Les établissements publics de formation sont : 
 
-1° L'Institut national du sport et de l'éducation physique ; 
+1° L'Institut national du  sport, de l'expertise et de la performance ; 
 
-2° L'Institut français du cheval et de l'équitation ; 
+2° L'Institut français du  cheval et de l'équitation ; 
 
-3° L'Ecole nationale de voile et des sports nautiques ; 
+3° L'Ecole nationale de voile et des sports  nautiques ; 
 
-4° L'Ecole nationale de ski et d'alpinisme ; 
+4° L'Ecole nationale de sports de montagne ; 
 
-5° Les centres d'éducation populaire et de sport. 
+5° Les  centres de ressources, d'expertise et de performance sportives. 
 
-Ils exercent leurs attributions dans les conditions prévues au chapitre Ier du titre Ier du livre II.
+Ils  exercent leurs attributions dans les conditions prévues au chapitre Ier du titre  Ier du livre II.
 
 **Liens relatifs à cet article**
 
+	**Créé par**:
+
+	  - Décret n°2011-631 du 3 juin 2011 - art. 2
+
+	**Cité par**:
+
+	  - Décret n°2011-933 du 1er août 2011 - art. 5 (VT)
+	  - Décret n°2016-2014 du 30 décembre 2016 - art. 1 (V)
+	  - Code des transports - art. A4241-1 (V)
+	  - Code du sport. - art. D211-69 (VT)
+
 	**Anciens textes**:
 
-	  - Décret n°94-169 du 25 février 1994 - art. 1 (VT)
-	  - Décret n°94-169 du 25 février 1994 - art. 9 (V)
-
-	**Modifié par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 9
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2011-631 du 3 juin 2011 - art. 2
-
-	**Cite**:
-
-	  - Code du sport.
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D112-3 (V)
+	  - Code du sport. - art. R112-3 (T)
 
 
 ##### Section 4 : Le Musée national du sport
@@ -13956,7 +13950,7 @@ Sont membres de droit du conseil supérieur :
 
 18° Le directeur de l'Ecole nationale de ski et d'alpinisme de Chamonix ; 
 
-19° Le directeur technique du centre d'éducation populaire et de sport de Franche-Comté ; 
+19° Le directeur technique du       centre de ressources, d'expertise et de performance sportives  de Franche-Comté ; 
 
 20° Le directeur des sports ; 
 
@@ -13968,7 +13962,7 @@ Sont membres de droit du conseil supérieur :
 
 24° Le directeur de la sécurité civile ; 
 
-25° Le           délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ; 
+25° Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ; 
 
 26° Le directeur de l'Office national des forêts ; 
 
@@ -13993,6 +13987,11 @@ Décret n° 2009-631 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Conseil
 supérieur des sports de montagne).
 
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
 
 
 ###### Article D142-29
@@ -16346,17 +16345,22 @@ juillet 1992 relatif aux régies de recettes et aux régies d'avances des organi
 ###### Article R211-64
 
 Par dérogation à l'article 157 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
-publique, l'agent comptable est nommé par arrêté des ministres chargés du budget, de l'éducation et des sports.
+publique, l'agent comptable est nommé par arrêté des ministres chargés du budget et des sports et du ministre dont il relève
+pour sa gestion.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 157 (V)
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 157
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-631 du 3 juin 2011 - art. 3
 
 
 ##### Paragraphe 4 : Personnel
@@ -16385,89 +16389,115 @@ de ski nordique et de moyenne montagne.
 
 ##### Paragraphe 1 : Missions
 
+###### Article D211-69
+
+I.-Les centres de ressources, d'expertise et de performance sportives mentionnés au 5° de l'article D. 112-3 participent, en
+liaison avec les directions régionales de la jeunesse, des sports et de la cohésion sociale, à la politique nationale de
+développement des activités physiques et sportives et à la formation dans les domaines des activités physiques ou sportives
+et de l'animation. Ils contribuent à la protection de la santé des sportifs et à la préservation de l'éthique sportive. 
+
+II.-Ils ont pour missions principales : 
+
+1° D'assurer, en liaison avec les fédérations sportives, la formation et la préparation de sportifs de haut niveau et de
+mettre en œuvre le double projet consistant à concilier la recherche de la performance sportive et la réussite scolaire,
+universitaire et professionnelle du sportif ; 
+
+2° D'organiser des formations professionnelles initiales ou continues dans les domaines des activités physiques ou sportives
+et de l'animation ; à ce titre, ils peuvent passer des conventions de coopération avec les services déconcentrés de l'Etat,
+compétents en matière de sports et de vie associative, en vue de développer des actions de formation qui mobilisent notamment
+des moyens propres à ces services sous l'appellation de structures associées de formation. 
+
+III.-Ils peuvent également contribuer, en conformité avec les orientations données par le ministre chargé des sports : 
+
+1° A l'animation territoriale dans leur champ de compétence, en lien avec les associations et les collectivités
+territoriales ; 
+
+2° A la formation et au perfectionnement des cadres des fédérations sportives agréées ; 
+
+3° A la formation initiale et continue des agents publics, des bénévoles et salariés des associations ; 
+
+4° A l'organisation de formations conduisant aux titres et diplômes non professionnels dans les secteurs des activités
+physiques ou sportives et de l'animation ; 
+
+5° A l'organisation des épreuves d'aptitude mentionnées aux articles R. 212-90-1 et R. 212-93. 
+
+IV.-Les centres de ressources, d'expertise et de performance sportives participent au réseau national du sport de haut
+niveau. A ce titre, ils peuvent notamment contribuer à des travaux d'observation, de recherche ou de développement, produire
+et diffuser des connaissances ainsi que mener des actions en matière de relations internationales et de coopération. 
+
+Dans le cadre de conventions passées avec le ministre chargé des sports, ils assurent le fonctionnement de pôles ressources
+nationaux portant sur des thématiques particulières dans les domaines des activités physiques et sportives. 
+
+Ils peuvent conclure toute convention de coopération dans leur domaine d'intervention et conduire des actions en relation
+avec leurs missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2013-1319 du 27 décembre 2013 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. D112-3
+	  - Code du sport. - art. R212-90-1
+	  - Code du sport. - art. R212-93
+
+
 ###### Article D211-70
 
-Les centres d'éducation populaire et de sport ont notamment pour mission :
-
-1° De participer à la préparation sportive en tant que centre national permanent d'entraînement des sportifs de haut niveau ;
-
-2° De participer à la formation des agents des différentes collectivités publiques et des cadres bénévoles ou permanents des
-associations ;
-
-3° De contribuer à l'animation sportive régionale ;
-
-4° D'entreprendre des actions d'études, de recherche et de documentation, en liaison avec l'ensemble des partenaires
-concernés ;
-
-5° De concourir au développement de la communication sociale.
+Les centres de ressources, d'expertise et de performance sportives concluent avec le ministre chargé des sports des contrats
+de performance pluriannuels qui définissent, en cohérence avec les orientations ministérielles, les objectifs qui leur sont
+assignés et les indicateurs associés.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 2 à 7 de l'article 4 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
 	  - Décret n°86-581 du 14 mars 1986 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article R211-69
-
-Les centres d'éducation populaire et de sport apportent leur concours aux directions régionales et départementales de la
-jeunesse et des sports dans l'exercice de leurs attributions.
-
-Outre leurs missions nationales les centres d'éducation populaire et de sport contribuent à la promotion des activités
-physiques et sportives à l'échelon régional et, le cas échéant, aux échelons départemental et local, en liaison avec les
-collectivités et groupements intéressés.
-
-Leurs interventions s'exercent principalement dans le ressort de la région où ils sont implantés mais peuvent s'étendre à des
-actions de caractère interrégional.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 1 à 3 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
-	  - Art. 10 du décret n°94-169 du 25 février 1994 relatif à l'organisation des services déconcentrés et des établissements publics relevant du ministre chargé de la jeunesse et des sports
-	  - Décret n°86-581 du 14 mars 1986 - art. 1 (Ab)
-	  - Décret n°86-581 du 14 mars 1986 - art. 2 (Ab)
-	  - Décret n°86-581 du 14 mars 1986 - art. 3 (Ab)
-	  - Décret n°94-169 du 25 février 1994 - art. 10 (VT)
 
 	**Codifié par**:
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1067 du 28 août 2009 (V)
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2011-631 du 3 juin 2011 - art. 4
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
 
 
 ##### Paragraphe 2 : Fonctionnement
 
 ###### Article D211-71
 
-Les centres d'éducation populaire et de sport sont administrés par un conseil d'administration et dirigés par un directeur,
-assisté d'un ou de plusieurs chefs de département, dont l'un a rang de directeur adjoint. Le directeur et les chefs de
-département sont nommés par le ministre chargé des sports pour une période de cinq ans qui peut être renouvelée une fois dans
-le même établissement.
+Les centres de ressources, d'expertise et de performance sportives sont administrés par un conseil d'administration et
+dirigés par un directeur. Le directeur est assisté d'un ou plusieurs directeurs adjoints dont le nombre est précisé, pour
+chaque établissement, par arrêté du ministre chargé des sports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 1 de l'article 4 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
 	  - Décret n°86-581 du 14 mars 1986 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
 
 	**Cité par**:
 
@@ -16475,80 +16505,66 @@ le même établissement.
 	  - Arrêté du 11 mars 2014 (VT)
 	  - Arrêté du 21 mars 2014 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
 
 ###### Article D211-72
 
-Le conseil d'administration comprend : 
+Le conseil d'administration comprend vingt membres : 
 
-1° Six représentants de l'Etat, dont : 
+1° Six membres de droit : 
 
-a) Deux directeurs départementaux de la jeunesse, des sports et de la vie associative désignés par le ministre chargé des
-sports ; 
+a) Le directeur régional de la jeunesse, des sports et de la cohésion sociale de la région où se situe le siège du centre de
+ressources, d'expertise et de performance sportives ou son représentant ; 
 
-b) Un membre désigné par le ministre chargé de l'éducation ; 
-
-c) Trois membres désignés par le ministre chargé des sports après avis du            directeur régional de la jeunesse, des
-sports et de la cohésion sociale  ; 
-
-2° Six personnalités représentatives des collectivités territoriales dont : 
-
-a) Le président du conseil régional de la région dans laquelle est situé le centre d'éducation populaire et de sport ou son
+b) Le recteur de l'académie où se situe le siège du centre de ressources, d'expertise et de performance sportives ou son
 représentant ; 
 
-b) Le président du conseil général du département dans lequel est situé le centre d'éducation populaire et de sport ou son
-représentant ; 
+c) Le président du comité régional olympique et sportif de la région où se situe le siège du centre de ressources,
+d'expertise et de performance sportives ou son représentant ; 
 
-c) Le maire de la commune dans laquelle est situé le centre d'éducation populaire et de sport ou son représentant ; 
+d) Le président du conseil régional de la région où se situe le siège du centre de ressources, d'expertise et de performance
+sportives ou son représentant ; 
 
-d) Trois conseillers régionaux désignés par le conseil régional ; 
+e) Le président du conseil général du département où se situe le siège du centre de ressources, d'expertise et de performance
+sportives ou son représentant ; 
 
-3° Trois personnalités choisies pour leur compétence dans le domaine du sport : 
+f) Le président de l'établissement public de coopération intercommunale doté d'une compétence en matière sportive, ou à
+défaut le maire de la commune d'implantation du siège du centre de ressources, d'expertise et de performance sportives, ou
+leur représentant ; 
 
-a) Le président du comité régional olympique et sportif ; 
+2° Quatre membres désignés par le ministre chargé des sports, dont un conseiller technique sportif ; 
 
-b) Un représentant du mouvement sportif, désigné par le ministre chargé des sports sur proposition du président du comité
-régional olympique et sportif ; 
+3° Trois personnalités qualifiées, dont un chef d'entreprise ou cadre dirigeant d'entreprise, désignées par le ministre
+chargé des sports ; 
 
-c) Un représentant des cadres techniques, désigné par le ministre chargé des sports sur proposition du            directeur
-régional de la jeunesse, des sports et de la cohésion sociale  ; 
+4° Un président de fédération sportive désigné par le président du Comité national olympique et sportif français ; 
 
-4° Trois personnalités choisies pour leur compétence dans le domaine de la jeunesse, de l'éducation populaire et du loisir
-désignées par le ministre chargé des sports sur proposition du            directeur régional de la jeunesse, des sports et de
-la cohésion sociale , dont un représentant des cadres techniques ; 
+5° Un directeur technique national désigné par le ministre chargé des sports ; 
 
-5° Six représentants des personnels en fonctions dans l'établissement, élus selon des modalités fixées par arrêté
-ministériel : 
+6° Cinq membres élus au sein de l'établissement : 
 
-a) Deux représentants des personnels enseignants ou leurs suppléants ; 
+a) Un représentant des personnels pédagogiques ; 
 
-b) Deux représentants des personnels administratifs et médicaux ou leurs suppléants ; 
+b) Un représentant des personnels administratifs et des personnels médicaux et paramédicaux ; 
 
-c) Deux représentants des personnels ouvriers et des personnels de service et techniques ou leurs suppléants ; 
+c) Un représentant des personnels ouvriers, techniques et de service ; 
 
-6° Une personnalité qualifiée désignée par le ministre chargé des sports. 
+d) Un représentant des sportifs accueillis dans les " pôles France " ou les " pôles Espoirs " ; 
 
-Les membres du conseil d'administration et leurs suppléants, autres que les membres de droit et les membres élus, sont nommés
-par arrêté du ministre chargé des sports pour une durée de trois ans renouvelable. Le président du conseil d'administration
-est nommé par le ministre chargé des sports parmi les membres du conseil d'administration. 
+e) Un représentant des stagiaires en formation. 
 
-Le directeur, le ou les chefs de département, l'agent comptable et l'autorité chargée du contrôle financier assistent aux
-réunions du conseil d'administration avec voix consultative. 
+Pour chacun des membres titulaires à l'exception des membres de droit et des personnalités qualifiées, un suppléant est
+désigné dans les mêmes conditions, sous réserve des dispositions de l'alinéa suivant. 
 
-Le préfet du département dans lequel est situé le centre assiste en tant que commissaire du Gouvernement à toutes les séances
-du conseil d'administration ; il est entendu à sa demande et reçoit copie des ordres du jour et des procès-verbaux ; il est
-assisté dans cette mission par le            directeur régional de la jeunesse, des sports et de la cohésion sociale , qui le
-représente, en cas d'absence, au conseil d'administration. 
+Le suppléant du président de fédération sportive est soit un président de fédération sportive, soit un membre d'une instance
+dirigeante de fédération sportive. Le suppléant du directeur technique national est soit un directeur technique national,
+soit un entraîneur national. 
 
-En cas de vacance, pour quelque cause que ce soit, du siège d'un membre du conseil d'administration survenant plus de six
-mois avant l'expiration de son mandat, un autre membre est nommé dans les mêmes conditions pour la durée du mandat restant à
-courir, sauf pour les membres élus qui sont remplacés par leur suppléant jusqu'à la fin du mandat détenu par le titulaire.
-
-**Nota:**
-
-Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
-missions sanitaires et médico-sociales à une agence régionale de santé. 
-
-(date d'entrée en vigueur indéterminée)
+Les personnalités qualifiées empêchées d'assister à une séance du conseil d'administration peuvent donner pouvoir à un autre
+membre du conseil. Nul ne peut détenir plus de deux pouvoirs.
 
 **Liens relatifs à cet article**
 
@@ -16558,309 +16574,584 @@ missions sanitaires et médico-sociales à une agence régionale de santé.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
+	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2011-630 du 3 juin 2011 - art. 3 (V)
+	  - Code du sport. - art. D211-80 (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
 
 
 ###### Article D211-73
 
-Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président. Il est également réuni à la
-demande de la majorité de ses membres ou sur demande du directeur ou du commissaire du Gouvernement.
+Le président du conseil d'administration est nommé par arrêté du ministre chargé des sports parmi les membres du conseil
+d'administration mentionnés au 3° de l'article D. 211-72. 
 
-Dans ce dernier cas, le conseil d'administration doit se prononcer dans les quinze jours suivant sa saisine.
-
-Le conseil d'administration ne peut délibérer que si la moitié au moins de ses membres est présente. Si le quorum n'est pas
-atteint, le conseil d'administration est à nouveau convoqué avec le même ordre du jour dans un délai maximum de vingt et un
-jours. Il délibère alors valablement, quel que soit le nombre de membres présents.
-
-Les délibérations du conseil d'administration sont adoptées à la majorité des membres présents. En cas de partage égal des
-voix, la voix du président est prépondérante.
+En cas d'empêchement temporaire du président, le conseil d'administration se réunit sous la présidence d'un des membres du
+conseil mentionnés au 3° de l'article D. 211-72 désigné par le ministre chargé des sports.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 6 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
 	  - Décret n°86-581 du 14 mars 1986 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
 
 
 ###### Article D211-74
 
-Le conseil d'administration délibère notamment sur :
+La durée du mandat des membres du conseil d'administration autres que les membres de droit est de trois ans renouvelables. 
 
-1° Le règlement intérieur de l'établissement et celui du conseil d'administration ;
+La perte de la qualité au titre de laquelle un membre a été nommé ou élu entraîne sa démission de plein droit du conseil
+d'administration. 
 
-2° Les objectifs particuliers et le programme d'activités, ainsi que la réalisation de ces objectifs, notamment par l'étude
-du rapport d'activités établi chaque année par le directeur ;
+En cas de vacance du siège d'un membre du conseil d'administration survenant plus de six mois avant l'expiration de son
+mandat, un autre membre est nommé dans les mêmes conditions pour la durée du mandat restant à courir, à l'exception des
+membres élus qui sont remplacés par leur suppléant jusqu'à la fin du mandat détenu par le titulaire. 
 
-3° Le budget et les décisions modificatives ;
-
-4° Le compte financier et l'affectation des résultats ;
-
-5° La participation de l'établissement à un groupement d'intérêt public ;
-
-6° L'acceptation des dons et legs ;
-
-7° Les emprunts ;
-
-8° L'acquisition, l'aliénation ou la location des biens immobiliers ;
-
-9° Les conditions générales de passation des conventions et marchés.
-
-Il approuve les transactions ou autorise le directeur à transiger dans les conditions qu'il détermine.
-
-Il peut formuler toute proposition concernant ses missions et les travaux d'aménagement susceptibles d'être réalisés pour
-faciliter l'exécution de ces missions.
-
-Il peut déléguer au directeur une partie de ses attributions, à l'exclusion du vote du budget et de l'adoption du compte
-financier.
+Le ministre chargé des sports peut proroger le mandat de l'ensemble des membres du conseil d'administration pour une durée
+maximale d'un an.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 7 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
 	  - Décret n°86-581 du 14 mars 1986 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
 
 	**Cité par**:
 
 	  - Arrêté du 15 juin 2011 - art. 3 (Ab)
 	  - Code du sport. - art. A211-73 (Ab)
 
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
 
 ###### Article D211-75
+
+Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président qui fixe l'ordre du jour. 
+
+Il peut également être convoqué par le directeur à la demande du ministre chargé des sports ou de la majorité de ses membres,
+sur un ordre du jour déterminé. 
+
+Le directeur, le ou les directeurs adjoints, l'agent comptable, l'autorité chargée du contrôle financier, ainsi que toute
+personne dont la présence est jugée utile par le président, assistent aux séances avec voix consultative. 
+
+Les présidents des établissements publics de coopération intercommunale dotés d'une compétence en matière sportive des lieux
+d'implantation des sites autres que le siège du centre, ou à défaut les maires des communes concernés, ou leurs
+représentants, assistent au conseil d'administration avec voix consultative. 
+
+Les présidents des conseils régionaux des régions où se situent des sites du centre, autres que celle où se situe le siège du
+centre, ou leurs représentants, assistent au conseil d'administration avec voix consultative. 
+
+Les présidents des conseils généraux des départements où se situent des sites du centre, autres que celui où se situe le
+siège du centre, ou leurs représentants, assistent au conseil d'administration avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-581 du 14 mars 1986 - art. 8 (Ab)
+
+	**Cite**:
+
+	  - Décret n°99-575 du 8 juillet 1999
+
+	**Codifié par**:
+
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+
+###### Article D211-76
+
+Le conseil d'administration règle, par ses délibérations, les affaires de l'établissement. 
+
+Il délibère notamment sur : 
+
+1° Le projet d'établissement et le contrat de performance pluriannuel ; 
+
+2° Le rapport annuel d'activité établi par le directeur ; 
+
+3° L'organisation de l'établissement et son règlement intérieur ; 
+
+4° Le budget et les décisions modificatives du budget ; 
+
+5° Le compte financier et l'affectation des résultats de l'exercice ; 
+
+6° Les conventions, contrats et marchés ; 
+
+7° Les conditions générales de vente des produits et services fournis par l'établissement ; 
+
+8° Le tarif des prestations proposées par l'établissement, notamment pour l'organisation des épreuves d'aptitude mentionnées
+aux articles R. 212-90-1 et R. 212-93 ; 
+
+9° Les emprunts ; 
+
+10° L'acceptation des dons et legs ; 
+
+11° Les acquisitions, aliénations et échanges d'immeubles, les baux ; 
+
+12° La participation à des groupements d'intérêt public ; 
+
+13° Les dépôts de marques, de brevets et de tous titres de propriété intellectuelle ; 
+
+14° Les conditions générales de recrutement, d'emploi et de rémunération des agents contractuels ; 
+
+15° Les actions en justice et les transactions ainsi que le recours à l'arbitrage en cas de litiges nés de l'exécution de
+contrats passés avec des organismes étrangers. 
+
+Dans les limites qu'il détermine, le conseil d'administration peut déléguer au directeur les attributions prévues aux 6°, 10°
+et 15°. 
+
+Le directeur rend compte au conseil d'administration, lors de sa plus prochaine séance, des décisions qu'il a prises en vertu
+de sa délégation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°86-581 du 14 mars 1986 - art. 11 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 3 (V)
+	  - Code du sport. - art. D211-77 (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-90-1
+	  - Code du sport. - art. R212-93
+
+
+###### Article D211-77
+
+I. - A l'exception des décisions mentionnées au II du présent article, les délibérations du conseil d'administration sont
+exécutoires soit : 
+
+- à compter de l'approbation expresse du ministre chargé des sports, notifiée avant l'expiration d'un délai de quinze jours
+après leur réception ; 
+
+- quinze jours après leur réception par le ministre chargé des sports, si celui-ci n'y a pas fait opposition dans ce délai. 
+
+II. - Les délibérations relatives aux matières mentionnées aux 9° et 12° de l'article D. 211-76 ainsi qu'à ceux des baux
+mentionnés au 11° du même article dont la durée excède neuf années doivent, pour devenir exécutoires, faire l'objet d'une
+approbation expresse des ministres chargés des sports et du budget. 
 
 Les délibérations portant sur le budget et ses modifications ainsi que sur le compte financier sont approuvées par le
 ministre chargé des sports dans les conditions déterminées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités
 d'approbation de certaines décisions financières des établissements publics de l'Etat. 
 
-Sont exécutoires de plein droit les délibérations du conseil d'administration et les décisions prises par le directeur
-agissant par délégation du conseil d'administration qui, dans le délai de dix jours après la réception du procès-verbal ou de
-la décision par le ministre chargé des sports et le préfet n'ont pas fait l'objet de la part de ce dernier soit d'une demande
-de réexamen adressée à l'organe ayant pris la délibération ou la décision, soit d'une opposition. 
-
-Dans ce dernier cas, le préfet en réfère au ministre chargé des sports, à défaut de décision de rejet dans un délai de quinze
-jours. La délibération devient exécutoire.
+Le cadre des documents budgétaires est établi conjointement par le ministre chargé des sports et le ministre chargé du
+budget.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 8 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
-	  - Décret n°86-581 du 14 mars 1986 - art. 8 (Ab)
-
-	**Cite**:
-
-	  - Décret n°99-575 du 8 juillet 1999 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article D211-76
-
-Une ou plusieurs commissions pédagogiques dont la composition et le fonctionnement sont fixés par arrêté ministériel, sont
-créées auprès du conseil d'administration. Elles sont chargées d'émettre un avis sur les objectifs et programmes d'activités
-de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 11 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
-	  - Décret n°86-581 du 14 mars 1986 - art. 11 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Cité par**:
-
-	  - Décret n°2011-630 du 3 juin 2011 - art. 3 (V)
-
-
-###### Article D211-77
-
-Le directeur représente en justice et à l'égard des tiers dans les actes de la vie civile l'établissement qu'il dirige.
-
-Chargé du bon fonctionnement de l'établissement, il exerce notamment les compétences suivantes :
-
-1° Il prépare les travaux du conseil d'administration et du conseil intérieur ;
-
-2° Il prépare et exécute le budget de l'établissement ;
-
-3° Il est ordonnateur des dépenses et des recettes ;
-
-4° Il est responsable de la gestion administrative, technique et financière de l'établissement ;
-
-5° Il conclut tout contrat au nom de l'établissement, et notamment les conventions de formation professionnelle continue ;
-
-6° Il a autorité sur l'ensemble des personnels affectés dans l'établissement, ou mis à sa disposition, ainsi que sur toutes
-personnes qui interviennent dans l'établissement, dans le respect de leur statut.
-
-En tant que responsable de l'animation et du fonctionnement pédagogique, il a la charge de :
-
-1° Fixer le service de chacun des formateurs dans le respect de leurs statuts, établir l'emploi du temps des stagiaires,
-veiller au bon déroulement des actions de formation et du contrôle continu des aptitudes et des connaissances ;
-
-2° Proposer au conseil d'administration le calendrier annuel des activités et des stages ;
-
-3° Prendre toutes dispositions, en liaison avec les autorités administratives compétentes, pour assurer la sécurité des
-personnes et des biens, l'hygiène et la salubrité ;
-
-4° Veiller au respect des droits et des devoirs de tous les personnels et assurer l'application du règlement intérieur. Il
-peut prononcer une décision d'expulsion temporaire ou définitive d'un stagiaire en cas de manquement au règlement intérieur.
-
-Le directeur informe de sa gestion le conseil d'administration et en rend compte à l'autorité de tutelle.
-
-Il peut, dans les conditions qu'il détermine, donner délégation de signature à son ou ses adjoints et aux fonctionnaires
-appartenant à un corps de catégorie A placés sous son autorité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 9 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
 	  - Décret n°86-581 du 14 mars 1986 - art. 9 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
 
 
 ###### Article D211-78
 
-Le conseil intérieur, dont la composition est fixée par arrêté du ministre chargé des sports, est présidé par le directeur de
-l'établissement.
+Le préfet de la région dans laquelle est situé le siège du centre reçoit copie des ordres du jour et des procès-verbaux des
+séances du conseil d'administration. 
 
-Le conseil intérieur assiste le directeur dans l'organisation de la vie matérielle et morale de l'établissement.
-
-Il favorise au sein du centre d'éducation populaire et de sport le développement de toutes les activités sociales et
-culturelles.
-
-Le conseil intérieur est consulté en cas de procédure d'exclusion définitive d'un stagiaire.
+Il peut recevoir délégation du ministre chargé des sports pour exercer le pouvoir de tutelle mentionné au I de l'article D.
+211-77, sauf si le centre dispose d'un site implanté dans une autre région que celle de son siège.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 10 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
 	  - Décret n°86-581 du 14 mars 1986 - art. 10 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
+	**Modifié par**:
 
-##### Paragraphe 3 : Régime comptable et financier
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. D211-77 (VT)
+
 
 ###### Article D211-79
 
-Les centres d'éducation populaire et du sport sont soumis au régime financier et comptable défini par le décret du n° 53-1227
-du 10 décembre 1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à caractère
-administratif et par les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la
-comptabilité publique ainsi qu'au contrôle financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
-financier au sein des établissements publics administratifs de l'Etat.
+Le directeur assure le bon fonctionnement de l'établissement. 
+
+A cet effet, il exerce notamment les compétences suivantes : 
+
+1° Il prépare les travaux et exécute les délibérations du conseil d'administration ; 
+
+2° Il prépare et exécute le budget de l'établissement ; 
+
+3° Il est ordonnateur des dépenses et des recettes ; 
+
+4° Il prépare le règlement intérieur et veille à sa mise en œuvre ; 
+
+5° Il est responsable de la gestion pédagogique, administrative, technique, immobilière et financière de l'établissement ; 
+
+6° Il prépare et assure le suivi du contrat de performance pluriannuel ; 
+
+7° Il conclut les conventions et exerce le pouvoir adjudicateur en matière de marchés ; 
+
+8° Il a autorité sur l'ensemble des personnes exerçant leur activité dans l'établissement, dans le respect de leur statut ; 
+
+9° Il nomme à toutes les fonctions de l'établissement pour lesquelles aucune autre autorité n'a reçu le pouvoir de
+nomination ; 
+
+10° Il prend toutes dispositions, en liaison avec les autorités administratives compétentes, pour assurer la sécurité des
+personnes et des biens, l'hygiène et la salubrité ; 
+
+11° Il exerce le pouvoir disciplinaire à l'égard des sportifs et des stagiaires dans les conditions fixées à l'article D.
+211-80 ; 
+
+12° Il arrête la liste des sportifs admis dans l'établissement. 
+
+Le directeur informe de sa gestion le conseil d'administration et en rend compte à l'autorité de tutelle. 
+
+Il représente le centre de ressources, d'expertise et de performances sportives en justice et à l'égard des tiers dans les
+actes de la vie civile. 
+
+Il peut, dans les conditions qu'il détermine et à l'exception des compétences qui lui sont déléguées par le conseil
+d'administration, déléguer sa signature à son ou ses adjoints ainsi qu'aux fonctionnaires appartenant à un corps de catégorie
+A et aux agents contractuels de niveau équivalent placés sous son autorité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 15 et 16 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
 	  - Décret n°86-581 du 14 mars 1986 - art. 15 (Ab)
 	  - Décret n°86-581 du 14 mars 1986 - art. 16 (Ab)
 
-	**Cite**:
-
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
-	  - Décret n°2005-757 du 4 juillet 2005 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+
+###### Article D211-80
+
+Le conseil de la vie du sportif et du stagiaire est composé, selon les modalités fixées par le règlement intérieur, de onze
+membres répartis comme suit : 
+
+1° Le directeur ou son représentant et deux autres agents de l'établissement désignés par le directeur ; 
+
+2° Les membres élus mentionnés au 6° de l'article D. 211-72 ; 
+
+3° Un membre désigné par le directeur parmi les entraîneurs des pôles implantés dans l'établissement ; 
+
+4° Deux personnalités qualifiées extérieures à l'établissement désignées par le directeur. 
+
+Le conseil de la vie du sportif et du stagiaire est présidé par le directeur ou son représentant. 
+
+Ses règles de fonctionnement sont définies dans le règlement intérieur. 
+
+Le conseil de la vie du sportif et du stagiaire propose au directeur toutes mesures de nature à favoriser les activités
+sportives, culturelles, sociales ou associatives des sportifs et des stagiaires. Il est également consulté sur les conditions
+de vie et d'entraînement au sein de l'établissement. 
+
+Il se réunit au moins une fois par an sur convocation du directeur qui fixe l'ordre du jour. Il peut être également réuni à
+la demande de la majorité de ses membres en exercice, sur un ordre du jour déterminé. 
+
+Le directeur du centre de ressources, d'expertise et de performance sportives peut, après consultation du conseil de la vie
+du sportif et du stagiaire siégeant en formation disciplinaire, prononcer une sanction disciplinaire contre tout sportif ou
+stagiaire ayant contrevenu aux règles de fonctionnement de l'établissement fixées dans le règlement intérieur. 
+
+La formation disciplinaire du conseil de la vie du sportif et du stagiaire est constituée des membres de ce conseil à
+l'exclusion des personnalités qualifiées extérieures à l'établissement. 
+
+Les sanctions disciplinaires sont : 
+
+1° L'avertissement ; 
+
+2° Le blâme ; 
+
+3° L'exclusion pour une durée déterminée ; 
+
+4° L'exclusion définitive. 
+
+Le conseil de la vie du sportif et du stagiaire siégeant en formation disciplinaire est convoqué par le directeur dans les
+conditions fixées par le règlement intérieur. Il entend le sportif ou le stagiaire à l'encontre duquel une sanction est
+envisagée, assisté, s'il est mineur, de son représentant légal. 
+
+Le directeur peut prononcer seul les sanctions disciplinaires mentionnées aux 1° et 2°, éventuellement associées à des
+mesures éducatives. 
+
+En cas de nécessité, le directeur peut, à titre conservatoire, interdire l'accès de l'établissement à un sportif ou à un
+stagiaire en attendant la comparution de celui-ci devant le conseil de discipline. S'il est mineur, le sportif ou le
+stagiaire est, dans ce cas, remis à sa famille ou à la personne qui exerce à son égard l'autorité parentale ou la tutelle.
+Cette mesure ne présente pas le caractère de sanction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. D211-72 (VT)
 
 
 ###### Article D211-81
 
-Les recettes des centres d'éducation populaire et de sport comprennent le produit de leur activité, les subventions de
-l'Etat, des collectivités territoriales et de toute autre personne publique ou privée, les dons et legs et, de façon
-générale, toutes les recettes autorisées par les lois et règlements.
+L'ordre du jour des conseils et les documents s'y rapportant sont communiqués aux membres des conseils au moins huit jours à
+l'avance. 
+
+Les conseils ne peuvent valablement délibérer ou rendre leurs avis que si la moitié au moins de leurs membres sont présents
+ou représentés. 
+
+Si ce quorum n'est pas atteint, les conseils sont convoqués à nouveau avec le même ordre du jour dans un délai maximum de
+vingt et un jours. Ils délibèrent ou rendent leurs avis alors valablement, quel que soit le nombre de membres présents ou
+représentés. 
+
+Les délibérations ou avis des conseils sont prises à la majorité des membres présents ou représentés. 
+
+En cas de partage égal des voix, celle du président est prépondérante.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 12 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
 	  - Décret n°86-581 du 14 mars 1986 - art. 12 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
+	**Modifié par**:
 
-###### Article R211-80
-
-Par dérogation à l'article 157 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
-publique, l'agent comptable est nommé par arrêté des ministres chargés du budget, de l'éducation, de la jeunesse et des
-sports, parmi les fonctionnaires de catégorie A appartenant à l'un des corps de l'administration scolaire et universitaire.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 13 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
-	  - Décret n°86-581 du 14 mars 1986 - art. 13 (Ab)
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 157
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2011-631 du 3 juin 2011 - art. 5
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
 
 
-###### Article R211-82
+###### Article D211-81-1
 
-Des régies de recettes et des régies d'avance peuvent être créées dans les conditions fixées par le décret n° 92-681 du 20
-juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+Les membres des conseils exercent leurs fonctions à titre gratuit. Toutefois, leurs frais de déplacement et de séjour sont
+pris en charge dans les conditions prévues par la réglementation applicable aux personnels civils de l'Etat.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Art. 14 du décret n°86-581 du 14 mars 1986 relatif à l'organisation administrative et financière des centres d'éducation populaire et de sport
-	  - Décret n°86-581 du 14 mars 1986 - art. 14 (Ab)
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+
+###### Article D211-81-2
+
+Les élections au conseil d'administration ont lieu au scrutin uninominal majoritaire à un tour. Chaque candidature est
+accompagnée de celle d'un suppléant. 
+
+En cas d'égalité du nombre de suffrages obtenus, le candidat le plus âgé est élu. 
+
+Le vote peut avoir lieu par correspondance ou par procuration. 
+
+Un arrêté du ministre chargé des sports précise les conditions d'exercice du droit de suffrage et d'éligibilité et les règles
+applicables au déroulement des scrutins.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+
+##### Paragraphe 3 : Régime comptable et financier
+
+###### Article D211-82
+
+Les centres de ressources, d'expertise et de performance sportives sont soumis au régime financier et comptable défini par le
+décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à
+caractère administratif et par les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur
+la comptabilité publique, ainsi qu'au contrôle financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au
+contrôle financier au sein des établissements publics administratifs de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-1227 du 10 décembre 1953
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 151
+	  - Décret n°2005-757 du 4 juillet 2005
+
+	**Créé par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+
+###### Article D211-82-2
+
+Les recettes des centres de ressources, d'expertise et de performance sportives comprennent : 
+
+1° Le produit de leur activité, dont les produits liés à l'organisation des épreuves d'aptitude mentionnées aux articles R.
+212-90-1 et R. 212-93 ; 
+
+2° Les subventions de l'Etat, des collectivités territoriales et de toute autre personne publique ou privée ; 
+
+3° Les dons et legs ; 
+
+4° Toutes les autres recettes autorisées par les lois et règlements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-90-1
+	  - Code du sport. - art. R212-93
+
+
+###### Article D211-82-3
+
+Les dépenses des centres de ressources, d'expertise et de performance sportives comprennent : 
+
+1° Les frais de personnels de l'établissement ; 
+
+2° Les frais de fonctionnement et d'investissement ; 
+
+3° De façon générale, toute dépense nécessaire à son activité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+
+###### Article D211-82-4
+
+Des régies de recettes et des régies d'avances peuvent être créées dans les conditions fixées par le décret n° 92-681 du 20
+juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Décret n°92-681 du 20 juillet 1992
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2011-630 du 3 juin 2011 - art. 1
 
 	**Abrogé par**:
 
-	  - Décret n°2011-631 du 3 juin 2011 - art. 6
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
 
+
+###### Article R211-82-1
+
+Par dérogation à l'article 157 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
+publique, l'agent comptable est nommé par arrêté des ministres chargés du budget et des sports et du ministre dont il relève
+pour sa gestion.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962 - art. 157
+
+	**Créé par**:
+
+	  - Décret n°2011-631 du 3 juin 2011 - art. 5
+
+
+##### Sous-section 5 : Les centres de ressources, d'expertise et de performance sportives
+
+##### Paragraphe 1 : Missions
+
+##### Paragraphe 2 : Fonctionnement
+
+##### Paragraphe 3 : Régime comptable et financier
 
 ##### Section 2 : Centres de formation
 
@@ -33314,8 +33605,8 @@ conditions d'entraînement de l'Institut national du sport et de l'éducation ph
 
 ###### Article A211-8
 
-Le département du sport de haut niveau travaille en liaison avec les écoles nationales de sport et les centres d'éducation
-populaire et de sport.
+Le département du sport de haut niveau travaille en liaison avec les écoles nationales de sport et les centres de ressources,
+d'expertise et de performance sportives.
 
 Le département du sport de haut niveau traite de l'ensemble des problèmes techniques relatifs aux différentes disciplines
 sportives et ayant trait à l'entraînement de tous les athlètes en séjour à l'institut en relation avec les fédérations
@@ -33323,13 +33614,13 @@ concernées.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Arrêté du 2 février 1977 - art. 8 (Ab)
+	  - Arrêté du 12 septembre 2011 - art. 1
 
 
 #####  Paragraphe 5 : Le département de la formation
@@ -33412,8 +33703,8 @@ Le département médical mène des activités de recherche dans le domaine de la
 L'Institut de recherche biomédicale et d'épidémiologie du sport a pour missions de :
 
 1° Constituer une banque nationale de données épidémiologiques du sport de haut niveau, en liaison avec les plateaux
-techniques des hôpitaux et des centres d'éducation populaire et de sport, ainsi qu'avec les autres unités de suivi médical
-des sportifs ;
+techniques des hôpitaux et des centres de ressources, d'expertise et de performance sportives, ainsi qu'avec les autres
+unités de suivi médical des sportifs ;
 
 2° Encourager, conduire et développer des recherches épidémiologiques, physiopathologiques et physiologiques dans le domaine
 du sport de haut niveau ;
@@ -33436,13 +33727,13 @@ concernées par la santé des sportifs sur le résultat de ses recherches.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Arrêté du 2 février 1977 - art. 13 (Ab)
+	  - Arrêté du 12 septembre 2011 - art. 1
 
 
 ###### Article A211-12
@@ -34710,23 +35001,20 @@ chargé des sports.
 
 ###### Article A211-64
 
-L'autorité chargée du contrôle financier sur les centres d'éducation populaire et de sport (CREPS), ci-après dénommée « le
-contrôleur », exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue
-de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible
-d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance.
+L'autorité chargée du contrôle financier sur les centres de ressources, d'expertise et de performance sportives, ci-après
+dénommée  le contrôleur , exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue
+notamment, en vue de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels
+l'établissement est susceptible d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la
+performance.
 
 Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'établissement, les circuits et procédures mis en place. Il
 coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé partenarial.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 7 février 1995 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
 
 
 ###### Article A211-65
@@ -41006,14 +41294,14 @@ Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-3.
 ###### Article A212-196
 
 L'épreuve d'aptitude est organisée, pour l'ensemble du territoire national, sous l'autorité du préfet de la région Provence-
-Alpes-Côte d'Azur par les centres d'éducation populaire et de sport de Provence-Alpes-Côte d'Azur, de Montpellier, de
-Bordeaux, de la Réunion et des Antilles-Guyane.
+Alpes-Côte d'Azur par les centres de ressources, d'expertise et de performance sportives de Provence-Alpes-Côte d'Azur, de
+Montpellier, de Bordeaux, de la Réunion et des Antilles-Guyane.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
 
 
 ###### Article A212-197
@@ -41277,33 +41565,34 @@ Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-2.
 ###### Article A212-218
 
 L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous l'autorité du préfet de la région Rhône-Alpes,
-par le centre d'éducation populaire et de sport de Voiron, site de Vallon-Pont-d'Arc.
+par le       centre de ressources, d'expertise et de performance sportives  de Voiron, site de Vallon-Pont-d'Arc.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 21 décembre 2009 - art. 1
+	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
 
 
 ###### Article A212-219
 
 Le déclarant est évalué par un jury désigné et présidé par le chef de service déconcentré régional de l'Etat chargé des
-sports de Rhône-Alpes ou son représentant et comprenant :
+sports de Rhône-Alpes ou son représentant et comprenant : 
 
-― le responsable du site de Vallon-Pont-d'Arc du centre d'éducation populaire et de sport de Voiron ou son représentant ;
+― le responsable du site de Vallon-Pont-d'Arc du       centre de ressources, d'expertise et de performance sportives  de
+Voiron ou son représentant ; 
 
-― au moins un représentant des organisations professionnelles les plus représentatives ;
+― au moins un représentant des organisations professionnelles les plus représentatives ; 
 
-― deux représentants de la Fédération française de spéléologie dont le directeur technique national ou son représentant ;
+― deux représentants de la Fédération française de spéléologie dont le directeur technique national ou son représentant ; 
 
 ― un ou plusieurs techniciens qualifiés titulaires au minimum d'un diplôme d'Etat de niveau IV en spéléologie.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 21 décembre 2009 - art. 1
+	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
 
 
 ##### Sous-paragraphe 4 : Conditions d'exercice
