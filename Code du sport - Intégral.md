@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-07-08
+Version Consolidée au 2011-07-10
 
 # Partie législative
 
@@ -9424,35 +9424,94 @@ Sont applicables en Polynésie française les dispositions de l'article L. 333-9
 
 ###### Article L425-1
 
-Sont applicables en Nouvelle-Calédonie les dispositions de l'article L. 333-9.
+I.-Sont applicables en Nouvelle-Calédonie les dispositions de l'article L. 333-9. 
+
+II.-Le sportif désigné aux articles L. 425-1-1 et L. 425-1-2 ainsi qu'aux articles L. 425-9-1 à L. 425-9-3 est celui qui est
+défini au 2° de l'article L. 230-3.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
 	**Modifié par**:
 
-	  - Ordonnance 2007-1389 2007-09-27 art. 1 1° JORF 28 septembre 2007
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. L333-9 (V)
+	  - Code du sport. - art. L230-3
+	  - Code du sport. - art. L333-9
+	  - Code du sport. - art. L425-1-1 (V)
+	  - Code du sport. - art. L425-9-1 (V)
 
 
 ##### Section 2 : Infractions en matière de lutte contre le dopage et de protection de la santé des sportifs
 
 ##### Sous-section 1 : Contrôle et constat des infractions
 
+###### Article L425-1-1
+
+Il est interdit à tout sportif de détenir, tenter de détenir, sans raison médicale dûment justifiée, une ou des substances ou
+méthodes interdites figurant sur la liste mentionnée au dernier alinéa du présent article. 
+
+Cette interdiction ne s'applique pas aux substances et méthodes pour lesquelles le sportif fait état d'une raison médicale
+dûment justifiée telle que définie par l'autorité locale compétente. 
+
+La liste des substances et méthodes mentionnées au présent article est celle qui est établie en application de la convention
+internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005, ou de tout autre accord ultérieur qui
+aurait le même objet et qui s'y substituerait. Elle est publiée au Journal officiel de la Nouvelle-Calédonie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 3
+
+	**Cité par**:
+
+	  - Code du sport. - art. L425-1 (V)
+	  - Code du sport. - art. L425-9-1 (V)
+
+
+###### Article L425-1-2
+
+Il est interdit à toute personne de : 
+
+1° Prescrire, administrer, appliquer, céder ou offrir aux sportifs, sans raison médicale dûment justifiée, une ou plusieurs
+substances ou méthodes mentionnées à l'article L. 425-1-1 ou de faciliter leur utilisation ou d'inciter à leur usage ; 
+
+2° Produire, fabriquer, importer, exporter, transporter, détenir ou acquérir, aux fins d'usage par un sportif sans raison
+médicale dûment justifiée, une ou des substances ou méthodes figurant sur la liste mentionnée au dernier alinéa de l'article
+L. 425-1-1 ; 
+
+3° S'opposer par quelque moyen que ce soit aux mesures de contrôle prévues par le présent chapitre ; 
+
+4° Falsifier, détruire ou dégrader tout élément relatif au contrôle, à l'échantillon ou à l'analyse ; 
+
+5° Tenter d'enfreindre les interdictions prévues au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 3
+
+	**Cité par**:
+
+	  - Code du sport. - art. L425-9-1 (V)
+
+
 ###### Article L425-2
 
 Outre les officiers et agents de police judiciaire agissant dans le cadre des dispositions du code de procédure pénale, sont
 habilités à procéder aux contrôles prévus par la délibération n° 202 du 22 août 2006 du congrès de la Nouvelle-Calédonie
-relative à la protection de la santé des sportifs et à la lutte contre le dopage, ainsi qu'à rechercher et constater les
-infractions à cette délibération pour les entraînements, manifestations et compétitions sportives mentionnés par la même
-réglementation, les agents de la Nouvelle-Calédonie chargés d'appliquer cette réglementation et assermentés dans des
-conditions fixées par décret en Conseil d'Etat. 
+relative à la protection de la santé des sportifs et à la lutte contre le dopage et aux contrôles réalisés pour l'application
+du présent chapitre, ainsi qu'à rechercher et constater les infractions à cette délibération pour les entraînements,
+manifestations et compétitions sportives mentionnés par la même réglementation ou prévus par les articles L. 230-2 et L.
+230-3, les agents de la Nouvelle-Calédonie chargés d'appliquer cette réglementation et assermentés dans les conditions fixées
+au II de l'article 809 du code de procédure pénale. 
 
 Ces agents sont tenus au secret professionnel, dans les conditions prévues à l'article 226-13 du code pénal.
 
@@ -9460,16 +9519,17 @@ Ces agents sont tenus au secret professionnel, dans les conditions prévues à l
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2007-1389 2007-09-27 art. 1 2° JORF 28 septembre 2007
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 4
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (V)
-	  - CODE DE PROCEDURE PENALE (V)
+	  - Code pénal - art. 226-13
+	  - Code de procédure pénale
+	  - Code du sport. - art. L230-2 (V)
 
 	**Cité par**:
 
@@ -9483,59 +9543,85 @@ Ces agents sont tenus au secret professionnel, dans les conditions prévues à l
 ###### Article L425-3
 
 Les personnes mentionnées à l'article L. 425-2 ayant la qualité de médecin peuvent procéder à des examens médicaux cliniques
-et à des prélèvements biologiques destinés à mettre en évidence l'utilisation de procédés prohibés ou à déceler la présence
+et à des prélèvements biologiques destinés à mettre en évidence l'utilisation de méthodes prohibées ou à déceler la présence
 dans l'organisme de substances interdites. 
 
 Les personnes mentionnées à l'article L. 425-2 qui n'ont pas la qualité de médecin peuvent également procéder à ces
 prélèvements biologiques. Seules celles des personnes mentionnées à l'article L. 425-2 qui ont la qualité de médecin ou
 d'infirmier peuvent procéder à des prélèvements sanguins. 
 
-Les contrôles donnent lieu à l'établissement de procès-verbaux qui sont transmis au gouvernement de la Nouvelle-Calédonie et
-à la ligue intéressée. Un double en est laissé aux parties intéressées.
+Les contrôles donnent lieu à l'établissement de procès-verbaux qui sont transmis à l'autorité locale compétente et à la ligue
+intéressée. Un double en est laissé aux parties intéressées.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2007-1389 2007-09-27 art. 1 2° JORF 28 septembre 2007
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 5
 
 	**Cite**:
 
-	  - Code du sport. - art. L425-2 (V)
+	  - Code du sport. - art. L425-2
 
 
 ###### Article L425-4
 
-Les contrôles sont réalisés dans les conditions suivantes :
+Les contrôles sont réalisés dans les conditions suivantes : 
 
-a) Dans tout lieu où se déroule un entraînement, une manifestation ou une compétition à l'issue de laquelle sont délivrés des
-titres provinciaux ou de Nouvelle-Calédonie ;
+1° Dans tout lieu où se déroule un entraînement, une manifestation ou une compétition organisés ou autorisés par les ligues
+sportives agréées ainsi qu'un entraînement ou une manifestation au sens des articles L. 230-2 et L. 230-3 ; 
 
-b) Lorsque l'entraînement du sportif ne se déroule pas habituellement dans l'un des lieux mentionnés au a, dans tout autre
-lieu choisi avec l'accord du sportif permettant d'assurer le respect de son intimité ou, à sa demande, à son domicile.
+2° Dans tout établissement dans lequel sont pratiquées des activités physiques ou sportives ainsi que dans ses annexes ; 
 
-Le sportif est convoqué par la personne chargée de procéder au prélèvement. Lorsque le sportif ne s'entraîne pas dans un lieu
-fixe, la convocation peut être adressée par tout moyen permettant de garantir son origine et sa réception, pendant les
-périodes d'entraînement.
+3° Dans tout lieu permettant de réaliser le contrôle, dans le respect de la vie privée et de l'intimité du sportif, y
+compris, à sa demande, à son domicile ; 
+
+4° Dans le cadre de la garde à vue d'un sportif soupçonné d'avoir commis les délits prévus aux articles L. 425-1-1, L.
+425-1-2 ou par la réglementation localement applicable en matière de dopage.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2007-1389 2007-09-27 art. 1 2° JORF 28 septembre 2007
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 6
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-2
+	  - Code du sport. - art. L230-3
 
 	**Cité par**:
 
 	  - Code du sport. - art. L425-5 (V)
 	  - Code du sport. - art. L425-7 (V)
+
+
+###### Article L425-4-1
+
+Les contrôles prévus par la réglementation édictée par la Nouvelle-Calédonie en matière de protection de la santé des
+sportifs et de lutte contre le dopage ainsi qu'au titre du présent chapitre sont réalisés, après notification du contrôle au
+sportif, soit : 
+
+1° Par la personne chargée de procéder au prélèvement ; 
+
+2° Par une personne désignée par la personne chargée de procéder au prélèvement. 
+
+Lorsqu'un sportif n'est pas soumis aux obligations de localisation et ne s'entraîne pas dans un lieu fixe, la notification
+peut lui être adressée par tout moyen permettant de garantir son origine et sa réception.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 7
 
 
 ###### Article L425-5
@@ -9550,27 +9636,22 @@ Elles peuvent être assistées, à leur demande, par un membre délégué de la 
 Elles peuvent demander la communication de toute pièce ou de tout document utile, en prendre copie et recueillir les
 observations des intéressés. 
 
-Seuls des médecins peuvent recueillir les informations à caractère médical. 
-
-Dans le cas où les opérations de contrôle sont envisagées en vue de la recherche d'infractions, le procureur de la République
-en est préalablement informé et peut s'y opposer. Les procès-verbaux établis à la suite de ces opérations de police
-judiciaire lui sont remis dans les cinq jours suivant leur établissement. Une copie des procès-verbaux est également remise à
-l'intéressé.
+Seuls des médecins peuvent recueillir les informations à caractère médical.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2007-1389 2007-09-27 art. 1 2° JORF 28 septembre 2007
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 8
 
 	**Cite**:
 
-	  - Code du sport. - art. L425-2 (V)
-	  - Code du sport. - art. L425-4 (V)
+	  - Code du sport. - art. L425-2
+	  - Code du sport. - art. L425-4
 
 	**Cité par**:
 
@@ -9579,76 +9660,94 @@ l'intéressé.
 
 ###### Article L425-6
 
-Pour mettre en oeuvre les contrôles individualisés, le gouvernement de la Nouvelle-Calédonie désigne les personnes qui
-doivent lui transmettre les informations propres à permettre leur localisation pendant les périodes d'entraînement ainsi que
-le programme des compétitions ou manifestations mentionnées à l'article L. 425-2 auxquelles elles participent. Ces
-informations peuvent faire l'objet d'un traitement automatisé créé par le gouvernement de la Nouvelle-Calédonie, en vue
-d'organiser des contrôles conformément aux dispositions de la loi du 6 janvier 1978 relative à l'informatique, aux fichiers
-et aux libertés. 
+Sont tenus de fournir des renseignements précis et actualisés sur leur localisation permettant la réalisation des contrôles
+prévus par la réglementation applicable localement en matière de protection de la santé des sportifs et à la lutte contre le
+dopage ainsi qu'au titre du présent chapitre, les sportifs, constituant le groupe cible, désignés pour une année par
+l'autorité locale compétente parmi : 
 
-Ces personnes sont choisies parmi, d'une part, celles qui sont inscrites sur les listes de sportifs de haut niveau et,
-d'autre part, les sportifs professionnels licenciés des ligues sportives agréées.
+1° Les sportifs inscrits sur la liste des sportifs de haut niveau ou sur la liste des sportifs Espoirs au sens du présent
+code ou les sportifs ayant été inscrits sur l'une de ces listes au moins une année durant les trois dernières années ; 
+
+2° Les sportifs professionnels licenciés des ligues sportives agréées ou ayant été professionnels au moins une année durant
+les trois dernières années ; 
+
+3° Les sportifs qui ont fait l'objet d'une sanction disciplinaire sur le fondement des articles L. 425-1-1 et L. 425-1-2 lors
+des trois dernières années. 
+
+Ces renseignements peuvent faire l'objet d'un traitement informatisé mis en œuvre par l'autorité locale compétente, en vue
+d'organiser des contrôles. Ce traitement informatisé portant sur les données relatives à la localisation des sportifs est
+autorisé par décision de l'autorité locale compétente prise après avis de la Commission nationale de l'informatique et des
+libertés.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Loi n°78-17 du 6 janvier 1978 (V)
-	  - Code du sport. - art. L425-2 (V)
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code du sport. - art. L425-2
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2007-1389 2007-09-27 art. 1 2° JORF 28 septembre 2007
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 9
 
 
 ###### Article L425-7
 
-Dans l'ensemble des lieux mentionnés à l'article L. 425-4 auxquels elles ont accès pour l'exercice des missions de police
-judiciaire, dans les conditions définies à l'article L. 425-5, les personnes mentionnées à l'article L. 425-2 ne peuvent
-saisir des objets et documents se rapportant aux infractions aux dispositions de la réglementation de la Nouvelle-Calédonie
-en matière de protection de la santé des sportifs et de lutte contre le dopage que sur autorisation judiciaire donnée par
-ordonnance du président du tribunal de première instance dans le ressort duquel sont situés ces objets et documents, ou d'un
-juge délégué par lui. 
+Dans le cas où les opérations de contrôle sont envisagées en vue de la recherche d'infractions, le procureur de la République
+en est préalablement informé et peut s'y opposer. Le procureur de la République est informé sans délai, par tout moyen, dès
+qu'une infraction est constatée. 
 
-La demande doit comporter tous les éléments d'information de nature à justifier la saisie. Celle-ci s'effectue sous
-l'autorité et le contrôle du juge qui l'a autorisée.
+Dans l'ensemble des lieux mentionnés à l'article L. 425-4 auxquels ils ont accès et pour l'exercice des missions de police
+judiciaire diligentées dans les conditions définies au présent article, les agents de la Nouvelle-Calédonie mentionnés à
+l'article L. 425-2 ne peuvent saisir des objets ou documents se rapportant aux infractions aux dispositions du présent
+chapitre que sur autorisation donnée par ordonnance du juge des libertés et de la détention dans le ressort duquel sont
+situés les éléments à saisir. 
 
-L'ordonnance est notifiée sur place, au moment de la saisie, au responsable des lieux ou à son représentant, qui en reçoit
-copie. Elle n'est susceptible que d'un pourvoi en cassation. Ce pourvoi n'est pas suspensif. 
+La demande d'ordonnance doit comporter tous les éléments d'information de nature à justifier la saisie. Les agents munis de
+cette ordonnance peuvent en tant que de besoin requérir la force publique. Les opérations s'effectuent sous l'autorité et le
+contrôle du juge qui les a autorisées. 
 
-Les objets ou documents saisis sont immédiatement inventoriés, en présence du responsable des lieux ou locaux, ou de son
-représentant.
+L'ordonnance est notifiée sur place, au moment de l'accès dans les lieux ou de la saisie, au responsable des lieux ou à son
+représentant, qui en reçoit copie. En l'absence du responsable des lieux ou de son représentant, l'ordonnance lui est
+notifiée, après la visite, par lettre recommandée avec demande d'avis de réception. La notification est réputée faite à la
+date de réception figurant sur l'avis. 
 
-L'inventaire est annexé au procès-verbal relatant le déroulement des opérations dressé sur place. Les originaux dudit procès-
-verbal et l'inventaire sont transmis au juge qui a autorisé la saisie. Une copie est remise à l'intéressé. 
+Les éléments saisis sont immédiatement inventoriés, en présence du responsable des lieux ou des locaux, ou de son
+représentant. 
 
-Le président du tribunal de première instance ou le juge délégué par lui peut à tout moment ordonner la mainlevée de la
-saisie. 
+L'inventaire est annexé au procès-verbal relatant le déroulement des opérations dressé sur place. Les originaux du procès-
+verbal et de l'inventaire sont transmis au juge qui a autorisé les opérations dans les cinq jours qui suivent leur clôture.
+Une copie est remise à l'intéressé. 
 
-Les personnes mentionnées à l'article L. 425-2 constatent les infractions aux dispositions de la réglementation de la
-Nouvelle-Calédonie en matière de protection de la santé des sportifs et de lutte contre le dopage par des procès-verbaux qui
-font foi jusqu'à preuve contraire. Ces procès-verbaux sont transmis, sous peine de nullité, dans les cinq jours qui suivent
-leur clôture au procureur de la République. Une copie en est remise dans le même délai à l'intéressé.
+Le juge des libertés et de la détention peut à tout moment ordonner la mainlevée de la saisie. 
+
+Les personnes mentionnées à l'article L. 425-2 constatent les infractions mentionnées au présent chapitre par des procès-
+verbaux qui font foi jusqu'à preuve contraire. 
+
+Ces procès-verbaux sont transmis au procureur de la République, sous peine de nullité, dans les cinq jours suivant la clôture
+des opérations. Une copie des procès-verbaux est également remise dans le même délai à l'intéressé. 
+
+Les agents de la Nouvelle-Calédonie mentionnés à l'article L. 425-2 peuvent être requis par le procureur de la République, le
+juge d'instruction ou les officiers ou agents de police judiciaire afin de leur prêter assistance.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2007-1389 2007-09-27 art. 1 2° JORF 28 septembre 2007
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 10
 
 	**Cite**:
 
-	  - Code du sport. - art. L425-2 (V)
-	  - Code du sport. - art. L425-4 (V)
-	  - Code du sport. - art. L425-5 (V)
+	  - Code du sport. - art. L425-2
+	  - Code du sport. - art. L425-4
 
 
 ###### Article L425-8
@@ -9677,25 +9776,117 @@ relative à l'informatique, aux fichiers et aux libertés.
 ##### Sous-section 2 : Dispositions pénales
 
 
+###### Article L 425-9-3
+
+Les personnes morales reconnues pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des
+infractions définies aux articles L. 425-9 et L. 425-9-1 du présent code encourent les peines suivantes : 
+
+1° L'amende, suivant les modalités prévues à l'article 131-38 du code pénal ; 
+
+2° Pour les infractions définies à l'article L. 425-9-1 du présent code : 
+
+a) Les peines complémentaires prévues par les 2°, 8° et 9° de l'article 131-39 du code pénal ; 
+
+b) La fermeture, pour une durée d'un an au plus, des établissements ou de l'un ou plusieurs des établissements de
+l'entreprise ayant servi à commettre l'infraction et appartenant à la personne morale condamnée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 12
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+
+
 ###### Article L425-9
 
 Le fait de s'opposer ou de tenter de s'opposer à l'exercice des fonctions dont sont chargés les agents de contrôle habilités
-en vertu du l'article L. 425-2 est puni de six mois d'emprisonnement et d'une amende de 7 500 euros dans sa contre-valeur en
-monnaie locale.
+en vertu de l'article L. 425-2 est puni de six mois d'emprisonnement et d'une amende de 7 500 € d'amende dans sa contre-
+valeur en monnaie locale. 
+
+Le fait de ne pas respecter les décisions d'interdiction prononcées en application des articles L. 425-1-1 et L. 425-1-2 est
+puni des mêmes peines.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Ordonnance 2007-1389 2007-09-27 art. 1 2° JORF 28 septembre 2007
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 11
 
 	**Cite**:
 
-	  - Code du sport. - art. L425-2 (V)
+	  - Code du sport. - art. L425-2
+
+
+###### Article L425-9-1
+
+I.-La détention, sans raison médicale dûment justifiée, d'une ou plusieurs substances ou méthodes interdites par la liste
+mentionnée au dernier alinéa de l'article L. 425-1-1, pour lesquelles l'appendice 1 à la convention internationale contre le
+dopage dans le sport, adoptée à Paris le 19 octobre 2005, ne prévoit la possibilité de sanctions réduites qu'en cas de
+circonstances exceptionnelles est punie d'un an d'emprisonnement et de 3 750 € d'amende dans sa contre-valeur en monnaie
+locale. 
+
+II.-La méconnaissance des 1°, 2° et 4° de l'article L. 425-1-2 est punie de cinq ans d'emprisonnement et de 75 000 € d'amende
+dans sa contre-valeur en monnaie locale. 
+
+Les peines prévues au premier alinéa du II sont portées à sept ans d'emprisonnement et à 150 000 € d'amende dans sa contre-
+valeur en monnaie locale lorsque les faits sont commis en bande organisée, au sens de l'article 132-71 du code pénal, ou
+lorsqu'ils sont commis à l'égard d'un mineur ou par une personne ayant autorité sur un ou des sportifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 12
+
+	**Cite**:
+
+	  - Code pénal - art. 132-71
+	  - Code du sport. - art. L425-1-1
+	  - Code du sport. - art. L425-1-2
+
+	**Cité par**:
+
+	  - Code du sport. - art. L425-1 (V)
+
+
+###### Article L425-9-2
+
+Les personnes physiques coupables des infractions prévues à l'article L. 425-9-1 du présent code encourent également les
+peines complémentaires suivantes : 
+
+1° La confiscation des substances ou procédés et des objets ou documents qui ont servi à commettre l'infraction ou à en
+faciliter la commission ; 
+
+2° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ; 
+
+3° La fermeture, pour une durée d'un an au plus, de l'un, de plusieurs ou de l'ensemble des établissements de l'entreprise
+ayant servi à commettre l'infraction et appartenant à la personne condamnée ; 
+
+4° L'interdiction, dans les conditions prévues à l'article 131-27 du code pénal, d'exercer l'activité professionnelle ou
+sociale dans l'exercice ou à l'occasion de laquelle l'infraction a été commise ; 
+
+5° L'interdiction, dans les conditions prévues à l'article 131-27 du code pénal, d'exercer une fonction publique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Ordonnance n°2011-827 du 8 juillet 2011 - art. 12
+
+	**Cite**:
+
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-35
 
 
 ###### Article L425-10
