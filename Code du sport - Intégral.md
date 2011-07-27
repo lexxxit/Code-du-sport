@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-07-10
+Version Consolidée au 2011-07-28
 
 # Partie législative
 
@@ -54338,13 +54338,13 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
     <tr>
       <td align="center">
 
-Canoë-kayak. 
-
-</td>
+Canoë-kayak et disciplines associées. </td>
       <td align="center">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-
-kayak. 
+kayak et disciplines associées. 
+
+Encadrement des activités de canyonisme. 
 
 </td>
       <td align="center">
@@ -54352,6 +54352,8 @@ kayak.
 Pour tout public, en eau calme, en rivière jusqu'en classe III incluse, en mer dans la limite de la navigation en 6e
 catégorie sur des parcours connus et reconnus, au maximum par vent de force 4 sur le site d'évolution. Conduite des séances
 d'initiation en kayak de vagues. 
+
+Jusqu'aux canyons cotés V1, A5 et E II inclus. 
 
 </td>
     </tr>
@@ -54364,13 +54366,11 @@ Char à voile.
       <td align="center">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en char à
-voile. 
+voile. Char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, pour tout lieu de pratique de
+l'activité aménagé et ouvert. 
 
 </td>
       <td align="center">
-
-Char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, pour tout public et pour tout lieu de
-pratique de l'activité aménagé et ouvert. 
 
 </td>
     </tr>
@@ -54578,11 +54578,9 @@ Char à voile d'initiation et de découverte.
 </td>
       <td align="center">
 
-Encadrement et animation d'activités de découverte et d'initiation en char à voile. 
-
-</td>
-      <td align="center">
-    </td></tr>
+Encadrement et animation d'activités de découverte et d'initiation en char à voile. </td>
+      <td align="center">Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.</td>
+    </tr>
     <tr>
       <td align="center">
 
@@ -54850,8 +54848,7 @@ Encadrement et animation d'activités de découverte et d'initiation en char à 
 </td>
       <td align="center">
 
-Sur tout support (à l'exception des activités tractées), pour tout public, sur des parcours école aménagés (mille mètres
-maximum). 
+Sur tout support (à l'exception des activités tractées), sur des parcours école aménagés.
 
 </td>
     </tr>
@@ -55546,6 +55543,17 @@ Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en BM
       <td align="center">
     </td></tr>
     <tr>
+      <td>
+
+UCC " vélo tout terrain ".
+
+</td>
+      <td>Encadrement de cycles d'initiation jusqu'au 1er niveau de compétition en vélo tout terrain.</td>
+      <td>A l'exclusion du vélo tout terrain de descente.
+
+</td>
+    </tr>
+    <tr>
       <td align="center">
 
 UCC " carambole ". 
@@ -55571,6 +55579,17 @@ Conduite de cycles d'apprentissage jusqu'au premier niveau de compétition en bi
 </td>
       <td align="center">
     </td></tr>
+    <tr>
+      <td>
+
+UCC " vélo tout terrain ". 
+
+</td>
+      <td>Encadrement de cycles d'initiation jusqu'au 1er niveau de compétition en vélo tout terrain. </td>
+      <td>A l'exclusion du vélo tout terrain de descente.
+
+</td>
+    </tr>
     <tr>
       <td align="center">
 
@@ -56290,6 +56309,29 @@ Surveillance des publics dans le cadre des activités encadrées.
 </td>
     </tr>
     <tr>
+      <td>BP JEPS, spécialité " activités aquatiques et de la natation ".
+
+</td>
+      <td>
+
+Encadrement et animation d'activités aquatiques d'éveil, de découverte et de loisirs aquatiques. Apprentissage et
+enseignement des différentes nages. 
+
+Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique. 
+
+</td>
+      <td>Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur
+sauveteur en cours de validité. </td>
+    </tr>
+    <tr>
+      <td>BP JEPS, spécialité " escrime ". </td>
+      <td>Encadrement et animation d'activités d'éveil à l'escrime et de découverte des trois armes. Encadrement de cycles
+d'apprentissage et d'enseignement à deux armes, jusqu'au premier niveau de compétition. 
+
+</td>
+      <td>
+    </td></tr>
+    <tr>
       <td align="center">
 
 Unités capitalisables complémentaires associées à la spécialité " activités aquatiques " 
@@ -56886,9 +56928,8 @@ identifiés.
 
 E.-Certificats de qualification délivrés par les branches professionnelles 
 
-E-1. Certificats de qualification délivrés par la Commission paritaire nationale 
-
-de l'emploi des entreprises équestres (CPNE-EE) 
+E-1. Certificats de qualification délivrés par la Commission paritaire nationale de l'emploi des entreprises équestres (CPNE-
+EE) 
 
 <table>
   <tbody>
@@ -56962,9 +57003,7 @@ Initiation aux techniques de la randonnée équestre et conduite de promenades e
   </tbody>
 </table>
 
-E-2. Certificats de qualification délivrés par la Commission paritaire nationale 
-
-emploi-formation du sport (CPNEF du sport) 
+E-2. Certificats de qualification délivrés par la Commission paritaire nationale emploi-formation du sport (CPNEF du sport) 
 
 <table>
   <tbody>
@@ -57433,7 +57472,10 @@ vigueur au 17 juillet 2007.
 
 	**Modifié par**:
 
-	  - Arrêté du 17 février 2011 - art. 1
+	  - Arrêté du 19 juillet 2011 - art. 2
+	  - Arrêté du 19 juillet 2011 - art. 3
+	  - Arrêté du 19 juillet 2011 - art. 4
+	  - Arrêté du 19 juillet 2011 - art. 5
 
 
 ###### Article Annexe II-2 (art. A212-2)
