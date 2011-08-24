@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-07-28
+Version Consolidée au 2011-08-25
 
 # Partie législative
 
@@ -48918,6 +48918,50 @@ subventions en vue de leur mise en paiement ou de leur recouvrement par l'agent 
 	**Créé par**:
 
 	  - Arrêté du 28 février 2008 - art. (V)
+
+
+#### Chapitre VI : Dispositions applicables à Saint-Barthélemy
+
+###### Article A426-1
+
+La commission mentionnée au 2° de l'article R. 426-1 est la commission territoriale de Guadeloupe du Centre national pour le
+développement du sport, à laquelle sont invités, avec voix consultative, un représentant du mouvement sportif issu
+d'associations sportives agréées ayant leur siège et leur activité à Saint-Barthélemy, désigné par le représentant de l'Etat,
+ainsi que le président du conseil territorial ou son représentant. Cette commission est compétente pour émettre un avis sur
+l'attribution des subventions destinées aux associations sportives locales, en cohérence avec les directives de
+l'établissement concernant la répartition des subventions à attribuer au niveau local.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 29 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R426-1
+
+
+#### Chapitre VII : Dispositions applicables à Saint-Martin
+
+###### Article A427-1
+
+La commission mentionnée au 2° de l'article R. 427-1 est la commission territoriale de Guadeloupe du Centre national pour le
+développement du sport, à laquelle sont invités, avec voix consultative, un représentant du mouvement sportif issu
+d'associations sportives agréées ayant leur siège et leur activité à Saint-Martin, désigné par le représentant de l'Etat,
+ainsi que le président du conseil territorial ou son représentant. Cette commission est compétente pour émettre un avis sur
+l'attribution des subventions destinées aux associations sportives locales, en cohérence avec les directives de
+l'établissement concernant la répartition des subventions à attribuer au niveau local.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 29 juillet 2011 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R427-1
 
 
 # ANNEXES
