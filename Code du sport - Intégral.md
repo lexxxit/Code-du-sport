@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-09-01
+Version Consolidée au 2011-09-07
 
 # Partie législative
 
@@ -14141,7 +14141,7 @@ Sont membres de droit du conseil supérieur :
 
 18° Le directeur de l'Ecole nationale de ski et d'alpinisme de Chamonix ; 
 
-19° Le directeur technique du       centre de ressources, d'expertise et de performance sportives  de Franche-Comté ; 
+19° Le directeur technique du centre de ressources, d'expertise et de performance sportives de Franche-Comté ; 
 
 20° Le directeur des sports ; 
 
@@ -14151,7 +14151,7 @@ Sont membres de droit du conseil supérieur :
 
 23° Le directeur général de la gendarmerie nationale ; 
 
-24° Le directeur de la sécurité civile ; 
+24° Le    directeur général de la sécurité civile et de la gestion des crises ; 
 
 25° Le délégué interministériel à l'aménagement du territoire et à l'attractivité régionale ; 
 
@@ -14182,7 +14182,7 @@ supérieur des sports de montagne).
 
 	**Modifié par**:
 
-	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
+	  - Décret n°2011-988 du 23 août 2011 - art. 6
 
 
 ###### Article D142-29
@@ -33478,13 +33478,13 @@ Une commission de l'information et de la sécurité donne un avis ou fait des pr
 des sports de montagne sur les questions relatives à l'information, à la prévention et à la sécurité dans le domaine des
 sports de montagne. 
 
-Elle peut initier ou conduire des travaux, des études et des recherches sur ces questions.
+Elle peut initier ou conduire des travaux, des études et des recherches sur ces questions. 
 
 A cette fin, elle est assistée par le Système national d'observation de la sécurité en montagne (SNOSM) dont la mission est
 de collecter, traiter et analyser les données relatives aux accidents en montagne. 
 
 Les travaux de cet organisme sont validés par un comité de pilotage dont la présidence est assurée selon une alternance
-annuelle par le        directeur de la sécurité civile et par le directeur des sports. 
+annuelle par le    directeur général de la sécurité civile et de la gestion des crises et par le directeur des sports. 
 
 Le Système national d'observation de la sécurité en montagne fournit à la commission de l'information et de la sécurité deux
 rapports (saison hivernale et saison estivale) relatifs à l'accidentologie et lui propose les axes d'actions prioritaires
@@ -33498,13 +33498,17 @@ l'information et de la sécurité du conseil supérieur des sports de montagne).
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°2008-682 du 9 juillet 2008 - art. 9 (V)
-
 	**Cité par**:
 
 	  - Décret n°2009-621 du 6 juin 2009 - art. (V)
+
+	**Modifié par**:
+
+	  - Décret n°2011-988 du 23 août 2011 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 janvier 2015 - art. 1
 
 
 ###### Article A142-16
@@ -33512,7 +33516,7 @@ l'information et de la sécurité du conseil supérieur des sports de montagne).
 La commission de l'information et de la sécurité du Conseil supérieur des sports de montagne est composée des personnes
 suivantes : 
 
-1° Le        directeur de la sécurité civile, président ; 
+1° Le    directeur général de la sécurité civile et de la gestion des crises, président ; 
 
 2° Un représentant du ministre chargé de la défense, qualifié quant aux activités conduites en montagne désigné par le
 ministre chargé de la défense ; 
@@ -33621,7 +33625,8 @@ ministre chargé de la défense ;
 
 54° Le président de l'union nationale des centres sportifs de plein air ; 
 
-55° Un représentant des associations locales de secours en montagne, désigné par le        directeur de la sécurité civile ; 
+55° Un représentant des associations locales de secours en montagne, désigné par le    directeur général de la sécurité
+civile et de la gestion des crises ; 
 
 56° Le président de la fédération française des sociétés d'assurances ; 
 
@@ -33639,7 +33644,11 @@ l'information et de la sécurité du conseil supérieur des sports de montagne).
 
 	**Modifié par**:
 
-	  - Décret n°2008-682 du 9 juillet 2008 - art. 9 (V)
+	  - Décret n°2011-988 du 23 août 2011 - art. 6
+
+	**Abrogé par**:
+
+	  - Arrêté du 30 janvier 2015 - art. 1
 
 
 ###### Article A142-17
