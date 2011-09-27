@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-09-07
+Version Consolidée au 2011-09-28
 
 # Partie législative
 
@@ -42699,6 +42699,69 @@ l'issue d'un stage de recyclage.
 	**Créé par**:
 
 	  - Arrêté du 18 janvier 2010 - art. 1
+
+
+###  TITRE II : SPORTIFS
+
+####  Chapitre II : Sport professionnel
+
+#####  Section unique  Agents sportifs
+
+###### Article A222-1
+
+Les fédérations concernées par l'application des articles R. 222-1 à R. 222-42 qui constituent une commission des agents
+sportifs et désignent un délégué aux agents sportifs figurent sur la liste qui suit : 
+
+Fédération française d'athlétisme ; 
+
+Fédération française de basket-ball ; 
+
+Fédération française de boxe ; 
+
+Fédération française de cyclisme ; 
+
+Fédération française de football ; 
+
+Fédération française de gymnastique ; 
+
+Fédération française de golf ; 
+
+Fédération française de handball ; 
+
+Fédération française de hockey sur glace ; 
+
+Fédération française de motocyclisme ; 
+
+Fédération française de natation ; 
+
+Fédération française de rugby ; 
+
+Fédération française de rugby à XIII ; 
+
+Fédération française de pelote basque ; 
+
+Fédération française de surf ; 
+
+Fédération française de tennis ; 
+
+Fédération française de voile ; 
+
+Fédération française de volley-ball.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 19 septembre 2011 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A222-2 (Ab)
+	  - Code du sport. - art. A222-3 (Ab)
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-6
 
 
 ###  TITRE III  SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE
