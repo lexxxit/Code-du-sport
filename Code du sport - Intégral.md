@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-09-28
+Version Consolidée au 2011-12-03
 
 # Partie législative
 
@@ -31215,25 +31215,30 @@ personne condamnée, ou, si celle-ci demeure à Paris, au préfet de police, les
 
 ###### Article R332-2
 
-Le préfet auquel les informations ont été transmises peut les communiquer aux fédérations sportives agréées et aux
-associations de supporters agréées en application de l'article L. 332-17. Les fédérations les transmettent sans délai aux
-groupements sportifs affiliés et aux ligues professionnelles intéressés.
+Le préfet auquel les informations ont été transmises les communique, à l'exclusion du domicile, aux fédérations sportives
+agréées, associations sportives et sociétés sportives qui sont concernées par la peine complémentaire prononcée. Les
+fédérations les transmettent sans délai aux ligues professionnelles intéressées. 
+
+Le préfet peut communiquer ces informations aux associations de supporters.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 2 du décret n°2004-1534 du 30 décembre 2004 portant application de l'alinéa 7 de l'article 42-11 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
 	  - Décret n°2004-699 du 15 juillet 2004 - art. 2 (Ab)
 	  - Décret n°2004-1534 du 30 décembre 2004 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-1696 du 1er décembre 2011 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L332-17 (V)
+	  - Code du sport. - art. L332-17
 
 	**Cité par**:
 
@@ -31335,8 +31340,9 @@ convocation nécessite, au préalable, l'accord du ou des préfets intéressés.
 
 ###### Article R332-7
 
-Pour l'application de l'article L. 332-16, le préfet du département et, à Paris, le préfet de police peuvent communiquer aux
-fédérations sportives agréées et aux associations de supporters agréées les informations suivantes :
+Pour l'application de l'article L. 332-16, le préfet du département ou, à Paris, le préfet de police communique aux
+fédérations sportives agréées, associations sportives et sociétés sportives qui sont concernées par la mesure administrative
+prononcée les informations suivantes :
 
 1° Le nom, le prénom, la date et le lieu de naissance de la personne faisant l'objet d'une mesure administrative
 d'interdiction de pénétrer dans des enceintes sportives ou de se rendre à leurs abords ;
@@ -31348,22 +31354,27 @@ d'interdiction de pénétrer dans des enceintes sportives ou de se rendre à leu
 4° La date de l'arrêté préfectoral d'interdiction ainsi que sa durée de validité ;
 
 5° Le cas échéant, l'obligation de répondre, au moment des manifestations sportives objet de l'interdiction, aux convocations
-de toute autorité ou de toute personne qualifiée désignée par le préfet.
+de toute autorité ou de toute personne qualifiée désignée par le préfet .
+
+Le préfet peut communiquer ces informations aux associations de supporters.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 1er du décret n°2006-1549 du 8 décembre 2006 pris pour l'application de l'article 3 de la loi n°2006-784 du 5 juillet 2006 relative à la prévention des violences lors des manifestations sportives
 	  - Décret n°2006-1549 du 8 décembre 2006 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-1696 du 1er décembre 2011 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. L332-16 (M)
+	  - Code du sport. - art. L332-16
 
 	**Cité par**:
 
@@ -31372,19 +31383,21 @@ de toute autorité ou de toute personne qualifiée désignée par le préfet.
 
 ###### Article R332-8
 
-Les fédérations transmettent sans délai ces informations aux associations sportives affiliées et aux ligues professionnelles
-intéressées.
+Les fédérations transmettent sans délai ces informations     aux ligues professionnelles intéressées.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 2 du décret n°2006-1549 du 8 décembre 2006 pris pour l'application de l'article 3 de la loi n°2006-784 du 5 juillet 2006 relative à la prévention des violences lors des manifestations sportives
 	  - Décret n°2006-1549 du 8 décembre 2006 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2011-1696 du 1er décembre 2011 - art. 3
 
 	**Cité par**:
 
