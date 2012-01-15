@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2011-12-03
+Version Consolidée au 2012-01-16
 
 # Partie législative
 
@@ -14407,6 +14407,203 @@ fixés par arrêté du ministre chargé de la jeunesse et du ministre chargé de
 	**Créé par**:
 
 	  - Décret n°2009-660 du 10 juin 2009 - art. 1
+
+
+##### Section 5 : La Conférence nationale du sport 
+
+
+
+
+
+
+
+##### Sous-section 1 : Missions et attributions 
+
+
+###### Article D142-39
+
+La Conférence nationale du sport est une instance consultative placée auprès du ministre chargé des sports. Elle est régie
+par les dispositions de la présente section et par celles du décret n° 2006-672 du 8 juin 2006 relatif à la création, à la
+composition et au fonctionnement de commissions administratives à caractère consultatif. 
+
+La Conférence nationale du sport organise la concertation entre l'Etat, les collectivités territoriales, le mouvement sportif
+et le monde économique pour favoriser la cohérence de leurs actions respectives dans le développement et la promotion du
+sport. 
+
+Elle arrête chaque année un programme de travail. Elle élabore un rapport annuel.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-672 du 8 juin 2006
+
+	**Créé par**:
+
+	  - Décret n°2012-45 du 13 janvier 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 3
+
+
+##### Sous-section 2 : Composition 
+
+
+
+###### Article D142-40
+
+La Conférence nationale du sport est présidée par le ministre chargé des sports. 
+
+Outre son président, elle comprend : 
+
+1° Sept représentants de l'Etat, nommés par arrêté du ministre chargé des sports ; 
+
+2° Un représentant français au Parlement européen ; 
+
+3° Un député ; 
+
+4° Un sénateur ; 
+
+5° Sept représentants du mouvement sportif, désignés par le président du Comité national olympique et sportif français ; 
+
+6° Sept représentants des collectivités territoriales ainsi désignés : trois représentants désignés par l'Association des
+maires de France, dont un représentant désigné en accord avec l'Association nationale des élus en charge du sport ; deux
+représentants désignés par l'Assemblée des départements de France et deux représentants désignés par l'Association des
+régions de France ; 
+
+7° Sept représentants du monde économique ainsi désignés : cinq représentants désignés par le Mouvement des entreprises de
+France ; deux représentants désignés par la Confédération générale des petites et moyennes entreprises.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-45 du 13 janvier 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 3
+
+
+###### Article D142-41
+
+Les membres de la Conférence nationale du sport sont nommés pour une durée de trois ans renouvelable. 
+
+Le ministre chargé des sports veille à la représentation équilibrée des femmes et des hommes au sein de la Conférence
+nationale du sport. 
+
+Pour chaque membre titulaire, il est nommé ou désigné un membre suppléant. 
+
+Le membre suppléant remplace le membre titulaire toutes les fois que ce dernier se trouve empêché de siéger.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-45 du 13 janvier 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 3
+
+
+##### Sous-section 3 : Organisation et fonctionnement 
+
+
+
+###### Article D142-42
+
+L'ordre du jour des séances de la Conférence nationale du sport est fixé par son président. 
+
+Tout membre de la Conférence nationale du sport peut demander par écrit qu'une question soit inscrite à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-45 du 13 janvier 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 3
+
+
+###### Article D142-43
+
+La Conférence nationale du sport arrête son règlement intérieur, qui précise les conditions de son fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-45 du 13 janvier 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 3
+
+
+###### Article D142-44
+
+La Conférence nationale du sport se réunit au moins une fois par trimestre. Elle peut être réunie à la demande d'un tiers de
+ses membres.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-45 du 13 janvier 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 3
+
+
+###### Article D142-45
+
+La direction des sports assure le secrétariat de la Conférence nationale du sport. Elle propose le programme de travail de la
+conférence et assure le suivi de la mise en œuvre du programme adopté.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-45 du 13 janvier 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 3
+
+
+###### Article D142-46
+
+Les avis et rapports adoptés par la Conférence nationale du sport sont rendus publics.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-45 du 13 janvier 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 3
+
+
+###### Article D142-47
+
+Les membres de la Conférence nationale du sport exercent leurs fonctions à titre gratuit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-45 du 13 janvier 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Décret n°2013-289 du 4 avril 2013 - art. 3
 
 
 ## LIVRE II : ACTEURS DU SPORT
