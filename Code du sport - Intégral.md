@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-01-28
+Version Consolidée au 2012-02-03
 
 # Partie législative
 
@@ -247,7 +247,7 @@ présent article est puni de 7 500 euros d'amende et d'un an d'emprisonnement.
 ###### Article L113-1
 
 Les collectivités territoriales ou leurs groupements ne peuvent accorder de garanties d'emprunt ni leur cautionnement aux
-associations sportives et aux sociétés anonymes mentionnées aux articles L. 121-1 et L. 122-2. 
+associations sportives et aux sociétés sportives mentionnées aux articles L. 121-1 et L. 122-2. 
 
 Toutefois, les collectivités territoriales ou leurs groupements peuvent accorder leur garantie aux emprunts contractés en vue
 de l'acquisition de matériels ou de la réalisation d'équipements sportifs par des associations sportives dont le montant
@@ -257,21 +257,24 @@ annuel des recettes n'excède pas 75 000 euros.
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 du 16 juillet 1984 - art. 19-2 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 19-2 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
 	**Cité par**:
 
 	  - Loi n°2011-617 du 1er juin 2011 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 10
+
 	**Cite**:
 
-	  - Code du sport. - art. L121-1 (V)
-	  - Code du sport. - art. L122-2 (V)
+	  - Code du sport. - art. L121-1
+	  - Code du sport. - art. L122-2
 
 
 ###### Article L113-2
@@ -651,14 +654,18 @@ responsabilité limitée ;
 
 2° Soit d'une société anonyme à objet sportif ;
 
-3° Soit d'une société anonyme sportive professionnelle.
+3° Soit d'une société anonyme sportive professionnelle ;
+
+4° Soit d'une société à responsabilité limitée ;
+
+5° Soit d'une société anonyme ;
+
+6° Soit d'une société par actions simplifiée.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 11, alinéas 2 à 5
-	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (Ab)
 
 	**Cité par**:
@@ -685,20 +692,22 @@ responsabilité limitée ;
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 10
 
 
 ###### Article L122-3
 
-Les statuts des sociétés constituées par les associations sportives sont conformes à des statuts types définis par décret en
-Conseil d'Etat.
+Les statuts des sociétés mentionnées aux 1° à 3° de l'article L. 122-2 et constituées par les associations sportives sont
+conformes à des statuts types définis par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 11, alinéa 7
-	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (Ab)
 
 	**Cité par**:
@@ -709,7 +718,15 @@ Conseil d'Etat.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 10
+
+	**Cite**:
+
+	  - Code du sport. - art. L122-2
 
 
 ###### Article L122-4
@@ -780,65 +797,75 @@ conditions ou les effets seraient contraires aux dispositions de la présente se
 
 ###### Article L122-7
 
-Il est interdit à une même personne privée de détenir le contrôle, au sens de l'article L. 233-16 du code de commerce, de
-plus d'une société sportive dont l'objet social porte sur une même discipline sportive.
+Il est interdit à une même personne privée :  
+
+1° De contrôler de manière exclusive ou conjointe plusieurs sociétés sportives dont l'objet social porte sur une même
+discipline ou d'exercer sur elles une influence notable, au sens de l'article L. 233-16 du code de commerce ; 
+
+2° D'être dirigeant de plus d'une société sportive dont l'objet social porte sur une même discipline sportive ; 
+
+3° De contrôler de manière exclusive ou conjointe une société sportive ou d'exercer sur elle une influence notable, au sens
+de l'article L. 233-16 du code de commerce, et d'être dirigeant d'une autre société sportive dont l'objet social porte sur
+une même discipline sportive. 
+
+Le non-respect de ces dispositions est puni d'une peine de 45 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 15-1, alinéa 1
-	  - Loi n°84-610 du 16 juillet 1984 - art. 15-1 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 4
 
 	**Cite**:
 
-	  - Code de commerce. - art. L233-16 (V)
+	  - Code de commerce - art. L233-16
 
 
 ###### Article L122-8
 
 En vue de l'émission ou de la cession dans le public d'instruments financiers donnant accès au capital ou aux droits de vote,
-les sociétés anonymes mentionnées à l'article L. 122-2 sont tenues d'insérer dans le document prévu par l'article L. 412-1 du
-code monétaire et financier les informations relatives à leur projet de développement d'activités sportives et d'acquisition
-d'actifs destinés à renforcer leur stabilité et leur pérennité, tels que la détention d'un droit réel sur les équipements
-sportifs utilisés pour l'organisation des manifestations ou compétitions sportives auxquelles elles participent.
+les sociétés sportives mentionnées à l'article L. 122-2 sont tenues d'insérer dans le document prévu par l'article L. 412-1
+du code monétaire et financier les informations relatives à leur projet de développement d'activités sportives et
+d'acquisition d'actifs destinés à renforcer leur stabilité et leur pérennité, tels que la détention d'un droit réel sur les
+équipements sportifs utilisés pour l'organisation des manifestations ou compétitions sportives auxquelles elles participent.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 13, alinéa 6
-	  - Loi n°84-610 du 16 juillet 1984 - art. 13 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 13 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
 	**Modifié par**:
 
-	  - Loi n°2006-1770 du 30 décembre 2006 - art. 68 () JORF 31 décembre 2006
+	  - Loi n°2012-158 du 1er février 2012 - art. 10
 
 	**Cite**:
 
-	  - Code du sport. - art. L122-2 (V)
-	  - Code monétaire et financier - art. L412-1 (V)
+	  - Code du sport. - art. L122-2
+	  - Code monétaire et financier - art. L412-1
 
 
 ###### Article L122-9
 
-Il est interdit à toute personne privée porteur de titres donnant accès au capital ou conférant un droit de vote dans une
-société sportive :
+Il est interdit à toute personne privée qui contrôle de manière exclusive ou conjointe une société sportive ou exerce sur
+elle une influence notable, au sens de l'article L. 233-16 du code de commerce : 
 
 1° De consentir un prêt à une autre société sportive dès lors que son objet social porterait sur la même discipline
-sportive ;
+sportive ; 
 
-2° De se porter caution en faveur d'une telle société sportive ou de lui fournir un cautionnement.
+2° De se porter caution en faveur d'une telle société sportive ou de lui fournir un cautionnement. 
 
 Toute personne physique, ainsi que le président, l'administrateur ou le directeur d'une personne morale, qui aura contrevenu
 aux dispositions du présent article sera punie d'une amende de 45 000 euros et d'un an d'emprisonnement.
@@ -847,13 +874,19 @@ aux dispositions du présent article sera punie d'une amende de 45 000 euros et 
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 15-1, alinéa 2
-	  - Loi n°84-610 du 16 juillet 1984 - art. 15-1 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 11
+
+	**Cite**:
+
+	  - Code de commerce - art. L233-16
 
 
 ###### Article L122-10
@@ -1062,8 +1095,8 @@ cédés à elle.
 
 ###### Article L122-17
 
-L'association sportive qui constitue une société anonyme sportive professionnelle est destinataire des délibérations des
-organes dirigeants de la société. 
+L'association sportive qui constitue une   société sportive est destinataire des délibérations des organes dirigeants de la
+société. 
 
 Elle peut exercer les actions prévues aux articles L. 225-230 à L. 225-232 du code de commerce.
 
@@ -1071,8 +1104,6 @@ Elle peut exercer les actions prévues aux articles L. 225-230 à L. 225-232 du 
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 11, alinéa 11
-	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (Ab)
 
 	**Cité par**:
@@ -1083,11 +1114,15 @@ Elle peut exercer les actions prévues aux articles L. 225-230 à L. 225-232 du 
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 10
 
 	**Cite**:
 
-	  - Code de commerce. - art. L225-230 (V)
+	  - Code de commerce - art. L225-230
 
 
 ###### Article L122-18
@@ -1368,6 +1403,23 @@ après avis du Comité national olympique et sportif français.
 	**Codifié par**:
 
 	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+
+###### Article L131-8-1
+
+Chaque fédération sportive agréée établit une charte éthique et veille à son application. Le contenu, les modalités d'entrée
+en vigueur et les conditions d'application de cette charte sont définis par décret pris après avis du Comité national
+olympique et sportif français.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 1 (V)
 
 
 ###### Article L131-9
@@ -1652,11 +1704,31 @@ sportifs Espoirs et sur la liste des partenaires d'entraînement.
 
 ###### Article L131-16
 
-Les fédérations délégataires édictent :
+Les fédérations délégataires édictent : 
 
-1° Les règles techniques propres à leur discipline ;
+1° Les règles techniques propres à leur discipline ; 
 
-2° Les règlements relatifs à l'organisation de toute manifestation ouverte à leurs licenciés.
+2° Les règlements relatifs à l'organisation de toute manifestation ouverte à leurs licenciés ; 
+
+3° Les règlements relatifs aux conditions juridiques, administratives et financières auxquelles doivent répondre les
+associations et sociétés sportives pour être admises à participer aux compétitions qu'elles organisent. Ils peuvent contenir
+des dispositions relatives au nombre minimal de sportifs formés localement dans les équipes participant à ces compétitions et
+au montant maximal, relatif ou absolu, de la somme des rémunérations versées aux sportifs par chaque société ou association
+sportive. 
+
+Elles édictent également des règles ayant pour objet d'interdire aux acteurs des compétitions sportives : 
+
+a) De réaliser des prestations de pronostics sportifs sur ces compétitions lorsque ces acteurs de la compétition sont
+contractuellement liés à un opérateur de paris sportifs titulaire de l'agrément prévu à l'article 21 de la loi n° 2010-476 du
+12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne ou
+lorsque ces prestations sont effectuées dans le cadre de programmes parrainés par un tel opérateur ; 
+
+b) De détenir une participation au sein d'un opérateur de paris sportifs titulaire de l'agrément prévu au même article 21 qui
+propose des paris sur la discipline sportive concernée ; 
+
+c) D'engager, directement ou par personne interposée, des mises sur des paris reposant sur la compétition à laquelle ils
+participent et de communiquer à des tiers des informations privilégiées, obtenues à l'occasion de leur profession ou de leurs
+fonctions, et qui sont inconnues du public. 
 
 Un décret en Conseil d'Etat, pris après avis du Conseil national des activités physiques et sportives, fixe les conditions
 d'entrée en vigueur des règlements fédéraux relatifs aux normes des équipements sportifs requises pour la participation aux
@@ -1666,8 +1738,6 @@ compétitions sportives organisées par les fédérations délégataires.
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 17, alinéas 2 et 3, art. 42 bis
-	  - Loi n°84-610 du 16 juillet 1984 - art. 17 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 17 (Ab)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42 bis (Ab)
 
@@ -1686,7 +1756,43 @@ compétitions sportives organisées par les fédérations délégataires.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Cite**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 21 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 2
+	  - Loi n°2012-158 du 1er février 2012 - art. 7
+
+
+###### Article L131-16-1
+
+L'accès d'une fédération sportive délégataire, en vue de la mise en œuvre d'une éventuelle procédure disciplinaire contre un
+acteur d'une compétition sportive qui aurait parié sur celle-ci, à des informations personnelles relatives à des opérations
+de jeu enregistrées par un opérateur de jeux ou de paris en ligne titulaire de l'agrément prévu à l'article 21 de la loi n°
+2010-476 du 12 mai 2010 précitée s'effectue par demande adressée à l'Autorité de régulation des jeux en ligne.
+
+L'Autorité de régulation des jeux en ligne communique à des agents de la fédération délégataire spécialement habilités à
+cette fin dans des conditions prévues par décret les éléments strictement nécessaires, dans le respect des dispositions de la
+loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Loi n°2010-476 du 12 mai 2010 - art. 21
+
+	**Créé par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 8
+
+	**Cité par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 (V)
 
 
 ###### Article L131-17
@@ -1920,18 +2026,17 @@ fédération.
 
 ###### Article L132-2
 
-Chaque fédération disposant d'une ligue professionnelle crée un organisme assurant le contrôle juridique et financier des
-associations et sociétés sportives.
+Les fédérations qui ont constitué une ligue professionnelle créent un organisme, doté d'un pouvoir d'appréciation
+indépendant, assurant le contrôle administratif, juridique et financier des associations et sociétés sportives participant
+aux compétitions qu'elles organisent. 
 
-Cet organisme est notamment chargé de contrôler que les associations et les sociétés qu'elles ont constituées répondent aux
-conditions fixées pour prendre part aux compétitions organisées par la fédération.
+Cet organisme a pour objectif d'assurer la pérennité des associations et sociétés sportives, de favoriser le respect de
+l'équité sportive et de contribuer à la régulation économique des compétitions.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 17, alinéa 6, 4e et 5e phrases
-	  - Loi n°84-610 du 16 juillet 1984 - art. 17 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 17 (Ab)
 
 	**Cité par**:
@@ -1954,7 +2059,11 @@ conditions fixées pour prendre part aux compétitions organisées par la fédé
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 3
 
 
 ### TITRE IV : ORGANISMES DE REPRÉSENTATION ET DE CONCILIATION
@@ -3221,41 +3330,72 @@ Ils sont associés au suivi de sa mise en oeuvre et ils contribuent à l'inserti
 
 ###### Article L221-9
 
-Les règles relatives à la préparation des élèves en vue de la pratique sportive de haut niveau dans les établissements
-d'enseignement du second degré sont fixées par l'article L. 331-6 du code de l'éducation, ci-après reproduit : 
+Sont ci-après reproduites les règles fixées à l'article L. 331-6 du code de l'éducation et relatives à la préparation des
+élèves, dans les établissements d'enseignement du second degré, en vue de : 
 
-" Art.L. 331-6.-Les établissements scolaires du second degré permettent, selon des formules adaptées, la préparation des
-élèves en vue de la pratique sportive de haut niveau. "
+1° La pratique sportive de haut niveau ; 
+
+2° La pratique professionnelle d'une discipline sportive lorsqu'ils ont conclu une convention mentionnée à l'article L. 211-5
+du présent code. 
+
+" Art. L. 331-6.-Les établissements scolaires du second degré permettent, selon des formules adaptées, la préparation des
+élèves en vue de : 
+
+" 1° La pratique sportive de haut niveau ; 
+
+" 2° La pratique professionnelle d'une discipline sportive lorsqu'ils ont conclu une convention mentionnée à l'article L.
+211-5 du code du sport. "
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 13
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L331-6 (V)
+	  - Code du sport. - art. L211-5
 
 
 ###### Article L221-10
 
-Les sportifs de haut niveau poursuivant des études dans un établissement d'enseignement supérieur bénéficient des
-dispositions de l'article L. 611-4 du code de l'éducation, ci-après reproduit : 
+Sont ci-après reproduites les règles fixées à l'article L. 611-4 du code de l'éducation et relatives à la préparation des
+étudiants, dans les établissements d'enseignement supérieur, en vue de : 
 
-" Art.L. 611-4.-Les établissements d'enseignement supérieur permettent aux sportifs de haut niveau de poursuivre leur
-carrière sportive par les aménagements nécessaires dans l'organisation et le déroulement de leurs études. 
+1° La pratique sportive de haut niveau ; 
 
-" Ils favorisent l'accès des sportifs de haut niveau, qu'ils possèdent ou non des titres universitaires, à des enseignements
-de formation ou de perfectionnement, dans les conditions définies par les articles L. 612-2 à L. 612-4 et L. 613-3 à L. 613-5
-".
+2° La pratique professionnelle d'une discipline sportive lorsqu'ils ont conclu une convention mentionnée à l'article L. 211-5
+du présent code. 
+
+" Art. L. 611-4.-Les établissements d'enseignement supérieur permettent aux sportifs de haut niveau et aux bénéficiaires
+d'une convention de formation prévue à l'article L. 211-5 du code du sport de poursuivre leur carrière sportive par les
+aménagements nécessaires dans l'organisation et le déroulement de leurs études. 
+
+" Ils favorisent l'accès des sportifs de haut niveau et des bénéficiaires d'une convention de formation prévue au même
+article L. 211-5, qu'ils possèdent ou non des titres universitaires, à des enseignements de formation ou de perfectionnement,
+dans les conditions définies aux articles L. 612-2 à L. 612-4 et L. 613-3 à L. 613-5 du présent code. "
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 13
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L612-2 (V)
-	  - Code de l'éducation - art. L613-3 (V)
+	  - Code de l'éducation - art. L611-4 (V)
+	  - Code de l'éducation - art. L612-2
+	  - Code de l'éducation - art. L613-3
+	  - Code du sport. - art. L211-5
 
 
 ###### Article L221-11
@@ -3940,6 +4080,9 @@ qu'il a mises en rapport ;
 Lorsque, pour la conclusion d'un contrat mentionné à l'article L. 222-7, plusieurs agents sportifs interviennent, le montant
 total de leurs rémunérations ne peut excéder 10 % du montant de ce contrat. 
 
+Par dérogation au 1° et au cinquième alinéa, les fédérations délégataires peuvent fixer, pour la rémunération du ou des
+agents sportifs, un montant inférieur à 10 % du contrat conclu par les parties mises en rapport. 
+
 Le montant de la rémunération de l'agent sportif peut, par accord entre celui-ci et les parties aux contrats mentionnés à
 l'article L. 222-7, être pour tout ou partie acquitté par le cocontractant du sportif ou de l'entraîneur. L'agent sportif
 donne quittance du paiement au cocontractant du sportif ou de l'entraîneur. 
@@ -3955,7 +4098,7 @@ revenus de l'année 2011.
 
 	**Modifié par**:
 
-	  - Loi n°2010-1657 du 29 décembre 2010 - art. 103 (V)
+	  - Loi n°2012-158 du 1er février 2012 - art. 6
 
 	**Cité par**:
 
@@ -4712,12 +4855,27 @@ le 1er février 2006.
 Le sportif fait état de sa qualité lors de toute consultation médicale qui donne lieu à prescription. 
 
 Le sportif qui participe ou se prépare aux manifestations mentionnées au 1° de l'article L. 230-3 et dont l'état de santé
-requiert l'utilisation d'une substance ou méthode mentionnée au dernier alinéa de l'article L. 232-9 adresse à l'Agence
-française de lutte contre le dopage : 
+requiert l'utilisation d'une substance ou méthode mentionnée au dernier alinéa de l'article L. 232-9 peut adresser à l'Agence
+française de lutte contre le dopage des demandes d'autorisation d'usage à des fins thérapeutiques. 
 
-1° Soit les demandes d'autorisation d'usage à des fins thérapeutiques ; 
+L'utilisation ou la détention, dans le cadre d'un traitement prescrit à un sportif par un professionnel de santé, d'une ou
+des substances ou méthodes inscrites sur la liste mentionnée au même article L. 232-9 n'entraîne à l'égard de celui-ci ni
+sanction disciplinaire, ni sanction pénale si elle est conforme :
 
-2° Soit les déclarations d'usage.
+- soit à une autorisation d'usage à des fins thérapeutiques accordée au sportif par l'agence ;
+
+- soit à une autorisation d'usage à des fins thérapeutiques accordée au sportif par une organisation nationale antidopage
+étrangère ou par une fédération internationale et dont l'agence reconnaît la validité conformément à l'annexe II de la
+convention internationale mentionnée à l'article L. 230-2. 
+
+Les autorisations d'usage à des fins thérapeutiques sont accordées par l'Agence française de lutte contre le dopage, après
+avis conforme d'un comité d'experts placé auprès d'elle. Ce comité est composé d'au moins trois médecins. 
+
+Les substances et méthodes inscrites sur la liste mentionnée à l'article L. 232-9 qui nécessitent pour leur détention ou leur
+utilisation une autorisation d'usage à des fins thérapeutiques sont fixées par arrêté du ministre chargé des sports en
+application des annexes I et II de la convention internationale mentionnée à l'article L. 230-2. 
+
+Les conditions de délivrance des autorisations d'usage à des fins thérapeutiques sont fixées par décret.
 
 **Liens relatifs à cet article**
 
@@ -4752,7 +4910,7 @@ française de lutte contre le dopage :
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 2
+	  - Loi n°2012-158 du 1er février 2012 - art. 15
 
 	**Anciens textes**:
 
@@ -4760,79 +4918,8 @@ française de lutte contre le dopage :
 
 	**Cite**:
 
+	  - Code du sport. - art. L230-2
 	  - Code du sport. - art. L230-3
-
-
-###### Article L232-2-1
-
-Lorsqu'un professionnel de santé prescrit à un sportif lors d'un traitement une ou des substances ou méthodes inscrites sur
-la liste mentionnée à l'article L. 232-9, leur utilisation ou leur détention n'entraîne à l'égard de celui-ci ni sanction
-disciplinaire ni sanction pénale, si cette utilisation ou cette détention est conforme : 
-
-1° Soit à une autorisation d'usage à des fins thérapeutiques accordée au sportif par l'agence ; 
-
-2° Soit à une déclaration d'usage faite par le sportif auprès de l'agence ; 
-
-3° Soit à une autorisation d'usage à des fins thérapeutiques accordée au sportif par une organisation nationale antidopage
-étrangère ou par une fédération internationale et dont l'agence reconnaît la validité conformément à l'annexe II de la
-convention internationale mentionnée à l'article L. 230-2 ; 
-
-4° Soit à une déclaration d'usage faite par le sportif auprès d'une organisation nationale antidopage étrangère ou auprès
-d'une fédération internationale et dont l'agence reconnaît la validité conformément à l'annexe II de la convention
-internationale mentionnée à l'article L. 230-2. 
-
-Les autorisations d'usage à des fins thérapeutiques sont accordées par l'Agence française de lutte contre le dopage, après
-avis conforme d'un comité d'experts placé auprès d'elle. Ce comité est composé d'au moins trois médecins.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 2
-
-	**Abrogé par**:
-
-	  - Loi n°2012-158 du 1er février 2012 - art. 16
-
-	**Cité par**:
-
-	  - Code du sport. - art. D232-75 (V)
-	  - Code du sport. - art. D232-76 (V)
-	  - Code du sport. - art. D232-78 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. L230-2
-	  - Code du sport. - art. L232-9
-
-
-###### Article L232-2-2
-
-Les substances et méthodes inscrites sur la liste mentionnée à l'article L. 232-9 qui nécessitent pour leur détention ou leur
-utilisation une autorisation d'usage à des fins thérapeutiques ou une déclaration d'usage sont fixées par arrêté du ministre
-chargé des sports en application des annexes I et II de la convention internationale mentionnée à l'article L. 230-2. 
-
-Les conditions de délivrance des autorisations d'usage à des fins thérapeutiques et les modalités des déclarations d'usage
-sont fixées par décret.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 2
-
-	**Cité par**:
-
-	  - Arrêté du 25 juin 2010 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°2012-158 du 1er février 2012 - art. 16
-
-	**Cite**:
-
-	  - Code du sport. - art. L230-2
-	  - Code du sport. - art. L232-9
 
 
 ###### Article L232-3
@@ -4904,8 +4991,9 @@ le 1er février 2006.
 ###### Article L232-5
 
 I.-L'Agence française de lutte contre le dopage, autorité publique indépendante dotée de la personnalité morale, définit et
-met en oeuvre les actions de lutte contre le dopage.A cette fin, elle coopère avec l'Agence mondiale antidopage et avec les
-fédérations sportives internationales.
+met en oeuvre les actions de lutte contre le dopage. A cette fin, elle coopère avec l'Agence mondiale antidopage, avec les
+organismes reconnus par celle-ci et disposant de compétences analogues aux siennes et avec les fédérations sportives
+internationales. 
 
 A cet effet : 
 
@@ -4917,7 +5005,8 @@ a) Pendant les manifestations sportives organisées par les fédérations agré�
 délégataires ; 
 
 b) Pendant les manifestations sportives internationales définies à l'article L. 230-2 avec l'accord de l'organisme
-international compétent ou, à défaut, de l'Agence mondiale antidopage ; 
+international compétent ou, à défaut, de l'Agence mondiale antidopage, avec les organismes reconnus par celle-ci et disposant
+de compétences analogues aux siennes ; 
 
 c) Pendant les périodes d'entraînement préparant aux manifestations sportives mentionnées à l'article L. 230-3 ; 
 
@@ -4928,7 +5017,8 @@ a) Pendant les manifestations sportives organisées par les fédérations agré�
 délégataires ; 
 
 b) Pendant les manifestations sportives internationales définies à l'article L. 230-2 avec l'accord de l'organisme
-international compétent ou, à défaut, de l'Agence mondiale antidopage ; 
+international compétent ou, à défaut, de l'Agence mondiale antidopage, avec les organismes reconnus par celle-ci et disposant
+de compétences analogues aux siennes ; 
 
 c) Pendant les périodes d'entraînement préparant aux manifestations sportives mentionnées à l'article L. 230-3 ; 
 
@@ -4949,22 +5039,15 @@ des analyses ou des prélèvements pour le compte de tiers ;
 
 8° Elle délivre les autorisations d'usage à des fins thérapeutiques prévues à l'article L. 232-2 ; 
 
-9° Elle reçoit les déclarations d'usage à des fins thérapeutiques prévues à l'article L. 232-2 ; 
+9° (Abrogé) 
 
-10° Elle peut reconnaître la validité des : 
-
-a) Autorisations d'usage à des fins thérapeutiques délivrées en conformité avec les annexes I et II de la convention
-internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005, par une organisation nationale antidopage
-étrangère ou par une fédération internationale ; 
-
-b) Déclarations d'usage effectuées en conformité avec les annexes I et II de la convention internationale contre le dopage
-dans le sport, adoptée à Paris le 19 octobre 2005, par une organisation nationale antidopage étrangère ou par une fédération
-internationale ; 
+10° Elle peut reconnaître la validité des autorisations d'usage à des fins thérapeutiques délivrées en conformité avec les
+annexes I et II de la convention internationale contre le dopage dans le sport, adoptée à Paris le 19 octobre 2005, par une
+organisation nationale antidopage étrangère ou par une fédération internationale ; 
 
 11° Elle est consultée sur tout projet de loi ou de règlement relatif à la lutte contre le dopage ; 
 
-12° Elle participe aux actions de prévention, d'éducation et de recherche mises en œuvre en matière de lutte contre le
-dopage ; 
+12° Elle met en œuvre des actions de prévention et de recherche en matière de lutte contre le dopage ; 
 
 13° Elle est associée aux activités internationales dans le domaine de la lutte contre le dopage et apporte son expertise à
 l'Etat, notamment lors de l'élaboration de la liste des substances ou méthodes interdites mentionnée à l'article L. 232-9 ; 
@@ -4982,6 +5065,12 @@ le dopage ne peuvent être exercées par les mêmes personnes.
 
 Pour l'exercice de ses missions de contrôle, l'agence peut faire appel aux services du ministre chargé des sports, dans des
 conditions définies par voie conventionnelle. 
+
+Lorsqu'une manifestation sportive organisée par une fédération agréée ou autorisée par une fédération délégataire se déroule
+à l'étranger, l'agence peut, avec l'accord de l'organisme reconnu par l'Agence mondiale antidopage dans cet Etat et disposant
+de compétences analogues aux siennes, exercer, à l'occasion de cette manifestation, ses missions de contrôle et ses missions
+d'analyse. En cas d'infraction aux dispositions des articles L. 232-9, L. 232-10 et L. 232-17, ces sanctions sont prononcées
+conformément aux articles L. 232-21 et L. 232-22. 
 
 III.-Pour l'établissement du programme annuel de contrôles mentionné au I, les services de l'Etat compétents, les fédérations
 agréées, les associations et sociétés sportives et les établissements d'activités physiques ou sportives communiquent à
@@ -5021,7 +5110,7 @@ l'article L. 232-15.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 3
+	  - Loi n°2012-158 du 1er février 2012 - art. 17
 
 	**Anciens textes**:
 
@@ -5031,8 +5120,10 @@ l'article L. 232-15.
 
 	  - Code du sport. - art. L230-2
 	  - Code du sport. - art. L230-3
+	  - Code du sport. - art. L232-10
 	  - Code du sport. - art. L232-10-1
 	  - Code du sport. - art. L232-12
+	  - Code du sport. - art. L232-17
 	  - Code du sport. - art. L232-9
 
 
@@ -5823,6 +5914,27 @@ Les modalités d'application du présent article sont déterminées par décret.
 	  - Code de la santé publique - art. L3632-6 (Ab)
 
 
+###### Article L232-20-1
+
+L'Agence française de lutte contre le dopage est habilitée à recevoir de la part d'un organisme reconnu par l'Agence mondiale
+antidopage et disposant de compétences analogues aux siennes des informations de la nature de celles mentionnées au premier
+alinéa de l'article L. 232-20 et à lui communiquer de telles informations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 18
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-20
+
+	**Cité par**:
+
+	  - Code du sport. - art. L232-21 (VD)
+
+
 ##### Section 4 : Sanctions administratives et mesures conservatoires
 
 ##### Sous-section 1 : Sanctions administratives
@@ -5833,7 +5945,11 @@ Le sportif licencié qui a contrevenu aux dispositions des articles L. 232-9, L.
 effectué dans les conditions prévues aux 1°, 2°, 3° ou 4° du I de l'article L. 232-5 ou à l'article L. 232-16 encourt des
 sanctions disciplinaires. 
 
-Ces sanctions sont prononcées par les fédérations sportives mentionnées à l'article L. 131-8.
+Est également passible de sanctions disciplinaires le sportif qui a contrevenu aux dispositions de l'article L. 232-9 et dont
+la mise en cause est justifiée au vu des documents en possession de l'Agence française de lutte contre le dopage, en
+application de l'article L. 232-20-1. 
+
+Ces sanctions sont prononcées par les fédérations sportives mentionnées à l'article L. 131-8. 
 
 A cet effet, les fédérations adoptent dans leur règlement des dispositions définies par décret en Conseil d'Etat et relatives
 aux contrôles organisés en application du présent titre, ainsi qu'aux procédures disciplinaires et aux sanctions applicables,
@@ -5878,11 +5994,7 @@ du présent article.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 10
-
-	**Liens**:
-
-	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 9
+	  - Loi n°2012-158 du 1er février 2012 - art. 19
 
 	**Anciens textes**:
 
@@ -5893,6 +6005,7 @@ du présent article.
 	  - Code du sport. - art. L131-8
 	  - Code du sport. - art. L141-4
 	  - Code du sport. - art. L232-16
+	  - Code du sport. - art. L232-20-1
 	  - Code du sport. - art. L232-9
 
 
@@ -6132,21 +6245,17 @@ l'agence peut ultérieurement prononcer.
 ###### Article L232-24
 
 Les parties intéressées peuvent former un recours de pleine juridiction contre les décisions de l'Agence française de lutte
-contre le dopage prises en application des articles L. 232-22 et L. 232-23.
+contre le dopage prises en application des articles L. 232-22 et L. 232-23. 
 
-L'Agence mondiale antidopage peut saisir la juridiction administrative compétente d'une décision prise par l'organe
-disciplinaire d'une fédération sportive délégataire ainsi que d'une décision de l'Agence française de lutte contre le dopage.
+L'Agence mondiale antidopage ou un organisme sportif international mentionné à l'article L. 230-2 peut saisir la juridiction
+administrative compétente d'une décision prise par l'organe disciplinaire d'une fédération sportive délégataire ainsi que
+d'une décision de l'Agence française de lutte contre le dopage.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 14
-	  - DEPLACE: Ordonnance n°2010-379 du 14 avril 2010 - art. 9
-
 	**Modifié par**:
 
-	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 15
+	  - Loi n°2012-158 du 1er février 2012 - art. 20
 
 	**Cité par**:
 
@@ -6158,6 +6267,7 @@ disciplinaire d'une fédération sportive délégataire ainsi que d'une décisio
 
 	**Cite**:
 
+	  - Code du sport. - art. L230-2
 	  - Code du sport. - art. L232-22
 
 
@@ -6454,25 +6564,19 @@ le 1er février 2006.
 
 ###### Article L241-2
 
-Il est interdit d'administrer ou d'appliquer aux animaux, au cours des compétitions et manifestations sportives organisées ou
-autorisées par les fédérations intéressées ou par une commission spécialisée instituée en application de l'article L. 131-19,
-ou en vue d'y participer, des substances ou procédés de nature à modifier artificiellement leurs capacités ou à masquer
-l'emploi de substances ou procédés ayant cette propriété. 
+Il est interdit d'administrer ou d'appliquer aux animaux, au cours des          manifestations sportives organisées par une
+fédération agréée ou autorisées par une fédération délégataire ou par une commission spécialisée instituée en application de
+l'article L. 131-19, ou en vue d'y participer, des substances ou procédés de nature à modifier artificiellement leurs
+capacités ou à masquer l'emploi de substances ou procédés ayant cette propriété. 
 
 La liste des substances ou procédés mentionnés au présent article est fixée par arrêté conjoint des ministres chargés des
 sports, de la santé et de l'agriculture.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
 	**Cité par**:
 
@@ -6489,13 +6593,17 @@ le 1er février 2006.
 	  - Code du sport. - art. R241-10 (V)
 	  - Code du sport. - art. R241-14 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 21
+
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3641-2 (MMN)
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-19 (V)
+	  - Code du sport. - art. L131-19
 
 
 ###### Article L241-3
@@ -6505,10 +6613,17 @@ I.-Il est interdit à toute personne de :
 1° Faciliter l'administration des substances mentionnées à l'article L. 241-2 ou inciter à leur administration, ainsi que
 faciliter l'application des procédés mentionnés au même article ou inciter à leur application ; 
 
-2° Prescrire, céder, offrir un ou plusieurs procédés ou substances mentionnés à l'article L. 241-2 ; 
+2° Prescrire, administrer, appliquer, céder ou offrir un ou plusieurs procédés ou substances mentionnés à l'article L.
+241-2 ; 
 
 3° Produire, fabriquer, importer, exporter, transporter, détenir ou acquérir les procédés ou substances mentionnés à
-l'article L. 241-2. 
+l'article L. 241-2 ;
+
+4° S'opposer par quelque moyen que ce soit aux mesures de contrôle prévues au présent titre ;
+
+5° Falsifier, détruire ou dégrader tout élément relatif au contrôle, à l'échantillon ou à l'analyse ;
+
+6° Tenter d'enfreindre les interdictions prévues au présent article.
 
 II.-Il est interdit de soustraire un animal ou de s'opposer par quelque moyen que ce soit aux mesures de contrôle prévues par
 le présent titre.
@@ -6524,7 +6639,7 @@ le présent titre.
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 19
+	  - Loi n°2012-158 du 1er février 2012 - art. 21
 
 	**Anciens textes**:
 
@@ -6665,11 +6780,10 @@ le 1er février 2006.
 Le propriétaire, l'entraîneur et le cas échéant le sportif qui ont enfreint ou tenté d'enfreindre les dispositions du présent
 titre encourent les sanctions administratives suivantes : 
 
-1° Une interdiction temporaire ou définitive de participer aux compétitions et manifestations mentionnées à l'article L.
-241-2 ; 
+1° Une interdiction temporaire ou définitive de participer aux manifestations mentionnées à l'article L. 241-2 ; 
 
 2° Une interdiction temporaire ou définitive de participer directement ou indirectement à l'organisation et au déroulement
-des compétitions ou manifestations sportives mentionnées à l'article L. 241-2 et aux entraînements y préparant ; 
+des manifestations sportives mentionnées à l'article L. 241-2 et aux entraînements y préparant ; 
 
 3° Lorsqu'ils sont licenciés d'une fédération sportive agréée, une interdiction temporaire ou définitive d'exercer les
 fonctions définies à l'article L. 212-1. 
@@ -6687,7 +6801,7 @@ fédération sportive agréée ou par l'Agence française de lutte contre le dop
 
 	**Modifié par**:
 
-	  - Loi n°2008-650 du 3 juillet 2008 - art. 22
+	  - Loi n°2012-158 du 1er février 2012 - art. 21
 
 	**Anciens textes**:
 
@@ -8006,16 +8120,13 @@ aux licenciés d'une discipline qui a fait l'objet d'une délégation de pouvoir
 lieu à remise de prix en argent ou en nature dont la valeur excède un montant fixé par arrêté du ministre chargé des sports,
 doit obtenir l'autorisation de la fédération délégataire concernée. 
 
-Cette autorisation est subordonnée au respect des règlements et règles techniques mentionnés à l'article L. 131-16 et à la
-conclusion entre l'organisateur et la fédération délégataire d'un contrat comprenant des dispositions obligatoires fixées par
-décret.
+Cette autorisation est subordonnée au respect des règlements et règles mentionnés à l'article L. 131-16 et à la conclusion
+entre l'organisateur et la fédération délégataire d'un contrat comprenant des dispositions obligatoires fixées par décret.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 18, alinéas 1 et 3
-	  - Loi n°84-610 du 16 juillet 1984 - art. 18 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 18 (Ab)
 
 	**Cité par**:
@@ -8040,12 +8151,16 @@ décret.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 7
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-14 (V)
-	  - Code du sport. - art. L131-16 (V)
+	  - Code du sport. - art. L131-14
+	  - Code du sport. - art. L131-16
 
 
 ###### Article L331-6
@@ -8915,6 +9030,36 @@ l'association ou le groupement maintenu ou reconstitué.
 	  - Code du sport. - art. L332-19 (V)
 
 
+###### Article L332-22
+
+Le fait de vendre, d'offrir à la vente ou d'exposer en vue de la vente ou de la cession ou de fournir les moyens en vue de la
+vente ou de la cession des titres d'accès à une manifestation sportive, de manière habituelle et sans l'accord de
+l'organisateur de ladite manifestation sportive, est puni d'une peine d'amende de 15 000 €. 
+
+Est considéré comme titre d'accès à une manifestation sportive tout titre, document, message ou code, quels qu'en soient la
+forme ou le support, attestant de l'obtention auprès de l'organisateur de ladite manifestation du droit d'y assister. 
+
+Cette peine est portée à 30 000 € d'amende en cas de récidive. 
+
+Les personnes morales déclarées responsables pénalement de l'infraction définie au premier alinéa encourent, outre l'amende
+suivant les modalités prévues à l'article 131-38 du code pénal, les peines prévues à l'article 131-39 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-158 du 1er février 2012 - art. 5
+
+	**Abrogé par**:
+
+	  - Loi n°2012-348 du 12 mars 2012 - art. 3
+
+	**Cite**:
+
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+
+
 #### Chapitre III : Exploitation des manifestations sportives
 
 ##### Section 1 : Droit d'exploitation
@@ -9185,8 +9330,9 @@ par voie électronique ne fait pas obstacle à la réalisation et à la diffusio
 sonore, sur tout ou partie du territoire, en direct ou en différé, du commentaire oral de cette manifestation ou de cette
 compétition. 
 
-Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de l'audiovisuel fixe       les conditions d'application du
-présent article.
+Le Conseil supérieur de l'audiovisuel fixe les conditions de diffusion des brefs extraits prévus au présent article, après
+consultation du Comité national olympique et sportif français et des organisateurs de manifestations sportives mentionnés à
+l'article L. 331-5.
 
 **Liens relatifs à cet article**
 
@@ -9201,7 +9347,11 @@ présent article.
 
 	**Modifié par**:
 
-	  - Loi n°2009-258 du 5 mars 2009 - art. 45
+	  - Loi n°2012-158 du 1er février 2012 - art. 22
+
+	**Cite**:
+
+	  - Code du sport. - art. L331-5
 
 
 ###### Article L333-8
@@ -17959,7 +18109,11 @@ technique édictées par la fédération délégataire en application de l'artic
 
 3° De la voile au-delà de 200 milles nautiques d'un abri ; 
 
-4° Quelle que soit la zone d'évolution : 
+4° De l'escalade pratiquée sur les sites sportifs au-delà du premier relais et "terrains d'aventure", déterminés conformément
+aux normes de classement technique édictées par la fédération délégataire en application de l'article L. 311-2, ainsi que de
+l'escalade en "via ferrata" ; 
+
+5° Quelle que soit la zone d'évolution : 
 
 a) Du canyonisme ; 
 
@@ -17977,12 +18131,11 @@ f) Du vol libre, à l'exception de l'activité de cerf-volant acrobatique et de 
 
 	**Anciens textes**:
 
-	  - Art. 6 du décret n°2004-893 du 27 août 2004 pris pour l'application de l'article L. 363-1 du code de l'éducation
 	  - Décret n°2004-893 du 27 août 2004 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
 	**Cité par**:
 
@@ -18003,10 +18156,14 @@ f) Du vol libre, à l'exception de l'activité de cerf-volant acrobatique et de 
 	  - Code du sport. - art. R212-8 (V)
 	  - Code du sport. - art. R212-9 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2012-160 du 31 janvier 2012 - art. 1
+
 	**Cite**:
 
-	  - Code du sport. - art. L212-2 (V)
-	  - Code du sport. - art. L311-2 (V)
+	  - Code du sport. - art. L212-2
+	  - Code du sport. - art. L311-2
 
 
 ###### Article R212-8
