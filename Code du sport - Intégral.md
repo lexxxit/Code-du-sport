@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-03-10
+Version Consolidée au 2012-03-14
 
 # Partie législative
 
@@ -5291,7 +5291,7 @@ L'interdiction prévue au 2° ne s'applique pas aux substances et méthodes pour
 
 a) Dispose d'une autorisation pour usage à des fins thérapeutiques ; 
 
-b) Peut se prévaloir d'une déclaration d'usage, conformément aux dispositions de l'article L. 232-2 ; 
+b) (Abrogé)
 
 c) Dispose d'une raison médicale dûment justifiée. 
 
@@ -5345,7 +5345,7 @@ substituerait. Elle est publiée au Journal officiel de la République français
 
 	**Modifié par**:
 
-	  - Ordonnance n°2010-379 du 14 avril 2010 - art. 4
+	  - Loi n°2012-348 du 12 mars 2012 - art. 6 (V)
 
 	**Cite**:
 
@@ -7558,6 +7558,24 @@ activité.
 	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 
+###### Article L321-3-1
+
+Les pratiquants ne peuvent être tenus pour responsables des dommages matériels causés à un autre pratiquant par le fait d'une
+chose qu'ils ont sous leur garde, au sens du premier alinéa de l'article 1384 du code civil, à l'occasion de l'exercice d'une
+pratique sportive au cours d'une manifestation sportive ou d'un entraînement en vue de cette manifestation sportive sur un
+lieu réservé de manière permanente ou temporaire à cette pratique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-348 du 12 mars 2012 - art. 1
+
+	**Cite**:
+
+	  - Code civil - art. 1384
+
+
 ###### Article L321-4
 
 Les associations et les fédérations sportives sont tenues d'informer leurs adhérents de l'intérêt que présente la
@@ -9028,36 +9046,6 @@ l'association ou le groupement maintenu ou reconstitué.
 	**Cite**:
 
 	  - Code du sport. - art. L332-19 (V)
-
-
-###### Article L332-22
-
-Le fait de vendre, d'offrir à la vente ou d'exposer en vue de la vente ou de la cession ou de fournir les moyens en vue de la
-vente ou de la cession des titres d'accès à une manifestation sportive, de manière habituelle et sans l'accord de
-l'organisateur de ladite manifestation sportive, est puni d'une peine d'amende de 15 000 €. 
-
-Est considéré comme titre d'accès à une manifestation sportive tout titre, document, message ou code, quels qu'en soient la
-forme ou le support, attestant de l'obtention auprès de l'organisateur de ladite manifestation du droit d'y assister. 
-
-Cette peine est portée à 30 000 € d'amende en cas de récidive. 
-
-Les personnes morales déclarées responsables pénalement de l'infraction définie au premier alinéa encourent, outre l'amende
-suivant les modalités prévues à l'article 131-38 du code pénal, les peines prévues à l'article 131-39 du même code.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2012-158 du 1er février 2012 - art. 5
-
-	**Abrogé par**:
-
-	  - Loi n°2012-348 du 12 mars 2012 - art. 3
-
-	**Cite**:
-
-	  - Code pénal - art. 131-38
-	  - Code pénal - art. 131-39
 
 
 #### Chapitre III : Exploitation des manifestations sportives
