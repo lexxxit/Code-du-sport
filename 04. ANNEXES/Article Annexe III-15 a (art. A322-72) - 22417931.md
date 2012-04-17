@@ -1,6 +1,6 @@
 # Article Annexe III-15 a (art. A322-72)
 
-Qualification minimale du directeur de plongée
+Qualification minimale du directeur de plongée en milieu naturel
 
 <table>
   <tbody>
@@ -42,7 +42,7 @@ Plongées à l'air ou au nitrox en exploration
     <tr>
       <td valign="top">
 
-Directeur de plongée en milieu naturel 
+Directeur de plongée 
 
 </td>
       <td valign="top">
@@ -60,17 +60,21 @@ Plongeur de niveau 5 (P5) (*)
 
 Plongées à l'air ou au nitrox en enseignement ou en exploration
 
+Plongées au trimix ou à l'héliox en enseignement jusqu'à 40 mètres
+
+Plongées au trimix ou à l'héliox en exploration jusqu'à 70 mètres
+
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-Directeur de plongée en milieu naturel 
+Directeur de plongée
 
 </td>
       <td valign="top">
 
-MF1 (*) FFESSM ou FSGT
+MF1 (*) FFESSM ou FSGT (*)
 
 </td>
       <td valign="top">
@@ -91,7 +95,9 @@ DESJEPS plongée
     <tr>
       <td colspan="4">
 
-Plongées au trimix en enseignement ou en exploration
+Plongées au trimix ou à l'héliox en enseignement
+
+Plongées au trimix ou à l'héliox en exploration
 
 </td>
     </tr>
@@ -103,7 +109,7 @@ Directeur de plongée
 </td>
       <td valign="top">
 
-MF2 (*) FFESSM ou FSGT
+MF2 FFESSM ou FSGT (*)
 
 </td>
       <td valign="top">
@@ -135,7 +141,7 @@ aux mélanges utilisés conformément aux annexes III-17 a et III-18 a.
 
 	**Modifié par**:
 
-	  - Arrêté du 5 janvier 2012 - art. 2
+	  - Arrêté du 6 avril 2012 - art. 7
 
 	**Cité par**:
 

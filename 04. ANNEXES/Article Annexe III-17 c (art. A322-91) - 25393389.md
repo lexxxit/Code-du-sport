@@ -66,7 +66,7 @@ en autonomie
 </td>
       <td>
 
-Effectif minimal
+Effectif maximal
 
 de la palanquée
 
@@ -75,50 +75,12 @@ de la palanquée
     <tr>
       <td>
 
-Espace de 0
-
-à 12 mètres
+Espace de 0 à 12 mètres
 
 </td>
       <td>
 
-PE-12 + PN-20
-
-</td>
-      <td>
-
-4 (*)
-
-</td>
-      <td>
-
-E2 ou GP ou
-
-P4 + PN-C
-
-</td>
-      <td>
-
-PA-12 + PN-20
-
-</td>
-      <td>
-
-3
-
-</td>
-    </tr>
-    <tr>
-      <td>
-
-Espace de 0
-
-à 20 mètres
-
-</td>
-      <td>
-
-PE-20 + PN-20
+PE-12 + PN
 
 </td>
       <td>
@@ -135,7 +97,7 @@ P4 + PN-C
 </td>
       <td>
 
-PA-20 + PN-20
+PA-12 + PN
 
 </td>
       <td>
@@ -147,14 +109,46 @@ PA-20 + PN-20
     <tr>
       <td>
 
-Espace de 0
-
-à 40 mètres
+Espace de 0 à 20 mètres
 
 </td>
       <td>
 
-PE-40 + PN-C
+PE-20 + PN
+
+</td>
+      <td>
+
+4 (*)
+
+</td>
+      <td>
+
+E2 ou GP ou
+
+P4 + PN-C
+
+</td>
+      <td>
+
+PA-20 + PN
+
+</td>
+      <td>
+
+3
+
+</td>
+    </tr>
+    <tr>
+      <td>
+
+Espace de 0 à 40 mètres
+
+</td>
+      <td>
+
+PE-40 + PN
 
 </td>
       <td>
@@ -171,7 +165,7 @@ P4 + PN-C
 </td>
       <td>
 
-PA-40 + PN-C
+PA-40 + PN
 
 </td>
       <td>
@@ -188,7 +182,7 @@ Espace au-delà de 40 mètres et dans la limite de 60 mètres
 </td>
       <td>
 
-PE-60 + PN-C
+PE-60 + PN
 
 </td>
       <td>
@@ -203,7 +197,7 @@ E4 + PN-C
 </td>
       <td>
 
-PA-60 + PN-C
+PA-60 + PN
 
 </td>
       <td>
@@ -225,10 +219,6 @@ palanquée (GP) ou de plongeur niveau 4 (P4) + PN-C.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 5 janvier 2012 - art. 2
-
-	**Liens**:
-
-	  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+	  - Arrêté du 6 avril 2012 - art. 12

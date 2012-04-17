@@ -66,7 +66,9 @@ en autonomie
 </td>
       <td>
 
-Effectif maximal de la palanquée
+Effectif maximal
+
+de la palanquée
 
 </td>
     </tr>
@@ -211,7 +213,7 @@ PE-60
 </td>
       <td>
 
-4 (*)
+4 
 
 </td>
       <td>
@@ -233,8 +235,8 @@ PA-60
     <tr>
       <td colspan="6">
 
-(*) Possibilité d'ajouter dans la palanquée un ou plusieurs plongeurs supplémentaires, au minimum titulaires d'une
-qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
+(*) Possibilité d'ajouter dans la palanquée un plongeur supplémentaire, au minimum titulaire d'une qualification de guide de
+palanquée (GP) ou de plongeur niveau 4 (P4). 
 
 </td>
     </tr>
@@ -245,11 +247,7 @@ qualification de guide de palanquée (GP) ou de plongeur niveau 4 (P4).
 
 	**Modifié par**:
 
-	  - Arrêté du 5 janvier 2012 - art. 2
-
-	**Liens**:
-
-	  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+	  - Arrêté du 6 avril 2012 - art. 9
 
 	**Cité par**:
 

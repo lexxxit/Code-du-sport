@@ -32,13 +32,15 @@ la palanquée
 
 EFFECTIF
 
-maximal
+maximal 
 
 de la palanquée
 
 (personne encadrant
 
-la palanquée non comprise)
+la palanquée
+
+non comprise)
 
 </td>
     </tr>
@@ -89,7 +91,7 @@ Espace de 0 à 12 mètres
 </td>
       <td>
 
-PE-12 en cours de formation vers les aptitudes PN-20
+PE-12 en cours de formation vers les aptitudes PN
 
 </td>
       <td>
@@ -111,7 +113,7 @@ Espace de 0 à 20 mètres
 </td>
       <td>
 
-PE-20 en cours de formation vers les aptitudes PN-20
+PE-20 en cours de formation vers les aptitudes PN
 
 </td>
       <td>
@@ -133,7 +135,7 @@ Espace de 0 à 40 mètres
 </td>
       <td>
 
-PE-40 + PN-C
+PE-40 + PN
 
 </td>
       <td>
@@ -155,7 +157,7 @@ Espace au-delà de 40 mètres et dans la limite de 60 mètres
 </td>
       <td>
 
-PE-60 + PN-C
+PE-60 + PN
 
 </td>
       <td>
@@ -182,6 +184,6 @@ palanquée (GP) ou de plongeur niveau 4 (P4) + PN-C.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 5 janvier 2012 - art. 2
+	  - Arrêté du 6 avril 2012 - art. 11

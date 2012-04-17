@@ -7,55 +7,62 @@ Aptitudes des pratiquants à utiliser du nitrox
     <tr>
       <td>
 
-APTITUDES
+APTITUDES À PLONGER
 
-à plonger au nitrox
+au nitrox
 
 </td>
       <td>
 
-LE PRATIQUANT DOIT JUSTIFIER DES APTITUDES
+LE PRATIQUANT DOIT JUSTIFIER DES APTITUDES SUIVANTES
 
-suivantes auprès du directeur de plongée
+auprès du directeur de plongée
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-PN-20
+PN
 
-Aptitudes à évoluer en palanquée au nitrox dans l'espace de 0 à 20 mètres
+Aptitudes à évoluer en palanquée au nitrox dont la teneur en oxygène n'excède pas 40 %
 
 </td>
       <td valign="top">
 
-Pour évoluer en palanquée encadrée : maîtrise des aptitudes correspondant à l'espace d'évolution concerné
+Pour évoluer en palanquée encadrée ou autonome : maîtrise des aptitudes à l'air correspondant à l'espace d'évolution concerné
 
-Pour évoluer en palanquée autonome : maîtrise des aptitudes PA-12 ou PA-20 selon l'espace d'évolution concerné
+Maîtrise de la gestion et l'utilisation de son matériel nitrox, de l'analyse du mélange dont la teneur en oxygène n'excède
+pas 40 % et du renseignement de la fiche d'identification de la bouteille
 
-Maîtrise de la gestion et de l'utilisation de son matériel nitrox, de l'analyse du mélange et du renseignement de la fiche
-d'identification de la bouteille
-
-Maîtrise du maintien de son équilibre et de la gestion de son profilpar rapport à la profondeur "plancher" de son mélange
+Maîtrise du maintien de son équilibre et de la gestion de son profil par rapport à la profondeur plancher de son mélange
 
 Maîtrise des moyens de décompression (table ou ordinateur nitrox)
 
-Connaissance des risques hyperoxiques liés à l'utilisation du nitrox
+Connaissance des risques hyperoxiques liés à l'utilisation du nitrox.
 
 </td>
     </tr>
     <tr>
       <td valign="top">
 
-PN-C
+PN-C (plongeur au nitrox confirmé) 
 
-plongeur au nitrox confirmé)
-
-Aptitudes à évoluer en palanquée au nitrox dans l'espace au-delà de 20 ètres et dans la limite de 60 mètres
+Aptitudes à évoluer en palanquée au nitrox et à effectuer la décompression à l'oxygène pur
 
 </td>
       <td valign="top">
+
+Pour évoluer en palanquée encadrée ou autonome : maîtrise des aptitudes à l'air correspondant à l'espace d'évolution concerné
+
+Maîtrise des aptitudes PN
+
+Maîtrise de l'utilisation et du choix du matériel avec plusieurs mélanges au nitrox au fond et en décompression et à
+l'utilisation de l'oxygène pur
+
+Maîtrise de l'équilibre et de la stabilisation à la profondeur des paliers lors des changements de mélanges
+
+Connaissance des principes de la fabrication des mélanges
 
 Pour évoluer en palanquée encadrée : maîtrise des aptitudes PE-40 ou PE-60 selon l'espace d'évolution concerné.
 
@@ -81,6 +88,10 @@ Connaissances des principes de la fabrication des mélanges.
 
 	  - Arrêté du 6 juillet 2011 - art. 5 (VD)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 5 janvier 2012 - art. 2
+	  - Arrêté du 6 avril 2012 - art. 10
+
+	**Liens**:
+
+	  - RECTIFICATION: Arrêté du 6 avril 2012 - art., v. init.

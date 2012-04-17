@@ -28,7 +28,9 @@ par la CMAS
 
 APTITUDES À PLONGER ENCADRÉ
 
-par un guide de palanquée
+(avec une personne
+
+encadrant la palanquée)
 
 </td>
       <td>
@@ -134,7 +136,7 @@ PA-60
 
 	**Modifié par**:
 
-	  - Arrêté du 5 janvier 2012 - art. 2
+	  - Arrêté du 6 avril 2012 - art. 6
 
 	**Cité par**:
 

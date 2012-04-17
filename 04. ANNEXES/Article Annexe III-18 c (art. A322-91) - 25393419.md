@@ -75,9 +75,7 @@ de la palanquée
     <tr>
       <td valign="top">
 
-Espace de 0
-
-à 40 mètres
+Espace de 0 à 40 mètres
 
 </td>
       <td valign="top">
@@ -109,14 +107,12 @@ PA-40 + PTH-40
     <tr>
       <td valign="top">
 
-Espace de 0
-
-à 60 mètres
+Espace de 0 à 70 mètres
 
 </td>
       <td valign="top">
 
-PE-60 + PTH-60
+PE-60 + PTH-70
 
 </td>
       <td valign="top">
@@ -126,12 +122,12 @@ PE-60 + PTH-60
 </td>
       <td valign="top">
 
-E4 + PTH-60
+E4 + PTH-70
 
 </td>
       <td valign="top">
 
-PA-60 + PTH-60
+PA-60 + PTH-70
 
 </td>
       <td valign="top">
@@ -143,9 +139,7 @@ PA-60 + PTH-60
     <tr>
       <td valign="top">
 
-Espace de 0
-
-à 80 mètres
+Espace de 0 à 80 mètres
 
 </td>
       <td valign="top">
@@ -205,10 +199,6 @@ PA-60 + PTH-120
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 5 janvier 2012 - art. 2
-
-	**Liens**:
-
-	  - RECTIFICATION: Arrêté du 5 janvier 2012, v. init.
+	  - Arrêté du 6 avril 2012 - art. 15
