@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-04-18
+Version Consolidée au 2012-04-21
 
 # Partie législative
 
@@ -32211,11 +32211,19 @@ l'objet d'une convention passée entre l'établissement et le ministère.
 
 ###### Article R411-12
 
-Dans chaque région, le préfet de région est le délégué territorial de l'établissement. Il est assisté d'un délégué
-territorial adjoint désigné par le directeur général sur proposition du délégué territorial, parmi les chefs des services
-déconcentrés de l'Etat chargés des sports ou leurs adjoints.
+Le préfet de région est le délégué territorial de l'établissement pour son action dans la région, notamment dans les
+conditions fixées à l'article 59-2 et aux deux premiers alinéas de l'article 59-3 du décret n° 2004-374 du 29 avril 2004
+modifié relatif aux pouvoirs des préfets, à l'organisation et à l'action de l'Etat dans les régions et départements. 
+
+Il est assisté d'un délégué territorial adjoint désigné par le directeur général sur proposition du délégué territorial,
+parmi les chefs des services déconcentrés de l'Etat chargés des sports ou leurs adjoints.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-374 du 29 avril 2004 - art. 59-2 (V)
+	  - Décret n°2004-374 du 29 avril 2004 - art. 59-3
 
 	**Anciens textes**:
 
@@ -32223,7 +32231,7 @@ déconcentrés de l'Etat chargés des sports ou leurs adjoints.
 
 	**Modifié par**:
 
-	  - Décret n°2009-548 du 15 mai 2009 - art. 7
+	  - Décret n°2012-509 du 18 avril 2012 - art. 10
 
 
 ###### Article R411-13
@@ -32406,11 +32414,19 @@ sous-section ne s'applique pas à la Corse et les subventions de fonctionnement 
 attribuées à la collectivité territoriale de Corse et affectées par délibération de l'Assemblée de Corse dans les conditions
 prévues par les dispositions de cet article. 
 
-Le préfet de Corse est le délégué territorial de l'établissement pour l'instruction des demandes de subvention d'équipement.
-Il est assisté d'un délégué territorial adjoint désigné par le directeur général sur proposition du délégué territorial,
-parmi les chefs des services déconcentrés de l'Etat chargés des sports ou leurs adjoints.
+Le préfet de Corse est le délégué territorial de l'établissement pour l'instruction des demandes de subvention d'équipement,
+notamment dans les conditions fixées à l'article 59-2 et aux deux premiers alinéas de l'article 59-3 du décret n° 2004-374 du
+29 avril 2004 modifié relatif aux pouvoirs des préfets, à l'organisation et à l'action de l'Etat dans les régions et
+départements. Il est assisté d'un délégué territorial adjoint désigné par le directeur général sur proposition du délégué
+territorial, parmi les chefs des services déconcentrés de l'Etat chargés des sports ou leurs adjoints.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2004-374 du 29 avril 2004 - art. 59-2 (V)
+	  - Décret n°2004-374 du 29 avril 2004 - art. 59-3
+	  - Code général des collectivités territoriales - art. L4424-8
 
 	**Anciens textes**:
 
@@ -32418,11 +32434,7 @@ parmi les chefs des services déconcentrés de l'Etat chargés des sports ou leu
 
 	**Modifié par**:
 
-	  - Décret n°2009-548 du 15 mai 2009 - art. 14
-
-	**Cite**:
-
-	  - Code général des collectivités territoriales - art. L4424-8 (V)
+	  - Décret n°2012-509 du 18 avril 2012 - art. 10
 
 
 ##### Paragraphe 4 : Dispositions particulières aux régions et départements d'outre-mer
