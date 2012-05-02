@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-05-01
+Version Consolidée au 2012-05-03
 
 # Partie législative
 
@@ -34522,502 +34522,6 @@ diffusion aux instances relevant de leurs champs de compétences.
 
 #####  Section 1 : L'Institut national du sport  et de l'éducation physique
 
-#####  Sous-section 1 : Fonctionnement de l'Institut
-
-#####  Paragraphe 1 : Principe d'organisation
-
-###### Article A211-1
-
-L'Institut national du sport et de l'éducation physique comprend, sous l'autorité du directeur, un secrétariat général,
-quatre départements et une unité de soutien à la préparation des sportifs en vue des jeux Olympiques et Paralympiques.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 1 (Ab)
-
-
-#####  Paragraphe 2 : Le secrétariat général
-
-###### Article A211-2
-
-Le secrétaire général de l'Institut national du sport et de l'éducation physique est nommé par arrêté du ministre chargé des
-sports après avis du directeur et du conseil d'administration de l'institut.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 2 (Ab)
-
-
-###### Article A211-3
-
-Le secrétaire général assiste le directeur pour la mise en œuvre des moyens mis à la disposition de l'institut et la
-coordination des actions des différents départements, à l'exception des activités de recherche.
-
-Il remplace le directeur en cas d'absence ou d'empêchement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 3 (Ab)
-
-
-###### Article A211-4
-
-Sont placés sous l'autorité du secrétaire général :
-
-1° Les services chargés de la gestion administrative et financière ainsi que de l'intendance ;
-
-2° Le service d'accueil et d'animation ;
-
-3° Le service chargé de l'orientation professionnelle ;
-
-4° Le service de l'audiovisuel ;
-
-5° Le service de la documentation, qui regroupe l'ensemble des moyens de documentation de l'institut et travaille en liaison
-permanente avec les départements et services.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 4 (Ab)
-
-
-#####  Paragraphe 3 : La recherche scientifique
-
-###### Article A211-5
-
-La mission de recherche scientifique fondamentale et appliquée en matière pédagogique, médicale et technique de l'Institut
-national du sport et de l'éducation physique s'exerce au sein de chaque département.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 5 (Ab)
-
-
-###### Article A211-6
-
-Un chargé de mission auprès du directeur est nommé par arrêté du ministre chargé des sports, sur proposition du directeur de
-l'institut et après avis du conseil d'administration. Il est chargé de la recherche scientifique et a pour tâche de
-coordonner les activités de recherche menées à l'Institut national du sport et de l'éducation physique. Un correspondant lui
-est désigné, à cet effet, dans chaque département.
-
-Il prend les contacts utiles avec le secteur de la recherche extérieure à l'établissement.
-
-Il prépare les conventions et accords qui peuvent éventuellement être passés en matière de recherche avec les organismes
-extérieurs à l'établissement.
-
-Un conseil d'application placé auprès du directeur assiste le chargé de mission dans ses fonctions.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 6 (Ab)
-
-
-#####  Paragraphe 4 : Le département du sport de haut niveau
-
-###### Article A211-7
-
-Le département du sport de haut niveau a pour mission :
-
-1° De contrôler les conditions d'admission et de maintien à l'Institut national du sport et de l'éducation physique des
-sportifs présentés par les organismes compétents ;
-
-2° De regrouper dans différentes sections les athlètes de haut niveau qui désirent poursuivre leurs études ou recevoir une
-formation professionnelle en bénéficiant des conditions d'entraînement de l'Institut national du sport et de l'éducation
-physique ;
-
-3° D'organiser pour les fédérations sportives des stages d'entraînement et les regroupements des équipes nationales ;
-
-4° D'accueillir, à titre individuel et de façon temporaire, les athlètes de haut niveau qui souhaitent bénéficier des
-conditions d'entraînement de l'Institut national du sport et de l'éducation physique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 7 (Ab)
-
-
-###### Article A211-8
-
-Le département du sport de haut niveau travaille en liaison avec les écoles nationales de sport et les centres de ressources,
-d'expertise et de performance sportives.
-
-Le département du sport de haut niveau traite de l'ensemble des problèmes techniques relatifs aux différentes disciplines
-sportives et ayant trait à l'entraînement de tous les athlètes en séjour à l'institut en relation avec les fédérations
-concernées.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-
-#####  Paragraphe 5 : Le département de la formation
-
-###### Article A211-9
-
-Le département de la formation a pour mission :
-
-1° D'assurer en tant que de besoin, directement ou avec le concours d'organismes spécialisés, la formation générale ou le
-complément de formation générale indispensable à l'insertion professionnelle des athlètes accueillis à l'Institut national du
-sport et de l'éducation physique ;
-
-2° D'organiser les études scolaires des athlètes accueillis à l'Institut national du sport et de l'éducation physique pour la
-durée d'une ou plusieurs années scolaires ;
-
-3° D'assurer la préparation générale et technique des athlètes accueillis par l'Institut national du sport et de l'éducation
-physique aux diplômes techniques fédéraux, aux brevets d'Etat ainsi qu'aux diplômes et concours conduisant aux carrières
-d'enseignant d'éducation physique et sportive ;
-
-4° D'organiser des stages de formation permanente dans le domaine du sport et de l'éducation physique ;
-
-5° De donner aux enseignants d'éducation physique et sportive fonctionnaires titulaires de l'Etat qui ont déjà l'expérience
-de leur profession une formation d'un niveau supérieur. Cette formation est sanctionnée par le diplôme de l'Institut national
-du sport et de l'éducation physique. Les conditions de préparation et d'obtention du diplôme sont fixées par arrêté
-interministériel ;
-
-6° D'accueillir, en accord avec le ministère des affaires étrangères et le ministère chargé de la coopération, des stagiaires
-étrangers et de leur apporter l'assistance technique et pédagogique nécessaire pour leur permettre de suivre, avec profit,
-une préparation aux différents diplômes, brevets et concours par l'Institut national du sport et de l'éducation physique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 9 (Ab)
-
-
-#####  Paragraphe 6 : Le département médical
-
-###### Article A211-10
-
-Le département médical assure :
-
-1° Un service de traitement, de traumatologie sportive et de rééducation. Il peut faire appel, dans le cadre du dispensaire
-agréé par la sécurité sociale, à des médecins spécialisés de l'Institut national du sport et de l'éducation physique ou de
-l'extérieur ;
-
-2° Un service de surveillance médicale, de détection des aptitudes, de contrôle médical et de prévention. L'environnement
-médical des athlètes de haut niveau est confié à une équipe spécialisée.
-
-Le département médical mène des activités de recherche dans le domaine de la médecine du sport.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 10 (Ab)
-
-
-#####  Paragraphe 7 : Le département « Institut de recherche biomédicale  et d'épidémiologie du sport »
-
-###### Article A211-11
-
-L'Institut de recherche biomédicale et d'épidémiologie du sport a pour missions de :
-
-1° Constituer une banque nationale de données épidémiologiques du sport de haut niveau, en liaison avec les plateaux
-techniques des hôpitaux et des centres de ressources, d'expertise et de performance sportives, ainsi qu'avec les autres
-unités de suivi médical des sportifs ;
-
-2° Encourager, conduire et développer des recherches épidémiologiques, physiopathologiques et physiologiques dans le domaine
-du sport de haut niveau ;
-
-3° Mettre en place, formaliser et animer un réseau national de recherche biomédicale et épidémiologique du sport de haut
-niveau, associant les structures assurant le suivi sanitaire des sportifs et les structures de recherche ;
-
-4° Organiser des séminaires sur des thèmes scientifiques et médicaux et contribuer à la publication des résultats des
-recherches conduites dans son domaine de compétence ;
-
-5° Accueillir en formation des chercheurs et des étudiants provenant des filières médicale, scientifique ou sportive ;
-
-6° Faciliter les relations entre le plateau technique de soins de l'Institut national du sport et de l'éducation physique et
-les services de médecine du sport de l'Assistance publique-hôpitaux de Paris, notamment par des échanges de pratiques et
-d'expériences entre les médecins de l'Institut national du sport et de l'éducation physique et les praticiens hospitaliers ou
-médecins en formation de l'Assistance publique-hôpitaux de Paris ;
-
-7° Contribuer à la formation et l'information des cadres techniques sportifs, des médecins du sport et des personnes
-concernées par la santé des sportifs sur le résultat de ses recherches.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-
-###### Article A211-12
-
-L'Institut de recherche biomédicale et d'épidémiologie du sport exerce ses missions dans le cadre d'un partenariat avec des
-organismes publics et privés qui concourent, par convention, à son activité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 12 (Ab)
-
-
-###### Article A211-13
-
-Le chef du département est nommé par arrêté du ministre chargé des sports sur proposition conjointe du président de
-l'université Paris-V-René-Descartes et du directeur de l'Institut national du sport et de l'éducation physique, et après avis
-du conseil d'administration de l'Institut national du sport et de l'éducation physique. 
-
-Il dirige les activités et le personnel de l'Institut de recherche biomédicale et d'épidémiologie du sport. Il rend compte de
-son activité devant le comité de pilotage mentionné à l'article A. 211-15. 
-
-Il prépare les projets de convention et accord qui peuvent éventuellement être passés dans le cadre de l'activité de son
-département avec les organismes extérieurs à l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. A211-15
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 14 (Ab)
-
-
-###### Article A211-14
-
-Le chef du département est assisté d'un comité scientifique composé de personnalités compétentes désignées notamment par le
-ministre chargé des sports.
-
-Le comité scientifique propose les axes de recherche et évalue les projets de recherche menés ou soutenus par le département.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 15 (Ab)
-
-
-###### Article A211-15
-
-Un comité de pilotage, constitué des parties signataires de la convention mentionnées à l'article A. 211-19 et dont le
-président est désigné par le ministre chargé des sports, est chargé de veiller au respect des objectifs fixés par cette
-convention. Il se réunit au moins deux fois par an.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Cité par**:
-
-	  - Code du sport. - art. A211-13 (Ab)
-
-	**Cite**:
-
-	  - Code du sport. - art. A211-19
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 16 (Ab)
-
-
-###### Article A211-16
-
-L'Institut de recherche biomédicale et d'épidémiologie du sport est doté d'un compte de ressources affectées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 17 (Ab)
-
-
-#####  Paragraphe 8 : L'unité de soutien à la préparation des sportifs  en vue des jeux Olympiques et Paralympiques
-
-###### Article A211-17
-
-L'unité de soutien à la préparation des sportifs en vue des jeux Olympiques et Paralympiques a pour fonction de réunir et
-gérer des moyens spécialement dédiés à la préparation des sportifs au titre de la préparation des jeux Olympiques et
-Paralympiques pour la réalisation de ses missions.
-
-Cette unité de soutien est gérée sous la responsabilité du directeurde l'Institut national du sport et de l'éducation
-physique en étroite relation avec le directeur de la préparation Olympique et Paralympique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 18 (Ab)
-
-
-###### Article A211-18
-
-L'unité de soutien à la préparation des sportifs en vue des jeux Olympiques et Paralympiques est dotée d'un compte de
-ressources affectées.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 19 (Ab)
-
-
-#####  Paragraphe 9 : Dispositions communes
-
-###### Article A211-19
-
-Les différents départements et le chargé de mission préparent les conventions et accords qui peuvent être passés par
-l'établissement avec les universités, les laboratoires et autres organismes extérieurs intéressés.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 1
-
-	**Cité par**:
-
-	  - Code du sport. - art. A211-15 (Ab)
-
-	**Anciens textes**:
-
-	  - Arrêté du 2 février 1977 - art. 11 (Ab)
-
-
 #####  Sous-section 2 : Contrôle financier
 
 ###### Article A211-20
@@ -35203,330 +34707,100 @@ sports.
 	  - Arrêté du 30 janvier 2015 - art. 1
 
 
-##### Section 2 : L'    Institut français du cheval et de l'équitation
+##### Section 1 : L'Institut national du sport, de l'expertise et de la performance
 
-#####  Sous-section 1 : Fonctionnement de l'école
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration
 
-###### Article A211-27
+###### Article A211-1
 
-Un conseil de perfectionnement assiste le directeur de l'Institut français du cheval et de l'équitation, par ses avis, dans
-la définition des objectifs et des programmes de l'école, notamment en matière de formation.
+Pour l'élection des neuf membres élus au conseil d'administration, il est constitué sept collèges : 
+
+1° Collège des personnels administratifs, techniques, ingénieurs de recherche ou de formation ; 
+
+2° Collège des professeurs ou assimilés ; 
+
+3° Collège des personnels chargés d'une mission de formation et de recherche relevant du décret n° 2006-733 du 23 juin 2006
+relatif aux emplois de cadre supérieur technique ou scientifique de l'Institut national des sports et de l'éducation
+physique ; 
+
+4° Collège des autres enseignants-chercheurs et enseignants ; 
+
+5° Collège des sportifs de haut niveau et des stagiaires en formation ; 
+
+6° Collège des personnels mentionnés à l'article R. 131-16 du code du sport ; 
+
+7° Collège des personnels médicaux et paramédicaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-733 du 23 juin 2006
+	  - Code du sport. - art. R131-16
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 2
+
+
+###### Article A211-2
+
+Sont électeurs et éligibles au sein des collèges 1°, 2°, 3°, 4° et 7° les personnels titulaires ainsi que les non-titulaires
+bénéficiant d'un contrat d'un an au moins en activité au sein de l'établissement au jour du scrutin. 
+
+Ne peuvent participer au scrutin les personnels en position de disponibilité, de congé de longue durée ou de congé parental. 
+
+Au sein du collège 5°, ne sont électeurs et éligibles que les sportifs de haut niveau inscrits au sein des pôles France de
+l'établissement, à la date de clôture du scrutin, et les stagiaires inscrits, à la date de clôture du scrutin, à un cycle de
+formation dispensé par l'établissement portant sur une période d'au moins dix mois. 
+
+Au sein du collège 6° chargé de désigner deux représentants des personnels mentionnés à l'article R. 131-16 du code du sport,
+sont constitués deux sous-collèges, le premier constitué des responsables des pôles France de l'établissement et le second de
+l'ensemble des autres personnels mentionnés à l'article R. 131-16 du code du sport exerçant au sein des pôles France de
+l'établissement. Ces personnels sont électeurs et éligibles dans le sous-collège dont ils relèvent. 
+
+Les membres d'un collège ne peuvent ni voter dans un autre collège ni être choisis par un membre d'un autre collège pour le
+représenter. 
+
+Il est établi une liste électorale par collège et sous-collège. Nul ne peut prendre part au vote s'il ne figure sur une liste
+électorale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 9
+	  - Arrêté du 12 septembre 2011 - art. 2
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Arrêté du 12 septembre 2011 - art. 4
-
-
-###### Article A211-28
-
-Le conseil de perfectionnement associe des partenaires privilégiés à la réflexion sur les activités et le rayonnement de
-l'école, dans le cadre des missions de l'établissement et dans le respect des orientations fixées par le ministre chargé des
-sports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 9 juillet 1990 - art. 2, 1ère phrase (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
+	  - Code du sport. - art. R131-16
 
 
-###### Article A211-29
+###### Article A211-3
 
-Le conseil de perfectionnement est présidé par le directeur de l'Institut français du cheval et de l'équitation et
-comprend : 
+Le directeur général de l'Institut national du sport, de l'expertise et de la performance est chargé d'établir les listes
+électorales et d'organiser toutes les opérations afférentes à l'élection des membres élus siégeant au conseil
+d'administration de l'établissement dont les modalités pratiques sont précisées en annexe II-17. 
 
-1° Le président du conseil régional des Pays de la Loire ; 
+Le directeur général de l'Institut national du sport, de l'expertise et de la performance fixe la date des élections, le lieu
+ainsi que les heures d'ouverture et de fermeture des scrutins. Les élections ont lieu quatre mois au plus et un mois au moins
+avant la date d'expiration de la durée du mandat des membres en exercice telle que fixée par l'article R. 211-4 du code du
+sport. 
 
-2° Le président du conseil général de Maine-et-Loire ; 
-
-3° Le maire de la ville de Saumur ; 
-
-4° Le président du comité économique et social des Pays de la Loire ; 
-
-5° Le recteur de l'académie de Nantes ; 
-
-6° Le général commandant de l'école d'application de l'arme blindée et de la cavalerie ; 
-
-7° Le président de l'Université d'Angers ; 
-
-8° Le président de l'Université de Poitiers ; 
-
-9° Le président de l'Université de Caen ; 
-
-10° Le directeur de l'Ecole nationale vétérinaire de Nantes ; 
-
-11° Le président de l'Union nationale interprofessionnelle du cheval ; 
-
-12° Le président du Groupement hippique national ; 
-
-13° Le président de la fédération française des exploitants d'établissements professionnels d'enseignement équestre ; 
-
-14° Le président du Syndicat national des exploitants d'établissements professionnels d'enseignement équestre ; 
-
-15° Le président du Syndicat national des enseignants de l'équitation ; 
-
-16° Le président de l'Association des amis du Cadre Noir. 
-
-Sont également membres de droit, au titre de l'Institut français du cheval et de l'équitation : 
-
-17° L'écuyer en chef ; 
-
-18° Le chef du département de la formation ; 
-
-19° Le chef du département de l'équitation. 
-
-Les membres du conseil d'administration de l'école peuvent, s'ils le souhaitent, s'associer aux travaux du conseil de
-perfectionnement.
+Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration est admis.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 9
+	  - Arrêté du 12 septembre 2011 - art. 2
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Arrêté du 12 septembre 2011 - art. 4
-
-
-###### Article A211-30
-
-Le conseil de perfectionnement se réunit à l'initiative de son président, du conseil d'administration ou à la demande d'un
-tiers de ses membres. Son ordre du jour est arrêté par son président.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 9 juillet 1990 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
-
-
-###### Article A211-31
-
-Le directeur de l'école, président du conseil de perfectionnement, fait rapport des travaux de ce dernier devant le conseil
-d'administration.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 9 juillet 1990 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
+	  - Code du sport. - art. D211-4
 
 
 #####  Sous-section 2 : Contrôle financier
-
-###### Article A211-32
-
-L'autorité chargée du contrôle financier sur l'Institut français du cheval et de l'équitation, ci-après dénommée  le
-contrôleur , exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue
-de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible
-d'être confronté.A cette fin, elle s'appuie sur une analyse des risques et de la performance. 
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Institut français du cheval et de l'équitation, les circuits et
-procédures mis en place. Il coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé
-partenarial.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2010-90 du 22 janvier 2010 - art. 9
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
-
-
-###### Article A211-33
-
-Le contrôleur assiste avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe
-consultatif existant en son sein. Il reçoit dans les mêmes conditions que leurs membres les convocations, ordres du jour et
-tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur
-établissement.
-
-En accord avec l'établissement, le contrôleur peut également assister aux réunions des autres comités.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
-
-
-###### Article A211-34
-
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit, à l'appui du projet de budget, avec ses annexes, le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement et de fonctionnement
-permettant de le renseigner sur la capacité d'engagement de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
-
-
-###### Article A211-35
-
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de
-surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il
-reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents
-suivants :
-
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
-
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
-
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts ;
-
-4° La situation des engagements ;
-
-5° La situation de trésorerie et l'état des placements ;
-
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
-
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement,
-ainsi que tout document relevant d'une cartographie des risques.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
-
-
-###### Article A211-36
-
-I. ― Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de
-l'établissement :
-
-1° Les décisions modificatives d'urgence ;
-
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements ou de mises à disposition ;
-
-3° Les acquisitions et aliénations immobilières ;
-
-4° Les contrats, conventions, marchés ou commandes ;
-
-5° Les prêts et subventions ;
-
-6° Les décisions d'attribution de garantie ;
-
-7° Les transactions ;
-
-8° Les placements financiers.
-
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de
-décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande écrite d'informations
-complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à
-l'expiration de ce délai, son visa est réputé délivré.
-
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
-
-
-###### Article A211-37
-
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
-
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
-
-
-###### Article A211-38
-
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
-
-Le contrôleur peut, en concertation avec l'ordonnateur et, le cas échéant, sur sa proposition, mettre en place un
-renforcement des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre
-chargé des sports.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 4
-
 
 #####  Section 3 : L'Ecole nationale de voile et des sports nautiques
 
@@ -35781,172 +35055,24 @@ sports.
 
 #####  Section 4 : L'Ecole nationale de ski et d'alpinisme
 
-#####  Sous-section 1 : Fonctionnement de l'école
-
-###### Article A211-50
-
-L'Ecole nationale de ski et d'alpinisme comprend, sous l'autorité du directeur, un secrétariat général, une division de la
-formation chargée des enseignements du ski alpin, de l'alpinisme et des techniques de secours, ainsi qu'une division
-médicale.
-
-Le secrétaire général et les responsables des divisions sont nommés par arrêté du ministre chargé des sports, après avis du
-directeur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Code du sport. - art. Annexe II-17-1 (Article A211-54) (V)
-
-
-###### Article A211-51
-
-Le secrétaire général assiste le directeur pour la mise œuvre des moyens mis à la disposition de l'Ecole nationale de ski et
-d'alpinisme et la coordination des actions des différentes divisions.
-
-Il remplace le directeur en cas d'absence ou d'empêchement.
-
-Lui sont rattachés :
-
-1° Les services de l'agent comptable chargé de la gestion matérielle de l'établissement ;
-
-2° Le service d'accueil, d'animation et de soutien logistique ;
-
-3° Le service de la documentation, chargé de la constitution d'un centre de documentation dans le domaine de la montagne en
-France et à l'étranger ;
-
-4° Le service de l'audiovisuel et de la reprographie.
-
-Des missions particulières peuvent être confiées à ce service, notamment en liaison avec d'autres établissements nationaux et
-organismes divers.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-
-###### Article A211-52
-
-La recherche s'exerce au sein des différentes divisions de l'école, ainsi qu'en liaison avec les organismes extérieurs
-compétents dans le domaine d'intervention de l'école, avec lesquels le directeur peut passer des conventions et accords.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Code du sport. - art. A211-54 (V)
-
-
-###### Article A211-53
-
-Dans les domaines des enseignements du ski alpin et de l'alpinisme, la division de la formation a pour principales missions
-d'assurer :
-
-1° La formation initiale et permanente des cadres professionnels et bénévoles ;
-
-2° L'accueil, la formation et le perfectionnement des athlètes français et étrangers dans le domaine du ski alpin et de
-l'alpinisme de haut niveau français et étrangers.
-
-En ce qui concerne l'enseignement des techniques de secours, la division de la formation a pour mission, dans le cadre des
-conventions passées avec les ministères concernés, d'assurer la formation des pisteurs-secouristes et des sauveteurs en
-montagne. Au plan régional et départemental, elle peut apporter sa participation à des actions de sécurité civile et de
-secours et être appelée à participer, sous l'autorité des responsables départementaux, à des opérations de secours en
-montagne.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-
-###### Article A211-54
-
-Les missions de la division de la formation telles qu'elles sont définies à l'article A. 211-52 sont assurées sous la
-responsabilité de deux professeurs-maîtres chargés respectivement du ski alpin et de l'alpinisme. Ces professeurs peuvent se
-voir confier à tout moment par le directeur de l'école des missions particulières, tant en France qu'à l'étranger.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A211-52 (V)
-
-
-###### Article A211-55
-
-En liaison avec le Conseil supérieur des sports de montagne, la division de la formation assure un rôle de conseil et de
-coordination technique et pédagogique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 5
-
-
-###### Article A211-56
-
-La division médicale, sous la responsabilité d'un médecin, est principalement chargée d'assurer :
-
-1° Un service de traitement et de traumatologie sportive ;
-
-2° L'enseignement de la physiologie, de la pathologie et du secourisme se rapportant aux sports de montagne ;
-
-3° Un service de surveillance médicale, de contrôle médico-sportif et de prévention des athlètes en stage à l'Ecole nationale
-de ski et d'alpinisme ;
-
-4° Une collaboration avec les commissions médicales des fédérations de ski et de la montagne.
-
-Elle mène des activités de recherche appliquée dans le domaine de lamédecine des sports de montagne.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 5
-
-
 #####  Sous-section 2 : Contrôle financier
 
 ###### Article A211-57
 
-L'autorité chargée du contrôle financier sur l'Ecole nationale de ski et d'alpinisme, ci-après dénommée « le contrôleur »,
+L'autorité chargée du contrôle financier sur l'Ecole nationale des sports de montagne, ci-après dénommée " le contrôleur ",
 exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue de leur
 prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible d'être
-confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance.
+confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance. 
 
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Ecole nationale de ski et d'alpinisme, les circuits et
+Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Ecole nationale des sports de montagne, les circuits et
 procédures mis en place. Il coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé
 partenarial.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 12 septembre 2011 - art. 7
 
 
 ###### Article A211-58
@@ -36086,12 +35212,149 @@ chargé des sports.
 	  - Arrêté du 28 février 2008 - art. (V)
 
 
-#####  Section 5 : Les centres d'éducation populaire et de sport
+##### Section 4 : L'Ecole nationale des sports de montagne
+
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne
+
+###### Article A211-50
+
+Pour l'élection des neuf membres élus au conseil d'administration, il est constitué neuf collèges : 
+
+1° Collège du personnel enseignant de l'Ecole nationale de ski et d'alpinisme ; 
+
+2° Collège du personnel enseignant du Centre national de ski nordique et de moyenne montagne ; 
+
+3° Collège du personnel administratif de l'Ecole nationale de ski et d'alpinisme ; 
+
+4° Collège du personnel administratif du Centre national de ski nordique et de moyenne montagne ; 
+
+5° Collège des personnels ouvriers et des personnels techniques et de service de l'Ecole nationale de ski et d'alpinisme ; 
+
+6° Collège des personnels ouvriers et des personnels techniques et de service du Centre national de ski nordique et de
+moyenne montagne ; 
+
+7° Collège des personnels médicaux, de recherche et techniciens du sport de haut niveau ; 
+
+8° Collège des stagiaires de l'Ecole nationale des sports de montagne ; 
+
+9° Collège des sportifs de haut niveau.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+	**Cité par**:
+
+	  - Code du sport. - art. Annexe II-17-1 (Article A211-54) (V)
+
+
+###### Article A211-51
+
+Sont électeurs et éligibles au sein des collèges 1° à 7° les personnels titulaires ainsi que les non-titulaires ayant cumulé
+au moins douze mois d'activité au titre des contrats passés au cours des deux dernières années à la date du scrutin, en
+activité au sein de l'établissement au jour du scrutin. 
+
+Ne peuvent participer au scrutin les personnels en position de disponibilité, de congé de longue durée ou de congé parental. 
+
+Au sein du collège 8°, ne sont électeurs et éligibles que les stagiaires inscrits à la date de clôture du scrutin à un cycle
+de formation dispensé par l'établissement portant sur une période d'au moins dix mois. 
+
+Au sein du collège 9°, ne sont électeurs et éligibles que les sportifs de haut niveau inscrits à la date de clôture du
+scrutin au sein d'une structure permanente implantée dans l'établissement. 
+
+Les membres d'un collège ne peuvent ni voter dans un autre collège ni être choisis par un membre d'un autre collège pour le
+représenter. 
+
+Il est établi une liste électorale par collège. Nul ne peut prendre part au vote s'il ne figure sur une liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+
+###### Article A211-52
+
+Les représentants des personnels exerçant leur activité sur le site de l'Ecole nationale des sports de montagne dénommé "
+Ecole nationale de ski et d'alpinisme  "   qui sont élus au conseil d'administration de l'Ecole nationale des sports de
+montagne sont élus ainsi que leurs suppléants au conseil d'orientation de l'Ecole nationale de ski et d'alpinisme. 
+
+Les représentants des stagiaires inscrits à un cycle de formation dispensé sur le site de l'Ecole nationale des sports de
+montagne dénommé " Ecole nationale de ski et d'alpinisme " ayant obtenu le premier et le deuxième plus grand nombre de
+suffrages pour l'élection au conseil d'administration de l'Ecole nationale des sports de montagne sont élus ainsi que leurs
+suppléants au conseil d'orientation de l'Ecole nationale de ski et d'alpinisme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+	**Cité par**:
+
+	  - Code du sport. - art. A211-54 (V)
+
+
+###### Article A211-53
+
+Les représentants des personnels exerçant leur activité sur le site de l'Ecole nationale des sports de montagne dénommé "
+Centre national de ski nordique et de moyenne montagne " qui sont élus au conseil d'administration de l'Ecole nationale des
+sports de montagne sont élus ainsi que leurs suppléants au conseil d'orientation du Centre national de ski nordique et de
+moyenne montagne. 
+
+Le représentant des stagiaires inscrit à un cycle de formation dispensé sur le site de l'Ecole nationale des sports de
+montagne dénommé " Centre national de ski nordique et de moyenne montagne " ayant obtenu le plus grand nombre de suffrages
+pour l'élection au conseil d'administration de l'Ecole nationale des sports de montagne est élu ainsi que son suppléant au
+conseil d'orientation du Centre national de ski nordique et de moyenne montagne. 
+
+Le représentant des sportifs de haut niveau inscrit au sein d'une structure permanente implantée sur le site de l'Ecole
+nationale des sports de montagne dénommé " Centre national de ski nordique et de moyenne montagne " ayant obtenu le plus
+grand nombre de suffrages pour l'élection au conseil d'administration de l'Ecole nationale des sports de montagne est élu
+ainsi que son suppléant au conseil d'orientation du Centre national de ski nordique et de moyenne montagne.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+
+###### Article A211-54
+
+Le directeur général de l'Ecole nationale des sports de montagne est chargé d'établir les listes électorales et d'organiser
+toutes les opérations afférentes à l'élection des membres élus siégeant au conseil d'administration de l'établissement dont
+les modalités pratiques sont précisées en annexe II-17-1. 
+
+Le directeur général de l'Ecole nationale des sports de montagne fixe la date des élections, le lieu ainsi que les heures
+d'ouverture et de fermeture des scrutins. Les élections ont lieu quatre mois au plus et un mois au moins avant la date
+d'expiration de la durée du mandat des membres en exercice telle que fixée par l'article D. 211-57 du code du sport. 
+
+Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration est admis.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+	**Cite**:
+
+	  - Code du sport. - art. D211-57
+
+
+#####  Sous-section 2 : Contrôle financier
+
+##### Section 5 : Les centres de ressources, d'expertise et de performance sportives
+
+##### Sous-section 1 : Contrôle financier
 
 ###### Article A211-64
 
 L'autorité chargée du contrôle financier sur les centres de ressources, d'expertise et de performance sportives, ci-après
-dénommée  le contrôleur , exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue
+dénommée le contrôleur , exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue
 notamment, en vue de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels
 l'établissement est susceptible d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la
 performance.
@@ -36103,7 +35366,7 @@ coordonne son intervention avec celle de l'agent comptable au titre du contrôle
 
 	**Modifié par**:
 
-	  - Décret n°2011-630 du 3 juin 2011 - art. 2 (V)
+	  - Arrêté du 12 septembre 2011 - art. 9
 
 
 ###### Article A211-65
@@ -36115,13 +35378,9 @@ tous les documents qui doivent leur être adressés avant chaque séance. Les pr
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Arrêté du 7 février 1995 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
 
 
 ###### Article A211-66
@@ -36135,13 +35394,9 @@ sur la capacité d'engagement de l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Arrêté du 7 février 1995 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
 
 
 ###### Article A211-67
@@ -36174,13 +35429,9 @@ relatives à la contribution de l'établissement à la performance du programme 
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Arrêté du 7 février 1995 - art. 4 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
 
 
 ###### Article A211-68
@@ -36221,13 +35472,9 @@ Si l'ordonnateur ne se conforme pas à l'avis donné, il informe par écrit le c
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Arrêté du 7 février 1995 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
 
 
 ###### Article A211-69
@@ -36240,13 +35487,9 @@ d'une vérification a posteriori.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Arrêté du 7 février 1995 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
 
 
 ###### Article A211-70
@@ -36261,13 +35504,98 @@ sports.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Arrêté du 7 février 1995 - art. 7 (Ab)
+	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+
+
+##### Sous-section 2 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration
+
+###### Article A211-71
+
+Pour l'élection des cinq membres élus au conseil d'administration de chacun des centres de ressources, d'expertise et de
+performance sportives, il est constitué cinq collèges : 
+
+1° Collège des personnels pédagogiques ; 
+
+2° Collège des personnels administratifs et des personnels médicaux et paramédicaux ; 
+
+3° Collège des personnels ouvriers, techniques et de service ; 
+
+4° Collège des sportifs accueillis dans les " pôles France  "   ou les " pôles Espoirs " ; 
+
+5° Collège des stagiaires en formation.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 12 septembre 2011 - art. 9
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code du sport. - art. Annexe II-18 (art. A211-73) (Ab)
+
+
+###### Article A211-72
+
+Sont électeurs et éligibles au sein des collèges 1° à 3° les personnels titulaires ainsi que les non-titulaires bénéficiant
+d'un contrat de dix mois au moins à la date de clôture du scrutin, en activité au sein de l'établissement au jour du
+scrutin. 
+
+Ne peuvent participer au scrutin les personnels en position de disponibilité, de congé de longue durée ou de congé parental. 
+
+Au sein du collège 4°, ne sont électeurs et éligibles que les sportifs inscrits, à la date de clôture du scrutin, au sein
+d'un " pôle France " ou d'un " pôle Espoirs " de l'établissement. 
+
+Au sein du collège 5°, ne sont électeurs et éligibles que les stagiaires inscrits, à la date de clôture du scrutin, à un
+cycle de formation dispensé par l'établissement portant sur une période d'au moins dix mois. 
+
+Les membres d'un collège ne peuvent ni voter dans un autre collège, ni être choisis par un membre d'un autre collège pour le
+représenter. 
+
+Il est établi une liste électorale par collège. Nul ne peut prendre part au vote s'il ne figure sur une liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 9
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
+
+
+###### Article A211-73
+
+Les directeurs des centres de ressources, d'expertise et de performance sportives sont chargés d'établir les listes
+électorales et d'organiser toutes les opérations afférentes à l'élection des membres élus siégeant au conseil
+d'administration de leur établissement, dont les modalités pratiques sont précisées en annexe II-18. 
+
+Les directeurs des centres de ressources, d'expertise et de performance sportives fixent la date des élections, le lieu ainsi
+que les heures d'ouverture et de fermeture des scrutins. Les élections ont lieu quatre mois au plus et un mois au moins avant
+la date d'expiration de la durée du mandat des membres en exercice telle que fixée par l'article D. 211-74 du code du sport. 
+
+Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration est admis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 9
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. D211-74
 
 
 ####  Chapitre II : Enseignement du sport contre rémunération
@@ -63315,134 +62643,192 @@ tout moment.
 	  - Code du sport. - art. A212-225 (V)
 
 
-###### Article Annexe II-17 (art. A222-6)
+###### Article Annexe II-17 (art. A211-3)
 
-PROGRAMME DE L'EPREUVE GENERALE
+TITRE Ier  
 
-**Droit des contrats**
+ÉTABLISSEMENT DES LISTES ÉLECTORALES 
 
-Principes et règles générales en droit des contrats :
+I-1. Le directeur général de l'Institut national du sport, de l'expertise et de la performance établit pour chaque collège et
+sous-collège la liste des électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des
+articles A. 211-1 à A. 211-3. 
 
-― formation du contrat ;
+I-2. Le directeur général de l'Institut national du sport, de l'expertise et de la performance organise la publicité de ces
+listes, notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception,
+dans les huit jours suivant la date de publicité, au directeur de l'Institut national du sport, de l'expertise et de la
+performance. Celui-ci statue sur le bien-fondé des réclamations et arrête dans le même délai la liste électorale définitive. 
 
-― exécution du contrat (notamment sanctions en cas d'inexécution ou de mauvaise exécution, responsabilité contractuelle...) ;
+TITRE II 
 
-― cessation du contrat.
+ORGANISATION DES OPÉRATIONS DE VOTE 
 
-Les contrats spéciaux (plus spécialement, le contrat d'entreprise, le contrat de mandat, le contrat de courtage, le contrat
-de commissionnaire).
+II-1. Calendrier des opérations de vote. 
 
-**Droit social**
+Le calendrier des opérations électorales est fixé ainsi qu'il suit : 
 
-Droit du travail.
+- affichage et publication des listes électorales au moins trente jours avant la date du scrutin ; 
 
-Les règles en droit du travail :
+- dépôt des actes de candidature au moins vingt et un jours avant la date du scrutin ; 
 
-― la loi et les règlements ;
+- distribution du matériel de vote, au sein de l'établissement, au moins quinze jours avant la date du scrutin ; 
 
-― la convention collective ;
+- dépouillement de tous les bulletins de vote le jour même du scrutin ; 
 
-― l'usage ;
+- proclamation des résultats le jour même du scrutin. 
 
-― le règlement intérieur d'entreprise.
+II-2 a. Organisation matérielle. 
 
-Le contrat de travail :
+Les déclarations de candidatures précisant les noms des candidats titulaires et suppléants doivent être adressées par lettre
+recommandée avec avis de réception ou déposées auprès du directeur contre récépissé. 
 
-― le contrat emploi-formation (contrat d'apprentissage, contrat de qualification...) ;
+Chaque candidature doit comprendre à la fois un membre titulaire et un membre suppléant. 
 
-― le contrat d'emploi ;
+Les candidats peuvent accompagner leur candidature d'une profession de foi. 
 
-Analyse générale du contrat d'emploi :
+II-2 b. Matériels de vote. 
 
-― définition ;
+La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique, incombe à
+l'Institut national du sport, de l'expertise et de la performance. 
 
-― exécution (obligations et prérogatives respectives de l'employeur et du salarié : plus spécialement, pouvoirs
-réglementaires et disciplinaires de l'employeur, modifications contractuelles, transfert d'entreprise ).
+L'Institut national du sport, de l'expertise et de la performance fait parvenir, en temps utile, aux électeurs, sous
+enveloppe libellée à leur nom : 
 
-Analyses particulières du contrat de travail à durée indéterminée et du contrat de travail à durée déterminée :
+- les bulletins de vote ; 
 
-― le contrat de travail à durée indéterminée (conclusion et cessation) ;
+- un exemplaire de la présente annexe ; 
 
-― le contrat de travail à durée déterminée (conclusion et cessation).
+- le cas échéant, les professions de foi des candidats. 
 
-Droit de la Sécurité sociale :
+Pour les personnes absentes de l'établissement, à cette période, pour quelque raison que ce soit, il sera procédé à un envoi
+avec avis de réception au domicile de l'électeur, sept jours au moins avant la date de clôture du scrutin. 
 
-Les organismes sociaux :
+II-2 c. Bureau de vote. 
 
-― détermination des différents organismes sociaux ;
+Les électeurs doivent exclusivement utiliser le matériel de vote fourni par l'Institut national du sport, de l'expertise et
+de la performance. 
 
-― mission des différents organismes sociaux ;
+Le vote, sous peine de nullité, doit être exprimé à l'aide d'un seul bulletin de vote ne comportant ni rature, ni signe
+distinctif, ni surcharge. Ce bulletin est glissé par l'électeur dans une enveloppe qui, également, ne doit comporter aucun
+signe de reconnaissance. 
 
-― recours à l'encontre des décisions des organismes sociaux.
+Le vote a lieu à l'Institut national du sport, de l'expertise et de la performance le jour du scrutin. 
 
-L'assujettissement à la sécurité sociale :
+Le vote par correspondance est admis pour l'ensemble des électeurs. 
 
-― le régime général ;
+Les votes par correspondance sont retirés en bloc à la poste, la veille de la date fixée pour le vote à l'Institut national
+du sport, de l'expertise et de la performance. 
 
-― les autres régimes.
+Pour les votes transmis par la poste, l'enveloppe extérieure (enveloppe n° 1), préaffranchie, ne doit comporter aucune autre
+mention que celles préimprimées. Une seconde enveloppe (enveloppe n° 2), dans laquelle est glissée une troisième enveloppe
+(enveloppe n° 3) contenant le bulletin de vote, doit comporter, lisiblement écrits, le nom, le prénom, le collège ou le sous-
+collège auquel il appartient et la signature de l'électeur. 
 
-L'assiette des cotisations sociales.
+Les électeurs qui ne peuvent voter personnellement ont la possibilité d'exercer leur droit de vote par un mandataire, en lui
+donnant procuration écrite pour voter en leur lieu et place. 
 
-**Droit des assurances**
+Le mandataire doit être inscrit sur la même liste électorale que le mandant. Nul ne peut être porteur de plus de deux
+procurations. 
 
-Définitions ;
+Les opérations électorales se déroulent publiquement dans un local d'accès facile où la liberté et le secret du vote sont
+assurés, sous le contrôle d'un bureau de vote constitué d'un président et de deux assesseurs choisis par le directeur de
+l'Institut national du sport, de l'expertise et de la performance parmi les électeurs. 
 
-Assurance responsabilité civile professionnelle ;
+Les bulletins de vote et les enveloppes nécessaires sont déposés sur une table distincte de celle où est déposée l'urne. 
 
-Assurance individuelle accident ;
+Le passage par l'isoloir est obligatoire. 
 
-Garantie ;
+Les votants sont appelés à apposer leur signature sur une liste d'émargement, avant que le bulletin ne soit introduit dans
+l'urne. Les votants doivent pouvoir justifier de leur identité. 
 
-Exclusion ;
+Avant le début du vote sur place, il est procédé au recensement des votes par correspondance. 
 
-Franchise.
+Le nom des électeurs dont émanent ces enveloppes est émargé sur les listes. 
 
-**Droit fiscal**
+Sont mises à part sans être ouvertes : 
 
-L'impôt sur le revenu des personnes physiques :
+- les enveloppes n° 2 non signées ou ne comportant pas le nom, le prénom et le collège de l'électeur ou sur lesquelles ces
+mentions sont illisibles ; 
 
-― personnes imposables (domicile fiscal, retenue à la source, conventions internationales) ;
+- les enveloppes n° 3 ou les bulletins de vote trouvés dans l'enveloppe n° 1 sans l'enveloppe n° 2. 
 
-― l'assiette de l'impôt (traitements et salaires, bénéfices non commerciaux, bénéfices industriels et commerciaux, revenus
-mobiliers).
+Entraînent la nullité du suffrage de l'électeur : 
 
-L'impôt sur les sociétés.
+- les enveloppes n° 2 multiples parvenues sous la signature d'un même électeur ; 
 
-La taxe sur la valeur ajoutée :
+- les enveloppes n° 3 portant une mention ou un signe distinctif ; 
 
-― champ d'application de la TVA (les opérations imposables par nature, les opérations non imposées, les règles de
-territorialité) ;
+- les enveloppes n° 3 parvenues en nombre multiple sous une même enveloppe n° 2 ; 
 
-― technique de la TVA (établissement de la TVA, systèmes de déduction, obligations des redevables) ;
+- les bulletins trouvés dans l'enveloppe n° 2 sans l'enveloppe n° 3. 
 
-― régime d'imposition.
+L'enveloppe contenant le bulletin de vote est introduite dans l'urne. 
 
-La taxe professionnelle.
+TITRE III 
 
-**Droit des sociétés**
+RÉSULTATS 
 
-Notions générales sur les différents types de sociétés.
+III-1. Opérations de dépouillement. 
 
-Notions générales sur les règles relatives aux difficultés des entreprises (redressement judiciaire, liquidation
-judiciaire...).
+Les opérations de dépouillement des votes s'effectuent publiquement au bureau de vote. 
 
-**Droit des associations**
+Le président du bureau de vote veille à ce que le nombre des scrutateurs soit suffisant pour assurer le dépouillement des
+votes. Le nombre de scrutateurs doit être au moins égal au nombre de personnes constituant le bureau. 
 
-Loi du 1er juillet 1901 modifiée et son décret d'application.
+Dès la clôture du scrutin, le bureau vérifie que le nombre d'enveloppes recueillies dans l'urne est bien égal au nombre des
+émargements effectués sur la liste des électeurs. 
 
-Notions générales sur l'organisation et le fonctionnement des associations.
+Chaque membre du bureau signe la liste des électeurs. 
 
-Notions générales relatives aux droits de la personnalité :
+Le dépouillement intervient aussitôt après. 
 
-― le droit à l'image ;
+Sont notamment considérés comme nuls : 
 
-― le droit au nom.
+- les enveloppes vides ; 
+
+- les bulletins trouvés dans l'urne sans enveloppe ; 
+
+- les bulletins ou enveloppes non conformes au modèle type ; 
+
+- les bulletins ou enveloppes portant un signe distinctif, des surcharges ou des ratures ; 
+
+- les bulletins différents contenus dans une même enveloppe. 
+
+Sont déclarés élus, pour chacun des collèges ou sous-collèges, le ou les candidats ainsi que leurs suppléants ayant obtenu le
+plus grand nombre de voix ; en cas d'égalité du nombre de suffrages obtenus, le candidat le plus âgé est élu. 
+
+Les résultats définitifs sont proclamés par le président du bureau de vote et consignés dans un procès-verbal récapitulatif
+du scrutin signé par le président et les assesseurs. Les bulletins nuls ainsi que les enveloppes qui ont été écartées sans
+être ouvertes sont annexés au procès-verbal. 
+
+Le procès-verbal mentionne : 
+
+1. Le nombre d'électeurs inscrits ; 
+
+2. Le nombre d'électeurs votants ; 
+
+3. Le nombre de bulletins blancs ou nuls ; 
+
+4. Le nombre de suffrages exprimés ; 
+
+5. Le nombre de suffrages recueillis par chaque candidat ; 
+
+6. Les difficultés et incidents survenus. 
+
+La copie de ce procès-verbal est affichée par les soins du directeur général de l'Institut national du sport, de l'expertise
+et de la performance. 
+
+III-2. Contestations. 
+
+Les contestations sur la validité des opérations électorales sont portées devant le directeur général de l'Institut national
+du sport, de l'expertise et de la performance dans un délai de cinq jours à compter de la proclamation des résultats. 
+
+Celui-ci doit statuer dans un délai de huit jours, à l'issue duquel la demande est réputée rejetée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 12 septembre 2011 - art. 3
 
 	**Cité par**:
 
@@ -63450,27 +62836,402 @@ Notions générales relatives aux droits de la personnalité :
 	  - Code du sport. - art. A222-7 (Ab)
 
 
-###### Article Annexe II-18 (art. A222-7)
+###### Article Annexe II-17-1 (art. A211-54)
 
-**PROGRAMME DE L'ÉPREUVE SPÉCIFIQUE**
+TITRE Ier 
 
-Législation et réglementation applicables aux activités physiques et sportives.
+ÉTABLISSEMENT DES LISTES ÉLECTORALES 
 
-Le code du sport.
+I-1. Le directeur général de l'Ecole nationale des sports de montagne établit pour chaque collège la liste des électeurs et
+des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 211-50 à A. 211-54. 
 
-Les règles relatives aux agents sportifs.
+I-2. Le directeur général de l'Ecole nationale des sports de montagne organise la publicité de ces listes, notamment par voie
+d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception, dans les huit jours suivant
+la date de publicité, au directeur de l'Ecole nationale des sports de montagne. Celui-ci statue sur le bien-fondé des
+réclamations et arrête dans le même délai la liste électorale définitive. 
 
-Les règlements nationaux de la discipline.
+TITRE II 
 
-Règlements fédéraux et règlements propres au secteur professionnel (le cas échéant).
+ORGANISATION DES OPÉRATIONS DE VOTE 
 
-Les règlements internationaux de la discipline.
+II-1. Calendrier des opérations de vote. 
+
+Le calendrier des opérations électorales est fixé ainsi qu'il suit :
+
+- affichage et publication des listes électorales au moins trente jours avant la date du scrutin ;
+
+- dépôt des actes de candidature au moins vingt et un jours avant la date du scrutin ;
+
+- distribution du matériel de vote, au sein de l'établissement, au moins quinze jours avant la date du scrutin ;
+
+- dépouillement de tous les bulletins de vote le jour même du scrutin ;
+
+- proclamation des résultats le jour même du scrutin. 
+
+II-2 a. Organisation matérielle. 
+
+Les déclarations de candidatures précisant les noms des candidats titulaires et suppléants doivent être adressées par lettre
+recommandée avec avis de réception ou déposées auprès du directeur contre récépissé. 
+
+Chaque candidature doit comprendre à la fois un membre titulaire et un membre suppléant. 
+
+Les candidats peuvent accompagner leur candidature d'une profession de foi. 
+
+II-2 b. Matériels de vote. 
+
+La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique pour les deux
+sites de l'école, incombe à l'Ecole nationale des sports de montagne. 
+
+L'Ecole nationale des sports de montagne fait parvenir, en temps utile, aux électeurs, sous enveloppe libellée à leur nom :
+
+- les bulletins de vote ;
+
+- un exemplaire de la présente annexe ;
+
+- le cas échéant, les professions de foi des candidats. 
+
+Pour les personnes absentes de l'établissement, à cette période, pour quelque raison que ce soit, il sera procédé à un envoi
+avec avis de réception au domicile de l'électeur, sept jours au moins avant la date de clôture du scrutin. 
+
+II-2 c. Bureau de vote. 
+
+Les électeurs doivent exclusivement utiliser le matériel de vote fourni par l'Ecole nationale des sports de montagne. 
+
+Le vote, sous peine de nullité, doit être exprimé à l'aide d'un seul bulletin de vote ne comportant ni rature, ni signe
+distinctif, ni surcharge. Ce bulletin est glissé par l'électeur dans une enveloppe qui, également, ne doit comporter aucun
+signe de reconnaissance. 
+
+Le vote sur place a lieu sur les deux sites de l'école, sauf pour les électeurs appartenant à un collège spécifique à un seul
+site. Il a lieu le jour du scrutin. 
+
+Le vote par correspondance est admis pour l'ensemble des électeurs. Tous les votes par correspondance, y compris ceux des
+électeurs appartenant à un collège spécifique du centre de Prémanon, sont adressés à la poste de Chamonix, site siège de
+l'école. 
+
+Les votes par correspondance sont retirés en bloc à la poste du siège de l'école, la veille de la date fixée pour le vote sur
+place. 
+
+Pour les votes transmis par la poste, l'enveloppe extérieure (enveloppe n° 1), préaffranchie, ne doit comporter aucune autre
+mention que celles préimprimées. Une seconde enveloppe (enveloppe n° 2), dans laquelle est glissée une troisième enveloppe
+(enveloppe n° 3) contenant le bulletin de vote, doit comporter, lisiblement écrits : le nom, le prénom, le collège auquel il
+appartient et la signature de l'électeur. 
+
+Les électeurs qui ne peuvent voter personnellement ont la possibilité d'exercer leur droit de vote par un mandataire, en lui
+donnant procuration écrite pour voter en leur lieu et place. 
+
+Le mandataire doit être inscrit sur la même liste électorale que le mandant. Nul ne peut être porteur de plus de deux
+procurations. 
+
+Les opérations électorales se déroulent publiquement dans un local d'accès facile où la liberté et le secret du vote sont
+assurés, sous le contrôle d'un bureau de vote constitué, pour chacun des deux sites de l'école, d'un président et de deux
+assesseurs choisis par le directeur de l'Ecole nationale des sports de montagne parmi les électeurs. 
+
+Les bulletins de vote et les enveloppes nécessaires sont déposés sur une table distincte de celle où est déposée l'urne. 
+
+Le passage par l'isoloir est obligatoire. 
+
+Les votants sont appelés à apposer leur signature sur une liste d'émargement, avant que le bulletin ne soit introduit dans
+l'urne. Les votants doivent pouvoir justifier de leur identité. 
+
+Avant le début du vote sur place au site de Chamonix, il est procédé au recensement des votes par correspondance. 
+
+Le nom des électeurs dont émanent ces enveloppes est émargé sur les listes. 
+
+Sont mises à part sans être ouvertes :
+
+- les enveloppes n° 2 non signées ou ne comportant pas le nom, prénom et le collège de l'électeur ou sur lesquelles ces
+mentions sont illisibles ;
+
+- les enveloppes n° 3 ou les bulletins de vote trouvés dans l'enveloppe n° 1 sans l'enveloppe n° 2. 
+
+Entraînent la nullité du suffrage de l'électeur :
+
+- les enveloppes n° 2 multiples parvenues sous la signature d'un même électeur ;
+
+- les enveloppes n° 3 portant une mention ou un signe distinctif ;
+
+- les enveloppes n° 3 parvenues en nombre multiple sous une même enveloppe n° 2 ;
+
+- les bulletins trouvés dans l'enveloppe n° 2 sans l'enveloppe n° 3. 
+
+L'enveloppe contenant le bulletin de vote est introduite dans l'urne. 
+
+TITRE III 
+
+RÉSULTATS 
+
+III-1. Opérations de dépouillement 
+
+Les opérations de dépouillement des votes s'effectuent publiquement au bureau de vote. 
+
+Le président du bureau de vote veille à ce que le nombre des scrutateurs soit suffisant pour assurer le dépouillement des
+votes. Le nombre de scrutateurs doit être au moins égal au nombre de personnes constituant le bureau. 
+
+Dès la clôture du scrutin, le bureau vérifie que le nombre d'enveloppes recueillies dans l'urne est bien égal au nombre des
+émargements effectués sur la liste des électeurs. 
+
+Chaque membre du bureau signe la liste des électeurs. 
+
+Le dépouillement intervient aussitôt après. 
+
+Sont notamment considérés comme nuls :
+
+- les enveloppes vides ;
+
+- les bulletins trouvés dans l'urne sans enveloppe ;
+
+- les bulletins ou enveloppes non conformes au modèle type ;
+
+- les bulletins ou enveloppes portant un signe distinctif, des surcharges ou des ratures ;
+
+- les bulletins différents contenus dans une même enveloppe. 
+
+Sont déclarés élus, pour chacun des collèges, le candidat ainsi que son suppléant ayant obtenu le plus grand nombre de voix ;
+en cas d'égalité du nombre de suffrages obtenus, le candidat le plus âgé est élu. 
+
+Les résultats du vote sur place au site de Prémanon sont consignés dans un procès-verbal signé par le président et ses
+assesseurs. Ce procès-verbal est immédiatement communiqué, par fax ou document scanné transmis par courriel, au président du
+bureau de vote de Chamonix par le président du bureau de vote de Prémanon. 
+
+Les résultats définitifs sont proclamés par le président du bureau de vote de Chamonix et consignés dans un procès-verbal
+récapitulatif du scrutin signé par le président et les assesseurs. Les bulletins nuls ainsi que les enveloppes qui ont été
+écartées sans être ouvertes sont annexés au procès-verbal. 
+
+Le procès-verbal mentionne : 
+
+1. Le nombre d'électeurs inscrits ; 
+
+2. Le nombre d'électeurs votants ; 
+
+3. Le nombre de bulletins blancs ou nuls ; 
+
+4. Le nombre de suffrages exprimés ; 
+
+5. Le nombre de suffrages recueillis par chaque candidat ; 
+
+6. Les difficultés et incidents survenus. 
+
+La copie de ce procès-verbal est affichée par les soins du directeur général de l'Ecole nationale des sports de montagne. 
+
+III-2. Contestations. 
+
+Les contestations sur la validité des opérations électorales sont portées devant le directeur général de l'Ecole nationale
+des sports de montagne dans un délai de cinq jours à compter de la proclamation des résultats. 
+
+Celui-ci doit statuer dans un délai de huit jours, à l'issue duquel la demande est réputée rejetée.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 12 septembre 2011 - art. 6
+
+	**Cite**:
+
+	  - Code du sport. - art. A211-50
+
+
+###### Article Annexe II-18 (art. A211-73)
+
+TITRE Ier 
+
+ÉTABLISSEMENT DES LISTES ÉLECTORALES 
+
+I-1. Le directeur du centre de ressources, d'expertise et de performance sportives établit pour chaque collège la liste des
+électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 211-71 à A.
+211-73. 
+
+I-2. Le directeur du centre de ressources, d'expertise et de performance sportives organise la publicité de ces listes,
+notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception, dans les
+huit jours suivant la date de publicité, au directeur du centre de ressources, d'expertise et de performance sportives.
+Celui-ci statue sur le bien-fondé des réclamations et arrête dans le même délai la liste électorale définitive. 
+
+TITRE II 
+
+ORGANISATION DES OPÉRATIONS DE VOTE 
+
+II-1. Calendrier des opérations de vote. 
+
+Le calendrier des opérations électorales est fixé ainsi qu'il suit :
+
+- affichage et publication des listes électorales au moins trente jours avant la date du scrutin ;
+
+- dépôt des actes de candidature au moins vingt et un jours avant la date du scrutin ;
+
+- distribution du matériel de vote, au sein de l'établissement, au moins quinze jours avant la date du scrutin ;
+
+- dépouillement de tous les bulletins de vote le jour même du scrutin ;
+
+- proclamation des résultats le jour même du scrutin. 
+
+II-2 a. Organisation matérielle. 
+
+Les déclarations de candidatures, précisant les noms des candidats titulaires et suppléants, doivent être adressées par
+lettre recommandée avec avis de réception ou déposées auprès du directeur contre récépissé. 
+
+Chaque candidature doit comprendre à la fois un membre titulaire et un membre suppléant. 
+
+Les candidats peuvent accompagner leur candidature d'une profession de foi. 
+
+II-2 b. Matériels de vote. 
+
+La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique, notamment
+lorsque le centre de ressources, d'expertise et de performance sportives comprend plusieurs sites, incombe au directeur du
+centre de ressources, d'expertise et de performance sportives. 
+
+Le centre de ressources, d'expertise et de performance sportives fait parvenir, en temps utile, aux électeurs, sous enveloppe
+libellée à leur nom :
+
+- les bulletins de vote ;
+
+- un exemplaire de la présente annexe ;
+
+- le cas échéant, les professions de foi des candidats. 
+
+Pour les personnes absentes de l'établissement, à cette période, pour quelque raison que ce soit, il sera procédé à un envoi
+avec avis de réception au domicile de l'électeur sept jours au moins avant la date de clôture du scrutin. 
+
+II-2 c. Bureau de vote. 
+
+Les électeurs doivent exclusivement utiliser le matériel de vote fourni par le centre de ressources, d'expertise et de
+performance sportives. 
+
+Le vote, sous peine de nullité, doit être exprimé à l'aide d'un seul bulletin de vote ne comportant ni rature, ni signe
+distinctif, ni surcharge. Ce bulletin est glissé par l'électeur dans une enveloppe qui, également, ne doit comporter aucun
+signe de reconnaissance. 
+
+Le vote sur place a lieu sur chacun des sites du centre de ressources, d'expertise et de performance sportives le jour du
+scrutin. 
+
+Le vote par correspondance est admis pour l'ensemble des électeurs. Tous les votes par correspondance sont adressés à la
+poste du site siège du centre de ressources, d'expertise et de performance sportives. 
+
+Les votes par correspondance sont retirés en bloc à la poste du siège du centre de ressources, d'expertise et de performance
+sportives, la veille de la date fixée pour le vote sur place. 
+
+Pour les votes transmis par la poste, l'enveloppe extérieure (enveloppe n° 1), préaffranchie, ne doit comporter aucune autre
+mention que celles préimprimées. Une seconde enveloppe (enveloppe n° 2), dans laquelle est glissée une troisième enveloppe
+(enveloppe n° 3) contenant le bulletin de vote, doit comporter, lisiblement écrits : le nom, le prénom, le collège auquel il
+appartient et la signature de l'électeur. 
+
+Les électeurs qui ne peuvent voter personnellement ont la possibilité d'exercer leur droit de vote par un mandataire, en lui
+donnant procuration écrite pour voter en leur lieu et place. 
+
+Le mandataire doit être inscrit sur la même liste électorale que le mandant. Nul ne peut être porteur de plus de deux
+procurations. 
+
+Les opérations électorales se déroulent publiquement dans un local d'accès facile où la liberté et le secret du vote sont
+assurés, sous le contrôle d'un bureau de vote constitué, pour chacun des sites du centre de ressources, d'expertise et de
+performance sportives, d'un président et de deux assesseurs choisis par le directeur du centre de ressources, d'expertise et
+de performance sportives parmi les électeurs. 
+
+Les bulletins de vote et les enveloppes nécessaires sont déposés sur une table distincte de celle où est déposée l'urne. 
+
+Le passage par l'isoloir est obligatoire. 
+
+Les votants sont appelés à apposer leur signature sur une liste d'émargement, avant que le bulletin ne soit introduit dans
+l'urne. Les votants doivent pouvoir justifier de leur identité. 
+
+Avant le début du vote sur place au site siège du centre de ressources, d'expertise et de performance sportives, il est
+procédé au recensement des votes par correspondance. 
+
+Le nom des électeurs dont émanent ces enveloppes est émargé sur les listes. 
+
+Sont mises à part sans être ouvertes :
+
+- les enveloppes n° 2 non signées ou ne comportant pas le nom, le prénom et le collège de l'électeur ou sur lesquelles ces
+mentions sont illisibles ;
+
+- les enveloppes n° 3 ou les bulletins de vote trouvés dans l'enveloppe n° 1 sans l'enveloppe n° 2. 
+
+Entraînent la nullité du suffrage de l'électeur :
+
+- les enveloppes n° 2 multiples parvenues sous la signature d'un même électeur ;
+
+- les enveloppes n° 3 portant une mention ou un signe distinctif ;
+
+- les enveloppes n° 3 parvenues en nombre multiple sous une même enveloppe n° 2 ;
+
+- les bulletins trouvés dans l'enveloppe n° 2 sans l'enveloppe n° 3. 
+
+L'enveloppe contenant le bulletin de vote est introduite dans l'urne. 
+
+TITRE III 
+
+RÉSULTATS 
+
+III-1. Opérations de dépouillement. 
+
+Les opérations de dépouillement des votes s'effectuent publiquement au bureau de vote. 
+
+Le président du bureau de vote veille à ce que le nombre des scrutateurs soit suffisant pour assurer le dépouillement des
+votes. Le nombre de scrutateurs doit être au moins égal au nombre de personnes constituant le bureau. 
+
+Dès la clôture du scrutin, le bureau vérifie que le nombre d'enveloppes recueillies dans l'urne est bien égal au nombre des
+émargements effectués sur la liste des électeurs. 
+
+Chaque membre du bureau signe la liste des électeurs. 
+
+Le dépouillement intervient aussitôt après. 
+
+Sont notamment considérés comme nuls :
+
+- les enveloppes vides ;
+
+- les bulletins trouvés dans l'urne sans enveloppe ;
+
+- les bulletins ou enveloppes non conformes au modèle type ;
+
+- les bulletins ou enveloppes portant un signe distinctif, des surcharges ou des ratures ;
+
+- les bulletins différents contenus dans une même enveloppe. 
+
+Sont déclarés élus, pour chacun des collèges, le candidat, ainsi que son suppléant, ayant obtenu le plus grand nombre de
+voix ; en cas d'égalité du nombre de suffrages obtenus, le candidat le plus âgé est élu. 
+
+Les résultats du vote sur place aux sites autres que le site siège du centre de ressources, d'expertise et de performance
+sportives sont consignés dans un procès-verbal signé par le président et ses assesseurs. Ce procès-verbal est immédiatement
+communiqué, par fax ou document scanné transmis par courriel, au président du bureau de vote du site siège du centre de
+ressources, d'expertise et de performance sportives. 
+
+Les résultats définitifs sont proclamés par le président du bureau de vote du site siège du centre de ressources, d'expertise
+et de performance sportives et consignés dans un procès-verbal récapitulatif du scrutin signé par le président et les
+assesseurs. Les bulletins nuls ainsi que les enveloppes qui ont été écartées sans être ouvertes sont annexés au procès-
+verbal. 
+
+Le procès-verbal mentionne : 
+
+1. Le nombre d'électeurs inscrits ; 
+
+2. Le nombre d'électeurs votants ; 
+
+3. Le nombre de bulletins blancs ou nuls ; 
+
+4. Le nombre de suffrages exprimés ; 
+
+5. Le nombre de suffrages recueillis par chaque candidat ; 
+
+6. Les difficultés et incidents survenus. 
+
+La copie de ce procès-verbal est affichée par les soins du directeur du centre de ressources, d'expertise et de performance
+sportives. 
+
+III-2. Contestations. 
+
+Les contestations sur la validité des opérations électorales sont portées devant le directeur du centre de ressources,
+d'expertise et de performance sportives dans un délai de cinq jours à compter de la proclamation des résultats. 
+
+Celui-ci doit statuer dans un délai de huit jours, à l'issue duquel la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 10
+
+	**Cite**:
+
+	  - Code du sport. - art. A211-71
 
 
 ###### Article Annexe II-19 (art. A222-14)
