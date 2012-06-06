@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-05-03
+Version Consolidée au 2012-06-07
 
 # Partie législative
 
@@ -28124,15 +28124,13 @@ représentant. Elle comprend outre son président :
 
 1° Sept représentants de l'Etat, membres de droit :
 
-a) Un représentant du ministre de la défense ;
+a) Un représentant du ministre chargé de l'équipement ;
 
-b) Un représentant du ministre chargé de l'équipement ;
+b) Trois représentants du ministre de l'intérieur ;
 
-c) Deux représentants du ministre de l'intérieur ;
+c) Un représentant du ministre chargé de la santé ;
 
-d) Un représentant du ministre chargé de la santé ;
-
-e) Deux représentants du ministre chargé des sports ;
+d) Deux représentants du ministre chargé des sports ;
 
 2° Quatre membres nommés par arrêté du ministre chargé des sports :
 
@@ -28147,8 +28145,8 @@ Siège en outre de plein droit, avec voix délibérative, un représentant de l'
 sur l'enceinte sportive concernée.
 
 La commission ne peut valablement délibérer hors de la présence du représentant de l'autorité investie du pouvoir de police
-municipale, d'un représentant du ministre chargé des sports, d'un représentant du ministre de l'intérieur, d'un représentant
-du ministre chargé de l'équipement et d'un représentant du ministre de la défense.
+municipale, d'un représentant du ministre chargé des sports, d'un représentant du ministre de l'intérieur et d'un
+représentant du ministre chargé de l'équipement.
 
 Pour chaque membre titulaire désigné en application du 2°, un suppléant est nommé dans les mêmes conditions.
 
@@ -28160,16 +28158,21 @@ Décret n° 2009-631 du 6 juin 2009 article 1 : Les dispositions réglementaires
 caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission
 nationale de sécurité des enceintes sportives).
 
+Conformément à l'article 1 du décret n° 2014-598 du 6 juin 2014, la Commission nationale de sécurité des enceintes sportives
+est renouvelée pour une durée d'un an à compter de l'entrée en vigueur du présent décret (8 juin 2015).
+
+Conformément à l'article 1 du décret n° 2015-255 du 3 mars 2015, la Commission nationale de sécurité des enceintes sportives
+est renouvelée pour une durée de cinq ans à compter de l'entrée en vigueur du présent décret (8 juin 2015).
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°93-711 du 27 mars 1993 - art. 10 (Ab)
-	  - Art. 10 du décret n°93-711 du 27 mars 1993 pris pour l'application de l'article 42-1 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
 	**Cité par**:
 
@@ -28178,6 +28181,10 @@ nationale de sécurité des enceintes sportives).
 	  - Décret n°2015-255 du 3 mars 2015 - art. 1 (V)
 	  - Code du sport. - art. A312-10 (V)
 	  - Code du sport. - art. R312-24 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 2
 
 
 ###### Article R312-23
@@ -29935,24 +29942,67 @@ application des articles L. 331-9 et L. 331-10.
 	  - Code du sport. - art. L331-9 (V)
 
 
-##### Section 4 : Epreuves et compétitions sportives sur la voie publique
+##### Section 4 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur
+
+###### Article R331-7
+
+Dans les disciplines pour lesquelles elles ont obtenu délégation, les fédérations délégataires édictent les règles techniques
+et de sécurité applicables aux manifestations mentionnées à l'article R. 331-6.
+
+Le règlement particulier des manifestations soumises à autorisation ou déclaration respecte ces règles techniques et de
+sécurité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°55-1366 du 18 octobre 1955 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
+
+	**Cité par**:
+
+	  - Code du sport. - art. ANNEXE III-21-1 (V)
+	  - Code du sport. - art. R331-8 (V)
+	  - Code du sport. - art. R331-9-1 (VD)
+
+	**Cite**:
+
+	  - Code du sport. - art. R331-6
+
+
+##### Sous-section 1 : Dispositions générales
 
 ###### Article R331-6
 
-Toute épreuve, course ou compétition sportive devant se disputer en totalité ou en partie sur une voie publique ou ouverte à
-la circulation publique, exige, pour pouvoir se dérouler, l'obtention préalable, par les organisateurs, d'une autorisation
-administrative délivrée dans les conditions et sous les garanties définies par la présente section.
+Les  manifestations sportives qui constituent des épreuves, courses ou  compétitions comportant un chronométrage et qui se
+déroulent en totalité  ou en partie sur une voie publique ou ouverte à la circulation publique  sont soumises à
+autorisation. 
+
+Les manifestations sportives qui se déroulent dans le respect du code de la route et  qui n'imposent à leurs participants
+qu'un ou plusieurs points de  rassemblement ou de contrôle, à l'exclusion d'un horaire fixé à l'avance  et de tout classement
+en fonction notamment soit de la plus grande  vitesse réalisée, soit d'une moyenne imposée, sur une partie quelconque  du
+parcours, ne sont pas soumises à l'autorisation prévue à l'alinéa  précédent. 
+
+Sont toutefois soumises à déclaration  les manifestations sportives visées au précédent alinéa prévoyant la  circulation
+groupée, en un point déterminé de la voie publique ou de ses  dépendances, de plus de 75 piétons, de plus de 50 cycles ou
+autres  véhicules ou engins non motorisés et de plus de 25 chevaux ou autres  animaux.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 1 (Ab)
-	  - Art. 1er du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
 	**Cité par**:
 
@@ -29969,119 +30019,105 @@ administrative délivrée dans les conditions et sous les garanties définies pa
 	  - Code du sport. - art. R331-7 (VD)
 	  - Code du sport. - art. R331-9 (VD)
 
+	**Modifié par**:
 
-###### Article R331-7
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
 
-L'autorisation prévue à l'article R. 331-6 ne peut être délivrée qu'en faveur des manifestations organisées par une
-association, ayant au moins six mois d'existence à dater de la publication au Journal officiel de la déclaration de
-l'association et affiliée à une fédération ayant reçu délégation ministérielle et permanente de pouvoirs pour l'organisation
-des compétitions sportives.
 
-Cette autorisation peut néanmoins être accordée à une association non affiliée à une des fédérations susvisées, sous
-condition que la demande présentée à cet effet par les organisateurs ait reçu le visa favorable du chef du service
-départemental de la jeunesse, des sports et de la vie associative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 2 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
-	  - Décret n°55-1366 du 18 octobre 1955 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Cité par**:
-
-	  - Code du sport. - art. ANNEXE III-21-1 (V)
-	  - Code du sport. - art. R331-8 (V)
-	  - Code du sport. - art. R331-9-1 (VD)
-
-	**Cite**:
-
-	  - Code du sport. - art. R331-6 (V)
-
+##### Sous-section 2 : Obligation déclarative
 
 ###### Article R331-8
 
-Le règlement particulier de toutes les épreuves et compétitions sportives, organisées par une association affiliée ou non à
-une des fédérations mentionnées à l'article R. 331-7, doit être conforme aux dispositions générales d'un règlement type
-établi pour chaque sport par les fédérations intéressées et agréé par les autorités ministérielles compétentes.
+L'organisateur  d'une manifestation soumise à déclaration dépose un dossier de  déclaration, au plus tard un mois avant la
+date de l'événement auprès du  préfet territorialement compétent. 
 
-Ce règlement particulier doit, d'autre part, répondre aux prescriptions spéciales que l'autorité administrative aura prévues
-dans l'intérêt de la circulation et de la sécurité.
+Un arrêté  conjoint du ministre de l'intérieur et du ministre chargé des sports  fixe la composition et les modalités de
+dépôt des dossiers de  déclaration.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 3 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
 
 	**Cité par**:
 
 	  - Code du sport. - art. A331-2 (VD)
 
-	**Cite**:
 
-	  - Code du sport. - art. R331-7 (V)
-
+##### Sous-section 3 : Délivrance de l'autorisation
 
 ###### Article R331-9
 
-Sauf dérogation accordée, à titre exceptionnel, par l'autorité habilitée à délivrer l'autorisation, ne peuvent être
-instruites que les demandes se rapportant à des épreuves ou à des compétitions inscrites sur un ou plusieurs calendriers
-établis, selon l'importance de ces manifestations, à l'échelon national, régional ou au moins départemental et pour chaque
-sport.
-
-La date limite du dépôt des calendriers est fixée par le ministre de l'intérieur après avis du ministre de l'éducation
-nationale et consultation des fédérations sportives intéressées.
-
-L'inscription sur un calendrier ne préjuge en aucun cas l'autorisation elle-même.
+L'autorisation prévue à l'article R. 331-6 peut être délivrée à toute personne physique ou morale.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. R331-6
+
+
+###### Article R331-9-1
+
+Toute personne souhaitant organiser une manifestation soumise à autorisation doit recueillir l'avis de la fédération
+délégataire concernée. Celle-ci rend un avis motivé au regard des règles techniques et de sécurité mentionnées à l'article R.
+331-7. 
+
+Cet avis est communiqué par tout moyen à l'organisateur et au préfet de chacun des départements traversés par la
+manifestation. 
+
+Il est réputé rendu dans un délai d'un mois à compter de la réception de la demande par la fédération. 
+
+Un arrêté du ministre chargé des sports détermine les modalités de publication de cet avis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
+
+	**Cité par**:
+
+	  - Code du sport. - art. A331-5 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. R331-7
 
 
 ###### Article R331-10
 
-L'autorisation ne peut être accordée et ne devient définitive que sur présentation d'une police d'assurances souscrite par
-l'organisateur auprès d'une ou plusieurs sociétés agréées par le ministre chargé de l'économie et des finances et
-garantissant, en cas d'accident, d'incendie ou d'explosion survenus au cours de l'épreuve ou de ses essais :
+L'organisateur  d'une manifestation soumise à autorisation adresse une demande  d'autorisation au préfet de chacun des
+départements traversés par la  manifestation. 
 
-1° Les conséquences pécuniaires de la responsabilité civile pouvant incomber aux organisateurs ou aux concurrents du fait des
-dommages corporels ou matériels causés aux spectateurs, aux tiers, aux concurrents, mais seulement pour ces derniers
-lorsqu'il s'agit d'épreuves ne comportant pas, sur la totalité de leur parcours, un usage privatif de la voie publique ;
+Si la manifestation concerne vingt départements ou plus, le dossier est également adressé au ministre de l'intérieur. 
 
-2° Les conséquences pécuniaires de la responsabilité civile pouvant incomber aux organisateurs ou aux concurrents envers les
-agents de l'Etat ou de toute autre collectivité publique, participant au service d'ordre, à l'organisation ou au contrôle de
-l'épreuve, ou envers leurs ayants droit, du fait des dommages corporels ou matériels causés auxdits agents ;
+La demande doit parvenir trois mois au moins avant la date prévue pour  le déroulement de la manifestation. Ce délai est
+réduit à deux mois  lorsque la manifestation doit se dérouler dans le cadre d'un seul  département. 
 
-3° Les conséquences pécuniaires de la responsabilité civile pouvant incomber à l'Etat, aux départements et aux communes, pour
-tous les dommages causés aux tiers par les fonctionnaires, agents ou militaires mis à la disposition de l'organisateur, ou
-leur matériel.
-
-Les conditions générales de la police précisant les limites et les modalités de l'assurance devront être conformes à un
-modèle approuvé par arrêté des ministres de l'intérieur et du ministre chargé de l'économie. Ces conditions générales
-d'assurance préciseront notamment, pour chaque sinistre survenu au cours d'une manifestation sportive, le montant minimum des
-garanties couvrant respectivement les dommages corporels et les dommages matériels.
-
-La police d'assurances devra également comporter une clause aux termes de laquelle l'assureur renoncera, en cas de sinistre,
-à tout recours contre l'Etat et les autorités départementales ou municipales ainsi que contre toute personne relevant
-desdites autorités à un titre quelconque.
+Un arrêté conjoint du ministre de  l'intérieur et du ministre chargé des sports fixe la composition et les  modalités de
+dépôt des dossiers de demande d'autorisation.
 
 **Liens relatifs à cet article**
 
@@ -30091,7 +30127,7 @@ desdites autorités à un titre quelconque.
 
 	**Modifié par**:
 
-	  - Décret n°2010-773 du 8 juillet 2010 - art. 3
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
 
 	**Cité par**:
 
@@ -30101,22 +30137,32 @@ desdites autorités à un titre quelconque.
 
 ###### Article R331-11
 
-Les organisateurs des épreuves et compétitions sportives sont débiteurs envers l'Etat des redevances correspondant à la mise
-en place du service d'ordre exceptionnel nécessaire pour assurer la sécurité du public et de la circulation à l'occasion du
-déroulement de ces manifestations et, si elles en comportent, de leurs essais.
+Dès réception d'une demande d'autorisation, le préfet saisit pour avis les autorités locales investies du pouvoir de police. 
 
-Les bases de calcul de ces redevances sont respectivement fixées par chaque ministre intéressé.
+Sauf dans le cas prévu au troisième alinéa, l'autorisation est délivrée  par le préfet, qui peut consulter pour avis la
+commission  départementale de sécurité routière et prescrire dans l'acte  d'autorisation des mesures complémentaires de
+celles prévues par  l'organisateur, dans l'intérêt de la circulation ou de la sécurité  publique. 
+
+Si la manifestation se déroule sur  vingt départements ou plus, l'autorisation est délivrée par le ministre  de l'intérieur,
+sur l'avis du préfet de chaque département traversé,  après que celui-ci a consulté la commission départementale de sécurité
+routière. Les commissions départementales peuvent recommander et le  ministre prescrire des mesures complémentaires, dans les
+conditions  prévues au deuxième alinéa. 
+
+La décision d'autorisation est publiée ou affichée et notifiée à l'auteur de la demande.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 6 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
 
 	**Cité par**:
 
@@ -30126,47 +30172,57 @@ Les bases de calcul de ces redevances sont respectivement fixées par chaque min
 
 ###### Article R331-12
 
-Le ministre de l'intérieur fixe, par arrêté, pour chaque catégorie de sport et, s'il y a lieu, pour chaque nature d'épreuves
-ou de compétitions dans un même sport, les modalités selon lesquelles sont présentées, instruites et agréées les demandes
-d'autorisation.
+L'autorisation prévue au deuxième alinéa de l'article R. 331-11 est délivrée par arrêté du préfet du département du lieu de
+départ. 
 
-Cet arrêté détermine, notamment, les documents qui devront être joints à ces demandes ainsi que les délais dans lesquels
-celles-ci devront être déposées.
+Pour les manifestations sportives en provenance de l'étranger, l'autorisation est délivrée par le préfet du département
+d'entrée en France. 
+
+Lorsque le parcours couvre plusieurs départements, l'autorisation est délivrée après accord des préfets des départements
+traversés. 
+
+Dans le cas où la manifestation comporte plusieurs points de départ situés dans des départements différents, l'autorisation
+est délivrée par le préfet du département du siège de l'organisateur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 7 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. R331-11
 
 
 ###### Article R331-13
 
-L'autorisation prévue à l'article R. 331-6 n'est pas requise pour l'organisation de manifestations sportives qui n'imposent à
-leurs participants qu'un ou plusieurs points de rassemblement ou de contrôle, à l'exclusion d'un horaire fixe et de tout
-classement en fonction soit de la plus grande vitesse réalisée, soit d'une moyenne imposée sur une partie quelconque du
-parcours.
-
-Les manifestations sportives visées au premier alinéa peuvent cependant être soumises à déclaration effectuée dans les
-conditions et selon les modalités prévues par le ministre de l'intérieur dès lors, notamment, que les points de rassemblement
-ou de contrôle des participants sont établis soit sur la voie publique ou sur ses dépendances, soit à l'intérieur d'une
-agglomération.
+L'autorisation  peut être suspendue ou rapportée à tout moment s'il apparaît que les  conditions de sécurité ne se trouvent
+plus réunies ou que  l'organisateur, malgré la mise en demeure qui lui en est faite par  l'autorité administrative, ne
+respecte plus ou ne fait plus respecter  par les participants et les spectateurs des dispositions prévues par le  règlement
+particulier de la manifestation en vue de leur protection.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 8 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
 
 	**Cité par**:
 
@@ -30174,89 +30230,143 @@ agglomération.
 
 	**Cite**:
 
-	  - Code du sport. - art. R331-6 (V)
+	  - Code du sport. - art. R331-6
 
+
+##### Sous-section 4 : Dispositions communes aux manifestations soumises à déclaration ou à autorisation
 
 ###### Article R331-14
 
-Le ministre de l'intérieur fixe, en accord avec le ministre chargé des transports, la liste des routes interdites à titre
-permanent, périodique ou provisoire, à toutes les épreuves sportives ou à certaines catégories d'entre elles en raison des
-incidences que leur déroulement peut avoir sur le plan économique, touristique ou pour la sécurité générale.
-
-Toutefois, lesdites routes pourront être soit traversées, soit empruntées sur un parcours réduit dans des conditions qui
-seront fixées par le ministre de l'intérieur et le ministre chargé des transports.
+Une manifestation ne peut débuter qu'après production à l'autorité administrative compétente des garanties d'assurance
+mentionnées à l'article L. 331-9, souscrites par l'organisateur.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 21 (Ab)
-	  - Art. 21 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
 	**Cité par**:
 
 	  - Arrêté du 30 janvier 2009 (V)
 	  - Code du sport. - art. A331-25 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. L331-9
+
 
 ###### Article R331-15
 
-Le survol des manifestations sportives et, d'une manière générale, de tout rassemblement provoqué directement ou
-indirectement par leur déroulement est soumis à l'ensemble des prescriptions prévues par la réglementation aérienne en ce qui
-concerne notamment le survol des agglomérations.
+L'organisateur  est débiteur envers l'Etat et les collectivités territoriales des  redevances représentatives du coût de la
+mise en place du service  d'ordre particulier nécessaire pour assurer la sécurité des spectateurs  et de la circulation lors
+du déroulement de la manifestation ainsi que,  le cas échéant, de sa préparation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 22 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 22 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
 
 
 ###### Article R331-16
 
-Est interdit sur les voies empruntées par les manifestations sportives et durant toute la période du déroulement de celles-ci
-le jet de tous imprimés ou objets quelconques, par toute personne participant ou assistant à ces manifestations.
-
-La distribution ou la vente des imprimés et objets mentionnés à l'alinéa précédent ne peut s'effectuer que dans les
-conditions et dans les lieux fixés par les autorités administratives compétentes.
+L'organisateur  a l'obligation de remettre en état les voies ouvertes à la circulation  publique et leurs dépendances dont il
+a obtenu l'usage privatif à  l'occasion de la manifestation.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 23 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 23 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
 
 
 ###### Article R331-17
 
-Un arrêté du ministre de l'intérieur fixe les modalités d'application et d'adaptation des dispositions de la présente section
-aux épreuves et compétitions sportives appelées à se disputer en totalité ou en partie sur le territoire métropolitain et
-organisées par toute personne domiciliée à l'étranger.
+Le  ministre de l'intérieur et le ministre chargé des transports fixent  conjointement la liste des routes interdites à titre
+permanent,  périodique ou provisoire, à toutes les manifestations sportives ou à  certaines catégories d'entre elles, en
+raison des incidences que leur  déroulement peut avoir sur l'économie, le tourisme ou la sécurité  générale. Ils peuvent
+toutefois indiquer sous quelles conditions  lesdites routes peuvent être soit traversées, soit empruntées, sur une  distance
+réduite lors de ces événements.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 24 du décret n°55-1366 du 18 octobre 1955 portant réglementation générale des épreuves et compétitions sportives sur la voie publique
 	  - Décret n°55-1366 du 18 octobre 1955 - art. 24 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
+
+
+###### Article R331-17-1
+
+La  distribution ou la vente d'imprimés ou d'objets à l'occasion d'une  manifestation ne peut se faire que dans les
+conditions et dans les lieux  fixés par les autorités administratives compétentes avec l'accord de  l'organisateur et du ou
+des propriétaires des lieux.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
+
+
+##### Sous-section 5 : Dispositions pénales
+
+###### Article R331-17-2
+
+Le fait d'organiser sans la déclaration ou l'autorisation préalables prévues à l'article R. 331-6 une manifestation sportive
+est puni des peines prévues pour les contraventions de la cinquième classe. 
+
+Est puni des peines prévues pour les contraventions de la cinquième classe le fait, par l'organisateur, de ne pas respecter
+ou de ne pas faire respecter les prescriptions figurant dans l'autorisation administrative qui lui a été délivrée. 
+
+Est puni de l'amende prévue pour les contraventions de la troisième classe le fait de participer sciemment à une
+manifestation sportive non autorisée alors qu'elle était soumise à autorisation en application de l'article R. 331-6.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 3
+
+	**Cité par**:
+
+	  - Code de procédure pénale - art. R48-1 (VT)
+
+	**Cite**:
+
+	  - Code du sport. - art. R331-6
 
 
 ##### Section 5 : Concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
@@ -30514,32 +30624,6 @@ correctives que le dossier de la demande doit comprendre.
 	  - Code de l'urbanisme - art. L421-2
 
 
-###### Article R331-25
-
-Les organisateurs d'une manifestation qui ont leur siège ou leur résidence à l'étranger doivent présenter leur demande
-d'autorisation simultanément à la fédération délégataire de la discipline, lorsqu'elle existe, et, selon le cas, au ministre
-de l'intérieur et aux préfets des départements traversés ou aux seuls préfets, dans les délais prévus à l'article R. 331-24.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 26 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
-	  - Décret n°2006-554 du 16 mai 2006 - art. 26 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2012-312 du 5 mars 2012 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. R331-24
-
-
 ###### Article R331-26
 
 Dès réception d'une demande d'autorisation, le préfet saisit pour avis les autorités locales investies du pouvoir de police. 
@@ -30589,6 +30673,31 @@ La décision d'autorisation est publiée et notifiée à l'auteur de la demande.
 	  - Code de l'environnement - art. L362-3
 
 
+###### Article R331-26-1
+
+L'autorisation prévue au deuxième alinéa de l'article R. 331-26 est délivrée par arrêté du préfet du département du lieu de
+départ. 
+
+Pour les concentrations ou manifestations sportives en provenance de l'étranger, l'autorisation est délivrée par le préfet du
+département d'entrée en France. 
+
+Lorsque le parcours couvre plusieurs départements, l'autorisation est délivrée après accord des préfets des départements
+traversés. 
+
+Dans le cas où la manifestation comporte plusieurs points de départ situés dans des départements différents, l'autorisation
+est délivrée par le préfet du département du siège de l'organisateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2012-312 du 5 mars 2012 - art. 4
+
+	**Cite**:
+
+	  - Code du sport. - art. R331-26
+
+
 ###### Article R331-27
 
 Toute concentration ou manifestation autorisée ne peut débuter qu'après la production par l'organisateur technique à
@@ -30627,28 +30736,6 @@ de la manifestation en vue de leur protection.
 
 
 ##### Sous-section 4 : Dispositions communes aux événements soumis à déclaration ou à autorisation.
-
-###### Article R331-29
-
-Les fédérations sportives agréées ou délégataires font parvenir le calendrier des concentrations et manifestations organisées
-par les groupements sportifs qui leur sont affiliés à l'autorité administrative appelée à recevoir la déclaration ou à
-délivrer l'autorisation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 25 du décret n°2006-554 du 16 mai 2006 relatif aux concentrations et manifestations organisées sur les voies ouvertes ou dans les lieux non ouverts à la circulation publique et comportant la participation de véhicules terrestres à moteur
-	  - Décret n°2006-554 du 16 mai 2006 - art. 25 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2012-312 du 5 mars 2012 - art. 4
-
 
 ###### Article R331-30
 
@@ -34520,7 +34607,98 @@ diffusion aux instances relevant de leurs champs de compétences.
 
 ####  Chapitre Ier : Formation aux professions du sport
 
-#####  Section 1 : L'Institut national du sport  et de l'éducation physique
+##### Section 1 : L'Institut national du sport, de l'expertise et de la performance
+
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration
+
+###### Article A211-1
+
+Pour l'élection des neuf membres élus au conseil d'administration, il est constitué sept collèges : 
+
+1° Collège des personnels administratifs, techniques, ingénieurs de recherche ou de formation ; 
+
+2° Collège des professeurs ou assimilés ; 
+
+3° Collège des personnels chargés d'une mission de formation et de recherche relevant du décret n° 2006-733 du 23 juin 2006
+relatif aux emplois de cadre supérieur technique ou scientifique de l'Institut national des sports et de l'éducation
+physique ; 
+
+4° Collège des autres enseignants-chercheurs et enseignants ; 
+
+5° Collège des sportifs de haut niveau et des stagiaires en formation ; 
+
+6° Collège des personnels mentionnés à l'article R. 131-16 du code du sport ; 
+
+7° Collège des personnels médicaux et paramédicaux.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-733 du 23 juin 2006
+	  - Code du sport. - art. R131-16
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 2
+
+
+###### Article A211-2
+
+Sont électeurs et éligibles au sein des collèges 1°, 2°, 3°, 4° et 7° les personnels titulaires ainsi que les non-titulaires
+bénéficiant d'un contrat d'un an au moins en activité au sein de l'établissement au jour du scrutin. 
+
+Ne peuvent participer au scrutin les personnels en position de disponibilité, de congé de longue durée ou de congé parental. 
+
+Au sein du collège 5°, ne sont électeurs et éligibles que les sportifs de haut niveau inscrits au sein des pôles France de
+l'établissement, à la date de clôture du scrutin, et les stagiaires inscrits, à la date de clôture du scrutin, à un cycle de
+formation dispensé par l'établissement portant sur une période d'au moins dix mois. 
+
+Au sein du collège 6° chargé de désigner deux représentants des personnels mentionnés à l'article R. 131-16 du code du sport,
+sont constitués deux sous-collèges, le premier constitué des responsables des pôles France de l'établissement et le second de
+l'ensemble des autres personnels mentionnés à l'article R. 131-16 du code du sport exerçant au sein des pôles France de
+l'établissement. Ces personnels sont électeurs et éligibles dans le sous-collège dont ils relèvent. 
+
+Les membres d'un collège ne peuvent ni voter dans un autre collège ni être choisis par un membre d'un autre collège pour le
+représenter. 
+
+Il est établi une liste électorale par collège et sous-collège. Nul ne peut prendre part au vote s'il ne figure sur une liste
+électorale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. R131-16
+
+
+###### Article A211-3
+
+Le directeur général de l'Institut national du sport, de l'expertise et de la performance est chargé d'établir les listes
+électorales et d'organiser toutes les opérations afférentes à l'élection des membres élus siégeant au conseil
+d'administration de l'établissement dont les modalités pratiques sont précisées en annexe II-17. 
+
+Le directeur général de l'Institut national du sport, de l'expertise et de la performance fixe la date des élections, le lieu
+ainsi que les heures d'ouverture et de fermeture des scrutins. Les élections ont lieu quatre mois au plus et un mois au moins
+avant la date d'expiration de la durée du mandat des membres en exercice telle que fixée par l'article R. 211-4 du code du
+sport. 
+
+Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration est admis.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. D211-4
+
 
 #####  Sous-section 2 : Contrôle financier
 
@@ -34706,101 +34884,6 @@ sports.
 
 	  - Arrêté du 30 janvier 2015 - art. 1
 
-
-##### Section 1 : L'Institut national du sport, de l'expertise et de la performance
-
-##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration
-
-###### Article A211-1
-
-Pour l'élection des neuf membres élus au conseil d'administration, il est constitué sept collèges : 
-
-1° Collège des personnels administratifs, techniques, ingénieurs de recherche ou de formation ; 
-
-2° Collège des professeurs ou assimilés ; 
-
-3° Collège des personnels chargés d'une mission de formation et de recherche relevant du décret n° 2006-733 du 23 juin 2006
-relatif aux emplois de cadre supérieur technique ou scientifique de l'Institut national des sports et de l'éducation
-physique ; 
-
-4° Collège des autres enseignants-chercheurs et enseignants ; 
-
-5° Collège des sportifs de haut niveau et des stagiaires en formation ; 
-
-6° Collège des personnels mentionnés à l'article R. 131-16 du code du sport ; 
-
-7° Collège des personnels médicaux et paramédicaux.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2006-733 du 23 juin 2006
-	  - Code du sport. - art. R131-16
-
-	**Modifié par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 2
-
-
-###### Article A211-2
-
-Sont électeurs et éligibles au sein des collèges 1°, 2°, 3°, 4° et 7° les personnels titulaires ainsi que les non-titulaires
-bénéficiant d'un contrat d'un an au moins en activité au sein de l'établissement au jour du scrutin. 
-
-Ne peuvent participer au scrutin les personnels en position de disponibilité, de congé de longue durée ou de congé parental. 
-
-Au sein du collège 5°, ne sont électeurs et éligibles que les sportifs de haut niveau inscrits au sein des pôles France de
-l'établissement, à la date de clôture du scrutin, et les stagiaires inscrits, à la date de clôture du scrutin, à un cycle de
-formation dispensé par l'établissement portant sur une période d'au moins dix mois. 
-
-Au sein du collège 6° chargé de désigner deux représentants des personnels mentionnés à l'article R. 131-16 du code du sport,
-sont constitués deux sous-collèges, le premier constitué des responsables des pôles France de l'établissement et le second de
-l'ensemble des autres personnels mentionnés à l'article R. 131-16 du code du sport exerçant au sein des pôles France de
-l'établissement. Ces personnels sont électeurs et éligibles dans le sous-collège dont ils relèvent. 
-
-Les membres d'un collège ne peuvent ni voter dans un autre collège ni être choisis par un membre d'un autre collège pour le
-représenter. 
-
-Il est établi une liste électorale par collège et sous-collège. Nul ne peut prendre part au vote s'il ne figure sur une liste
-électorale.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. R131-16
-
-
-###### Article A211-3
-
-Le directeur général de l'Institut national du sport, de l'expertise et de la performance est chargé d'établir les listes
-électorales et d'organiser toutes les opérations afférentes à l'élection des membres élus siégeant au conseil
-d'administration de l'établissement dont les modalités pratiques sont précisées en annexe II-17. 
-
-Le directeur général de l'Institut national du sport, de l'expertise et de la performance fixe la date des élections, le lieu
-ainsi que les heures d'ouverture et de fermeture des scrutins. Les élections ont lieu quatre mois au plus et un mois au moins
-avant la date d'expiration de la durée du mandat des membres en exercice telle que fixée par l'article R. 211-4 du code du
-sport. 
-
-Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration est admis.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. D211-4
-
-
-#####  Sous-section 2 : Contrôle financier
 
 #####  Section 3 : L'Ecole nationale de voile et des sports nautiques
 
@@ -35053,7 +35136,138 @@ sports.
 	  - Arrêté du 28 février 2008 - art. (V)
 
 
-#####  Section 4 : L'Ecole nationale de ski et d'alpinisme
+##### Section 4 : L'Ecole nationale des sports de montagne
+
+##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne
+
+###### Article A211-50
+
+Pour l'élection des neuf membres élus au conseil d'administration, il est constitué neuf collèges : 
+
+1° Collège du personnel enseignant de l'Ecole nationale de ski et d'alpinisme ; 
+
+2° Collège du personnel enseignant du Centre national de ski nordique et de moyenne montagne ; 
+
+3° Collège du personnel administratif de l'Ecole nationale de ski et d'alpinisme ; 
+
+4° Collège du personnel administratif du Centre national de ski nordique et de moyenne montagne ; 
+
+5° Collège des personnels ouvriers et des personnels techniques et de service de l'Ecole nationale de ski et d'alpinisme ; 
+
+6° Collège des personnels ouvriers et des personnels techniques et de service du Centre national de ski nordique et de
+moyenne montagne ; 
+
+7° Collège des personnels médicaux, de recherche et techniciens du sport de haut niveau ; 
+
+8° Collège des stagiaires de l'Ecole nationale des sports de montagne ; 
+
+9° Collège des sportifs de haut niveau.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+	**Cité par**:
+
+	  - Code du sport. - art. Annexe II-17-1 (Article A211-54) (V)
+
+
+###### Article A211-51
+
+Sont électeurs et éligibles au sein des collèges 1° à 7° les personnels titulaires ainsi que les non-titulaires ayant cumulé
+au moins douze mois d'activité au titre des contrats passés au cours des deux dernières années à la date du scrutin, en
+activité au sein de l'établissement au jour du scrutin. 
+
+Ne peuvent participer au scrutin les personnels en position de disponibilité, de congé de longue durée ou de congé parental. 
+
+Au sein du collège 8°, ne sont électeurs et éligibles que les stagiaires inscrits à la date de clôture du scrutin à un cycle
+de formation dispensé par l'établissement portant sur une période d'au moins dix mois. 
+
+Au sein du collège 9°, ne sont électeurs et éligibles que les sportifs de haut niveau inscrits à la date de clôture du
+scrutin au sein d'une structure permanente implantée dans l'établissement. 
+
+Les membres d'un collège ne peuvent ni voter dans un autre collège ni être choisis par un membre d'un autre collège pour le
+représenter. 
+
+Il est établi une liste électorale par collège. Nul ne peut prendre part au vote s'il ne figure sur une liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+
+###### Article A211-52
+
+Les représentants des personnels exerçant leur activité sur le site de l'Ecole nationale des sports de montagne dénommé "
+Ecole nationale de ski et d'alpinisme  "   qui sont élus au conseil d'administration de l'Ecole nationale des sports de
+montagne sont élus ainsi que leurs suppléants au conseil d'orientation de l'Ecole nationale de ski et d'alpinisme. 
+
+Les représentants des stagiaires inscrits à un cycle de formation dispensé sur le site de l'Ecole nationale des sports de
+montagne dénommé " Ecole nationale de ski et d'alpinisme " ayant obtenu le premier et le deuxième plus grand nombre de
+suffrages pour l'élection au conseil d'administration de l'Ecole nationale des sports de montagne sont élus ainsi que leurs
+suppléants au conseil d'orientation de l'Ecole nationale de ski et d'alpinisme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+	**Cité par**:
+
+	  - Code du sport. - art. A211-54 (V)
+
+
+###### Article A211-53
+
+Les représentants des personnels exerçant leur activité sur le site de l'Ecole nationale des sports de montagne dénommé "
+Centre national de ski nordique et de moyenne montagne " qui sont élus au conseil d'administration de l'Ecole nationale des
+sports de montagne sont élus ainsi que leurs suppléants au conseil d'orientation du Centre national de ski nordique et de
+moyenne montagne. 
+
+Le représentant des stagiaires inscrit à un cycle de formation dispensé sur le site de l'Ecole nationale des sports de
+montagne dénommé " Centre national de ski nordique et de moyenne montagne " ayant obtenu le plus grand nombre de suffrages
+pour l'élection au conseil d'administration de l'Ecole nationale des sports de montagne est élu ainsi que son suppléant au
+conseil d'orientation du Centre national de ski nordique et de moyenne montagne. 
+
+Le représentant des sportifs de haut niveau inscrit au sein d'une structure permanente implantée sur le site de l'Ecole
+nationale des sports de montagne dénommé " Centre national de ski nordique et de moyenne montagne " ayant obtenu le plus
+grand nombre de suffrages pour l'élection au conseil d'administration de l'Ecole nationale des sports de montagne est élu
+ainsi que son suppléant au conseil d'orientation du Centre national de ski nordique et de moyenne montagne.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+
+###### Article A211-54
+
+Le directeur général de l'Ecole nationale des sports de montagne est chargé d'établir les listes électorales et d'organiser
+toutes les opérations afférentes à l'élection des membres élus siégeant au conseil d'administration de l'établissement dont
+les modalités pratiques sont précisées en annexe II-17-1. 
+
+Le directeur général de l'Ecole nationale des sports de montagne fixe la date des élections, le lieu ainsi que les heures
+d'ouverture et de fermeture des scrutins. Les élections ont lieu quatre mois au plus et un mois au moins avant la date
+d'expiration de la durée du mandat des membres en exercice telle que fixée par l'article D. 211-57 du code du sport. 
+
+Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration est admis.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 12 septembre 2011 - art. 5
+
+	**Cite**:
+
+	  - Code du sport. - art. D211-57
+
 
 #####  Sous-section 2 : Contrôle financier
 
@@ -35211,141 +35425,6 @@ chargé des sports.
 
 	  - Arrêté du 28 février 2008 - art. (V)
 
-
-##### Section 4 : L'Ecole nationale des sports de montagne
-
-##### Sous-section 1 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration de l'Ecole nationale des sports de montagne et aux conseils d'orientation de l'Ecole nationale de ski et d'alpinisme et du Centre national de ski nordique et de moyenne montagne
-
-###### Article A211-50
-
-Pour l'élection des neuf membres élus au conseil d'administration, il est constitué neuf collèges : 
-
-1° Collège du personnel enseignant de l'Ecole nationale de ski et d'alpinisme ; 
-
-2° Collège du personnel enseignant du Centre national de ski nordique et de moyenne montagne ; 
-
-3° Collège du personnel administratif de l'Ecole nationale de ski et d'alpinisme ; 
-
-4° Collège du personnel administratif du Centre national de ski nordique et de moyenne montagne ; 
-
-5° Collège des personnels ouvriers et des personnels techniques et de service de l'Ecole nationale de ski et d'alpinisme ; 
-
-6° Collège des personnels ouvriers et des personnels techniques et de service du Centre national de ski nordique et de
-moyenne montagne ; 
-
-7° Collège des personnels médicaux, de recherche et techniciens du sport de haut niveau ; 
-
-8° Collège des stagiaires de l'Ecole nationale des sports de montagne ; 
-
-9° Collège des sportifs de haut niveau.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 5
-
-	**Cité par**:
-
-	  - Code du sport. - art. Annexe II-17-1 (Article A211-54) (V)
-
-
-###### Article A211-51
-
-Sont électeurs et éligibles au sein des collèges 1° à 7° les personnels titulaires ainsi que les non-titulaires ayant cumulé
-au moins douze mois d'activité au titre des contrats passés au cours des deux dernières années à la date du scrutin, en
-activité au sein de l'établissement au jour du scrutin. 
-
-Ne peuvent participer au scrutin les personnels en position de disponibilité, de congé de longue durée ou de congé parental. 
-
-Au sein du collège 8°, ne sont électeurs et éligibles que les stagiaires inscrits à la date de clôture du scrutin à un cycle
-de formation dispensé par l'établissement portant sur une période d'au moins dix mois. 
-
-Au sein du collège 9°, ne sont électeurs et éligibles que les sportifs de haut niveau inscrits à la date de clôture du
-scrutin au sein d'une structure permanente implantée dans l'établissement. 
-
-Les membres d'un collège ne peuvent ni voter dans un autre collège ni être choisis par un membre d'un autre collège pour le
-représenter. 
-
-Il est établi une liste électorale par collège. Nul ne peut prendre part au vote s'il ne figure sur une liste électorale.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 5
-
-
-###### Article A211-52
-
-Les représentants des personnels exerçant leur activité sur le site de l'Ecole nationale des sports de montagne dénommé "
-Ecole nationale de ski et d'alpinisme  "   qui sont élus au conseil d'administration de l'Ecole nationale des sports de
-montagne sont élus ainsi que leurs suppléants au conseil d'orientation de l'Ecole nationale de ski et d'alpinisme. 
-
-Les représentants des stagiaires inscrits à un cycle de formation dispensé sur le site de l'Ecole nationale des sports de
-montagne dénommé " Ecole nationale de ski et d'alpinisme " ayant obtenu le premier et le deuxième plus grand nombre de
-suffrages pour l'élection au conseil d'administration de l'Ecole nationale des sports de montagne sont élus ainsi que leurs
-suppléants au conseil d'orientation de l'Ecole nationale de ski et d'alpinisme.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 5
-
-	**Cité par**:
-
-	  - Code du sport. - art. A211-54 (V)
-
-
-###### Article A211-53
-
-Les représentants des personnels exerçant leur activité sur le site de l'Ecole nationale des sports de montagne dénommé "
-Centre national de ski nordique et de moyenne montagne " qui sont élus au conseil d'administration de l'Ecole nationale des
-sports de montagne sont élus ainsi que leurs suppléants au conseil d'orientation du Centre national de ski nordique et de
-moyenne montagne. 
-
-Le représentant des stagiaires inscrit à un cycle de formation dispensé sur le site de l'Ecole nationale des sports de
-montagne dénommé " Centre national de ski nordique et de moyenne montagne " ayant obtenu le plus grand nombre de suffrages
-pour l'élection au conseil d'administration de l'Ecole nationale des sports de montagne est élu ainsi que son suppléant au
-conseil d'orientation du Centre national de ski nordique et de moyenne montagne. 
-
-Le représentant des sportifs de haut niveau inscrit au sein d'une structure permanente implantée sur le site de l'Ecole
-nationale des sports de montagne dénommé " Centre national de ski nordique et de moyenne montagne " ayant obtenu le plus
-grand nombre de suffrages pour l'élection au conseil d'administration de l'Ecole nationale des sports de montagne est élu
-ainsi que son suppléant au conseil d'orientation du Centre national de ski nordique et de moyenne montagne.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 5
-
-
-###### Article A211-54
-
-Le directeur général de l'Ecole nationale des sports de montagne est chargé d'établir les listes électorales et d'organiser
-toutes les opérations afférentes à l'élection des membres élus siégeant au conseil d'administration de l'établissement dont
-les modalités pratiques sont précisées en annexe II-17-1. 
-
-Le directeur général de l'Ecole nationale des sports de montagne fixe la date des élections, le lieu ainsi que les heures
-d'ouverture et de fermeture des scrutins. Les élections ont lieu quatre mois au plus et un mois au moins avant la date
-d'expiration de la durée du mandat des membres en exercice telle que fixée par l'article D. 211-57 du code du sport. 
-
-Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration est admis.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 5
-
-	**Cite**:
-
-	  - Code du sport. - art. D211-57
-
-
-#####  Sous-section 2 : Contrôle financier
 
 ##### Section 5 : Les centres de ressources, d'expertise et de performance sportives
 
