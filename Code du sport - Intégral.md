@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-08-02
+Version Consolidée au 2012-08-08
 
 # Partie législative
 
@@ -8909,8 +8909,8 @@ consultative de prévention des violences lors des manifestations sportives, tou
 pour objet le soutien à une association sportive mentionnée à l'article L. 122-1, dont des membres ont commis en réunion, en
 relation ou à l'occasion d'une manifestation sportive, des actes répétés ou un acte d'une particulière gravité et qui sont
 constitutifs de dégradations de biens, de violence sur des personnes ou d'incitation à la haine ou à la discrimination contre
-des personnes à raison de leur origine, de leur orientation sexuelle, de leur sexe ou de leur appartenance, vraie ou
-supposée, à une ethnie, une nation, une race ou une religion déterminée. 
+des personnes à raison de leur origine, de leur orientation ou identité sexuelle, de leur sexe ou de leur appartenance, vraie
+ou supposée, à une ethnie, une nation, une race ou une religion déterminée. 
 
 Les représentants des associations ou groupements de fait et les dirigeants de club concernés peuvent présenter leurs
 observations à la commission. 
@@ -8941,7 +8941,7 @@ Les conditions de fonctionnement de la commission sont fixées par décret en Co
 
 	**Modifié par**:
 
-	  - Loi n°2010-201 du 2 mars 2010 - art. 10
+	  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 	**Cite**:
 
@@ -8960,8 +8960,8 @@ vu interdire en application du même article, sont punis de deux ans d'emprisonn
 
 Les peines prévues aux premier et deuxième alinéas sont portées respectivement à trois ans d'emprisonnement et 45 000 euros
 d'amende et à cinq ans d'emprisonnement et 75 000 euros d'amende si les infractions à l'origine de la dissolution ou de la
-suspension de l'association ou du groupement ont été commises à raison de l'origine de la victime, de son orientation
-sexuelle, de son sexe ou de son appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion
+suspension de l'association ou du groupement ont été commises à raison de l'origine de la victime, de son orientation ou
+identité sexuelle, de son sexe ou de son appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion
 déterminée.
 
 **Liens relatifs à cet article**
@@ -8972,7 +8972,7 @@ déterminée.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 65
+	  - Loi n°2012-954 du 6 août 2012 - art. 4
 
 	**Cité par**:
 
