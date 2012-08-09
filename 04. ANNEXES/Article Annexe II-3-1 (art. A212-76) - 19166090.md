@@ -90,7 +90,7 @@ relations avec une autorité élue " ;
 - ils sont responsables de la qualité des relations individuelles et / ou collectives avec les compétiteurs. 
 
 Dans ce cadre, les modes d'intervention de ce professionnel s'inscrivent dans une logique de travail collectif et partenarial
-pour : 
+et de sensibilisation à l'environnement et au développement durable pour : 
 
 - préparer le projet stratégique de performance dans un champ disciplinaire ; 
 
@@ -103,7 +103,7 @@ pour :
 - organiser des actions de formation de formateurs dans le cadre des réseaux professionnels de l'organisation. 
 
 (2) Cf. rapport d'étude sur les référentiels professionnel et de formation des entraîneurs nationaux Chef de projet
-performance  (2006), MJSVA-INSEP. 
+performance (2006), MJSVA-INSEP. 
 
 2.5. Situation fonctionnelle 
 
@@ -269,6 +269,6 @@ E. - Organiser des actions de formation de formateurs dans le cadre des réseaux
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 1er juillet 2008 - art. 3
+	  - Arrêté du 16 juillet 2012 - art. 2
