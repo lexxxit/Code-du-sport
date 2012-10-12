@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-08-10
+Version Consolidée au 2012-10-13
 
 # Partie législative
 
@@ -19978,21 +19978,40 @@ date au 2 avril 2010.
 
 ###### Article D212-67
 
-Le brevet d'Etat d'alpinisme et le brevet d'Etat de ski pour l'encadrement et l'enseignement des sports de montagne
-constituent les diplômes prévus à l'article L. 212-2 conférant à leur titulaire le droit d'exercer contre rémunération dans
-la spécialité correspondante. 
+Les diplômes permettant l'enseignement, l'encadrement et l'entraînement contre rémunération des sports de montagne, chacun
+dans la spécialité correspondante, sont les suivants : 
 
-Ils sanctionnent :
+1° Le diplôme d'Etat de ski-moniteur national de ski alpin ; 
 
-- une formation générale commune aux métiers sportifs de la montagne ;
+2° Le diplôme d'Etat de ski-moniteur national de ski alpin spécialisé en entraînement ; 
 
-- une formation spécifique à chacun d'eux pouvant comporter des options.
+3° Le diplôme d'Etat de ski-moniteur national de ski nordique de fond ; 
+
+4° Le diplôme d'Etat de ski-moniteur national de ski nordique de fond spécialisé en entraînement ; 
+
+5° Le diplôme d'Etat d'alpinisme-guide de haute montagne ; 
+
+6° Le diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne.
+
+**Nota:**
+
+Décret n° 2010-1409 du 12 novembre 2010, article 2 : Les dispositions de l'article D. 212-67 du code du sport s'appliquent à
+compter de la publication de l'arrêté mentionné à l'article D. 212-69-2, fixant les programmes de formation et les modalités
+d'obtention de chacun des diplômes.
+
+L'arrêté du 1er octobre 2012 relatif à la formation générale commune aux métiers d'enseignement, d'encadrement et
+d'entraînement des sports de montagne, mentionné à l'article D. 212-69-2 est paru au Journal officiel de la République
+française du 12 octobre 2012.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2010-1409 du 12 novembre 2010 - art. 1
 
 	**Cité par**:
 
@@ -20002,49 +20021,121 @@ Ils sanctionnent :
 	  - Arrêté du 25 septembre 2014 - art. 1 (V)
 	  - Code du sport. - art. A212-168 (VT)
 
-	**Anciens textes**:
-
-	  - Art. 1er du décret n°76-556 du 7 juin 1976 relatif à l'encadrement et à l'enseignement des sports de montagne
-
 	**Cite**:
 
-	  - Code du sport. - art. L212-2 (V)
+	  - Code du sport. - art. L212-2
 
 
 ###### Article D212-68
 
-La définition des options, les programmes de formation et les modalités pratiques d'obtention de ces brevets d'Etat sont
-fixés par arrêté du ministre chargé des sports.
+Les diplômes d'Etat de ski-moniteur national de ski alpin et moniteur national de ski nordique de fond ainsi que le diplôme
+d'Etat d'alpinisme-accompagnateur en moyenne montagne sont enregistrés au niveau III du répertoire national des
+certifications professionnelles. 
+
+Les diplômes d'Etat de ski-moniteur national de ski alpin spécialisé en entraînement et moniteur national de ski nordique de
+fond spécialisé en entraînement ainsi que le diplôme d'Etat d'alpinisme-guide de haute montagne sont enregistrés au niveau II
+du répertoire national des certifications professionnelles.
+
+**Nota:**
+
+Décret n° 2010-1409 du 12 novembre 2010, article 2 : Les dispositions de l'article D. 212-68 du code du sport s'appliquent à
+compter de la publication de l'arrêté mentionné à l'article D. 212-69-2, fixant les programmes de formation et les modalités
+d'obtention de chacun des diplômes.
+
+L'arrêté du 1er octobre 2012 relatif à la formation générale commune aux métiers d'enseignement, d'encadrement et
+d'entraînement des sports de montagne, mentionné à l'article D. 212-69-2 est paru au Journal officiel de la République
+française du 12 octobre 2012.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 2 du décret n°76-556 du 7 juin 1976 relatif à l'encadrement et à l'enseignement des sports de montagne
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2010-1409 du 12 novembre 2010 - art. 1
 
 
 ###### Article D212-69
 
-Le contrôle de l'encadrement et de l'enseignement des sports de montagne est assuré par les directeurs régionaux et
-départementaux de la jeunesse, des sports et de la vie associative, assistés à cet effet de contrôleurs du ski et de
-l'alpinisme nommés par le ministre chargé des sports.
+Ces diplômes sont délivrés à l'issue d'une formation comprenant : 
 
-Les conditions de nomination des contrôleurs et les modalités de ce contrôle sont fixées par arrêté du ministre chargé des
-sports.
+1° Une formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne ; 
+
+2° Une formation spécifique à chacun d'entre eux.
+
+**Nota:**
+
+Décret n° 2010-1409 du 12 novembre 2010, article 2 : Les dispositions de l'article D. 212-69 du code du sport s'appliquent à
+compter de la publication de l'arrêté mentionné à l'article D. 212-69-2, fixant les programmes de formation et les modalités
+d'obtention de chacun des diplômes.
+
+L'arrêté du 1er octobre 2012 relatif à la formation générale commune aux métiers d'enseignement, d'encadrement et
+d'entraînement des sports de montagne, mentionné à l'article D. 212-69-2 est paru au Journal officiel de la République
+française du 12 octobre 2012.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 5 du décret n°76-556 du 7 juin 1976 relatif à l'encadrement et à l'enseignement des sports de montagne
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2010-1409 du 12 novembre 2010 - art. 1
+
+
+###### Article D212-69-1
+
+Les programmes de formation conduisant à la délivrance de ces diplômes respectent le principe de l'alternance fondé sur
+l'articulation de périodes de formation en centre de formation et de mise en situation professionnelle sous tutorat
+pédagogique.
+
+**Nota:**
+
+Décret n° 2010-1409 du 12 novembre 2010, article 2 : Les dispositions de l'article D. 212-69-1 du code du sport s'appliquent
+à compter de la publication de l'arrêté mentionné à l'article D. 212-69-2, fixant les programmes de formation et les
+modalités d'obtention de chacun des diplômes.
+
+L'arrêté du 1er octobre 2012 relatif à la formation générale commune aux métiers d'enseignement, d'encadrement et
+d'entraînement des sports de montagne, mentionné à l'article D. 212-69-2 est paru au Journal officiel de la République
+française du 12 octobre 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1409 du 12 novembre 2010 - art. 1
+
+
+###### Article D212-69-2
+
+Les programmes de formation et les modalités d'obtention des diplômes sont fixés par arrêté du ministre chargé des sports,
+après avis des sections permanentes de la commission spécialisée compétente du Conseil supérieur des sports de montagne. 
+
+L'école nationale de ski et d'alpinisme assure la formation mentionnée au premier alinéa, ainsi que l'évaluation des
+candidats.
+
+**Nota:**
+
+Décret n° 2010-1409 du 12 novembre 2010, article 2 : Les dispositions de l'article D. 212-69-2 du code du sport s'appliquent
+à compter de la publication de l'arrêté mentionné audit article, fixant les programmes de formation et les modalités
+d'obtention de chacun des diplômes.
+
+L'arrêté du 1er octobre 2012 relatif à la formation générale commune aux métiers d'enseignement, d'encadrement et
+d'entraînement des sports de montagne, mentionné à l'article D. 212-69-2 est paru au Journal officiel de la République
+française du 12 octobre 2012.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2010-1409 du 12 novembre 2010 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-175-12 (V)
 
 
 ##### Paragraphe 6 : Brevet d'Etat d'éducateur sportif
@@ -40998,7 +41089,9 @@ notifie sa décision au candidat.
 	  - Arrêté du 24 décembre 2008 - art. 8
 
 
-##### Sous-section 7 : Brevets d'Etat spécifiques à l'encadrement  et à l'enseignement des sports de montagne
+##### Sous-section 7 : Formation générale commune aux métiers de la montagne
+
+##### Paragraphe 1 : Formation générale commune aux métiers sportifs de la montagne 
 
 ###### Article A212-168
 
@@ -41014,13 +41107,13 @@ spécifique prévue à l'article D. 212-67.
 
 	  - Arrêté du 25 octobre 2004 - art. 17 (VT)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. D212-67 (V)
+	  - Code du sport. - art. D212-67
 
 
 ###### Article A212-169
@@ -41061,9 +41154,9 @@ Tout dossier de candidature incomplet sera refusé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
 
 
 ###### Article A212-170
@@ -41097,9 +41190,9 @@ question ou d'un texte relatifs aux sports de montagne (durée : vingt minutes ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
 
 
 ###### Article A212-171
@@ -41113,9 +41206,9 @@ du ministre chargé des sports et des organisations professionnelles concernées
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
 
 
 ###### Article A212-172
@@ -41126,9 +41219,9 @@ formation générale commune aux métiers sportifs de la montagne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
 
 
 ###### Article A212-173
@@ -41151,13 +41244,13 @@ nordique de fond » ;
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-167 (V)
+	  - Code du sport. - art. A212-167
 
 
 ###### Article A212-174
@@ -41170,13 +41263,13 @@ brevet d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-123 (V)
+	  - Code du sport. - art. A212-123
 
 
 ###### Article A212-175
@@ -41186,13 +41279,215 @@ générale commune aux métiers sportifs de la montagne sont équivalentes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Liens**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - DEPLACE: Arrêté du 1er octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-117 (V)
+	  - Code du sport. - art. A212-117
+
+
+##### Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
+
+###### Article A212-75-1-1
+
+La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est
+organisée suivant les modalités définies par le présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 11 janvier 2013 - art. 1
+
+
+###### Article A212-75-1-2
+
+La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est assurée
+par l'Ecole nationale des sports de montagne.
+
+L'Ecole nationale des sports de montagne peut déléguer l'organisation de la formation générale commune aux métiers
+d'enseignement, d'encadrement et d'entraînement des sports de montagne à un établissement ou un autre organisme de formation
+conventionné à cet effet, après avis des sections permanentes du ski alpin, du ski de fond et de l'alpinisme de la commission
+de la formation et de l'emploi du Conseil supérieur des sports de montagne, réunies en formation commune.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 11 janvier 2013 - art. 1
+
+
+###### Article A212-75-1-3
+
+Peuvent s'inscrire à la formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de
+montagne les candidats âgés de dix-sept ans révolus à la date d'entrée en formation. Le dossier d'inscription, dont la
+composition est fixée en annexe II-20, est déposé auprès de l'Ecole nationale des sports de montagne deux mois au moins avant
+la date d'entrée en formation et comprend notamment : 
+
+1° L'attestation de réussite à l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC 1) ou son
+équivalent ; 
+
+2° Selon les cas, l'une des attestations de réussite suivantes : 
+
+- l'attestation de réussite à l'examen probatoire du diplôme d'accompagnateur en moyenne montagne du brevet d'Etat
+d'alpinisme ; 
+
+- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré, option " ski
+alpin " ; 
+
+- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré, option " ski
+nordique de fond " ; 
+
+- l'attestation de réussite au test technique d'accès du diplôme d'Etat de ski-moniteur national de ski alpin ; 
+
+- l'attestation de réussite à l'examen probatoire du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 11 janvier 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-75-1-7 (Ab)
+
+
+###### Article A212-75-1-4
+
+Le cursus de formation, d'une durée minimale de trente-cinq heures, est articulé autour des cinq thématiques suivantes : 
+
+1° Thématique 1 : cadre juridique des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne ; 
+
+2° Thématique 2 : approche de l'activité économique et touristique des sports de montagne ; 
+
+3° Thématique 3 : connaissance du milieu naturel montagnard ; 
+
+4° Thématique 4 : accueil des différents publics, dont le public scolaire, en milieu montagnard ; 
+
+5° Thématique 5 : physiologie de l'effort adaptée aux sports de montagne. 
+
+La formation est coordonnée par un responsable pédagogique désigné par l'Ecole nationale des sports de montagne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 11 janvier 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-75-1-5 (Ab)
+	  - Code du sport. - art. A212-75-1-6 (Ab)
+
+
+###### Article A212-75-1-5
+
+La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est évaluée
+au moyen d'une épreuve écrite de trois heures, transversale à l'ensemble des thématiques abordées au cours de la formation,
+mentionnées à l'article A. 212-75-1-4 (notée sur 20).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 11 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-75-1-4
+
+
+###### Article A212-75-1-6
+
+Le jury de l'épreuve est présidé par le directeur régional de la jeunesse, des sports et de la cohésion sociale
+territorialement compétent ou son représentant, fonctionnaire de catégorie A appartenant à un corps relevant du ministère
+chargé des sports. Outre le responsable pédagogique mentionné à l'article A. 212-75-1-4, il comprend un représentant de
+l'Ecole nationale des sports de montagne, des agents de l'Etat et un représentant de chaque organisation professionnelle
+nationale la plus représentative des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne, désigné
+par son président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 11 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-75-1-4
+
+
+###### Article A212-75-1-7
+
+La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne peut être
+obtenue par la voie de la validation des acquis de l'expérience. 
+
+Les candidats souhaitant déposer une demande de validation des acquis de l'expérience doivent être titulaires de
+l'attestation de réussite mentionnée au 1° de l'article A. 212-75-1-3 et de l'une des attestations de réussite mentionnées au
+2° du même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 11 janvier 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-75-1-3
+
+
+###### Article A212-75-1-8
+
+Les candidats titulaires de l'attestation de réussite aux épreuves de l'examen de la formation générale commune aux métiers
+sportifs de la montagne ou de l'attestation de réussite aux épreuves de l'examen de la partie commune du brevet d'Etat
+d'éducateur sportif sont dispensés de la formation générale commune aux métiers d'enseignement, d'encadrement et
+d'entraînement des sports de montagne. 
+
+Les candidats titulaires de l'attestation de réussite à l'épreuve de la formation générale commune aux métiers
+d'enseignement, d'encadrement et d'entraînement des sports de montagne sont dispensés de l'examen de la formation générale
+commune aux métiers sportifs de la montagne ou de l'examen de la partie commune du brevet d'Etat d'éducateur sportif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er octobre 2012 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 11 janvier 2013 - art. 1
 
 
 ##### Sous-section 8 : Commission de reconnaissance des qualifications
@@ -63365,6 +63660,53 @@ Composition de la commission (article R. 222-3 du code du sport) :
 	**Cité par**:
 
 	  - Code du sport. - art. A222-14 (Ab)
+
+
+###### Article Annexe II-20
+
+COMPOSITION DU DOSSIER D'INSCRIPTION À LA FORMATION GÉNÉRALE COMMUNE AUX MÉTIERS D'ENSEIGNEMENT, D'ENCADREMENT ET
+D'ENTRAÎNEMENT DES SPORTS DE MONTAGNE 
+
+Le dossier comprend les pièces suivantes : 
+
+- une demande d'inscription établie sur un imprimé normalisé ; 
+
+- une photographie d'identité récente ; 
+
+- pour les personnes mineures, l'autorisation des représentants légaux ; 
+
+- pour les candidats de nationalité française nés à partir de 1979 pour les hommes et à partir de 1983 pour les femmes, une
+photocopie de l'attestation de recensement ou du certificat individuel de participation à la journée défense et
+citoyenneté ; 
+
+- un certificat médical de non-contre-indication à la pratique et à l'enseignement du sport datant de moins de trois mois ; 
+
+- deux enveloppes autocollantes de format 21 × 14 cm affranchies au tarif en vigueur et libellées au nom et à l'adresse du
+candidat ; 
+
+- l'attestation de réussite à l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC 1) ou son
+équivalent ; 
+
+- selon les cas : 
+
+- l'attestation de réussite à l'examen probatoire du diplôme d'accompagnateur en moyenne montagne du brevet d'Etat
+d'alpinisme ; 
+
+- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré, option " ski
+alpin " ; 
+
+- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré, option " ski
+nordique de fond " ; 
+
+- l'attestation de réussite au test technique d'accès du diplôme d'Etat de ski-moniteur national de ski alpin ; 
+
+- l'attestation de réussite à l'examen probatoire du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 1er octobre 2012 - art. 3
 
 
 ### Annexes III
