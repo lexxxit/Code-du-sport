@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-10-13
+Version Consolidée au 2012-10-18
 
 # Partie législative
 
@@ -25270,10 +25270,10 @@ d'une prescription ;
 
 4° La rédaction et la signature du procès-verbal. 
 
-Le sportif peut faire état d'une autorisation d'usage à des fins thérapeutiques ou du dépôt d'une déclaration d'usage ou
-d'une demande d'autorisation d'usage à des fins thérapeutiques prévues à l'article L. 232-2 du code du sport et fournir tout
-autre élément à l'appui de ses déclarations. Si la personne chargée du contrôle est médecin, elle peut en outre se faire
-présenter le livret individuel médical et sportif prévu à l'article L. 231-7 du même code.
+Le sportif peut faire état d'une autorisation d'usage à des fins thérapeutiques ou d'une demande d'autorisation d'usage à des
+fins thérapeutiques prévues à l'article L. 232-2 du code du sport et fournir tout autre élément à l'appui de ses
+déclarations. Si la personne chargée du contrôle est médecin, elle peut en outre se faire présenter le livret individuel
+médical et sportif prévu à l'article L. 231-7 du même code.
 
 **Liens relatifs à cet article**
 
@@ -25287,14 +25287,14 @@ présenter le livret individuel médical et sportif prévu à l'article L. 231-7
 
 	**Modifié par**:
 
-	  - Décret n°2011-57 du 13 janvier 2011 - art. 6
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L231-7 (V)
-	  - Code du sport. - art. L232-2 (V)
+	  - Code du sport. - art. L231-7
+	  - Code du sport. - art. L232-2
 	  - Code du sport. - art. R232-50
-	  - Code de la santé publique - art. L5311-1 (V)
+	  - Code de la santé publique - art. L5311-1
 
 	**Cité par**:
 
@@ -25579,8 +25579,6 @@ Le sportif y fait également état :
 
 - de toute autorisation d'usage à des fins thérapeutiques ;
 
-- de toute déclaration d'usage effectuée auprès de l'agence ;
-
 - de toute demande d'autorisation d'usage à des fins thérapeutiques ;
 
 - de tout autre élément à l'appui de ses déclarations. 
@@ -25602,7 +25600,7 @@ Le modèle de procès-verbal est arrêté par l'Agence française de lutte contr
 
 	**Modifié par**:
 
-	  - Décret n°2011-57 du 13 janvier 2011 - art. 8
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
 
 	**Cite**:
 
@@ -26052,6 +26050,8 @@ dopage, le contrôle du respect de leurs obligations par les personnes agréées
 
 ##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques et les déclarations d'usage
 
+##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques
+
 ###### Article D232-72
 
 L'autorisation d'usage à des fins thérapeutiques d'une substance ou d'une méthode interdite, prévue à l'article L. 232-2, est
@@ -26128,31 +26128,27 @@ Le sportif doit demander une autorisation par pathologie.
 ###### Article D232-75
 
 Pour l'instruction de la demande d'autorisation, l'agence peut demander au sportif tous examens médicaux ou documents
-complémentaires jugés nécessaires par le comité d'experts prévu à l'article L. 232-2-1. 
+complémentaires jugés nécessaires par le comité d'experts prévu à l'article L. 232-2. 
 
 La décision est notifiée au sportif par lettre recommandée avec demande d'avis de réception. Le cas échéant, la ou les
 personnes investies de l'autorité parentale ou le représentant légal de l'intéressé sont informés selon les mêmes modalités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-2-1
-
-	**Anciens textes**:
-
-	  - Code du sport. - art. R232-75 (T)
+	  - Code du sport. - art. L232-2
 
 
 ###### Article D232-76
 
-Le comité mentionné à l'article L. 232-2-1 comprend au moins trois médecins, choisis par l'agence sur la liste arrêtée par
-elle en application de l'article R. 232-10. Le comité désigne celui de ses membres qui en est le secrétaire et dont la voix
-est prépondérante en cas de partage. 
+Le comité mentionné à l'article L. 232-2 comprend au moins trois médecins, choisis par l'agence sur la liste arrêtée par elle
+en application de l'article R. 232-10. Le comité désigne celui de ses membres qui en est le secrétaire et dont la voix est
+prépondérante en cas de partage. 
 
 Le secrétaire du comité dresse et signe le procès-verbal de la réunion, qui comprend l'avis motivé du comité. Un extrait de
 cet avis est adressé au président de l'agence dans le respect des règles prévues à l'article L. 1110-4 du code de la santé
@@ -26163,40 +26159,43 @@ confidentialité des échanges.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-2-1 (V)
-	  - Code du sport. - art. R232-10 (V)
-	  - Code de la santé publique - art. L1110-4 (V)
-
-	**Anciens textes**:
-
-	  - Code du sport. - art. R232-76 (T)
+	  - Code du sport. - art. L232-2
+	  - Code du sport. - art. R232-10
+	  - Code de la santé publique - art. L1110-4
 
 
 ###### Article D232-77
 
 L'autorisation d'usage à des fins thérapeutiques précise la substance, sa posologie et sa voie d'administration, ou la
-méthode à laquelle elle se rapporte. Toute modification d'un de ces éléments nécessite une nouvelle demande
-d'autorisation.L'autorisation précise la durée pour laquelle elle est accordée, qui ne peut excéder un an.
+méthode à laquelle elle se rapporte. Toute modification d'un de ces éléments nécessite une nouvelle demande d'autorisation.
+L'autorisation précise la durée pour laquelle elle est accordée, qui ne peut excéder un an. 
+
+Toutefois, lorsqu'elle est sollicitée dans le cadre d'un état pathologique chronique, le comité mentionné à l'article L.
+232-2 peut proposer de l'accorder pour une durée supérieure, sans que celle-ci puisse excéder quatre ans. Chaque nouvelle
+prescription de la substance intervenant dans la période autorisée doit être communiquée sans délai à l'Agence française de
+lutte contre le dopage. Faute pour le bénéficiaire de l'autorisation de se conformer à cette exigence à l'échéance de chaque
+année suivant sa délivrance, l'autorisation cessera de produire effet. L'expiration de sa validité est constatée par une
+décision du président de l'Agence française de lutte contre le dopage.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. D232-85 (V)
 
-	**Anciens textes**:
+	**Cite**:
 
-	  - Code du sport. - art. R232-77 (T)
+	  - Code du sport. - art. L232-2
 
 
 ###### Article D232-78
@@ -26204,22 +26203,18 @@ d'autorisation.L'autorisation précise la durée pour laquelle elle est accordé
 Le refus d'autorisation est motivé, dans le respect des règles prévues à l'article L. 1110-4 du code de la santé publique. Sa
 notification au demandeur et, le cas échéant, à la ou aux personnes investies de l'autorité parentale ou au représentant
 légal de l'intéressé est accompagnée, sous enveloppe fermée, de l'avis défavorable motivé du comité d'experts prévu à
-l'article L. 232-2-1.
+l'article L. 232-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-59 du 13 janvier 2011 - art. 2
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-2-1
-	  - Code de la santé publique - art. L1110-4 (V)
-
-	**Anciens textes**:
-
-	  - Code du sport. - art. R232-78 (T)
+	  - Code du sport. - art. L232-2
+	  - Code de la santé publique - art. L1110-4
 
 
 ###### Article D232-83
@@ -26248,25 +26243,25 @@ Elle ne tient pas lieu de prescription par un médecin de la substance ou de la 
 
 Les décisions accordant les autorisations d'usage à des fins thérapeutiques aux sportifs constituant le groupe cible de
 l'Agence française de lutte contre le dopage mentionné à l'article L. 232-15 sont transmises par cette dernière à l'Agence
-mondiale antidopage. 
+mondiale antidopage. Il en va de même des décisions rejetant une demande recevable. 
 
 Lorsque l'agence a connaissance qu'un sportif est soumis, par la fédération internationale dont il relève, à l'obligation de
 fournir des renseignements précis et actualisés sur sa localisation, elle transmet à l'Agence mondiale antidopage et à la
 fédération internationale concernée les décisions accordant les autorisations d'usage à des fins thérapeutiques à ce sportif.
+Il en va de même des décisions rejetant une demande recevable. 
+
+L'Agence française de lutte contre le dopage procède à un réexamen de sa décision si celui-ci est demandé, dans le délai de
+deux mois suivant la transmission effectuée, en application du présent article, par l'Agence mondiale antidopage.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-59 du 13 janvier 2011 - art. 3
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
 
 	**Cite**:
 
 	  - Code du sport. - art. L232-15
-
-	**Anciens textes**:
-
-	  - Code du sport. - art. R232-84 (T)
 
 
 ###### Article D232-85
@@ -26290,70 +26285,32 @@ laquelle le sportif est licencié.
 	  - Code du sport. - art. R232-85 (T)
 
 
-###### Article D232-86
-
-La déclaration d'usage comporte : 
-
-1° Le formulaire de déclaration arrêté par l'agence dûment et lisiblement complété ; 
-
-2° La copie de la prescription, revêtue du cachet, des coordonnées, du nom et de la signature du prescripteur et précisant la
-substance, sa voie d'administration, la posologie et la durée du traitement prescrit. 
-
-Le sportif doit déposer une déclaration par pathologie.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-59 du 13 janvier 2011 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
-
-
-###### Article D232-87
-
-La déclaration d'usage est adressée par le sportif ou les personnes investies de l'autorité parentale ou le représentant
-légal de l'intéressé à l'Agence française de lutte contre le dopage, par lettre recommandée avec demande d'avis de réception,
-au moment où débute l'usage de cette substance.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°2011-59 du 13 janvier 2011 - art. 3
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
-
-
 ###### Article R232-74
 
-Lorsque la demande n'entre pas dans les prévisions du dernier alinéa de l'article L. 232-2, l'agence accuse réception de la
-demande d'autorisation dans les conditions prévues par le décret n° 2001-492 du 6 juin 2001 pris pour l'application du
-chapitre II du titre II de la loi n° 2000-321 du 12 avril 2000 et relatif à l'accusé de réception des demandes présentées aux
-autorités administratives. Cet accusé de réception fait courir le délai de trente jours francs dans lequel l'agence notifie
-sa décision au sportif. Le cas échéant, la ou les personnes investies de l'autorité parentale ou le représentant légal de
-l'intéressé sont informés selon les mêmes modalités.
+L'agence accuse réception de la demande d'autorisation dans les conditions prévues par le décret n° 2001-492 du 6 juin 2001
+pris pour l'application du chapitre II du titre II de la loi n° 2000-321 du 12 avril 2000 et relatif à l'accusé de réception
+des demandes présentées aux autorités administratives. Cet accusé de réception fait courir le délai de trente jours francs
+dans lequel l'agence notifie sa décision au sportif. Le cas échéant, la ou les personnes investies de l'autorité parentale ou
+le représentant légal de l'intéressé sont informés selon les mêmes modalités.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 3 du décret n°2007-461 du 25 mars 2007 relatif aux modalités de délivrance des autorisations d'usage à des fins thérapeutiques, pris pour l'application de l'article L. 232-2 du code du sport
-	  - Décret n°2007-461 du 25 mars 2007 - art. 3 (Ab)
 
 	**Cite**:
 
-	  - Loi n°2000-321 2000-04-12
-	  - Décret n°2001-492 2001-06-06
-	  - Code du sport. - art. L232-2 (V)
+	  - Loi n°2000-321 du 12 avril 2000
+	  - Décret n°2001-492 du 6 juin 2001
+
+	**Anciens textes**:
+
+	  - Décret n°2007-461 du 25 mars 2007 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 1
 
 	**Cité par**:
 
@@ -26588,10 +26545,6 @@ justifie le résultat du contrôle soit par :
 - une autorisation accordée pour usage à des fins thérapeutiques délivrée par une fédération internationale et dont l'agence
 a reconnu la validité ;
 
-- une déclaration d'usage effectuée auprès de l'Agence française de lutte contre le dopage ;
-
-- une déclaration d'usage effectuée auprès d'une fédération internationale et dont l'agence a reconnu la validité ;
-
 - une raison médicale dûment justifiée définie à l'article R. 232-85-1. 
 
 Cette décision est notifiée par lettre recommandée avec demande d'avis de réception ou par lettre remise contre récépissé, à
@@ -26611,7 +26564,7 @@ ou le représentant légal de l'intéressé sont informés selon les mêmes moda
 
 	**Modifié par**:
 
-	  - Décret n°2011-58 du 13 janvier 2011 - art. 6
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 3
 
 	**Cite**:
 
@@ -50336,9 +50289,6 @@ soit :
 - le licencié justifie être titulaire d'une autorisation d'usage à des fins thérapeutiques délivrée par l'Agence française de
 lutte contre le dopage, ou d'une autorisation d'usage à des fins thérapeutiques dont l'agence a reconnu la validité ;
 
-- le licencié justifie avoir procédé à une déclaration d'usage auprès de l'Agence française de lutte contre le dopage, ou à
-une déclaration d'usage dont l'agence a reconnu la validité ;
-
 - le licencié dispose d'une raison médicale dûment justifiée définie à l'article R. 232-85-1. 
 
 Cette décision est notifiée à l'intéressé et, le cas échéant, à la ou les personnes investies de l'autorité parentale ou au
@@ -50391,11 +50341,11 @@ Article 20
 
 Lorsqu'à la suite d'un contrôle, l'analyse de l'échantillon A révèle la présence d'une substance interdite, de l'un de ses
 métabolites ou de ses marqueurs, ou l'utilisation d'une méthode interdite qui figurent sur la liste mentionnée au dernier
-alinéa de l'article L. 232-9 et que le licencié ne peut pas faire état d'une autorisation d'usage thérapeutique, d'une
-déclaration d'usage ou d'une raison médicale dûment justifiée, le président de l'organe disciplinaire ordonne à l'encontre du
-licencié, à titre conservatoire et dans l'attente de la décision de l'organe disciplinaire, une suspension provisoire de
-participer aux manifestations et aux compétitions mentionnées au 1° de l'article L. 230-3 du code du sport. La décision de
-suspension doit être motivée. 
+alinéa de l'article L. 232-9 et que le licencié ne peut pas faire état d'une autorisation d'usage thérapeutique ou d'une
+raison médicale dûment justifiée, le président de l'organe disciplinaire ordonne à l'encontre du licencié, à titre
+conservatoire et dans l'attente de la décision de l'organe disciplinaire, une suspension provisoire de participer aux
+manifestations et aux compétitions mentionnées au 1° de l'article L. 230-3 du code du sport. La décision de suspension doit
+être motivée. 
 
 Si l'analyse de l'échantillon B ne confirme pas le rapport de l'analyse de l'échantillon A, cette suspension provisoire prend
 fin à compter de la réception par la fédération du rapport de l'analyse de l'échantillon B. 
@@ -50761,7 +50711,7 @@ s'est vu accorder la délégation.
 
 	**Modifié par**:
 
-	  - Décret n°2011-58 du 13 janvier 2011 - art. 1
+	  - Décret n°2012-1156 du 15 octobre 2012 - art. 2 (V)
 
 	**Cite**:
 
