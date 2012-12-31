@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2012-10-18
+Version Consolidée au 2013-01-01
 
 # Partie législative
 
@@ -10457,32 +10457,35 @@ modalités de règlement des frais occasionnés par les déplacements temporaire
 ###### Article D112-13
 
 Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président qui fixe l'ordre du jour,
-sur proposition du directeur général.
+sur proposition du directeur général. 
 
 Le conseil d'administration se réunit de droit à la demande de la moitié, au moins, de ses membres ou à la demande du
-ministre chargé des sports.
+ministre chargé des sports. 
 
 Le conseil d'administration ne peut valablement délibérer que si la moitié au moins de ses membres est présente. Si le quorum
 n'est pas atteint, le conseil est à nouveau convoqué avec le même ordre du jour dans un délai maximum de quinze jours ; il
-délibère alors valablement sans condition, quel que soit le nombre des membres présents.
+délibère alors valablement sans condition, quel que soit le nombre des membres présents. 
 
 Les délibérations sont prises à la majorité des membres présents ou représentés. En cas de partage égal des voix, la voix du
-président est prépondérante.
+président est prépondérante. 
 
-Assistent avec voix consultative aux réunions du conseil d'administration le directeur général de l'établissement, l'autorité
-chargée du contrôle financier et l'agent comptable. Toute personne dont le président souhaite recueillir l'avis peut être
-entendue par le conseil d'administration.
+Assistent avec voix consultative aux réunions du conseil d'administration le directeur général de l'établissement,      le
+contrôleur budgétaire  et l'agent comptable. Toute personne dont le président souhaite recueillir l'avis peut être entendue
+par le conseil d'administration.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 11 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
 	  - Décret n°2006-254 du 2 mars 2006 - art. 11 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article D112-14
@@ -10560,25 +10563,33 @@ Celui-ci rend compte au conseil des décisions qu'il a prises en vertu de cette 
 
 Les délibérations du conseil d'administration sont exécutoires si, dans un délai de quinze jours à compter de leur réception,
 le ministre chargé des sports n'a pas fait connaître d'observations. Toutefois, les délibérations portant sur les objets
-énumérés aux 4°, 5°, 7°, 10°, 13°, 14° et 15° de l'article D. 112-14 deviennent exécutoires un mois après leur réception par
-les ministres chargés du budget et des sports si ceux-ci n'ont pas fait connaître d'observations dans ce délai ; les
+énumérés aux 7°, 10°, 13°, 14° et 15° de l'article D. 112-14 deviennent exécutoires un mois après leur réception par les
+ministres chargés du budget et des sports si ceux-ci n'ont pas fait connaître d'observations dans ce délai ; les
 délibérations portant sur les objets mentionnés aux 9°, 11° et 12° deviennent exécutoires après approbation expresse
-conjointe des ministres chargés du budget et des sports.
+conjointe des ministres chargés du budget et des sports. 
+
+Les délibérations portant sur le budget et le compte financier, mentionnées respectivement aux 4° et 5° de l'article D.
+112-14 sont exécutoires dans les conditions prévues par le titre III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 13 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
 	  - Décret n°2006-254 du 2 mars 2006 - art. 13 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
 	**Cite**:
 
-	  - Code du sport. - art. D112-14 (V)
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code du sport. - art. D112-14
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 
 ###### Article D112-16
@@ -10627,10 +10638,6 @@ dépôt par le biais de conventions ;
 
 9° Conclut les contrats et est la personne responsable des marchés.
 
-Il peut, dans des conditions que détermine le conseil d'administration, prendre, après avis de l'autorité chargée du contrôle
-financier, des décisions budgétaires modificatives qui n'augmentent pas la masse salariale, ne modifient pas le résultat ni
-la variation du fonds de roulement. Il en rend compte à la prochaine séance du conseil d'administration.
-
 Le directeur général dresse chaque année un rapport sur le fonctionnement de l'établissement, le soumet au conseil
 d'administration et l'adresse aux ministres chargés de la culture et des sports.
 
@@ -10640,12 +10647,15 @@ Pour l'exercice de ses attributions, il peut déléguer sa signature aux respons
 
 	**Anciens textes**:
 
-	  - Art. 15 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
 	  - Décret n°2006-254 du 2 mars 2006 - art. 15 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 	**Cité par**:
 
@@ -10697,46 +10707,24 @@ Le comité établit son règlement intérieur.
 
 ###### Article D112-19
 
-L'établissement est soumis au régime financier et comptable défini par le décret n° 53-1227 du 10 décembre 1953 relatif à la
-réglementation comptable applicable aux établissements publics nationaux à caractère administratif et par les articles 151 à
-189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique ainsi qu'au contrôle
-financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat.
+L'établissement public est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à
+la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 17 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
 	  - Décret n°2006-254 du 2 mars 2006 - art. 17 (Ab)
-
-	**Cite**:
-
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
-	  - Décret n°2005-757 du 4 juillet 2005 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article D112-20
-
-L'agent comptable de l'établissement est nommé par arrêté des ministres chargés du budget et des sports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 18 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
-	  - Décret n°2006-254 du 2 mars 2006 - art. 18 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
-	**Abrogé par**:
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
 
 	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
@@ -10745,43 +10733,25 @@ L'agent comptable de l'établissement est nommé par arrêté des ministres char
 
 Des régies de recettes et des régies d'avances peuvent être créées par décision du directeur général, dans les conditions
 prévues par le décret n° 92-681 du 20 juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes
-publics, et avec l'accord de l'agent comptable et de l'autorité chargée du contrôle financier.
+publics, et avec l'accord de l'agent comptable et du contrôleur budgétaire.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 19 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
-	  - Décret n°2006-254 du 2 mars 2006 - art. 19 (Ab)
 
 	**Cite**:
 
-	  - Décret n°92-681 du 20 juillet 1992 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article D112-22
-
-L'établissement est autorisé à placer ses fonds disponibles dans les conditions fixées par le ministre chargé de l'économie
-et des finances.
-
-**Liens relatifs à cet article**
+	  - Décret n°92-681 du 20 juillet 1992
 
 	**Anciens textes**:
 
-	  - Art. 20 du décret n°2006-254 du 2 mars 2006 érigeant le Musée national du sport en établissement public et portant statut de cet établissement
-	  - Décret n°2006-254 du 2 mars 2006 - art. 20 (Ab)
+	  - Décret n°2006-254 du 2 mars 2006 - art. 19 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article D112-23
@@ -14865,8 +14835,8 @@ Le conseil d'administration peut déléguer au directeur général de l'Institut
 performance, dans les limites qu'il fixe, les attributions mentionnées aux 10° à 16°. Le directeur général rend compte des
 décisions prises dans le cadre des attributions ainsi déléguées à la plus prochaine réunion du conseil d'administration. 
 
-Le directeur général, les directeurs généraux adjoints, l'agent comptable, l'autorité chargée du contrôle financier ainsi que
-toute personne dont la présence est jugée utile par le président assistent aux réunions avec voix consultative.
+Le directeur général, les directeurs généraux adjoints, l'agent comptable,      le contrôleur budgétaire  ainsi que toute
+personne dont la présence est jugée utile par le président assistent aux réunions avec voix consultative.
 
 **Liens relatifs à cet article**
 
@@ -14876,11 +14846,11 @@ toute personne dont la présence est jugée utile par le président assistent au
 
 	**Modifié par**:
 
-	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L711-7 (V)
+	  - Code de l'éducation - art. L711-7
 
 	**Cité par**:
 
@@ -15465,18 +15435,18 @@ ministre chargé du budget.
 
 ###### Article R211-18-5
 
-L'Institut national du sport, de l'expertise et de la performance est soumis au contrôle financier a posteriori de l'Etat
+L'Institut national du sport, de l'expertise et de la performance est soumis au contrôle budgétaire a posteriori de l'Etat
 dans les conditions prévues à l'article L. 719-9 du code de l'éducation.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2009-1454 du 25 novembre 2009 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L719-9 (V)
+	  - Code de l'éducation - art. L719-9
 
 
 ###### Article R211-18-6
@@ -15714,24 +15684,28 @@ civils de l'Etat.
 
 ###### Article D211-43
 
-Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président qui fixe l'ordre du jour.
+Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président qui fixe l'ordre du jour. 
 
 Le conseil d'administration ne peut délibérer que si la moitié au moins de ses membres est présente. Si le quorum n'est pas
 atteint, le conseil d'administration est à nouveau convoqué avec le même ordre du jour dans un délai maximum de vingt et un
-jours. Il délibère alors valablement, quel que soit le nombre de membres présents.
+jours. Il délibère alors valablement, quel que soit le nombre de membres présents. 
 
 Les délibérations du conseil d'administration sont adoptées à la majorité des membres présents. En cas de partage égal des
-voix, la voix du président est prépondérante.
+voix, la voix du président est prépondérante. 
 
-Le directeur de l'école, le directeur adjoint, l'agent comptable, l'autorité chargée du contrôle financier ainsi que toute
-personne dont il paraîtrait utile au président de recueillir l'avis participent au conseil d'administration avec voix
-consultative. Le directeur peut se faire accompagner par toute personne de son choix appartenant à l'établissement.
+Le directeur de l'école, le directeur adjoint, l'agent comptable,      le contrôleur budgétaire  ainsi que toute personne
+dont il paraîtrait utile au président de recueillir l'avis participent au conseil d'administration avec voix consultative. Le
+directeur peut se faire accompagner par toute personne de son choix appartenant à l'établissement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article D211-44
@@ -15792,23 +15766,26 @@ d'administration qui, dans le délai de dix jours après la réception du procè
 des sports, n'ont pas fait l'objet de la part de celui-ci soit d'une demande de réexamen adressée à l'organe ayant pris la
 délibération ou la décision, soit d'une opposition, deviennent exécutoires. 
 
-Toutefois, les délibérations prévues aux 2° et 3° de l'article D. 211-44 sont approuvées par les ministres chargés du budget
-et des sports dans les conditions déterminées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation
-de certaines décisions financières des établissements publics de l'Etat. 
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Pour devenir exécutoires, les délibérations prévues aux 8°, 10° et 11° de l'article D. 211-44 doivent recevoir l'approbation
 expresse des ministres chargés du budget et des sports.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°99-575 du 8 juillet 1999 (V)
-	  - Code du sport. - art. D211-44 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code du sport. - art. D211-44
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 
 ###### Article D211-46
@@ -15853,23 +15830,22 @@ Le directeur informe le conseil d'administration de sa gestion et en rend compte
 
 ###### Article D211-47
 
-L'école est soumise au régime financier et comptable défini par le décret du n° 53-1227 du 10 décembre 1953 relatif à la
-réglementation comptable applicable aux établissements publics nationaux à caractère administratif et par les articles 151 à
-189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique ainsi qu'au contrôle
-financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat.
+L'école est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion
+budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°53-1227 du 10 décembre 1953 (V)
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
-	  - Décret n°2005-757 du 4 juillet 2005 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 
 ###### Article D211-49
@@ -15941,19 +15917,23 @@ juillet 1992 modifié relatif aux régies de recettes et aux régies d'avances d
 
 ###### Article R211-48
 
-Par dérogation à l'article 157 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
+Par dérogation à l'article 189 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
 publique, l'agent comptable est nommé par arrêté des ministres chargés du budget et des sports et du ministre dont il relève
 pour sa gestion.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 157 (V)
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 189
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 
 ##### Paragraphe 4 : Personnel
@@ -16169,22 +16149,21 @@ Les membres suppléants ne peuvent siéger qu'en l'absence des membres titulaire
 
 Un arrêté du ministre chargé des sports publié au Bulletin officiel du ministère chargé des sports constate la composition du
 conseil d'administration telle qu'elle résulte du présent article. Le directeur général, le directeur de l'Ecole nationale de
-ski et d'alpinisme, le directeur du Centre national de ski nordique et de moyenne montagne, l'agent comptable et l'autorité
-chargée du contrôle financier assistent avec voix consultative aux séances du conseil, ainsi que toute personne dont il
-paraîtrait utile au président de recueillir l'avis. Le directeur général peut se faire accompagner par toute personne de son
-choix appartenant à l'établissement.
+ski et d'alpinisme, le directeur du Centre national de ski nordique et de moyenne montagne, l'agent comptable et      le
+contrôleur budgétaire  assistent avec voix consultative aux séances du conseil, ainsi que toute personne dont il paraîtrait
+utile au président de recueillir l'avis. Le directeur général peut se faire accompagner par toute personne de son choix
+appartenant à l'établissement.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
-	  - Décret n°2010-1378 du 12 novembre 2010 - art. 2
 
 	**Cité par**:
 
 	  - Décret n°2010-1378 du 12 novembre 2010 - art. 7 (VD)
 	  - Arrêté du 26 janvier 2011 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article D211-55-1
@@ -16463,11 +16442,10 @@ l'établissement.
 
 ###### Article D211-60
 
-Les délibérations portant sur le budget et ses modifications ainsi que sur le compte financier sont approuvées par le
-ministre chargé des sports et le ministre chargé du budget dans les conditions déterminées par le décret n° 99-575 du 8
-juillet 1999 relatif aux modalités d'approbation de certaines décisions financières des établissements publics de l'Etat. 
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
-Pour devenir exécutoires, les délibérations prévues aux 9°,13° et 14° de l'article D. 211-59 doivent recevoir l'approbation
+Pour devenir exécutoires, les délibérations prévues aux 9°, 13° et 14° de l'article D. 211-59 doivent recevoir l'approbation
 expresse des ministres chargés du budget et des sports. 
 
 Les autres délibérations du conseil d'administration sont exécutoires à l'expiration d'un délai de quinze jours qui suit la
@@ -16476,17 +16454,18 @@ date de réception du procès-verbal, sauf si dans ce délai le ministre chargé
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°99-575 du 8 juillet 1999
-
 	**Codifié par**:
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code du sport. - art. D211-59
+
 	**Modifié par**:
 
-	  - Décret n°2010-1378 du 12 novembre 2010 - art. 2
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 
 ###### Article D211-61
@@ -16546,27 +16525,22 @@ Le directeur général peut déléguer sa signature aux personnels placés sous 
 
 ###### Article D211-63
 
-L'Ecole nationale des sports de montagne est soumise au régime financier et comptable défini par le décret du n° 53-1227 du
-10 décembre 1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à caractère
-administratif et par les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la
-comptabilité publique ainsi qu'au contrôle financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle
-financier au sein des établissements publics administratifs de l'Etat.
+L'Ecole nationale des sports de montagne est soumise aux dispositions des titres Ier et III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°53-1227 du 10 décembre 1953
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151
-	  - Décret n°2005-757 du 4 juillet 2005
 
 	**Codifié par**:
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+
 	**Modifié par**:
 
-	  - Décret n°2010-1378 du 12 novembre 2010 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 
 ###### Article D211-65
@@ -16650,23 +16624,23 @@ juillet 1992 relatif aux régies de recettes et aux régies d'avances des organi
 
 ###### Article R211-64
 
-Par dérogation à l'article 157 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
+Par dérogation à l'article 189 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
 publique, l'agent comptable est nommé par arrêté des ministres chargés du budget et des sports et du ministre dont il relève
 pour sa gestion.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 157
-
 	**Codifié par**:
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 189 (V)
+
 	**Modifié par**:
 
-	  - Décret n°2011-631 du 3 juin 2011 - art. 3
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 
 ##### Paragraphe 4 : Personnel
@@ -16965,8 +16939,8 @@ Le conseil d'administration se réunit au moins deux fois par an sur convocation
 Il peut également être convoqué par le directeur à la demande du ministre chargé des sports ou de la majorité de ses membres,
 sur un ordre du jour déterminé. 
 
-Le directeur, le ou les directeurs adjoints, l'agent comptable, l'autorité chargée du contrôle financier, ainsi que toute
-personne dont la présence est jugée utile par le président, assistent aux séances avec voix consultative. 
+Le directeur, le ou les directeurs adjoints, l'agent comptable,      le contrôleur budgétaire , ainsi que toute personne dont
+la présence est jugée utile par le président, assistent aux séances avec voix consultative. 
 
 Les présidents des établissements publics de coopération intercommunale dotés d'une compétence en matière sportive des lieux
 d'implantation des sites autres que le siège du centre, ou à défaut les maires des communes concernés, ou leurs
@@ -16994,7 +16968,11 @@ siège du centre, ou leurs représentants, assistent au conseil d'administration
 
 	**Modifié par**:
 
-	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
 
 
 ###### Article D211-76
@@ -17073,10 +17051,10 @@ de sa délégation.
 ###### Article D211-77
 
 I. - A l'exception des décisions mentionnées au II du présent article, les délibérations du conseil d'administration sont
-exécutoires soit : 
+exécutoires soit :
 
 - à compter de l'approbation expresse du ministre chargé des sports, notifiée avant l'expiration d'un délai de quinze jours
-après leur réception ; 
+après leur réception ;
 
 - quinze jours après leur réception par le ministre chargé des sports, si celui-ci n'y a pas fait opposition dans ce délai. 
 
@@ -17084,12 +17062,8 @@ II. - Les délibérations relatives aux matières mentionnées aux 9° et 12° d
 mentionnés au 11° du même article dont la durée excède neuf années doivent, pour devenir exécutoires, faire l'objet d'une
 approbation expresse des ministres chargés des sports et du budget. 
 
-Les délibérations portant sur le budget et ses modifications ainsi que sur le compte financier sont approuvées par le
-ministre chargé des sports dans les conditions déterminées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités
-d'approbation de certaines décisions financières des établissements publics de l'Etat. 
-
-Le cadre des documents budgétaires est établi conjointement par le ministre chargé des sports et le ministre chargé du
-budget.
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
@@ -17101,9 +17075,22 @@ budget.
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012
+	  - Code du sport. - art. D211-76 (VT)
+
 	**Modifié par**:
 
-	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code du sport. - art. D211-78 (VT)
 
 
 ###### Article D211-78
@@ -17345,23 +17332,22 @@ applicables au déroulement des scrutins.
 
 ###### Article D211-82
 
-Les centres de ressources, d'expertise et de performance sportives sont soumis au régime financier et comptable défini par le
-décret n° 53-1227 du 10 décembre 1953 relatif à la réglementation comptable applicable aux établissements publics nationaux à
-caractère administratif et par les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur
-la comptabilité publique, ainsi qu'au contrôle financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au
-contrôle financier au sein des établissements publics administratifs de l'Etat.
+Les centres de ressources d'expertise et de performance sportives sont soumis aux dispositions des titres Ier et III du
+décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Décret n°53-1227 du 10 décembre 1953
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 151
-	  - Décret n°2005-757 du 4 juillet 2005
+	  - Décret n°2012-1246 du 7 novembre 2012
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-630 du 3 juin 2011 - art. 1
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
 
 
 ###### Article D211-82-2
@@ -17436,7 +17422,7 @@ juillet 1992 relatif aux régies de recettes et aux régies d'avances des organi
 
 ###### Article R211-82-1
 
-Par dérogation à l'article 157 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité
+Par dérogation à l'article 189 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
 publique, l'agent comptable est nommé par arrêté des ministres chargés du budget et des sports et du ministre dont il relève
 pour sa gestion.
 
@@ -17444,11 +17430,15 @@ pour sa gestion.
 
 	**Cite**:
 
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 157
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 189
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2011-631 du 3 juin 2011 - art. 5
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
+
+	**Abrogé par**:
+
+	  - Décret n°2016-152 du 11 février 2016 - art. 2
 
 
 ##### Section 2 : Centres de formation
@@ -24951,24 +24941,26 @@ aux régies d'avances des organismes publics.
 
 ###### Article R232-40
 
-Les fonds de l'agence sont déposés et placés dans les conditions prévues par les articles 174 et 175 du décret n° 62-1587 du
-29 décembre 1962 portant règlement général sur la comptabilité publique.
+Les fonds de l'agence sont déposés et placés dans les conditions prévues par l'article 197 du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 31 du décret n°2006-1204 du 29 septembre 2006 relatif à l'organisation et au fonctionnement de l'Agence française de lutte contre le dopage
 	  - Décret n°2006-1204 du 29 septembre 2006 - art. 31 (Ab)
-
-	**Cite**:
-
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 174 (M)
-	  - Décret n°62-1587 du 29 décembre 1962 - art. 175 (V)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 197 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 
 ###### Article R232-41
@@ -26047,8 +26039,6 @@ dopage, le contrôle du respect de leurs obligations par les personnes agréées
 
 	  - Décret n°2011-57 du 13 janvier 2011 - art. 16
 
-
-##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques et les déclarations d'usage
 
 ##### Sous-section 2 : Les autorisations d'usage à des fins thérapeutiques
 
@@ -32095,32 +32085,35 @@ la durée du mandat restant à courir.
 
 Le conseil d'administration se réunit au moins deux fois par an sur convocation de son président, qui en fixe l'ordre du
 jour. En cas d'empêchement ou d'absence du président, le directeur général peut convoquer le conseil d'administration qui
-désigne en son sein un président de séance.
+désigne en son sein un président de séance. 
 
 Le conseil d'administration est en outre réuni de plein droit à la demande de la majorité de ses membres ou du ministre
-chargé des sports, sur un ordre du jour déterminé, dans le mois suivant la demande.
+chargé des sports, sur un ordre du jour déterminé, dans le mois suivant la demande. 
 
 Le conseil d'administration ne peut délibérer que si la moitié au moins des membres qui le composent est présente ou
 représentée. Si ce quorum n'est pas atteint, le conseil est à nouveau convoqué sur le même ordre du jour dans un délai de
-quinze jours. Il délibère alors valablement quel que soit le nombre de membres présents ou représentés.
+quinze jours. Il délibère alors valablement quel que soit le nombre de membres présents ou représentés. 
 
 Les délibérations sont adoptées à la majorité des voix des membres présents ou représentés. En cas de partage égal des voix,
-celle du président est prépondérante.
+celle du président est prépondérante. 
 
-Le directeur général, l'autorité chargée du contrôle financier et l'agent comptable de l'établissement assistent aux séances
-du conseil d'administration avec voix consultative. Le président peut inviter à assister à tout ou partie des réunions du
-conseil toute personne que celui-ci souhaite entendre.
+Le directeur général,      le contrôleur budgétaire  et l'agent comptable de l'établissement assistent aux séances du conseil
+d'administration avec voix consultative. Le président peut inviter à assister à tout ou partie des réunions du conseil toute
+personne que celui-ci souhaite entendre.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R411-6
@@ -32168,16 +32161,12 @@ dispositions prévoient la réalisation ou la rénovation d'équipements sportif
 l'établissement.
 
 Les délibérations du conseil d'administration relatives au règlement général de l'établissement, à son budget, aux
-modifications de celui-ci et au compte financier, ainsi que les délibérations prévues au 13° sont exécutoires en l'absence
-d'opposition des ministres chargé du budget et des sports dans les quinze jours qui suivent leur réception par chacun de ces
-ministres. Pour devenir exécutoires, les délibérations prévues aux 9° et 10° doivent recevoir l'approbation expresse du
-ministre chargé des sports et du ministre chargé du budget.
+modifications de celui-ci ainsi que les délibérations prévues au 13° sont exécutoires en l'absence d'opposition des ministres
+chargé du budget et des sports dans les quinze jours qui suivent leur réception par chacun de ces ministres. Pour devenir
+exécutoires, les délibérations prévues aux 9° et 10° doivent recevoir l'approbation expresse du ministre chargé des sports et
+du ministre chargé du budget.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°2005-1719 du 30 décembre 2005 - art. 53
 
 	**Anciens textes**:
 
@@ -32185,7 +32174,7 @@ ministre chargé des sports et du ministre chargé du budget.
 
 	**Modifié par**:
 
-	  - Décret n°2009-548 du 15 mai 2009 - art. 4
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 	**Cité par**:
 
@@ -32601,54 +32590,32 @@ la commission.
 
 ###### Article R411-24
 
-L'établissement est soumis au régime financier et comptable défini par le décret du n° 53-1227 du 10 décembre 1953 relatif à
-la réglementation comptable applicable aux établissements publics nationaux à caractère administratif et par les articles 151
-à 189 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique ainsi qu'au contrôle
-financier prévu par le décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des établissements publics
-administratifs de l'Etat.
+L'établissement est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012 relatif à la
+gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 20 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
 	  - Décret n°2006-248 du 2 mars 2006 - art. 20 (Ab)
-
-	**Cite**:
-
-	  - Décret n°53-1227 1953-12-10
-	  - Décret n°62-1587 1962-12-29 art. 151 à 189
-	  - Décret n°2005-757 2005-07-04
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 	**Cité par**:
 
 	  - Code du sport. - art. R423-1 (V)
 	  - Code du sport. - art. R426-1 (V)
 	  - Code du sport. - art. R427-1 (V)
-
-
-###### Article R411-25
-
-L'agent comptable de l'établissement est nommé par arrêté conjoint des ministres chargés du budget et des sports.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 21 du décret n°2006-248 du 2 mars 2006 portant création du Centre national pour le développement du sport
-	  - Décret n°2006-248 du 2 mars 2006 - art. 21 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 du 24 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2012-1247 du 7 novembre 2012 - art. 43
 
 
 ###### Article R411-26
