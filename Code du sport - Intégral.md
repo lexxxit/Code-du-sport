@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2013-03-27
+Version Consolidée au 2013-03-30
 
 # Partie législative
 
@@ -1730,9 +1730,8 @@ c) D'engager, directement ou par personne interposée, des mises sur des paris r
 participent et de communiquer à des tiers des informations privilégiées, obtenues à l'occasion de leur profession ou de leurs
 fonctions, et qui sont inconnues du public. 
 
-Un décret en Conseil d'Etat, pris après avis du Conseil national des activités physiques et sportives, fixe les conditions
-d'entrée en vigueur des règlements fédéraux relatifs aux normes des équipements sportifs requises pour la participation aux
-compétitions sportives organisées par les fédérations délégataires.
+Un décret en Conseil d'Etat fixe les conditions d'entrée en vigueur des règlements fédéraux relatifs aux normes des
+équipements sportifs requises pour la participation aux compétitions sportives organisées par les fédérations délégataires.
 
 **Liens relatifs à cet article**
 
@@ -1760,12 +1759,11 @@ compétitions sportives organisées par les fédérations délégataires.
 
 	**Cite**:
 
-	  - Loi n°2010-476 du 12 mai 2010 - art. 21 (V)
+	  - Loi n°2010-476 du 12 mai 2010 - art. 21
 
 	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 2
-	  - Loi n°2012-158 du 1er février 2012 - art. 7
+	  - Décret n°2013-264 du 28 mars 2013 - art. 1
 
 
 ###### Article L131-16-1
@@ -2122,19 +2120,21 @@ III.
 ###### Article L141-3
 
 Le Comité national olympique et sportif français veille au respect de la déontologie du sport définie dans une charte établie
-par lui après avis de la Commission nationale du sport de haut niveau.
+par lui.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 19, alinéa 3, 1ère phrase
-	  - Loi n°84-610 du 16 juillet 1984 - art. 19 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 19 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2013-264 du 28 mars 2013 - art. 1
 
 	**Cité par**:
 
@@ -2297,14 +2297,12 @@ perfectionnement des arbitres et juges de leurs disciplines.
 ###### Article L211-4
 
 Les centres de formation relevant d'une association sportive ou d'une société sportive sont agréés par l'autorité
-administrative, sur proposition de la fédération délégataire compétente et après avis de la Commission nationale du sport de
-haut niveau.
+administrative, sur proposition de la fédération délégataire compétente.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 15-4, alinéa 1
 	  - Loi n°84-610 du 16 juillet 1984 - art. 15-4 (Ab)
 
 	**Cité par**:
@@ -2328,7 +2326,11 @@ haut niveau.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2013-264 du 28 mars 2013 - art. 1
 
 
 ###### Article L211-5
@@ -3025,54 +3027,12 @@ une activité physique ou sportive en méconnaissance d'une mesure prise en appl
 
 #### Chapitre Ier : Sport de haut niveau
 
-###### Article L221-1
-
-La Commission nationale du sport de haut niveau est composée de représentants de l'Etat, du Comité national olympique et
-sportif français et des collectivités territoriales, ainsi que de personnalités qualifiées désignées parmi des sportifs,
-entraîneurs, arbitres et juges sportifs de haut niveau. Elle a pour mission :
-
-1° De déterminer, après avis des fédérations sportives délégataires, les critères permettant de définir, dans chaque
-discipline, la qualité de sportif, d'entraîneur, d'arbitre et juge sportif de haut niveau ;
-
-2° De définir les critères de sélection des sportifs aux compétitions organisées sous la responsabilité du Comité
-international olympique.
-
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°84-610 1984-07-16 art. 26, alinéas 1 à 3 et 5
-	  - Loi n°84-610 du 16 juillet 1984 - art. 26 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°90-365 du 26 avril 1990 - art. 1 (V)
-	  - Décret n°90-365 du 26 avril 1990 - art. 2 (V)
-	  - Décret n°90-365 du 26 avril 1990 - art. 4 (V)
-	  - Décret n°91-260 du 7 mars 1991 - art. 6 (Ab)
-	  - Arrêté du 19 novembre 1993 - art. 1 (V)
-	  - Décret n°2002-761 du 2 mai 2002 - art. 3 (Ab)
-	  - Décret n°2002-1010 du 18 juillet 2002 - art. 7 (Ab)
-	  - Arrêté du 14 mai 2009 - art. Annexe (VD)
-	  - Code du sport. - art. D221-24 (V)
-
-	**Codifié par**:
-
-	  - Ordonnance n°2006-596 du 23 mai 2006
-
-	**Abrogé par**:
-
-	  - Décret n°2013-264 du 28 mars 2013 - art. 1
-
-
 ###### Article L221-2
 
-Le ministre chargé des sports arrête, au vu des propositions des fédérations et après avis de la Commission nationale du
-sport de haut niveau, la liste des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau.
+Le ministre chargé des sports arrête, au vu des propositions des fédérations, la liste des sportifs, entraîneurs, arbitres et
+juges sportifs de haut niveau. 
 
-Il arrête dans les mêmes conditions la liste des sportifs Espoirs et celle des partenaires d'entraînement.
+Il arrête dans les mêmes conditions la liste des sportifs Espoirs et celle des partenaires d'entraînement. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -3080,7 +3040,6 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 26, alinéas 4 et 5
 	  - Loi n°84-610 du 16 juillet 1984 - art. 26 (Ab)
 
 	**Cité par**:
@@ -3171,7 +3130,11 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2013-264 du 28 mars 2013 - art. 1
 
 
 ###### Article L221-3
@@ -3400,12 +3363,12 @@ dans les conditions définies aux articles L. 612-2 à L. 612-4 et L. 613-3 à L
 
 ###### Article L221-11
 
-Un décret pris après avis de la Commission nationale du sport de haut niveau précise les droits et obligations des sportifs
-de haut niveau, des sportifs Espoirs et des partenaires d'entraînement. Il définit notamment :
+Un décret            précise les droits et obligations des sportifs de haut niveau, des sportifs Espoirs et des partenaires
+d'entraînement. Il définit notamment : 
 
-1° Les conditions d'accès aux formations aménagées définies en liaison avec les ministères compétents ;
+1° Les conditions d'accès aux formations aménagées définies en liaison avec les ministères compétents ; 
 
-2° Les modalités d'insertion professionnelle ;
+2° Les modalités d'insertion professionnelle ; 
 
 3° La participation à des manifestations d'intérêt général.
 
@@ -3424,7 +3387,11 @@ de haut niveau, des sportifs Espoirs et des partenaires d'entraînement. Il déf
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Décret n°2013-264 du 28 mars 2013 - art. 1
 
 
 ###### Article L221-12
