@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2013-05-16
+Version Consolidée au 2013-05-17
 
 # Partie législative
 
@@ -47213,6 +47213,28 @@ de l'intérieur.
 	**Modifié par**:
 
 	  - Arrêté du 3 mai 2012 - art. 2
+
+
+###### Article A331-5
+
+Le calendrier de la fédération sportive sous l'égide de laquelle l'épreuve a été placée indique les avis rendus en
+application de l'article R. 331-9-1. 
+
+La fédération indique sur ce calendrier et selon ses propres modalités, pour chaque manifestation inscrite, si l'avis délivré
+par la fédération délégataire est favorable ou s'il n'a pas été rendu. 
+
+Le calendrier de la fédération concernée et l'indication sur celui-ci de l'avis s'y rapportant constituent la modalité de
+publication prévue à l'article R. 331-9-1.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 3 mai 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R331-9-1
 
 
 ##### Sous-section 3 : Dispositions particulières pour les manifestations  de véhicules terrestres à moteur
