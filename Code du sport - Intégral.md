@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2013-05-25
+Version Consolidée au 2013-06-29
 
 # Partie législative
 
@@ -26628,6 +26628,134 @@ pour le reliquat de la sanction fédérale restant à purger par l'intéressé.
 	  - Code du sport. - art. L232-21
 	  - Code du sport. - art. L232-22
 	  - Code du sport. - art. L232-23-4
+
+
+##### Section 5 : Coopération interministérielle et échanges de renseignements relatifs à la lutte contre le trafic de substances ou méthodes dopantes
+
+###### Article D232-99
+
+Dans chaque région et en Corse, il est constitué une commission régionale de lutte contre le trafic de substances ou méthodes
+dopantes.
+
+Elle a pour objet d'animer et de coordonner l'action des services déconcentrés de l'Etat et de l'Agence française de lutte
+contre le dopage, en matière de lutte contre le trafic de substances ou méthodes dopantes. Dans ce cadre, elle peut proposer
+des thèmes de formation à destination des acteurs de la lutte contre le trafic.
+
+La commission est coprésidée par le préfet de région ou son représentant et par le procureur général près la cour d'appel du
+chef-lieu de région ou tout procureur de la République territorialement compétent désigné par le procureur général près la
+cour d'appel compétente.
+
+Outre les coprésidents, la commission est composée :
+
+― du chef du service régional de l'Etat chargé des sports ou de son représentant ;
+
+― du directeur régional des douanes ou de son représentant ;
+
+― du chef du service régional de la direction générale des finances publiques ou de son représentant ;
+
+― du chef du service régional de l'Etat chargé de la concurrence, de la consommation et de la répression des fraudes ou de
+son représentant ;
+
+― du directeur général de l'agence régionale de santé ou de son représentant ;
+
+― du directeur régional ou interrégional de la police judiciaire ou de son représentant ;
+
+― du commandant de région de gendarmerie ou de son représentant ;
+
+― du secrétaire général de l'Agence française de lutte contre le dopage ou de son représentant ;
+
+― du chef de l'Office central de lutte contre les atteintes à l'environnement et à la santé publique ou de son représentant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-557 du 26 juin 2013 - art. 1
+
+
+###### Article D232-100
+
+La commission régionale de lutte contre le trafic de substances ou méthodes dopantes se réunit au moins une fois par an, à
+l'initiative d'un des coprésidents.
+
+Le secrétariat de cette commission est assuré par le service régional de l'Etat chargé des sports.
+
+La commission régionale adopte un rapport annuel présentant le bilan de son activité ainsi que ses propositions. Ce rapport
+est transmis au directeur des sports et au directeur des affaires criminelles et des grâces.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-557 du 26 juin 2013 - art. 1
+
+
+###### Article D232-101
+
+La commission régionale peut procéder à l'audition de personnes qualifiées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-557 du 26 juin 2013 - art. 1
+
+
+###### Article D232-102
+
+L'animation et la coordination des commissions régionales de lutte contre le trafic de substances ou méthodes dopantes sont
+assurées par le directeur des sports et le directeur des affaires criminelles et des grâces.
+
+Ils veillent notamment à faciliter les échanges d'informations entre les commissions régionales et à mobiliser les services
+concernés par la lutte contre le dopage et le trafic de substances ou de méthodes dopantes.
+
+Ils dressent un bilan de l'action de ces commissions régionales afin de recenser les bonnes pratiques en vue de leur
+extension.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-557 du 26 juin 2013 - art. 1
+
+
+###### Article D232-103
+
+La communication de renseignements entre les agents mentionnés à l'article L. 232-20 porte notamment sur : 
+
+― le calendrier des compétitions ou manifestations sportives ; 
+
+― les statistiques des analyses effectuées par l'Agence française de lutte contre le dopage ; 
+
+― des études quantitatives ou qualitatives et statistiques ; 
+
+― tout élément relatif aux circuits frauduleux tels que ceux se rapportant au mode d'acquisition, au mode
+d'approvisionnement, aux moyens d'acheminement ou à la typologie des filières ; 
+
+― des éléments d'identification et d'informations relatifs aux produits saisis et inscrits sur la liste des méthodes ou
+substances interdites ainsi que celles en phase de développement : composition, caractéristiques et effets ; 
+
+― tout signalement lié à l'emploi de méthodes et substances interdites ; 
+
+― les décisions de sanctions disciplinaires en précisant, le cas échéant, si elles sont susceptibles de faire l'objet d'un
+recours et sous réserve qu'elles n'aient pas fait l'objet d'une mesure d'amnistie ; 
+
+― le signalement de tout élément susceptible de donner lieu à une enquête administrative ou d'être porté à la connaissance du
+procureur de la République en application de l'article 40 du code de procédure pénale ; 
+
+― toute information de nature à faciliter l'action des différents services concernés, dans le respect du secret de
+l'instruction.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-557 du 26 juin 2013 - art. 1
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 40
+	  - Code du sport. - art. L232-20
 
 
 ### TITRE IV : LUTTE CONTRE LE DOPAGE ANIMAL
