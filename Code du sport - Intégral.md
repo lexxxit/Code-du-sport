@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2013-06-29
+Version Consolidée au 2013-07-01
 
 # Partie législative
 
@@ -5481,6 +5481,36 @@ double en est laissé aux parties intéressées.
 	  - Code du sport. - art. L232-11
 
 
+###### Article L232-12-1
+
+S'agissant des sportifs mentionnés aux 1° à 3° de l'article L. 232-15, les prélèvements biologiques mentionnés au premier
+alinéa de l'article L. 232-12 peuvent avoir pour objet d'établir le profil des paramètres pertinents dans l'urine ou le sang
+de ces sportifs aux fins de mettre en évidence l'utilisation d'une substance ou méthode interdite en vertu de l'article L.
+232-9. 
+
+Les renseignements ainsi recueillis peuvent faire l'objet, dans des conditions fixées par décret en Conseil d'Etat, d'un
+traitement informatisé par l'Agence française de lutte contre le dopage dans le respect des dispositions de la loi n° 78-17
+du 6 janvier 1978 relative à l'information, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Code du sport. - art. L232-12
+	  - Code du sport. - art. L232-15
+	  - Code du sport. - art. L232-9
+
+	**Créé par**:
+
+	  - Loi n°2012-348 du 12 mars 2012 - art. 4 (V)
+
+	**Cité par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 (V)
+	  - Code du sport. - art. L232-22-1 (VD)
+
+
 ###### Article L232-13
 
 Les contrôles peuvent être diligentés : 
@@ -6047,6 +6077,37 @@ La saisine de l'agence n'est pas suspensive, sauf décision contraire de celle-c
 	  - Code du sport. - art. L232-17
 	  - Code du sport. - art. L232-21
 	  - Code du sport. - art. L232-9
+
+
+###### Article L232-22-1
+
+En cas de recueil d'éléments faisant apparaître l'utilisation par un sportif d'une substance ou d'une méthode interdite en
+application de l'article L. 232-9 dans le cadre de l'établissement du profil mentionné à l'article L. 232-12-1, un comité
+d'experts, mis en place par l'Agence française de lutte contre le dopage et composé de trois membres, est saisi. 
+
+Si ce comité estime que les éléments recueillis indiquent l'utilisation d'une substance ou méthode interdite, puis s'il
+confirme sa position à l'unanimité après avoir mis le sportif concerné à même de présenter ses observations, ce dernier
+encourt des sanctions disciplinaires prises dans les conditions prévues aux articles L. 232-21 et L. 232-22.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2012-348 du 12 mars 2012 - art. 6 (V)
+
+	**Liens**:
+
+	  - RECTIFICATION: Loi n°2012-348 du 12 mars 2012 - art., v. init.
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-12-1
+	  - Code du sport. - art. L232-21
+	  - Code du sport. - art. L232-9
+
+	**Cité par**:
+
+	  - Code du sport. - art. R232-67-10 (V)
 
 
 ###### Article L232-23
