@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2013-10-02
+Version Consolidée au 2013-10-25
 
 # Partie législative
 
@@ -12590,6 +12590,242 @@ dans des conditions fixées par arrêté du ministre chargé des sports.
 	**Cite**:
 
 	  - Code du sport. - art. L131-14 (V)
+
+
+##### Sous-Section 3 : Dispositions relatives aux interdictions de paris sportifs
+
+###### Article R131-37
+
+Pour l'application des dispositions des articles L. 131-16 et L. 131-16-1, les fédérations délégataires qui organisent ou
+autorisent des compétitions sportives pouvant servir de support à des paris en ligne peuvent mettre en œuvre un traitement
+automatisé de données à caractère personnel relatives aux acteurs de ces compétitions. 
+
+La finalité de ce traitement est le contrôle de l'interdiction de parier prévue par le c de l'article L. 131-16, en vue de la
+mise en œuvre d'une éventuelle procédure disciplinaire. 
+
+L'Autorité de régulation des jeux en ligne est destinataire du traitement mentionné au premier alinéa. 
+
+Le droit d'opposition prévu à l'article 38 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et
+aux libertés ne s'applique pas à ce traitement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38
+	  - Code du sport. - art. L131-16 (V)
+
+	**Créé par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. R131-38 (V)
+	  - Code du sport. - art. R131-39 (V)
+	  - Code du sport. - art. R131-42 (V)
+
+
+###### Article R131-38
+
+Les traitements autorisés par l'article R. 131-37 peuvent porter sur les catégories de données à caractère personnel
+relatives : 
+
+1° A l'identité de la personne soumise à l'interdiction de parier prévue au c de l'article L. 131-16 (nom de famille, nom
+d'usage, prénoms, date et lieu de naissance) ; 
+
+2° A sa domiciliation (adresse postale et, le cas échéant, adresse électronique) ; 
+
+3° Aux compétitions pour lesquelles elle est soumise à une interdiction de parier. 
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi du 6 janvier 1978 susmentionnée s'exercent
+auprès des fédérations délégataires dont relèvent les personnes concernées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R131-37
+
+	**Cité par**:
+
+	  - Code du sport. - art. R131-40 (V)
+	  - Code du sport. - art. R331-3 (V)
+
+
+###### Article R131-39
+
+En application des dispositions du IV de l'article 26 de la loi du 6 janvier 1978 susmentionnée, la fédération délégataire
+responsable d'un traitement de données autorisé adresse à la Commission nationale de l'informatique et des libertés,
+préalablement à sa mise en œuvre, un engagement de conformité de celui-ci à la description figurant aux articles R. 131-37 et
+R. 131-38.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+	  - Code du sport. - art. R131-37
+
+	**Créé par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+
+
+###### Article R131-40
+
+Les informations personnelles relatives à des opérations de jeu enregistrées par un opérateur de jeux ou de paris en ligne
+détenues par l'Autorité de régulation des jeux en ligne, auxquelles une fédération sportive délégataire peut avoir accès,
+concernent les acteurs : 
+
+1° D'une compétition sportive organisée par la fédération concernée ; 
+
+2° D'une compétition sportive organisée par la ligue professionnelle que cette fédération a constituée ; 
+
+3° D'une compétition sportive mentionnée à l'article L. 331-5. 
+
+Lorsque les compétitions mentionnées aux 2° et 3° font l'objet de paris sportifs, les ligues professionnelles et les
+personnes physiques ou morales de droit privé mentionnées à l'article L. 331-5 sont tenues de transmettre aux fédérations
+délégataires les informations prévues aux 1°, 2° et 3° de l'article R. 131-38.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L331-5
+	  - Code du sport. - art. R131-38
+
+
+###### Article R131-41
+
+L'Autorité de régulation des jeux en ligne définit : 
+
+1° La nomenclature des compétitions pouvant servir de support à l'organisation de paris sportifs en ligne qui doit être
+utilisée pour présenter les informations mentionnées dans le cadre de la demande prévue au 2° de l'article R. 131-42 ; 
+
+2° Les modalités techniques de transmission et de traitement de la demande prévue à l'article R. 131-43.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R131-42
+	  - Code du sport. - art. R131-43
+
+
+###### Article R131-42
+
+Le président de la fédération habilite, parmi ses agents disposant des compétences techniques et juridiques adéquates, une ou
+plusieurs personnes afin : 
+
+1° De traiter les données contenues dans le traitement mentionné à l'article R. 131-37 ; 
+
+2° De transmettre à l'Autorité de régulation des jeux en ligne les demandes de rapprochement mentionnées à l'article R.
+131-43 ; 
+
+3° De recevoir en réponse les éléments définis à l'article R. 131-44. 
+
+Une copie de la décision d'habilitation est transmise à l'Autorité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R131-37
+	  - Code du sport. - art. R131-43
+
+	**Cité par**:
+
+	  - Code du sport. - art. R131-41 (V)
+	  - Code du sport. - art. R131-44 (V)
+
+
+###### Article R131-43
+
+L'Autorité de régulation des jeux en ligne procède aux contrôles demandés par une fédération sportive délégataire, en
+rapprochant le fichier transmis par celle-ci du traitement automatisé de données à caractère personnel relatives aux
+opérations de paris sportifs en ligne enregistrées dont elle dispose en application de l'article 38 de la loi n° 2010-476 du
+12 mai 2010 relative à l'ouverture à la concurrence et à la régulation des jeux d'argent et de hasard en ligne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 38
+
+	**Créé par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. R131-41 (V)
+	  - Code du sport. - art. R131-42 (V)
+
+
+###### Article R131-44
+
+Lorsque les rapprochements font apparaître que l'un des acteurs de l'une ou de plusieurs des compétitions concernées a
+méconnu l'interdiction de parier prévue au c de l'article L. 131-16, l'Autorité de régulation des jeux en ligne transmet le
+résultat de ces rapprochements aux agents mentionnés à l'article R. 131-42. 
+
+Ces rapprochements comportent la mention : 
+
+1° Des nom, prénoms, date et lieu de naissance de la personne concernée ; 
+
+2° De la compétition et de la ou des épreuves sur lesquelles elle a engagé des paris sportifs ; 
+
+3° Du détail des opérations de paris sportifs en ligne engagées, notamment leur date de réalisation. 
+
+Ces données sont conservées pendant une durée de cinq ans à compter de la réception par la fédération délégataire du résultat
+des rapprochements opérés par l'Autorité de régulation des jeux en ligne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L131-16
+
+	**Cité par**:
+
+	  - Code du sport. - art. R131-42 (V)
+
+
+###### Article R131-45
+
+La fédération sportive délégataire adresse aux ligues professionnelles les données nécessaires à l'exercice du pouvoir
+disciplinaire en première instance lorsque celui-ci a été délégué aux ligues dans le cadre de la convention prévue à
+l'article R. 132-9.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R132-9
 
 
 #### Chapitre II : Ligues professionnelles
@@ -29925,8 +30161,9 @@ des règlements et règles mentionnés à l'article L. 331-1.
 ###### Article R331-3
 
 L'autorisation prévue à l'article L. 331-5 est demandée au moins trois mois avant la date fixée pour le déroulement de la
-manifestation. En l'absence de réponse dans un délai d'un mois à compter de la réception de la demande, l'autorisation est
-considérée comme accordée.
+manifestation. Lorsque la manifestation sportive est une compétition qui fait l'objet de paris sportifs, la demande
+d'autorisation est accompagnée des informations mentionnées aux 1°, 2° et 3° de l'article R. 131-38. En l'absence de réponse
+dans un délai d'un mois à compter de la réception de la demande, l'autorisation est considérée comme accordée. 
 
 Cette manifestation est inscrite au calendrier saisonnier établi par la fédération délégataire.
 
@@ -29934,14 +30171,16 @@ Cette manifestation est inscrite au calendrier saisonnier établi par la fédér
 
 	**Anciens textes**:
 
-	  - Al. 2 et 3, 2e phrase, de l'article 18 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
-	  - Art. 1er du décret n°90-320 du 9 avril 1990 réprimant les infractions à l'article 18 de la loi n°84-610 du 16 juillet 1984 modifiée relative à l'organisation et à la promotion des activités physiques et sportives
 	  - Loi n°84-610 du 16 juillet 1984 - art. 18 (Ab)
 	  - Décret n°90-320 du 9 avril 1990 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2013-947 du 22 octobre 2013 - art. 2
 
 	**Cité par**:
 
@@ -29950,7 +30189,8 @@ Cette manifestation est inscrite au calendrier saisonnier établi par la fédér
 
 	**Cite**:
 
-	  - Code du sport. - art. L331-5 (V)
+	  - Code du sport. - art. L331-5
+	  - Code du sport. - art. R131-38
 
 
 ###### Article R331-4
@@ -33311,17 +33551,17 @@ personnalisées.
 
 ###### Article A142-0
 
-Le contenu de la notice d'impact mentionnée aux articles R. 142-2 et R. 142-3 du code du sport est fixé en annexe I-1.
+Le contenu de la notice d'impact mentionnée aux articles R. 142-8 à R. 142-10 est fixé en annexe I-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 12 septembre 2011 - art. 1
+	  - Arrêté du 14 octobre 2013 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. R142-2
+	  - Code du sport. - art. R142-8
 
 
 ##### Section 1 : Commission consultative des arts martiaux et des sports de combat
@@ -51933,19 +52173,21 @@ techniques prises en considération lors de la conception du modèle.
 
 ###### Article Annexe I-1 (art. A142-0)
 
-NOTICE D'IMPACT PRÉVUE AUX ARTICLES R. 142-2 ET R. 142-3 
+NOTICE D'IMPACT PRÉVUE AUX ARTICLES R. 142-8 À R. 142-10 
 
 1. Indication de la fédération et des disciplines concernées au sens de la délégation consentie par le ministre chargé des
-sports, au titre de l'article L. 131-14 du code du sport. 
+sports au titre de l'article L. 131-14 du code du sport. 
 
-2. Description du projet de règlement ou de modification envisagé (e) :
+2. Date de la précédente modification ou de l'édiction du règlement. 
+
+3. Description du projet de règlement ou de modification envisagé (e) :
 
 - par niveau de classement fédéral des équipements sportifs ;
 
-- par type d'espaces concernés, notamment les espaces d'activité sportive ou les vestiaires. 
+- par type d'espaces concernés, notamment les espaces d'activité sportive et les vestiaires. 
 
 Indiquer explicitement pour chaque niveau de classement fédéral des équipements les dispositions qui font référence à une ou
-plusieurs préconisations formulées par les fédérations internationale et/ ou européenne. 
+plusieurs préconisations formulées par les fédérations sportives internationale et/ ou européenne. 
 
 Joindre à la notice :
 
@@ -51953,73 +52195,77 @@ Joindre à la notice :
 
 - en cas de modification :
 
-- le règlement en vigueur publié conformément aux dispositions de l'article R. 131-35 du code du sport ;
+- le règlement en vigueur publié conformément aux dispositions de l'article R. 142-11 du code du sport ;
 
 - le règlement après insertion des modifications ;
 
-- dans tous les cas : un tableau synoptique présentant les niveaux de classement fédéral en colonnes et les types d'espaces
-en lignes. 
+- un tableau synoptique présentant les niveaux de classement fédéral en colonnes et les types d'espaces en lignes. 
 
-3. Indication des niveaux de compétition correspondant à chaque niveau de classement fédéral des équipements. 
+4. Indication des niveaux de compétition correspondant à chaque niveau de classement fédéral des équipements. 
 
 Joindre à la notice un tableau de correspondance des niveaux de compétition avec les niveaux de classement fédéral des
 équipements. 
-
-4. Justification du bien-fondé du projet de règlement ou de modification envisagé (e) :
-
-- origines du règlement et/ ou de sa modification en faisant apparaître explicitement celles qui relèvent des préconisations
-formulées par les fédérations internationale et/ ou européenne ;
-
-- justifications réglementaires ou normatives (indiquer notamment la réglementation ou les normes non réglementaires
-applicables aux équipements concernés et mettre celles-ci en regard des règles fédérales) ;
-
-- justifications au regard des objectifs de la politique sportive mise en œuvre par la fédération aux niveaux local, national
-ou international ;
-
-- justifications techniques liées à l'évolution de la ou des disciplines (s) concernée (s). 
 
 5. Evaluation du nombre d'équipements susceptibles d'être soumis au projet de règlement ou de modification envisagé (e) :
 
 - pour chaque niveau de classement fédéral, sur une saison sportive ;
 
 - le cas échéant, sur une période de dix saisons sportives (calcul théorique intégrant le nombre de clubs pouvant changer de
-niveau de classement fédéral à l'issue de chaque saison sportive). 
+niveau de classement fédéral à l'issue de chaque saison sportive). S'il y a lieu la taille des équipements sera mentionnée en
+référence au classement fédéral. 
 
-6. Evaluation des conséquences financières pour un équipement :
+6. Evaluation des conséquences financières qui résulteraient de l'application du projet de règlement pour les clubs sportifs
+et pour les collectivités territoriales, pour un équipement type, tant en investissement qu'en fonctionnement :
 
 - évaluation du coût moyen d'investissement induit par le projet de règlement ou de modification envisagé (e), pour chaque
 niveau de classement fédéral, en distinguant les coûts selon qu'ils sont induits par des prescriptions qui relèvent des
-fédérations mondiale et/ ou européenne, des règles spécifiquement édictées par la fédération délégataire compétente, de la
-réglementation et de la normalisation ;
+fédérations sportives mondiale et/ ou européenne, des règles spécifiquement édictées par la fédération délégataire
+compétente, de la réglementation et de la normalisation non réglementaire ;
 
 - évaluation du coût moyen annuel de fonctionnement induit par le projet de règlement ou de modification envisagé (e), pour
-chaque niveau de classement, en distinguant les coûts selon qu'ils sont induits par des prescriptions qui relèvent des
-fédérations mondiale et/ ou européenne, des règles spécifiquement édictées par la fédération délégataire compétente, de la
-réglementation et de la normalisation non réglementaire ;
+chaque niveau de classement fédéral, en distinguant les coûts selon qu'ils sont induits par des prescriptions qui relèvent
+des fédérations sportives mondiale et/ou européenne, des règles spécifiquement édictées par la fédération délégataire
+compétente, de la réglementation et de la normalisation non réglementaire ;
 
 - éléments de calcul de ces coûts, notamment le prix par mètre carré ou le prix unitaire ainsi que les sources de ces
 éléments de calcul, notamment les statistiques, études ou devis ;
 
-- évaluation du rapport coûts/ bénéfices lié au projet de règlement ou de modification envisagé (e), notamment en ce qui
+- évaluation du rapport coûts/bénéfices lié au projet de règlement ou de modification envisagé (e), notamment en ce qui
 concerne les dispositions relevant de la seule initiative de la fédération délégataire compétente. 
 
 7. Evaluation des conséquences urbanistiques et environnementales possibles (impacts sur la voirie, les dessertes, les
 consommations d'énergie et d'eau, nuisances sonores, pollution lumineuse). 
 
-8. Indication des délais prévus pour la mise en conformité des installations existantes avec le projet de règlement ou de
-modification envisagé (e), pour chaque niveau de classement. 
+8. Indication des modalités d'application transitoire aux projets en cours et des délais prévus pour la mise en conformité
+éventuelle des installations existantes avec le projet de règlement ou de modification envisagé (e), pour chaque niveau de
+classement. 
 
 Indiquer notamment les délais prévus concernant les niveaux de classement fédéral des équipements qui font référence à une ou
 plusieurs préconisations formulées par les fédérations mondiale et/ ou européenne. 
 
-9. Description des concertations préalables :
+9. Justification de la nécessité du projet de règlement ou de modification envisagé (e) et de la proportionnalité de ses
+exigences au regard :
 
-- liste des organismes consultés :
+- de l'évolution des règles techniques de la ou des disciplines intéressées ;
 
-- associations nationales d'élus et d'agents territoriaux ;
+- du niveau des compétitions ;
 
-- Comité national olympique et sportif français et autres fédérations sportives concernées par l'utilisation des mêmes types
-d'équipements sportifs ;
+- des objectifs de sécurité ou des règles édictées par les fédérations internationales, 
+
+avec indication des évolutions du cadre réglementaire et normatif (notamment la réglementation ou les normes non
+réglementaires applicables aux équipements concernés et mettre celles-ci en regard des règles fédérales). 
+
+10. Teneur des concertations préalablement engagées par la fédération :
+
+- organismes consultés :
+
+- autres fédérations sportives utilisatrices des mêmes types d'équipements sportifs ;
+
+- associations nationales d'élus locaux, de propriétaires et de gestionnaires des types d'équipements sportifs visés ;
+
+- Comité national olympique et sportif français ;
+
+- Comité paralympique et sportif français ;
 
 - organismes représentatifs des entreprises intéressées par les équipements sportifs ;
 
@@ -52027,20 +52273,22 @@ d'équipements sportifs ;
 
 - modalités, contenu et délais des concertations ;
 
-- résultats des concertations, tout particulièrement en ce qui concerne les conséquences financières et les délais de mise en
-conformité (adresser une synthèse des avis formulés par les organismes consultés accompagnée des copies des courriers, des
-comptes rendus de réunion ainsi que tout autre élément pertinent).
+- résultats des concertations après un délai minimum de deux mois suivant la saisine, par courrier recommandé avec avis de
+réception, des organismes consultés, avec copie à la direction des sports du ministère chargé des sports, tout
+particulièrement en ce qui concerne l'évaluation des conséquences financières du projet et les délais de son application
+(adresser une copie des lettres de saisine, une synthèse des avis formulés par les organismes consultés accompagnée des
+copies des courriers, des comptes rendus de réunion ainsi que tout autre élément pertinent).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 12 septembre 2011 - art. 2
+	  - Arrêté du 14 octobre 2013 - art. 2
 
 	**Cite**:
 
 	  - Code du sport. - art. L131-14
-	  - Code du sport. - art. R142-2
+	  - Code du sport. - art. R142-11
 
 
 ###### Article Annexe II-1 (art. A212-1)
