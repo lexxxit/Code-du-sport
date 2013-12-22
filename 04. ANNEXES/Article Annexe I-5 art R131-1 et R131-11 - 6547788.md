@@ -158,8 +158,7 @@ fédération, notamment le nombre de leurs membres.
 
 2.2.2.2. Ils précisent :
 
-2.2.2.2.1. Que la représentation des femmes est garantie au sein de la ou des instances dirigeantes en leur attribuant un
-nombre de sièges en proportion du nombre de licenciées éligibles ;
+2.2.2.2.1. (abrogé)
 
 2.2.2.2.2. Qu'un médecin siège au sein d'une des instances dirigeantes ;
 
@@ -361,4 +360,8 @@ la préfecture du département et ne peut entrer en vigueur ni être modifié qu
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2013-1200 du 20 décembre 2013 - art. 1
