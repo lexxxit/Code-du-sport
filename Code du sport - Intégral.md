@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2013-12-23
+Version Consolidée au 2014-01-01
 
 # Partie législative
 
@@ -25116,6 +25116,243 @@ personnes publiques ou privées non soumises au code des marchés publics.
 	  - Décret n°2010-406 du 26 avril 2010 - art. 38
 
 
+##### Sous-Section 4 -  Traitement automatisé de données à caractère personnel visant à mettre en œuvre l'établissement du profil biologique des sportifs mentionnés à l'article L. 232-15
+
+###### Article R232-41-1
+
+Est autorisée la création, par l'Agence française de lutte contre le dopage, d'un traitement automatisé de données à
+caractère personnel visant à faciliter l'établissement du profil biologique des sportifs mentionnés à l'article L. 232-15 et
+à orienter les contrôles relatifs à la lutte contre le dopage les concernant.
+
+Ce traitement rassemble les données biologiques mises en évidence par les analyses consécutives aux prélèvements biologiques
+prévus au premier alinéa de l'article L. 232-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+
+
+###### Article R232-41-2
+
+Le traitement mentionné à l'article R. 232-41-1 a pour finalités de :
+
+1° Rassembler des informations biologiques sur les sportifs mentionnés aux 1°, 2° et 3° de l'article L. 232-15 ;
+
+2° Détecter l'utilisation d'une substance ou d'une méthode interdite et la sanctionner dans les conditions fixées par les
+articles L. 232-21 et suivants ;
+
+3° Favoriser la mise en œuvre de contrôles relatifs à la lutte contre le dopage pour ces mêmes catégories de sportifs ;
+
+4° Dissuader les mêmes sportifs de recourir à des substances ou méthodes interdites ;
+
+5° Préserver la santé des intéressés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+
+
+###### Article R232-41-3
+
+I. ― Peuvent être enregistrées dans le traitement automatisé des données à caractère personnel mentionné à l'article R.
+232-41-1 cinq catégories de données :
+
+1° Les données relatives à l'état civil du sportif :
+
+a) Nom et prénom ;
+
+b) Date et lieu de naissance ;
+
+c) Sexe ;
+
+2° Les données se rapportant à l'activité du sportif :
+
+a) Sport pratiqué ;
+
+b) En cas d'affiliation de l'intéressé à une fédération sportive nationale agréée, la dénomination de cette dernière ;
+
+c) Mention, s'il y a lieu, de sa participation à des stages en moyenne ou haute altitude ou du recours à un dispositif de
+simulation de l'altitude au cours des trois derniers mois ;
+
+3° Des indications communiquées par l'intéressé et relatives à un traitement médical en cours ou récent ;
+
+4° Les données hématologiques mesurées ou calculées dans les échantillons de sang du sportif :
+
+a) Hématocrite ;
+
+b) Hémoglobine ;
+
+c) Volume globulaire moyen ;
+
+d) Concentration corpusculaire moyenne en hémoglobine ;
+
+e) Numération érythrocytaire (globules rouges) ;
+
+f) Pourcentage de réticulocytes ;
+
+g) Numération des réticulocytes ;
+
+h) Hémoglobine corpusculaire moyenne ;
+
+i) Indice faisant apparaître la différence entre le taux d'hémoglobine et le taux de réticulocytes, dénommé "Off-score
+
+j) Distribution des globules rouges avec déviation de standard ;
+
+k) Fraction de réticulocyte immature ;
+
+5° Les données mesurées ou calculées dans les échantillons d'urine du sportif :
+
+a) Testostérone ;
+
+b) Epitestostérone ;
+
+c) Androstérone ;
+
+d) Etiocholanolone ;
+
+e) Déhydroépiandrostérone ;
+
+f) 5androstanediol ;
+
+g) 5androstanediol ;
+
+h) Dihydrotestostérone ;
+
+i) Hormone lutéinisante ;
+
+j) Hormone chorionique gonadotrophine ;
+
+k) Indice faisant apparaître la concentration de testostérone par rapport à celle d'épitestostérone, dénommé "rapport T/E" ;
+
+l) Densité urinaire.
+
+II. - Les données entrant dans la catégorie mentionnée au 4° du I peuvent être précisées ou complétées, aux fins de mettre en
+évidence l'utilisation d'une substance ou d'une méthode interdite, par une délibération du collège de l'Agence française de
+lutte contre le dopage prise conformément aux recommandations de l'Agence mondiale antidopage et publiée au Journal officiel
+de la République française.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. R232-67-10 (V)
+	  - Code du sport. - art. R232-67-10-1 (V)
+	  - Code du sport. - art. R232-67-7 (V)
+
+
+###### Article R232-41-4
+
+Les données mentionnées à l'article R. 232-41-3 peuvent être communiquées à l'Agence française de lutte contre le dopage
+par :
+
+1° L'Agence mondiale antidopage à partir du système d'administration et de gestion antidopage hébergé sur une plate-forme
+internet sécurisée au Canada ;
+
+2° Une fédération sportive internationale ayant passé, à cet effet, une convention avec l'Agence française de lutte contre le
+dopage, à la condition que le lieu d'hébergement des données traitées se trouve dans un Etat assurant un niveau de protection
+suffisant de la vie privée et des libertés et droits fondamentaux des personnes à l'égard du traitement dont ces données font
+l'objet ou peuvent faire l'objet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+
+
+###### Article R232-41-5
+
+Sont seuls habilités à enregistrer ou modifier les données mentionnées à l'article R. 232-41-3 :
+
+1° Pour les données mentionnées aux 1° à 3° de l'article R. 232-41-3, les agents du département des contrôles de l'Agence
+française de lutte contre le dopage ;
+
+2° Pour les données mentionnées aux 4° et 5° du même article, les agents du département des analyses de cette agence ;
+
+3° Pour l'ensemble des données mentionnées à cet article, les personnes désignées par le président de l'agence pour exercer
+les fonctions de responsable du service médical de l'Agence et de responsable de l'unité de gestion du profil biologique du
+sportif mentionnée à l'article R. 232-67-8 ainsi que les agents placés sous leur autorité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+
+
+###### Article R232-41-6
+
+Le rapprochement aux fins d'interprétation entre les données mentionnées aux b et c du 1°, au 2° et au 3° de l'article R.
+232-41-3, d'une part, et celles mentionnées aux 4° et 5° du même article, d'autre part, ne peut être réalisé que par la
+personne désignée par le président de l'agence pour exercer les fonctions de conseiller scientifique, ou, en cas
+d'empêchement de cette dernière, par le président du comité d'orientation scientifique mentionné à l'article R. 232-44, à la
+condition d'avoir le titre de docteur en médecine ou de docteur en pharmacie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. R232-67-9-1 (V)
+
+
+###### Article R232-41-7
+
+Peuvent être destinataires des données mentionnées à l'article R. 232-41-3 :
+
+1° L'Agence mondiale antidopage ;
+
+2° Une fédération sportive internationale, sous réserve du respect des conditions prévues au 2° de l'article R. 232-41-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+
+
+###### Article R232-41-8
+
+Les données mentionnées à l'article R. 232-41-3 sont effacées au plus tard à l'expiration d'un délai de huit ans à compter de
+la date de leur enregistrement dans le traitement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+
+
+###### Article R232-41-9
+
+Le responsable du service médical de l'Agence française de lutte contre le dopage, suppléé, le cas échéant, par le
+responsable de l'unité de gestion du profil biologique des sportifs, est responsable du respect des règles de gestion du
+traitement.
+
+Le droit d'accès et de rectification s'exerce auprès de ce dernier dans les conditions prévues aux articles 39, 40 et 43 de
+la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Le responsable du traitement
+dispose d'un délai de deux mois pour donner suite à la demande.
+
+Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au présent traitement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1317 du 27 décembre 2013 - art. 1
+
+
 ##### Section 3 : Agissements interdits et contrôles
 
 ##### Sous-section 1 : Organisation des contrôles
@@ -25916,9 +26153,9 @@ décelée dans l'échantillon A, ou de l'un de ses métabolites ou de ses marque
 
 ###### Article R232-65
 
-Le département des analyses de l'Agence française de lutte contre le dopage ou le laboratoire auquel il a été fait appel en
-application de l'article L. 232-18 établit un rapport d'analyse qui présente le résultat des analyses ainsi que les types de
-méthodes utilisées. 
+Le département des analyses de l'Agence française de lutte contre le dopage ou le laboratoire     auquel ce département ou le
+département des contrôles a fait appel en application de l'article L. 232-18 établit un rapport d'analyse qui présente le
+résultat des analyses ainsi que les types de méthodes utilisées. 
 
 Le département des analyses transmet le rapport d'analyse au président de l'agence et à la fédération. 
 
@@ -25931,7 +26168,7 @@ résultat de l'analyse lorsque celui-ci est négatif.
 
 Lorsqu'une des personnes mentionnées au 2° de l'article L. 232-13 demande que l'agence diligente un contrôle, l'agence
 informe ces personnes de la présence d'une substance interdite dans les prélèvements qu'elle a effectués, ainsi que des
-décisions éventuellement prises.
+décisions éventuellement prises. 
 
 L'agence informe, le cas échéant, la personne chargée du contrôle de la présence d'une substance interdite dans les
 prélèvements qu'elle a effectués, ainsi que des décisions éventuellement prises.
@@ -25948,7 +26185,7 @@ prélèvements qu'elle a effectués, ainsi que des décisions éventuellement pr
 
 	**Modifié par**:
 
-	  - Décret n°2011-57 du 13 janvier 2011 - art. 11
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 1
 
 	**Cite**:
 
@@ -26027,6 +26264,277 @@ prévention du dopage et de lutte contre les trafics de substances interdites.
 	**Cite**:
 
 	  - Code du sport. - art. L232-5 (V)
+
+
+##### Paragraphe 2-1 : Etablissement du profil biologique des sportifs entrant dans le champ de l'article L. 232-15
+
+###### Article R232-67-1
+
+Les dispositions du présent paragraphe sont applicables aux sportifs mentionnés aux 1° à 3° de l'article L. 232-15 lorsque
+l'autorité prescrivant un prélèvement urinaire ou sanguin les concernant spécifie que celui-ci est susceptible d'être pris en
+compte pour l'établissement du profil biologique institué par l'article L. 232-12-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-2
+
+La preuve du recours à des substances ou à des méthodes interdites figurant sur la liste mentionnée au dernier alinéa de
+l'article L. 232-9 ne peut être apportée, au moyen du profil biologique, que dans le respect des dispositions du présent
+paragraphe.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-3
+
+Indépendamment du respect des exigences posées aux paragraphes 1 et 2 ci-dessus, un prélèvement sanguin ne peut concourir à
+l'établissement du profil biologique que s'il est réalisé : 
+
+- soit antérieurement à une séance d'entraînement ou à la participation à une manifestation sportive ; 
+
+- soit deux heures au moins à l'issue de l'activité physique découlant d'une séance d'entraînement ou de la participation à
+une manifestation sportive. 
+
+Le sportif doit rester en position assise, ses pieds touchant le sol, pendant une période d'au moins dix minutes avant le
+prélèvement de l'échantillon sanguin.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-4
+
+Lorsqu'il est procédé à un prélèvement sanguin, le procès-verbal de contrôle ou un document annexe, dont le modèle est arrêté
+par le collège de l'Agence française de lutte contre le dopage, doit comporter, outre les mentions prévues à l'article R.
+232-58, les informations suivantes : 
+
+- date et lieu de naissance de l'intéressé ; 
+
+- nature du sport pratiqué ; 
+
+- en cas d'affiliation de l'intéressé à une fédération sportive nationale agréée, dénomination de cette dernière ; 
+
+- température ambiante au moment du prélèvement ; 
+
+- constat que le sportif est resté en position assise, ses pieds touchant le sol, pendant une période d'au moins dix minutes
+avant le prélèvement ; 
+
+- mention, s'il y a lieu, de sa participation à des stages en moyenne ou haute altitude, ou du recours à un dispositif de
+simulation de l'altitude, au cours des trois derniers mois ; 
+
+- mention, au cours de la même période, d'un don du sang de la part de l'intéressé ou d'une perte de sang consécutive à des
+troubles médicaux ou à une situation d'urgence ; 
+
+- mention, au cours de la même période, du bénéfice d'une transfusion sanguine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-5
+
+L'échantillon sanguin est acheminé dans des conditions de température comprises entre deux et douze degrés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-6
+
+L'analyse de l'échantillon sanguin doit intervenir dans un délai correspondant aux recommandations de l'Agence mondiale
+antidopage pour le " passeport biologique de l'athlète ". 
+
+Toutefois, le dépassement de ce délai ne fait pas obstacle à la réalisation d'une analyse aux fins de mieux orienter des
+contrôles ultérieurs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-7
+
+L'analyse de l'échantillon de sang a pour objet de mettre en évidence les variables destinées à composer le module
+hématologique du profil biologique du sportif et mentionnées au 4° de l'article R. 232-41-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-8
+
+Les résultats des analyses urinaires ou sanguines poursuivant les finalités énoncées au premier alinéa de l'article L.
+232-12-1 sont transmis, sous une forme anonyme, à une unité de gestion du profil biologique du sportif créée au sein de
+l'Agence française de lutte contre le dopage, selon des modalités déterminées par une délibération du collège de l'Agence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-9
+
+L'unité de gestion du profil biologique du sportif traite les données biologiques portées à sa connaissance en les intégrant
+dans un algorithme de statistique prédictive. 
+
+Pour l'établissement du module hématologique du profil biologique d'un sportif, sont pris en compte plus spécialement : 
+
+a) La concentration de l'hémoglobine (HGB) exprimée en g/ dL ou g/ L ; 
+
+b) Le pourcentage de réticulocytes (RET %) ; 
+
+c) L'index de stimulation ou " off-score ", destiné à apprécier les variations de sens inverses de la concentration
+d'hémoglobine et du pourcentage de réticulocytes. 
+
+Le conseiller scientifique de l'Agence française de lutte contre le dopage mentionné à l'article R. 232-41-6 et, en cas
+d'absence ou d'empêchement de ce dernier, le président du comité d'orientation scientifique, à condition d'avoir le titre de
+docteur en médecine ou de docteur en pharmacie, ont seuls compétence, au sein de l'agence, pour interpréter les données
+hématologiques énumérées aux a à c ci-dessus, qui leur ont été transmises sous une forme anonyme par l'unité de gestion du
+profil biologique du sportif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-10
+
+Lorsque le conseiller scientifique ou son remplaçant, au vu des données hématologiques successives concernant un sportif,
+considère que des valeurs de la nature de celles mentionnées au 4° de l'article R. 232-41-3 et à l'article R. 232-67-9 sont
+atypiques ou correspondent à un profil longitudinal atypique, il peut, par l'intermédiaire de l'unité de gestion du profil
+biologique du sportif : 
+
+- porter les constatations qu'il a effectuées à la connaissance du directeur du département des contrôles en lui
+recommandant, le cas échéant, de poursuivre le recueil de données physiologiques ou d'orienter des contrôles ultérieurs ; 
+
+- décider de soumettre le dossier du sportif au comité d'experts mentionné à l'article L. 232-22-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-11
+
+Le collège de l'Agence française de lutte contre le dopage dresse la liste des experts susceptibles d'être désignés en vue de
+participer aux travaux du comité compétent pour le profil biologique. Il fixe également leur mode de rémunération selon des
+règles identiques à celles prévues pour les médecins auxquels il est fait appel au titre de l'examen des demandes
+d'autorisation d'usage à des fins thérapeutiques en vertu des 14° et 15° de l'article R. 232-10. 
+
+La délibération du collège relative au mode de rémunération de ces experts est soumise aux dispositions du dix-huitième
+alinéa du même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-12
+
+Le président de l'Agence française de lutte contre le dopage, sur proposition du conseiller scientifique de l'agence, nomme
+les trois membres du comité mentionné à l'article L. 232-22-1 parmi les experts figurant sur la liste arrêtée en application
+de l'article R. 232-67-11. Le comité désigne parmi ses membres son président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-13
+
+Lorsqu'il est saisi du dossier d'un sportif, le comité peut solliciter toutes explications complémentaires du conseiller
+scientifique de l'agence et du responsable de l'unité de gestion du profil biologique du sportif. 
+
+Le comité rend son avis dans un délai d'un mois suivant sa saisine. Cet avis figure au procès-verbal de la réunion, signé par
+le président du comité et adressé au responsable de l'unité de gestion du profil biologique du sportif. 
+
+L'avis du comité peut être recueilli par voie de consultation électronique dans des conditions qui garantissent la
+confidentialité des échanges.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-14
+
+Lorsque le comité, statuant à l'unanimité, estime, d'une part, qu'il est très probable que le sportif ait eu recours à une
+substance ou à une méthode interdite et, d'autre part, qu'il est peu probable que les résultats anormaux observés soient
+imputables à une autre cause, le sportif est, à l'initiative de l'unité de gestion du profil biologique du sportif, invité à
+présenter ses observations. 
+
+Le sportif dispose à cet effet d'un délai d'un mois. 
+
+Après avoir pris connaissance de ces observations, ou en cas d'absence d'observations présentées dans le délai d'un mois, le
+comité rend un nouvel avis. En cas d'empêchement d'un de ses membres, ce comité est alors complété suivant les modalités
+définies à l'article R. 232-67-12. 
+
+Le comité doit soit réviser sa position initiale à la majorité de ses membres, soit la confirmer à l'unanimité de ses
+membres. 
+
+Le nouvel avis est transmis sans délai par le président du comité au responsable de l'unité de gestion du profil biologique
+du sportif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+
+
+###### Article R232-67-15
+
+La confirmation par le comité de sa position initiale entraîne l'engagement d'une procédure disciplinaire à l'encontre du
+sportif concerné. 
+
+Si le sportif est licencié auprès d'une fédération agréée, le secrétaire général de l'Agence française de lutte contre le
+dopage transmet le dossier de l'intéressé à la fédération dont il relève ; celle-ci exerce les compétences en matière de
+sanctions disciplinaires prévues à l'article L. 232-21 sans préjudice des compétences de l'Agence française de lutte contre
+le dopage mentionnées aux 2°, 3° et 4° de l'article L. 232-22. 
+
+Si le sportif n'a pas ou a cessé d'avoir la qualité de licencié, l'Agence française de lutte contre le dopage est compétente
+pour infliger une des sanctions prévues à l'article L. 232-23.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
 
 
 ##### Paragraphe 3 : Agrément, formation et assermentation des personnes chargées des contrôles.
