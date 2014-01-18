@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-01-19
 
 # Partie législative
 
@@ -33919,8 +33919,6 @@ Fédération française de planeur ultra-léger motorisé : ULM info.
 
 Fédération française de la randonnée pédestre : Balises comités. 
 
-Fédération française de rugby : Rugby mag. 
-
 Fédération française de sauvetage et de secourisme : Préserver et sauver. 
 
 Fédération française de savate, boxe française et disciplines associées : La lettre de la savate. 
@@ -33951,7 +33949,7 @@ Fédération française de vol libre : Vol passion.
 
 	**Modifié par**:
 
-	  - Arrêté du 7 mars 2011 - art. 1
+	  - Arrêté du 2 janvier 2014 - art. 1
 
 	**Cite**:
 
