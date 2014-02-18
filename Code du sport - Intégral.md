@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-01-30
+Version Consolidée au 2014-02-19
 
 # Partie législative
 
@@ -34815,8 +34815,7 @@ h) Union nationale des syndicats autonomes (UNSA).
 
 3° Douze représentants des pouvoirs publics, dont onze désignés par les ministres concernés : 
 
-a) Trois représentants du ministre chargé de la jeunesse et du ministre chargé des sports, dont un chef de service
-déconcentré régional chargé de la jeunesse et des sports ou son représentant ; 
+a) Deux représentants du ministre chargé de la jeunesse et du ministre chargé des sports ;
 
 b) Un représentant du ministre de l'éducation nationale ; 
 
@@ -34824,7 +34823,7 @@ c) Un représentant du ministre de l'enseignement supérieur ;
 
 d) Un représentant du ministre chargé des affaires sociales ; 
 
-e) Un représentant du ministre chargé de la formation professionnelle et du tourisme ; 
+e) Un représentant du ministre chargé de la formation professionnelle ;
 
 f) Un représentant du ministre de l'intérieur ; 
 
@@ -34834,20 +34833,25 @@ h) Un représentant du ministre chargé de la culture ;
 
 i) Un représentant du ministre de la défense ; 
 
-j) Un représentant du centre d'études et de recherche sur les qualifications désigné par son président. 
+j) Un représentant du ministre chargé du tourisme ;
 
-4° Dix personnalités qualifiées choisies en raison de leur compétence, dans le domaine des qualifications et des
+k) Un représentant du centre d'études et de recherche sur les qualifications désigné par son président.  
+
+4° Treize  personnalités qualifiées choisies en raison de leur compétence, dans le domaine des qualifications et des
 formations : 
 
-a) Sept personnalités désignées par le ministre chargé de la jeunesse et le ministre chargé des sports, dont des
-représentants du corps de l'inspection et des corps des personnels techniques et pédagogiques des ministères chargés de la
-jeunesse et des sports ; 
+a) Neuf personnalités désignées par le ministre chargé de la jeunesse et le ministre chargé des sports, dont un chef de
+service déconcentré régional chargé de la jeunesse et des sports ou son représentant, un représentant des établissements de
+formation mentionnés à l'article L. 211-1 du code du sport, des représentants du corps de l'inspection et des corps des
+personnels techniques et pédagogiques du ministère chargé de la jeunesse et des sports ; 
 
 b) Deux personnalités proposées, respectivement, par le président du Comité pour les relations nationales et internationales
 des associations de jeunesse et d'éducation populaire (CNAJEP) et par le président du Comité national olympique et sportif
 français (CNOSF) ; 
 
-c) Un représentant du Centre national de la fonction publique territoriale (CNFPT). 
+c) Un représentant du Centre national de la fonction publique territoriale (CNFPT) ;
+
+d) Un représentant de l'Association des régions de France (ARF).  
 
 Siègent de droit les présidents et vice-présidents des sous-commissions. 
 
@@ -34865,7 +34869,7 @@ professionnelle consultative des métiers du sport et de l'animation).
 
 	**Modifié par**:
 
-	  - Arrêté du 10 juin 2009 - art. 1
+	  - Arrêté du 28 janvier 2014 - art. 1
 
 	**Cité par**:
 
@@ -34897,10 +34901,10 @@ professionnelle consultative des métiers du sport et de l'animation).
 
 ###### Article A142-22
 
-La présidence de la commission professionnelle consultative des métiers du sport et de l'animation est assurée pour deux ans
-par l'un de ses membres choisi alternativement dans le collège des employeurs et dans celui des salariés. Le président est
-assisté d'un vice-président appartenant à l'autre collège. Le président et le vice-président sont élus simultanément,
-respectivement par les représentants de chacun des deux collèges concernés. 
+La présidence de la commission professionnelle consultative des métiers du sport et de l'animation est assurée  pour deux ans
+et demi par l'un de ses membres choisi alternativement dans le collège des employeurs et dans celui des salariés. Le
+président est assisté d'un vice-président appartenant à l'autre collège. Le président et le vice-président sont élus
+simultanément, respectivement par les représentants de chacun des deux collèges concernés. 
 
 Le collège assurant la première présidence est déterminé par tirage au sort. 
 
@@ -34917,7 +34921,7 @@ professionnelle consultative des métiers du sport et de l'animation).
 
 	**Modifié par**:
 
-	  - Arrêté du 10 juin 2009 - art. 1
+	  - Arrêté du 28 janvier 2014 - art. 2
 
 	**Cité par**:
 
@@ -34940,8 +34944,7 @@ c) Trois représentants du Conseil national des employeurs associatifs (CNEA).
 
 2° En ce qui concerne les salariés : 
 
-Huit représentants proposés par les organisations syndicales représentatives du secteur (CFDT, CFE-CGC, CFTC, CGT, CGT-FO,
-CNES, FNASS, UNSA).
+Huit représentants proposés par les organisations syndicales mentionnées au 2° de l'article A. 142-20.
 
 **Nota:**
 
@@ -34953,12 +34956,11 @@ professionnelle consultative des métiers du sport et de l'animation).
 
 	**Modifié par**:
 
-	  - Arrêté du 10 juin 2009 - art. 1
+	  - Arrêté du 28 janvier 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. A142-22
-	  - Code du sport. - art. A142-29
+	  - Code du sport. - art. A142-20
 
 
 ###### Article A142-24
@@ -35031,12 +35033,12 @@ professionnelle consultative des métiers du sport et de l'animation).
 
 ###### Article A142-26
 
-La présidence de chaque sous-commission est assurée pour deux ans par l'un de ses membres choisi alternativement dans le
-collège des employeurs et dans celui des salariés. Le président est assisté d'un vice-président appartenant à l'autre
+La présidence de chaque sous-commission est assurée  pour deux ans et demi par l'un de ses membres choisi alternativement
+dans le collège des employeurs et dans celui des salariés. Le président est assisté d'un vice-président appartenant à l'autre
 collège. 
 
 Le collège chargé de la première présidence est différent de celui qui assure la première présidence de la commission
-professionnelle consultative des métiers du sport et de l'animation mentionné à l'article A. 142-22.
+professionnelle consultative des métiers du sport et de l'animation mentionné à l'article A. 142-22. 
 
 Le président et le vice-président sont élus simultanément, respectivement par chacun des deux collèges concernés. 
 
@@ -35053,11 +35055,11 @@ professionnelle consultative des métiers du sport et de l'animation).
 
 	**Modifié par**:
 
-	  - Arrêté du 10 juin 2009 - art. 1
+	  - Arrêté du 28 janvier 2014 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. A142-22 (V)
+	  - Code du sport. - art. A142-22
 
 
 ###### Article A142-27
