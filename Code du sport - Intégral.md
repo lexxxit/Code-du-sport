@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-03-03
+Version Consolidée au 2014-03-19
 
 # Partie législative
 
@@ -9119,9 +9119,8 @@ sur les manifestations ou compétitions sportives.
 
 Lorsque le droit d'organiser des paris est consenti par une fédération sportive ou par un organisateur de manifestations
 sportives mentionné au premier alinéa de l'article L. 331-5 à des opérateurs de paris en ligne, le projet de contrat devant
-lier ces derniers est, préalablement à sa signature, transmis pour avis à l'Autorité de régulation des jeux en ligne et à
-l'Autorité de la concurrence, qui se prononcent dans un délai de quinze jours à compter de la date de réception de ce
-document. 
+lier ces derniers est, préalablement à sa signature, transmis pour avis à l'Autorité de régulation des jeux en ligne qui se
+prononce dans un délai d'un mois à compter de la date de réception de ce document. 
 
 L'organisateur de manifestations ou de compétitions sportives peut donner mandat à la fédération délégataire ou agréée
 concernée ou au comité mentionné à l'article L. 141-1 pour signer, avec les opérateurs de paris en ligne, le contrat
@@ -9142,13 +9141,18 @@ prévention de la fraude.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°2010-476 du 12 mai 2010 - art. 63
-
 	**Cité par**:
 
 	  - Décret n°2010-614 du 7 juin 2010 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2014-344 du 17 mars 2014 - art. 150
+
+	**Cite**:
+
+	  - Code du sport. - art. L141-1
+	  - Code du sport. - art. L331-5
 
 
 ###### Article L333-1-3
