@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-04-03
+Version Consolidée au 2014-05-03
 
 # Partie législative
 
@@ -14040,7 +14040,7 @@ b) Deux représentants de l'Association des départements de France, désignés 
 c) Six représentants des communes et de leurs groupements désignés par le président de l'Association des maires de France,
 dont au moins deux représentants des établissements publics de coopération intercommunale ; 
 
-d) Deux élus membres de la commission consultative d'évaluation des normes prévue à l'article L. 1211-4-2 du code général des
+d) Deux élus membres du Conseil national d'évaluation des normes prévu à l'article L. 1212-1 du code général des
 collectivités territoriales, désignés par son président ; 
 
 3° Au titre du collège représentant le mouvement sportif : 
@@ -14050,15 +14050,15 @@ a) Le président du Comité national olympique et sportif français ou son repr�
 b) Le président du Comité paralympique et sportif français ou son représentant ; 
 
 c) Dix autres représentants du mouvement sportif désignés par le président du Comité national olympique et sportif français,
-dont au moins : 
+dont au moins :
 
-- un représentant de sa commission des athlètes de haut niveau ; 
+- un représentant de sa commission des athlètes de haut niveau ;
 
 - deux représentants de fédérations ayant reçu délégation pour une discipline sportive relevant de la catégorie des sports
-olympiques ; 
+olympiques ;
 
 - un représentant d'une fédération ayant reçu délégation pour une discipline sportive ne relevant pas de la catégorie des
-sports olympiques ; 
+sports olympiques ;
 
 - trois représentants de fédérations multisports ; 
 
@@ -14109,11 +14109,12 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 
 	**Modifié par**:
 
-	  - Décret n°2013-289 du 4 avril 2013 - art. 1
+	  - Décret n°2014-446 du 30 avril 2014 - art. 6
 
 	**Cite**:
 
-	  - Code du sport. - art. R131-36
+	  - Code général des collectivités territoriales - art. L1212-1 (V)
+	  - Code du sport. - art. L211-1 (V)
 
 	**Cité par**:
 
@@ -14390,14 +14391,8 @@ A sa demande motivée, la fédération lui présente un nouveau projet tenant co
 de deux mois. 
 
 Sur décision de son président ou à la demande d'un tiers de ses membres, elle peut surseoir à statuer afin de soumettre le
-projet de règlement fédéral à l'appréciation de la commission consultative d'évaluation des normes prévue à l'article L.
-1211-4-2 du code général des collectivités territoriales. Elle se prononce définitivement dans les deux mois suivant l'avis
-de celle-ci.
-
-**Nota:**
-
-Décret n° 2013-289, article 5 : Le Conseil national du sport est créé pour une durée de cinq ans. Il peut être renouvelé dans
-les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
+projet de règlement fédéral à l'appréciation du Conseil national d'évaluation des normes prévu à l'article L. 1212-1 du code
+général des collectivités territoriales. Elle se prononce définitivement dans les deux mois suivant l'avis de celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -14411,29 +14406,23 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 
 	**Modifié par**:
 
-	  - Décret n°2013-289 du 4 avril 2013 - art. 1
+	  - Décret n°2014-446 du 30 avril 2014 - art. 6
 
 	**Cite**:
 
-	  - Code général des collectivités territoriales - art. L1211-4-2
+	  - Code général des collectivités territoriales - art. L1212-1
 
 
 ###### Article R142-11
 
 Le ministre chargé des sports notifie à la fédération intéressée l'avis de la commission d'examen des règlements fédéraux
-relatifs aux équipements sportifs, accompagné, le cas échéant, de l'avis de la commission consultative d'évaluation des
-normes. 
+relatifs aux équipements sportifs, accompagné, le cas échéant, de l'avis        du Conseil national d'évaluation des normes. 
 
 Les avis sont publiés, conjointement avec le règlement définitivement adopté par la fédération, au Bulletin officiel du
 ministère chargé des sports et selon les modalités prévues à l'article R. 131-36. 
 
 L'entrée en vigueur du nouveau règlement relatif aux équipements sportifs ne peut intervenir avant l'expiration d'un délai de
 deux mois suivant sa publication au Bulletin officiel du ministère des sports.
-
-**Nota:**
-
-Décret n° 2013-289, article 5 : Le Conseil national du sport est créé pour une durée de cinq ans. Il peut être renouvelé dans
-les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 
 **Liens relatifs à cet article**
 
@@ -14447,7 +14436,7 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 
 	**Modifié par**:
 
-	  - Décret n°2013-289 du 4 avril 2013 - art. 1
+	  - Décret n°2014-446 du 30 avril 2014 - art. 6
 
 	**Cité par**:
 
