@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-08-06
+Version Consolidée au 2014-11-21
 
 # Partie législative
 
@@ -42579,19 +42579,18 @@ précise la liste des pièces nécessaires à cette déclaration.
 
 Les dispositions du présent paragraphe ne s'appliquent pas aux ressortissants d'un Etat membre de la Communauté européenne ou
 d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement, l'animation,
-l'enseignement et l'entraînement du snowboard exclusivement et sont soumis aux dispositions du titre XVI de l'arrêté du 25
-octobre 2004 modifié fixant les conditions d'obtention de la partie spécifique du brevet d'Etat d'éducateur sportif du
-premier degré, option " ski alpin ".
+l'enseignement et l'entraînement du snowboard exclusivement et sont soumis aux dispositions du titre XII de l'arrêté du 11
+avril 2012 modifié relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté du 25 octobre 2004
+	  - Arrêté du 11 avril 2012
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 ###### Article A212-184
@@ -42599,17 +42598,17 @@ premier degré, option " ski alpin ".
 En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
 européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
 l'animation, l'enseignement et l'entraînement du ski alpin et de ses activités dérivées, dans le cadre de la liberté
-d'établissement ou de la libre prestation de services, se déclarent au préfet de la région Rhône-Alpes. 
+d'établissement ou de la libre prestation de services, se déclarent au préfet du département de l'Isère. 
 
 Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
-l'alpinisme mentionné à l'article 142-9. Ce dernier s'assure de leur conformité et les transmet pour avis à la section
+l'alpinisme mentionné à l'article 142-9. Ce dernier s'assure de leur recevabilité et les transmet pour avis à la section
 permanente du ski alpin de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 	**Cite**:
 
@@ -42622,18 +42621,18 @@ permanente du ski alpin de la commission de la formation et de l'emploi du Conse
 
 Pour l'encadrement du ski alpin et de ses activités dérivées, la différence substantielle au sens de l'article R. 212-90-1 et
 du 3° de l'article R. 212-93, susceptible d'exister entre la qualification professionnelle du déclarant et la qualification
-professionnelle requise sur le territoire national, est appréciée en référence à la formation du brevet d'Etat d'éducateur
-sportif, option " ski alpin ", en tant qu'elle intègre :
+professionnelle requise sur le territoire national, est appréciée en référence à la formation du diplôme d'Etat de ski-
+moniteur national de ski alpin, en tant qu'elle intègre :
 
 - les compétences techniques de sécurité ;
 
-- les connaissances théoriques et pratiques en matière de sécurité.
+- les connaissances théoriques et pratiques et les compétences en matière de sécurité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 	**Cite**:
 
@@ -42645,7 +42644,7 @@ sportif, option " ski alpin ", en tant qu'elle intègre :
 
 Dans le cadre de la liberté d'établissement, lorsque le préfet estime, après avis de la section permanente du ski alpin de la
 commission de la formation et de l'emploi du Conseil supérieur des sports de montagne, transmis au Pôle national des métiers
-de l'encadrement du ski et de l'alpinisme qu'il existe une différence substantielle, il saisit la commission de
+de l'encadrement du ski et de l'alpinisme, qu'il existe une différence substantielle, il saisit la commission de
 reconnaissance des qualifications mentionnée à l'article R. 212-84, en joignant au dossier l'avis de la section permanente.
 Après s'être prononcée sur l'existence d'une différence substantielle, la commission de reconnaissance des qualifications
 propose, le cas échéant, au préfet de soumettre le déclarant à tout ou partie de l'épreuve d'aptitude prévue à l'article R.
@@ -42655,7 +42654,7 @@ propose, le cas échéant, au préfet de soumettre le déclarant à tout ou part
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 	**Cite**:
 
@@ -42674,7 +42673,7 @@ déclarant à tout ou partie de l'épreuve d'aptitude prévue au 3° de l'articl
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 	**Cite**:
 
@@ -42687,14 +42686,15 @@ L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout 
 prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
 pratiquants en sécurité. Elle comporte deux tests : 
 
-1° L'épreuve de l'eurotest prévue au titre VII de l'arrêté du 25 octobre 2004 modifié fixant les conditions d'obtention de la
-partie spécifique du brevet d'Etat d'éducateur sportif du premier degré, option " ski alpin ", qui constitue le test
-technique de sécurité ; 
+1° L'épreuve de l'eurotest prévue au titre VII et à l'annexe V de l'arrêté du 11 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin qui constitue le test technique de sécurité ; 
 
-2° Un test de vérification des connaissances théoriques et pratiques en matière de sécurité. 
+2° Le test eurosécurité prévu au titre X et à l'annexe VII-3 de l'arrêté du 11 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin, qui constitue le test de vérification des connaissances
+théoriques et pratiques et des compétences en matière de sécurité. 
 
 Dans le cas où le déclarant est soumis aux deux tests, l'eurotest est évalué en premier lieu. En cas d'échec, le déclarant ne
-peut pas se présenter au second test. 
+peut pas se présenter à l'eurosécurité. 
 
 Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-4.
 
@@ -42702,22 +42702,23 @@ Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-4.
 
 	**Cite**:
 
-	  - Arrêté du 25 octobre 2004
+	  - Arrêté du 11 avril 2012 - art. Annexe V
+	  - Arrêté du 11 avril 2012 - art. Annexe VII
 	  - Code du sport. - art. Annexe II-16-4 (art. A212-188) (V)
 	  - Code du sport. - art. R212-90-1
 	  - Code du sport. - art. R212-93
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 ###### Article A212-189
 
-Sont réputés avoir la capacité de mobiliser les compétences techniques de sécurité, les déclarants ayant obtenu un classement
+Sont réputés avoir la capacité de mobiliser les compétences techniques de sécurité les déclarants ayant obtenu un classement
 égal ou inférieur à cent points pour les hommes et quatre-vingt-cinq points pour les femmes, sur l'échelle correspondant aux
 disciplines techniques du ski alpin (slalom ou slalom géant) fixée par la Fédération internationale de ski. Ils sont
-dispensés de l'épreuve de l'eurotest.
+dispensés de l'épreuve de l'eurotest. 
 
 Ce classement, attesté par le président de la fédération nationale du déclarant ou son représentant, doit avoir été acquis
 dans les cinq années précédant la déclaration.
@@ -42726,39 +42727,43 @@ dans les cinq années précédant la déclaration.
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 ###### Article A212-190
 
-L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous l'autorité du préfet de la région Rhône-Alpes,
-par l'Ecole nationale de ski et d'alpinisme aux lieux et dates fixées annuellement par la section permanente du ski alpin de
-la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+L'épreuve d'aptitude est organisée à l'échelon national sous la responsabilité de l'Ecole nationale des sports de montagne,
+site de l'Ecole nationale de ski et d'alpinisme, en relation avec les directeurs régionaux de la jeunesse, des sports et de
+la cohésion sociale concernés, aux lieux et dates fixées annuellement par la section permanente du ski alpin de la commission
+de la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 ###### Article A212-191
 
-Le jury de l'épreuve d'aptitude est le jury prévu à l'article 15 de l'arrêté du 25 octobre 2004 modifié fixant les conditions
-d'obtention de la partie spécifique du brevet d'Etat d'éducateur sportif du premier degré, option "ski alpin".
+Le jury de l'épreuve d'aptitude est le jury prévu à l'article 16 de l'arrêté du 11 avril 2012 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. 
 
-Parmi les membres du jury, le président désigne une commission chargée d'évaluer le test de vérification des connaissances
-théoriques et pratiques en matière de sécurité.
+Parmi les membres du jury, le président désigne une commission chargée d'évaluer le test eurosécurité, composée de
+techniciens qualifiés titulaires d'un des diplômes définis à l'annexe IX de l'arrêté du 11 avril 2012 modifié relatif à la
+formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. Elle propose au jury les résultats de son
+évaluation.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté du 25 octobre 2004 - art. 15
+	  - Arrêté du 11 avril 2012 - art. 16
+	  - Arrêté du 11 avril 2012 - art. Annexe IX
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 ###### Article A212-192
@@ -42768,11 +42773,12 @@ identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfe
 établissement et une carte professionnelle d'éducateur sportif ou un récépissé de déclaration de prestation de services qui
 portent mention des conditions d'exercice suivantes : 
 
-Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées à tous les niveaux de
-pratique, sur pistes et hors des pistes, à l'exclusion des zones glaciaires non balisées et des terrains dont la
-fréquentation fait appel aux techniques de l'alpinisme, dans les conditions prévues par l'arrêté du 25 octobre 2004 modifié
-fixant les conditions d'obtention de la partie spécifique du brevet d'Etat d'éducateur sportif du premier degré, option " ski
-alpin ". 
+Encadrement, animation, enseignement et entraînement du ski alpin et de ses activités dérivées en application de l'ensemble
+des classes de la progression du ski alpin et de ses activités dérivées définies par la commission de la formation et de
+l'emploi du Conseil supérieur des sports de montagne, à l'exclusion des zones glaciaires non balisées et des terrains dont la
+fréquentation fait appel aux techniques de l'alpinisme, dans les conditions prévues par l'arrêté du 11 avril 2012 modifié
+relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. Autorisation d'exercer pour une
+durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
 
 Par encadrement et animation, on entend notamment l'activité d'accompagnement sur pistes et hors des pistes.
 
@@ -42780,33 +42786,31 @@ Par encadrement et animation, on entend notamment l'activité d'accompagnement s
 
 	**Cite**:
 
-	  - Arrêté du 25 octobre 2004
+	  - Arrêté du 11 avril 2012
 
 	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
-##### Sous-paragraphe 2 : Ski nordique de fond et activités assimilées.
-
-
+##### Sous-paragraphe 2 : Ski nordique de fond et activités dérivées.
 
 ###### Article A212-192-1
 
 En application des dispositions des articles R. 212-88 et R. 212-92, les ressortissants d'un Etat membre de la Communauté
 européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui souhaitent assurer l'encadrement,
 l'animation, l'enseignement et l'entraînement du ski nordique de fond et de ses activités assimilées, dans le cadre de la
-liberté d'établissement ou de la libre prestation de services, se déclarent au préfet de la région Rhône-Alpes. 
+liberté d'établissement ou de la libre prestation de services, se déclarent au préfet du département de l'Isère. 
 
 Les dossiers de déclaration sont transmis par le préfet au Pôle national des métiers de l'encadrement du ski et de
-l'alpinisme mentionné à l'article A. 142-9. Ce dernier s'assure de leur conformité et les transmet pour avis à la section
+l'alpinisme mentionné à l'article 142-9. Ce dernier s'assure de leur recevabilité et les transmet pour avis à la section
 permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 	**Cite**:
 
@@ -42817,20 +42821,20 @@ permanente du ski de fond de la commission de la formation et de l'emploi du Con
 
 ###### Article A212-192-2
 
-Pour l'encadrement du ski nordique de fond et de ses activités assimilées, la différence substantielle, au sens de l'article
-R. 212-90-1 et du 3° de l'article R. 212-93, susceptible d'exister entre la qualification professionnelle du déclarant et la
-qualification professionnelle requise sur le territoire national, est appréciée en référence à la formation du brevet d'Etat
-d'éducateur sportif, option " ski nordique de fond ” en tant qu'elle intègre : 
+Pour l'encadrement du ski nordique de fond et de ses activités dérivées, la différence substantielle, au sens de l'article R.
+212-90-1 et du 3° de l'article R. 212-93, susceptible d'exister entre la qualification professionnelle du déclarant et la
+qualification professionnelle requise sur le territoire national, est appréciée en référence à la formation du diplôme d'Etat
+de ski-moniteur national de ski nordique de fond en tant qu'elle intègre :
 
-― les compétences techniques de sécurité ; 
+- les compétences techniques de sécurité ;
 
-― les connaissances théoriques et pratiques en matière de sécurité.
+- les connaissances théoriques et pratiques et les compétences en matière de sécurité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 	**Cite**:
 
@@ -42850,9 +42854,9 @@ propose, le cas échéant, au préfet de soumettre le déclarant à tout ou part
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 	**Cite**:
 
@@ -42869,9 +42873,9 @@ soumettre le déclarant à tout ou partie de l'épreuve d'aptitude prévue au 3�
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 	**Cite**:
 
@@ -42884,76 +42888,82 @@ L'épreuve d'aptitude à laquelle le préfet peut décider de soumettre en tout 
 prévues à l'article R. 212-90-1 et au 3° de l'article R. 212-93, vise à vérifier la capacité du déclarant à encadrer les
 pratiquants en sécurité. Elle comporte deux tests : 
 
-1° Un test technique de sécurité ; 
+1° L'épreuve de performance du test de capacité technique prévu au titre VII de l'arrêté du 26 avril 2013 modifié relatif à
+la formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond, qui constitue le test technique
+de sécurité ; 
 
-2° Un test de vérification des connaissances théoriques et pratiques en matière de sécurité. 
+2° Un test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité. 
 
-Dans le cas où le déclarant est soumis aux deux tests, le test technique de sécurité est évalué en premier lieu. En cas
-d'échec, le déclarant ne peut pas se présenter au second test. 
+Dans le cas où le déclarant est soumis aux deux tests, l'épreuve de performance du test de capacité technique est évaluée en
+premier lieu. En cas d'échec, le déclarant ne peut pas se présenter au second test. 
 
 Le contenu de l'épreuve d'aptitude est fixé en annexe II-16-5.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté du 18 janvier 2010 - art. 1
-
 	**Cite**:
 
+	  - Arrêté du 26 avril 2013
 	  - Code du sport. - art. Annexe II-16-5 (art. A212-192-5) (V)
 	  - Code du sport. - art. R212-90-1
 	  - Code du sport. - art. R212-93
+
+	**Modifié par**:
+
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 ###### Article A212-192-6
 
 Sont réputés avoir la capacité de mobiliser les compétences techniques de sécurité les déclarants ayant obtenu un classement
 égal ou inférieur à deux cents points pour les hommes et deux cent cinquante points pour les femmes sur l'échelle
-correspondant au classement "distance” déterminé par la Fédération internationale de ski. Ils sont dispensés du test
-technique de sécurité.
+correspondant au classement " distance " fixée par la Fédération internationale de ski. Ils sont dispensés du test technique
+de sécurité. 
 
 Ce classement, attesté par le président de la fédération nationale du déclarant ou son représentant, doit avoir été acquis
 dans les cinq années précédant la déclaration.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 ###### Article A212-192-7
 
-L'épreuve d'aptitude est organisée pour l'ensemble du territoire national sous l'autorité du préfet de la région Rhône-Alpes,
-par le centre national de ski nordique de l'Ecole nationale de ski et d'alpinisme aux lieux et dates fixées annuellement par
-la section permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de
-montagne.
+L'épreuve d'aptitude est organisée à l'échelon national sous la responsabilité de l'Ecole nationale des sports de montagne,
+site du Centre national de ski nordique et de moyenne montagne en relation avec les directeurs régionaux de la jeunesse, des
+sports et de la cohésion sociale concernés, aux lieux et dates fixées annuellement par la section permanente du ski de fond
+de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 ###### Article A212-192-8
 
-Le jury de l'épreuve d'aptitude est le jury prévu à l'article 15 de l'arrêté du 1er septembre 2005 portant création du brevet
-d'Etat d'éducateur sportif du premier degré, option "ski nordique de fond”.
+Le jury de l'épreuve d'aptitude est le jury prévu à l'article 16 de l'arrêté du 26 avril 2013 modifié relatif à la formation
+spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond. 
 
 Parmi les membres du jury, le président désigne une commission chargée d'évaluer le test de vérification des connaissances
-théoriques et pratiques en matière de sécurité.
+théoriques et pratiques et des compétences en matière de sécurité, composée de techniciens qualifiés titulaires d'un des
+diplômes définis à l'annexe IX de l'arrêté du 26 avril 2013 modifié relatif à la formation spécifique du diplôme d'Etat de
+ski-moniteur national de ski nordique de fond. Elle propose au jury les résultats de son évaluation.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté du 1 septembre 2005 - art. 15
+	  - Arrêté du 26 avril 2013 - art. 16
+	  - Arrêté du 26 avril 2013 - art. Annexe IX
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 ###### Article A212-192-9
@@ -42963,11 +42973,11 @@ identifiée et que le déclarant a satisfait à l'épreuve d'aptitude, le préfe
 établissement et une carte professionnelle d'éducateur sportif ou un récépissé de déclaration de prestation de services qui
 portent mention des conditions d'exercice suivantes : 
 
-Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités assimilées dans toutes les
-classes de la progression de l'enseignement du ski nordique de fond définie par le Conseil supérieur des sports de montagne
-sur des reliefs vallonnés de type nordique excluant tout accident de terrain important, dans les conditions prévues par
-l'arrêté du 1er septembre 2005 portant création du brevet d'Etat d'éducateur sportif du 1er degré, option " ski nordique de
-fond ”. 
+Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités dérivées en application de
+l'ensemble des classes de la progression du ski nordique de fond et de ses activités dérivées définies par la commission de
+la formation et de l'emploi du Conseil supérieur des sports de montagne dans les conditions prévues par l'arrêté du 26 avril
+2013 relatif à la formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond. Autorisation
+d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage. 
 
 Par encadrement et animation, on entend notamment l'activité d'accompagnement sur pistes et hors des pistes.
 
@@ -42975,11 +42985,11 @@ Par encadrement et animation, on entend notamment l'activité d'accompagnement s
 
 	**Cite**:
 
-	  - Arrêté du 1 septembre 2005
+	  - Arrêté du 26 avril 2013
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 1
+	  - Arrêté du 31 octobre 2014 - art. 2
 
 
 #####  Paragraphe 3  Plongée subaquatique
@@ -64243,159 +64253,164 @@ choix avancés et la qualité de sa prestation.
 
 ###### Article Annexe II-16-4 (art. A212-188)
 
-ÉPREUVE D'APTITUDE 
+Epreuve d'aptitude 
 
-I. ― Eurotest 
+I.-Eurotest 
 
 L'eurotest, épreuve de performance qui valide l'aptitude technique, vise à vérifier la capacité du candidat à évoluer en
-sécurité à une vitesse soutenue sur une certaine distance en maîtrisant les trajectoires.
+sécurité à une vitesse soutenue sur une certaine distance en maîtrisant les trajectoires. 
 
-L'eurotest se déroule conformément aux dispositions du II de l'annexe V de l'arrêté du 25 octobre 2004 modifié fixant les
-conditions d'obtention de la partie spécifique du brevet d'Etat d'éducateur sportif du premier degré, option " ski alpin". 
+L'eurotest se déroule conformément aux dispositions du II de l'annexe V de l'arrêté du 11 avril 2012 modifié relatif à la
+formation spécifique du diplôme d'Etat de ski-moniteur national de ski alpin. 
 
-II. ― Test de vérification des connaissances théoriques
+II.-Eurosécurité 
 
-et pratiques en matière de sécurité 
-
-Ce test comprend deux parties permettant de vérifier, dans l'ordre chronologique suivant, que le candidat est en capacité, à
-partir d'une mise en situation professionnelle sur le terrain : 
+Ce test, qui se déroule en période hivernale, comprend trois épreuves permettant de vérifier, dans l'ordre chronologique
+suivant, que le candidat est en capacité, à partir d'une mise en situation professionnelle sur le terrain : 
 
 1° D'effectuer une recherche de victimes en avalanche dans un temps limité ; 
 
 2° D'analyser et d'interpréter diverses informations de nature à lui permettre de prévenir le risque, de mettre en œuvre les
 conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes et de gérer la situation en cas
-d'accident. 
+d'accident ; 
 
-1. Première partie : recherche de victimes en avalanche 
+3° D'assurer la conduite d'un groupe en sécurité sur deux jours, en ski hors pistes et en randonnée à ski. 
 
-Cette partie consiste à rechercher un sac contenant un détecteur de victime en avalanche (DVA) enfoui dans la neige sur une
-surface minimum de 50 × 50 mètres, à une profondeur minimum de 50 centimètres. La recherche s'effectue en surface avec un DVA
-et une sonde appartenant au candidat. Le chronomètre est déclenché lorsque le candidat part à la recherche du sac avec sa
-sonde et son DVA à la main. Il est arrêté lorsque le candidat touche le sac avec la sonde. La localisation du sac doit
-intervenir dans un temps maximum de quatre minutes. 
+1. Première épreuve : recherche multivictimes en avalanche. 
 
-Cette première partie est éliminatoire. 
+L'épreuve consiste à détecter et à sonder pour retrouver avec succès deux détecteurs de victimes en avalanche (DVA) placés
+chacun dans un sac marin avec un isolant d'environ 60 cm de large, enfouis sans superposition de signal à environ 1 m de
+profondeur, et à dégager avec succès un des deux appareils. La zone de recherche est une surface de 50 m × 50 m. La
+localisation des deux DVA et le dégagement de l'un d'entre eux doit intervenir dans un temps maximal de 8 min. 
 
-2. Deuxième partie : analyse et interprétation d'informations de nature à permettre de prévenir le risque, de mettre en œuvre
-les conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes et de gérer la situation en cas
-d'accident 
+Cette épreuve est éliminatoire. 
 
-Dans le cadre d'une mise en situation professionnelle sur le terrain, le candidat doit être en capacité : 
+2. Deuxième épreuve : analyse et interprétation d'informations de nature à permettre de prévenir le risque, de mettre en
+œuvre les conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes. 
 
-a) D'analyser un bulletin météorologique et de risque d'avalanche rédigé en français ; 
+Dans le cadre d'une mise en situation professionnelle, le candidat doit être en capacité : 
 
-b) De se situer sur un plan des pistes de la station ou sur une carte ; 
+a) D'analyser un bulletin météorologique et un bulletin de risque d'avalanche rédigés en français ; 
 
-c) De mettre en œuvre les conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes ; 
+b) De se situer sur un plan des pistes de la station et sur une carte. 
 
-d) De gérer un accident : 
+D'une durée de 20 min, l'épreuve est orale et se déroule sur le domaine skiable. Elle consiste, pour le candidat, à faire en
+français l'analyse du bulletin d'estimation du risque d'avalanche ainsi que du bulletin météorologique journalier et à les
+comparer avec les conditions météorologiques et nivologiques observées. Le candidat doit savoir se situer à l'aide du plan
+des pistes de la station ainsi que d'une carte topographique IGN 1/250 000. 
 
-― d'éviter le suraccident et de gérer le groupe ; 
+Cette capacité est acquise ou non acquise. Dans le cas où le candidat ne maîtrise pas l'une des deux situations a ou b, il
+est éliminé. 
 
-― d'alerter les secours en émettant un message d'alerte en français. 
+3. Troisième épreuve : conduite de groupes en ski hors-pistes et en randonnée à ski. 
 
-Cette capacité est évaluée de façon globale. Elle est acquise ou non acquise. Dans le cas où le candidat ne maîtrise pas
-l'une quelconque des quatre situations a, b, c ou d, il est éliminé.
+Dans le cadre d'une mise en situation professionnelle, le candidat doit être en capacité : 
+
+a) De mettre en œuvre les conditions de sécurité pour progresser en ski alpin sur pistes et hors des pistes ; 
+
+b) De gérer un accident :
+
+- d'éviter le sur-accident et de gérer le groupe ;
+
+- d'alerter les secours en émettant un message d'alerte en français. 
+
+Cette capacité est évaluée de façon globale. Elle est acquise ou non acquise. 
+
+Dans le cas où le candidat ne maîtrise pas l'une quelconque des deux situations a ou b, il est éliminé.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Arrêté du 25 octobre 2004
+	  - Arrêté du 11 avril 2012 - art. Annexe V
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 18 janvier 2010 - art. 2
+	  - Arrêté du 31 octobre 2014 - art. 3
 
 	**Cité par**:
 
-	  - Code du sport. - art. A212-188 (M)
+	  - Code du sport. - art. A212-188 (V)
 
 
 ###### Article Annexe II-16-5 (art. A212-192-5)
 
-ÉPREUVE D'APTITUDE
+Epreuve d'aptitude 
 
-I. ― Test technique de sécurité
+I.-Test technique de sécurité 
 
 Le test technique de sécurité vise à vérifier la capacité du candidat à progresser en sécurité, à une vitesse soutenue, sur
-des reliefs vallonnés de type nordique, quelles que soient les conditions nivologiques.
+des reliefs vallonnés de type nordique, quelles que soient les conditions nivologiques. 
 
-Ce test est une épreuve de performance qui consiste en un parcours chronométré de dix kilomètres pour les hommes et de cinq
-kilomètres pour les femmes effectué en technique classique et organisé en référence aux règles techniques établies par la
-Fédération internationale de ski. Le temps de référence est établi par l'un des ouvreurs affectés nationalement par le
-délégué national du Pôle national des métiers de l'encadrement du ski et de l'alpinisme, sur proposition de la section
-permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de montagne.
+Le test technique se déroule conformément aux dispositions du a) du II de l'annexe V de l'arrêté du 26 avril 2013 relatif à
+la formation spécifique du diplôme d'Etat de ski-moniteur national de ski nordique de fond. 
 
-Le temps de base est déterminé par le temps de course du meilleur ouvreur, affecté de son coefficient.
+II.-Test de vérification des connaissances théoriques et pratiques et des compétences en matière de sécurité 
 
-Le test technique de sécurité est validé lorsque le candidat réalise une performance inférieure ou égale au temps de base,
-majoré de 24 %.
+Ce test comprend trois épreuves permettant de vérifier, dans l'ordre chronologique suivant, que le candidat est en capacité,
+à partir d'une mise en situation professionnelle sur le terrain : 
 
-Pour les candidates, le temps de base correspond au temps de base des hommes, majoré de 20 %.
-
-Les ouvreurs sont désignés par le centre national de ski nordique de l'Ecole nationale de ski et d'alpinisme, parmi ceux
-figurant sur une liste établie annuellement par le responsable du centre national de ski nordique, sur proposition de la
-section permanente du ski de fond de la commission de la formation et de l'emploi du Conseil supérieur des sports de
-montagne. Les ouvreurs sont au nombre minimal de deux. Le coefficient est attribué à titre personnel à chaque ouvreur après
-avis de la section permanente du ski de fond, par le responsable du centre national de ski nordique, qui a la possibilité de
-le faire évoluer dans les mêmes conditions que pour son attribution, si l'équité l'exige en cours de saison. Ce coefficient
-doit être porté à la connaissance des candidats avant le début de l'épreuve.
-
-II. ― Test de vérification des connaissances théoriques
-
-et pratiques en matière de sécurité
-
-Ce test comprend deux parties permettant de vérifier, dans l'ordre chronologique suivant, que le candidat est en capacité, à
-partir d'une mise en situation professionnelle sur le terrain :
-
-1° D'effectuer une recherche de victimes en avalanche dans un temps limité ;
+1° D'effectuer une recherche de victimes en avalanche dans un temps limité ; 
 
 2° D'analyser et d'interpréter diverses informations de nature à lui permettre de prévenir le risque, de mettre en œuvre les
 conditions de sécurité pour progresser en ski nordique de fond sur pistes et hors des pistes du domaine nordique et de gérer
-la situation en cas d'accident.
+la situation en cas d'accident ; 
 
-1. Première partie : recherche de victimes en avalanche
+3° D'assurer la conduite d'un groupe en sécurité dans une logique d'itinérance lors d'une sortie de deux jours, hors des
+pistes balisées. 
 
-Cette partie consiste à rechercher un sac contenant un détecteur de victime en avalanche (DVA) enfoui dans la neige sur une
-surface minimum de 50 × 50 mètres, à une profondeur minimum de 50 centimètres. La recherche s'effectue en surface avec un DVA
-et une sonde appartenant au candidat. Le chronomètre est déclenché lorsque le candidat part à la recherche du sac avec sa
-sonde et son DVA à la main. Il est arrêté lorsque le candidat touche le sac avec la sonde.La localisation du sac doit
-intervenir dans un temps maximum de quatre minutes.
+1. Première épreuve : recherche de victimes en avalanche. 
 
-Cette première partie est éliminatoire.
+L'épreuve consiste à détecter et à sonder pour retrouver avec succès deux détecteurs de victimes en avalanche (DVA) placés
+chacun dans un sac marin avec un isolant d'environ 60 cm de large, enfouis sans superposition de signal à environ 1 m de
+profondeur, et à dégager avec succès un des deux appareils. La zone de recherche est une surface de 50 m × 50 m. La
+localisation des deux DVA et le dégagement de l'un d'entre eux doit intervenir dans un temps maximal de 8 min. 
 
-2. Deuxième partie : analyse et interprétation d'informations de nature à permettre de prévenir le risque, de mettre en œuvre
-les conditions de sécurité pour progresser en ski nordique de fond sur pistes et hors des pistes du domaine nordique et de
-gérer la situation en cas d'accident
+Cette épreuve est éliminatoire. 
 
-Dans le cadre d'une mise en situation professionnelle sur le terrain, le candidat doit être en capacité :
+2. Deuxième épreuve : analyse et interprétation d'informations de nature à permettre de prévenir le risque, de mettre en
+œuvre les conditions de sécurité pour progresser en ski nordique de fond sur pistes et hors des pistes du domaine nordique et
+de gérer la situation en cas d'accident. 
 
-a) D'analyser un bulletin météorologique et de risque d'avalanche rédigé en français ;
+Dans le cadre d'une mise en situation professionnelle sur le terrain, le candidat doit être en capacité : 
 
-b) De se situer sur un plan des pistes de la station ou sur une carte ;
+a) D'analyser un bulletin météorologique et un bulletin de risque d'avalanche rédigé en français ; 
 
-c) De mettre en œuvre les conditions de sécurité pour progresser en ski nordique de fond sur pistes et hors des pistes du
-domaine nordique ;
-
-d) De gérer un accident :
-
-D'éviter le suraccident et de gérer le groupe ;
-
-D'alerter les secours en émettant un message d'alerte en français.
+b) De se situer sur un plan des pistes de la station et sur une carte ; 
 
 Cette capacité est évaluée de façon globale. Elle est acquise ou non acquise. Dans le cas où le candidat ne maîtrise pas
-l'une quelconque des quatre situations a, b, c ou d, il est éliminé.
+l'une quelconque des deux situations a ou b, il est éliminé. 
+
+3. Troisième épreuve : conduite d'un groupe en sécurité dans une logique d'itinérance lors d'une sortie de deux jours, hors
+des pistes balisées. 
+
+Dans le cadre d'une mise en situation professionnelle, le candidat doit être en capacité : 
+
+a) De mettre en œuvre les conditions de sécurité pour progresser avec un groupe en randonnée lors d'un raid nordique, sur
+pistes et hors des pistes ; 
+
+b) De gérer un accident :
+
+- d'éviter le sur-accident et de gérer le groupe ;
+
+- d'alerter les secours en émettant un message d'alerte en français. 
+
+Cette capacité est évaluée de façon globale. Elle est acquise ou non acquise. Dans le cas où le candidat ne maîtrise pas
+l'une quelconque des deux situations a ou b, il est éliminé.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 18 janvier 2010 - art. 2
+	  - Arrêté du 26 avril 2013
+
+	**Modifié par**:
+
+	  - Arrêté du 31 octobre 2014 - art. 4
 
 	**Cité par**:
 
-	  - Code du sport. - art. A212-192-5 (M)
+	  - Code du sport. - art. A212-192-5 (V)
 
 
 ###### Article Annexe II-16-6 (art. A212-225)
