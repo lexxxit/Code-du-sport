@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-11-21
+Version Consolidée au 2014-12-07
 
 # Partie législative
 
@@ -21106,12 +21106,52 @@ sont accordées par le ministre chargé des sports après avis de la commission 
 
 ##### Paragraphe 7 : Reconnaissance des diplômes étrangers
 
+###### Article D212-84-1
+
+La commission de reconnaissance des qualifications mentionnée à l'article R. 212-84 est placée auprès du ministre chargé des
+sports. Elle est présidée par le directeur des sports ou son représentant. Ses membres sont nommés par arrêté du ministre
+chargé des sports pour une durée de cinq ans. 
+
+Outre son président, sa composition est fixée comme suit : 
+
+1° Quatre représentants désignés par les ministres concernés dont : 
+
+a) Un chef de service déconcentré départemental de l'Etat chargé des sports ou son représentant ; 
+
+b) Un chef de service déconcentré régional de l'Etat chargé des sports ou son représentant ; 
+
+c) Un représentant du ministre de l'éducation nationale ; 
+
+d) Un représentant du ministre de l'enseignement supérieur ; 
+
+2° Un représentant du Comité national olympique et sportif français désigné par son président ; 
+
+3° Deux représentants désignés par la branche professionnelle du sport dont un représentant des employeurs et un représentant
+des salariés ; 
+
+4° Un représentant de l'association des directeurs techniques nationaux désigné par son président.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2014-1452 du 4 décembre 2014 - art. 2
+
+	**Anciens textes**:
+
+	  - Code du sport. - art. A212-175-9 (T)
+
+	**Cité par**:
+
+	  - Code du sport. - art. R212-84 (V)
+
+
 ###### Article R212-84
 
 Les diplômes étrangers sont admis en équivalence aux diplômes mentionnés à l'article L. 212-1 par le ministre chargé des
 sports après avis de la commission de reconnaissance des qualifications, dont la composition, comprenant notamment des
-représentants de l'administration, des employeurs et des personnels techniques, et l'organisation sont fixées par arrêté du
-ministre chargé des sports.
+représentants de l'administration, des employeurs et des personnels techniques, est fixée conformément à l'article D.
+212-84-1.
 
 **Liens relatifs à cet article**
 
@@ -21134,10 +21174,11 @@ ministre chargé des sports.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1116 du 15 septembre 2009 - art. 1
+	  - Décret n°2014-1452 du 4 décembre 2014 - art. 2
 
 	**Cite**:
 
+	  - Code du sport. - art. D212-84-1
 	  - Code du sport. - art. L212-1
 
 
@@ -42218,50 +42259,6 @@ commune aux métiers sportifs de la montagne ou de l'examen de la partie commune
 
 
 ##### Sous-section 8 : Commission de reconnaissance des qualifications
-
-###### Article A212-175-9
-
-La commission de reconnaissance des qualifications mentionnée à l'article R. 212-84 est placée auprès du ministre chargé des
-sports. Elle est présidée par le directeur des sports ou son représentant. Ses membres sont nommés par arrêté du ministre
-chargé des sports pour une durée de cinq ans. 
-
-Outre son président, sa composition est fixée comme suit : 
-
-1° Quatre représentants désignés par les ministres concernés dont : 
-
-a) Un chef de service déconcentré départemental de l'Etat chargé des sports ou son représentant ; 
-
-b) Un chef de service déconcentré régional de l'Etat chargé des sports ou son représentant ; 
-
-c) Un représentant du ministre de l'éducation nationale ; 
-
-d) Un représentant du ministre de l'enseignement supérieur ; 
-
-2° Un représentant du Comité national olympique et sportif français désigné par son président ; 
-
-3° Deux représentants désignés par la branche professionnelle du sport dont un représentant des employeurs et un représentant
-des salariés ; 
-
-4° Un représentant de l'association des directeurs techniques nationaux désigné par son président.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 3
-
-	**Liens**:
-
-	  - TRANSFERE: Décret n°2014-1452 du 4 décembre 2014 - art. 2
-
-	**Anciens textes**:
-
-	  - Code du sport. - art. A212-175-1 (T)
-
-	**Nouveaux textes**:
-
-	  - Code du sport. - art. D212-84-1 (V)
-
 
 ###### Article A212-175-10
 
