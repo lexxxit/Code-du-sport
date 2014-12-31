@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2014-12-22
+Version Consolidée au 2015-01-01
 
 # Partie législative
 
@@ -7117,6 +7117,22 @@ Les conditions d'application du présent article sont fixées par décret en Con
 	**Cité par**:
 
 	  - Code du sport. - art. L421-1 (V)
+
+
+###### Article L311-7
+
+Le département du Rhône et la métropole de Lyon élaborent conjointement un plan départemental-métropolitain des espaces,
+sites et itinéraires relatifs aux sports de nature dans les conditions prévues à l'article L. 311-3.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2014-1543 du 19 décembre 2014 - art. 16
+
+	**Cite**:
+
+	  - Code du sport. - art. L311-3 (V)
 
 
 #### Chapitre II : Equipements sportifs
