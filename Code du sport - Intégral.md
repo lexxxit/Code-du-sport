@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-01-15
+Version Consolidée au 2015-01-17
 
 # Partie législative
 
@@ -36638,10 +36638,12 @@ supérieur à 55 % du volume global.
 
 ###### Article A212-5
 
-La formation est agréée par le directeur régional de la jeunesse, des sports et de la vie associative. Le dossier présenté
-par un organisme de formation à l'appui de la demande d'agrément doit se conformer au cahier des charges des formations au
-brevet d'aptitude professionnelle d'assistant animateur technicien de la jeunesse et des sports, conçu par le ministre chargé
-de la jeunesse et des sports.
+La formation est agréée par le directeur régional en charge de la jeunesse et des sports. Le dossier présenté par un
+organisme de formation à l'appui de la demande d'agrément doit se conformer au cahier des charges des formations au brevet
+d'aptitude professionnelle d'assistant animateur technicien de la jeunesse et des sports, conçu par le ministre chargé de la
+jeunesse et des sports.
+
+Le défaut de réponse dans un délai de six mois vaut autorisation.
 
 L'agrément autorise l'équipe pédagogique à valider les acquis en cours de formation. 
 
@@ -36650,14 +36652,14 @@ articles A. 212-8 et A. 212-9.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 11 décembre 2014 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-14 (V)
-	  - Code du sport. - art. A212-8 (V)
+	  - Code du sport. - art. A212-14
+	  - Code du sport. - art. A212-8
 
 
 ###### Article A212-6
@@ -37119,7 +37121,7 @@ capitalisables doivent avoir obtenu une habilitation pour la spécialité prépa
 donnée de cette spécialité. 
 
 Un dossier de demande d'habilitation est déposé dans les conditions fixées par le directeur régional de la jeunesse, des
-sports et de la cohésion sociale. 
+sports et de la cohésion sociale. Le défaut de réponse dans un délai de six mois vaut autorisation.
 
 1. Ce dossier comprend, pour une demande initiale : 
 
@@ -37146,7 +37148,7 @@ certification de la session ou des sessions relevant de l'habilitation précéde
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 3
+	  - Arrêté du 11 décembre 2014 - art. 2
 
 	**Cité par**:
 
@@ -38061,15 +38063,13 @@ l'examen pour l'obtention de ce diplôme.
 
 ###### Article A212-52
 
-Les organismes de formation préparant au diplôme d'Etat spécialité « perfectionnement sportif » doivent, conformément à
-l'article R. 212-48, présenter au directeur régional de la jeunesse, des sports et de la vie associative du lieu de la
-formation, aux dates fixées par celui-ci, une demande d'habilitation par mention préparée.
+Les organismes de formation préparant au diplôme d'Etat spécialité "perfectionnement sportif" doivent, conformément à
+l'article R. 212-48, présenter au directeur régional en charge de la jeunesse et des sports du lieu de la formation, aux
+dates fixées par celui-ci, une demande d'habilitation par mention préparée.
+
+Le défaut de réponse dans un délai de six mois vaut autorisation.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 4 (Ab)
 
 	**Cité par**:
 
@@ -38077,13 +38077,13 @@ formation, aux dates fixées par celui-ci, une demande d'habilitation par mentio
 	  - Arrêté du 6 mars 2017 - art. 5
 	  - Code du sport. - art. A212-51 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 11 décembre 2014 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. R212-48 (V)
+	  - Code du sport. - art. R212-48
 
 
 ###### Article A212-53
@@ -38929,19 +38929,21 @@ l'examen pour l'obtention de ce diplôme.
 
 ###### Article A212-79
 
-Les organismes de formation préparant au diplôme d'Etat supérieur spécialité « performance sportive » doivent, conformément à
-l'article R. 212-64, présenter au directeur régional de la jeunesse, des sports et de la vie associative du lieu de la
-formation, aux dates fixées par celui-ci, une demande d'habilitation par mention préparée.
+Les organismes de formation préparant au diplôme d'Etat supérieur spécialité "performance sportive" doivent, conformément à
+l'article R. 212-64, présenter au directeur régional en charge de la jeunesse et des sports du lieu de la formation, aux
+dates fixées par celui-ci, une demande d'habilitation par mention préparée.
+
+Le défaut de réponse dans un délai de six mois vaut autorisation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 20 novembre 2006 - art. 4 (Ab)
+	  - Arrêté du 11 décembre 2014 - art. 3
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 21 décembre 2015 - art. 4
 
 	**Cité par**:
 
@@ -38949,7 +38951,7 @@ formation, aux dates fixées par celui-ci, une demande d'habilitation par mentio
 
 	**Cite**:
 
-	  - Code du sport. - art. R212-64 (V)
+	  - Code du sport. - art. R212-64
 
 
 ###### Article A212-80
