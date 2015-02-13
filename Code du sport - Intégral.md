@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-01-17
+Version Consolidée au 2015-02-14
 
 # Partie législative
 
@@ -34132,125 +34132,6 @@ Le contenu de la notice d'impact mentionnée aux articles R. 142-8 à R. 142-10 
 	  - Code du sport. - art. R142-8
 
 
-##### Section 1 : Commission consultative des arts martiaux et des sports de combat
-
-###### Article A142-1
-
-La commission consultative des arts martiaux et des sports de combat est présidée par le ministre chargé des sports ou son
-représentant.
-
-Elle comprend, outre son président :
-
-1° Trois représentants du ministre chargé des sports désignés par celui-ci ;
-
-2° Six représentants désignés sur proposition des présidents des fédérations sportives suivantes :
-
-a) Un représentant de la Fédération française de karaté et disciplines associées ;
-
-b) Un représentant de la Fédération française de judo, jujitsu, kendo et disciplines associées ;
-
-c) Un représentant de la Fédération française de taekwondo et disciplines associées ;
-
-d) Un représentant de la Fédération de wushu, arts énergétiques et martiaux chinois ;
-
-e) Un représentant de la Fédération française d'aïkido et de budo ;
-
-f) Un représentant de la Fédération française d'aïkido, d'aïkibudo et affinitaires ; 
-
-3° Quatre représentants désignés sur proposition des présidents des fédérations sportives suivantes :
-
-a) Un représentant de la Fédération française de boxe ;
-
-b) Un représentant de la Fédération française de savate, boxe française et disciplines associées ;
-
-c) Un représentant de la Fédération française de lutte ;
-
-d) Un représentant de la Fédération française des sports de contact et disciplines associées ;
-
-4° Deux personnalités qualifiées désignées par le ministre chargé des sports pour leurs compétences en matière d'arts
-martiaux ;
-
-5° Trois personnalités qualifiées désignées par le ministre chargé des sports pour leurs compétences en matière de sports de
-combat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 4 janvier 2010 - art. 1
-	  - Arrêté du 4 janvier 2010 - art. 2
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-	**Cité par**:
-
-	  - Code du sport. - art. A142-2 (Ab)
-
-
-###### Article A142-2
-
-La commission consultative des arts martiaux et des sports de combat se réunit au moins une fois par an. 
-
-Elle peut également se réunir en collèges restreints respectivement consacrés aux questions relatives aux arts martiaux et
-aux sports de combat. 
-
-Le collège restreint " arts martiaux " est composé de l'ensemble des membres mentionnés à l'article A. 142-1, à l'exception
-de ceux mentionnés aux 3° et 5°. 
-
-Le collège restreint " sports de combats " est composé de l'ensemble des membres mentionnés à l'article A. 142-1, à
-l'exception de ceux mentionnés aux 2° et 4°.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 14 mai 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. A142-1 (Ab)
-
-
-###### Article A142-3
-
-Les membres de la commission sont nommés par arrêté du ministre chargé des sports pour une durée de quatre ans.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 14 mai 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-4
-
-La commission établit, en tant que de besoin, un règlement intérieur.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 14 mai 2009 - art. 2
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. R142-2
-
-
 #####  Section 2 : Le Conseil supérieur des sports de montagne
 
 #####  Sous-section 1  La commission de la formation et de l'emploi
@@ -34585,258 +34466,6 @@ et de l'emploi.
 	**Créé par**:
 
 	  - Arrêté du 28 février 2008 - art. (V)
-
-
-#####  Sous-section 2 : La commission de l'information et de la sécurité
-
-###### Article A142-15
-
-Une commission de l'information et de la sécurité donne un avis ou fait des propositions au président du Conseil supérieur
-des sports de montagne sur les questions relatives à l'information, à la prévention et à la sécurité dans le domaine des
-sports de montagne. 
-
-Elle peut initier ou conduire des travaux, des études et des recherches sur ces questions. 
-
-A cette fin, elle est assistée par le Système national d'observation de la sécurité en montagne (SNOSM) dont la mission est
-de collecter, traiter et analyser les données relatives aux accidents en montagne. 
-
-Les travaux de cet organisme sont validés par un comité de pilotage dont la présidence est assurée selon une alternance
-annuelle par le    directeur général de la sécurité civile et de la gestion des crises et par le directeur des sports. 
-
-Le Système national d'observation de la sécurité en montagne fournit à la commission de l'information et de la sécurité deux
-rapports (saison hivernale et saison estivale) relatifs à l'accidentologie et lui propose les axes d'actions prioritaires
-pour définir une politique de prévention des accidents.
-
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
-l'information et de la sécurité du conseil supérieur des sports de montagne).
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°2009-621 du 6 juin 2009 - art. (V)
-
-	**Modifié par**:
-
-	  - Décret n°2011-988 du 23 août 2011 - art. 6
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-16
-
-La commission de l'information et de la sécurité du Conseil supérieur des sports de montagne est composée des personnes
-suivantes : 
-
-1° Le    directeur général de la sécurité civile et de la gestion des crises, président ; 
-
-2° Un représentant du ministre chargé de la défense, qualifié quant aux activités conduites en montagne désigné par le
-ministre chargé de la défense ; 
-
-3° Un représentant du ministre chargé des transports, désigné par le ministre chargé des transports ; 
-
-4° Un représentant du ministre chargé de la santé, désigné par le ministre de la santé ; 
-
-5° Le directeur général de la gendarmerie nationale ; 
-
-6° Le directeur général de la police nationale ; 
-
-7° Le délégué aux risques majeurs ; 
-
-8° Le directeur des sports ; 
-
-9° Le directeur de l'enseignement scolaire ; 
-
-10° Le directeur du tourisme ; 
-
-11° Le président de la commission de la sécurité des consommateurs ; 
-
-12° Le président de l'Association nationale des élus de la montagne ; 
-
-13° Le président de l'Association nationale des maires des stations de montagne ; 
-
-14° Un représentant du comité de massif du massif des Alpes, désigné par sa commission permanente ; 
-
-15° Un représentant du comité de massif du Massif central, désigné par sa commission permanente ; 
-
-16° Un représentant du comité de massif du massif jurassien, désigné par sa commission permanente ; 
-
-17° Un représentant du comité de massif du massif des Pyrénées, désigné par sa commission permanente ; 
-
-18° Un représentant du comité de massif du massif vosgien, désigné par sa commission permanente ; 
-
-19° Le président du comité pour le développement, l'aménagement et la protection du massif de Corse ; 
-
-20° Le directeur général de l'Institut de veille sanitaire ; 
-
-21° Le directeur général de Météo-France ; 
-
-22° Le directeur général d'Observation, développement et ingénierie touristiques France ; 
-
-23° Le directeur de l'Ecole nationale de ski et d'alpinisme ; 
-
-24° Le président de l'Association nationale des chefs de services interministériels de défense et de protection civiles ; 
-
-25° Le président de l'Association nationale des directeurs et directeurs adjoints des services d'incendie et de secours ; 
-
-26° Le président de l'Association des directeurs des services de pistes ; 
-
-27° Le président de l'Association nationale des professionnels de la sécurité des pistes ; 
-
-28° Le président de l'Association nationale pour l'étude de la neige et des avalanches ; 
-
-29° Le président du Centre d'études et de recherches sur la neige et les avalanches ; 
-
-30° Le président du service d'aide médicale urgente de France ; 
-
-31° Le président de l'Association nationale des médecins du secours en montagne ; 
-
-32° Le président de l'association Médecins de montagne ; 
-
-33° Le directeur du Centre national de ski nordique ; 
-
-34° Le président de Nordique France ; 
-
-35° Le président de la fédération française des clubs alpins et de montagne ; 
-
-36° Le président de la fédération française de ski ; 
-
-37° Le président de la fédération française de la montagne et de l'escalade ; 
-
-38° Le président de la fédération française de randonnée pédestre ; 
-
-39° Le président de la fédération française de spéléologie ; 
-
-40° Le président de la fédération française de cyclisme ; 
-
-41° Le président de la fédération française de vol libre ; 
-
-42° Le président de la fédération française de canoë-kayak ; 
-
-43° Le président de la fédération française des industries du sport et des loisirs ; 
-
-44° Le président de la fédération professionnelle des entreprises du sport et des loisirs ; 
-
-45° Le président du Syndicat national des accompagnateurs en montagne ; 
-
-46° Le président du Syndicat national des guides de montagne ; 
-
-47° Le président du Syndicat national des gardiens de refuge ; 
-
-48° Le président du Syndicat national des moniteurs de ski français ; 
-
-49° Le président du Syndicat national des moniteurs cyclistes français ; 
-
-50° Le président du Syndicat national des moniteurs de vol libre ; 
-
-51° Le président du Syndicat national des professionnels de l'escalade et du canyon ; 
-
-52° Le président du Syndicat national des professionnels de la spéléologie et du canyon ; 
-
-53° Le président du Syndicat national des téléphériques de France ; 
-
-54° Le président de l'union nationale des centres sportifs de plein air ; 
-
-55° Un représentant des associations locales de secours en montagne, désigné par le    directeur général de la sécurité
-civile et de la gestion des crises ; 
-
-56° Le président de la fédération française des sociétés d'assurances ; 
-
-57° Le président du groupement des entreprises des mutuelles d'assurances. 
-
-Les membres mentionnés aux 1°, 5° à 13°, 19° à 28°, 30° à 54°, 56° et 57° peuvent se faire représenter.
-
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
-l'information et de la sécurité du conseil supérieur des sports de montagne).
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2011-988 du 23 août 2011 - art. 6
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-17
-
-La commission de l'information et de la sécurité se réunit au moins une fois par an sur convocation de son président ou à la
-demande d'au moins un tiers de ses membres.
-
-La commission de l'information et de la sécurité élabore son règlement intérieur.
-
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
-l'information et de la sécurité du conseil supérieur des sports de montagne).
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-18
-
-Le secrétariat de la commission de l'information et de la sécurité est assuré par la direction de la défense et de la
-sécurité civiles.
-
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
-l'information et de la sécurité du conseil supérieur des sports de montagne).
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-19
-
-Afin d'éclairer ses travaux, la commission de l'information et de la sécurité peut créer en son sein des groupes de travail
-spécialisés.
-
-Ces groupes de travail peuvent éventuellement s'adjoindre le concours de toute personne physique ou morale qualifiée par sa
-compétence. Ils formulent des avis et des propositions au président de la commission.
-
-**Nota:**
-
-Décret n° 2009-621 du 6 juin 2009 article 1 : Les dispositions réglementaires instituant les commissions administratives à
-caractère consultatif dont la liste est annexée au présent décret sont prorogées pour une durée de cinq ans. (Commission de
-l'information et de la sécurité du conseil supérieur des sports de montagne).
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
 
 
 ##### Section 3 : La commission professionnelle consultative des métiers du sport et de l'animation
@@ -35258,195 +34887,6 @@ professionnelle consultative des métiers du sport et de l'animation).
 	  - Arrêté du 10 juin 2009 - art. 1
 
 
-#####  Section 6  : L'Observatoire national des métiers  de l'animation et du sport
-
-###### Article A142-43
-
-L'Observatoire national des métiers de l'animation et du sport est placé auprès des ministres chargés de l'éducation
-nationale, de l'enseignement supérieur, de la jeunesse et des sports.
-
-L'Observatoire national des métiers de l'animation et du sport a pour mission de conduire des études prospectives,
-qualitatives et quantitatives en matière d'emploi et de formation dans le domaine des métiers de l'animation et du sport.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-44
-
-Afin d'assurer sa mission, l'Observatoire national des métiers de l'animation et du sport :
-
-1° Conçoit et émet des appels d'offres d'études ;
-
-2° Détermine et collecte les informations nécessaires à la connaissance du champ de l'emploi et des formations dans le
-domaine des métiers de l'animation et du sport ;
-
-3° Publie un répertoire des études et recherches sur l'emploi et les formations dans le domaine des métiers de l'animation et
-du sport ;
-
-4° Conçoit et réalise des outils de recherche en relation avec ses partenaires nationaux et européens.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-45
-
-L'Observatoire national des métiers de l'animation et du sport comprend dix-huit membres.
-
-Sa composition est fixée comme suit :
-
-1° Un collège des pouvoirs publics dont les membres sont désignés par les ministres intéressés à raison de :
-
-a) Trois représentants du ministre chargé de la jeunesse et des sports ;
-
-b) Le directeur des sports ;
-
-c) Le directeur de la jeunesse et de l'éducation populaire ;
-
-d) Le directeur en charge de l'emploi et de la formation dans le domaine du sport ;
-
-e) Trois représentants des ministres chargés de l'éducation nationale et de l'enseignement supérieur ;
-
-f) Le directeur de l'enseignement scolaire ;
-
-g) Le directeur de l'enseignement supérieur ;
-
-h) Le directeur de la programmation et du développement.
-
-2° Un collège des partenaires sociaux comprenant, à parité, des représentants d'organisations professionnelles d'employeurs
-et des salariés désignés, à la demande des ministères concernés, par les commissions intéressées, dans les termes suivants :
-
-a) Deux représentants proposés par la commission professionnelle consultative des métiers du sport et de l'animation ;
-
-b) Deux représentants proposés par la commission paritaire nationale de l'emploi et de la formation de la convention
-collective nationale de l'animation ;
-
-c) Deux représentants proposés par la commission paritaire nationale de l'emploi et de la formation de la convention
-collective nationale du sport.
-
-3° Un collège de personnalités qualifiées choisies en raison de leur connaissance de l'emploi et des formations dans le
-domaine des métiers de l'animation et du sport :
-
-a) Une personnalité qualifiée désignée conjointement par les ministres chargés de l'éducation nationale, de l'enseignement
-supérieur, de la jeunesse et des sports, assurant les fonctions de président de l'Observatoire national des métiers de
-l'animation et du sport ;
-
-b) Deux personnalités qualifiées désignées par le ministre chargé des sports ;
-
-c) Deux personnalités qualifiées désignées par les ministres chargés de l'éducation nationale et de l'enseignement
-supérieur ;
-
-d) Un représentant du Centre d'études et de recherche sur les qualifications (CEREQ) désigné par son directeur.
-
-Les membres de l'Observatoire national des métiers de l'animation et du sport sont nommés par arrêté conjoint des ministres
-chargés de l'éducation nationale, de l'enseignement supérieur, de la jeunesse et des sports.
-
-La durée de leur mandat est de trois ans renouvelables.
-
-Peuvent également participer, en tant que de besoin, des experts désignés conjointement par les ministres chargés de
-l'éducation nationale, de l'enseignement supérieur, de la jeunesse et des sports.
-
-Les membres mentionnés au 1°, sauf ceux mentionnés au e, peuvent se faire représenter.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-46
-
-Un secrétaire général désigné par arrêté conjoint des ministres chargés de l'éducation nationale, de l'enseignement supérieur
-et de la jeunesse et des sports assure le secrétariat de l'Observatoire national des métiers de l'animation et du sport qui
-est placé auprès du directeur en charge l'emploi et de la formation au ministère chargé des sports.
-
-Il s'appuie sur quatre chargés de mission, membres de l'Institut national du sport et de l'éducation physique, de l'Institut
-national de la jeunesse et de l'éducation populaire, du ministère chargé de l'éducation nationale et du ministère chargé de
-l'enseignement supérieur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-47
-
-Le programme du travail annuel et l'ordre du jour des séances sont arrêtés par le président de l'Observatoire national des
-métiers de l'animation et du sport sur proposition du secrétaire général.
-
-L'Observatoire national des métiers de l'animation et du sport se réunit au moins deux fois par an, dont une au cours du
-premier trimestre de l'année civile sur convocation du président.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-48
-
-L'Observatoire national des métiers de l'animation et du sport édicte un règlement intérieur définissant les modalités de son
-fonctionnement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A142-49
-
-L'Observatoire national des métiers de l'animation et du sport établit un rapport annuel d'activité qui est transmis aux
-ministres chargés de l'éducation nationale, de l'enseignement supérieur, de la jeunesse et des sports qui en assurent la
-diffusion aux instances relevant de leurs champs de compétences.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
 ##  LIVRE II : ACTEURS DU SPORT
 
 ###  TITRE Ier : FORMATION ET ENSEIGNEMENT
@@ -35546,284 +34986,7 @@ Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration
 	  - Code du sport. - art. D211-4
 
 
-#####  Sous-section 2 : Contrôle financier
-
-###### Article A211-20
-
-L'autorité chargée du contrôle financier sur l'Institut national du sport et de l'éducation physique, ci-après dénommée « le
-contrôleur », exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue
-de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible
-d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance.
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Institut national du sport et de l'éducation physique, les
-circuits et procédures mis en place. Il coordonne son intervention avec celle de l'agent comptable au titre du contrôle
-allégé partenarial.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A211-21
-
-Le contrôleur assiste avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe
-consultatif existant en son sein. Il reçoit dans les mêmes conditions que leurs membres les convocations, ordres du jour et
-tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur
-établissement.
-
-En accord avec l'établissement, le contrôleur peut également assister aux réunions des autres comités.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A211-22
-
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit, à l'appui du projet de budget, avec ses annexes, le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement et de fonctionnement
-permettant de le renseigner sur la capacité d'engagement de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A211-23
-
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de
-surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il
-reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents
-suivants :
-
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
-
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
-
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts ;
-
-4° La situation des engagements ;
-
-5° La situation de trésorerie et l'état des placements ;
-
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
-
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement,
-ainsi que tout document relevant d'une cartographie des risques.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A211-24
-
-I. ― Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de
-l'établissement :
-
-1° Les décisions modificatives d'urgence ;
-
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements ou de mises à disposition ;
-
-3° Les acquisitions et aliénations immobilières ;
-
-4° Les contrats, conventions, marchés ou commandes ;
-
-5° Les prêts et subventions ;
-
-6° Les décisions d'attribution de garantie ;
-
-7° Les transactions ;
-
-8° Les placements financiers.
-
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de
-décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande, écrite d'informations
-complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à
-l'expiration de ce délai, son visa est réputé délivré.
-
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A211-25
-
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
-
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A211-26
-
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
-
-Le contrôleur peut, en concertation avec l'ordonnateur et le cas échéant sur sa proposition, mettre en place un renforcement
-des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre chargé des
-sports.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
 #####  Section 3 : L'Ecole nationale de voile et des sports nautiques
-
-#####  Sous-section 1 : Fonctionnement de l'école
-
-###### Article A211-39
-
-L'Ecole nationale de voile et des sports nautiques comprend, sous l'autorité du directeur, un département de la formation, un
-département des stages et un service de l'administration.
-
-Les chefs de département et le responsable du service de l'administration sont nommés par arrêté du ministre chargé des
-sports, sur proposition du directeur de l'Ecole nationale de voile et des sports nautiques.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A211-40
-
-Le département de la formation a pour missions :
-
-1° De définir le contenu technique et pédagogique des stages de formation et de perfectionnement des personnes relevant du
-ministère, des stages de formation et de perfectionnement des cadres appartenant aux organismes agréés par l'État, des stages
-de formation professionnelle, préparant aux diplômes techniques fédéraux, aux brevets d'Etat ainsi qu'aux diplômes et
-concours conduisant aux carrières d'enseignant d'éducation physique et sportive ;
-
-2° D'animer et de coordonner les expérimentations et recherches entreprises au sein de l'établissement ;
-
-3° De prendre les contacts utiles avec les secteurs de la recherche extérieurs à l'établissement et de préparer les
-conventions et accords qui peuvent être passés avec ceux-ci ;
-
-4° D'accueillir en accord avec le ministère des affaires étrangères et le ministère chargé de la coopération des stagiaires
-étrangers et de leur apporter l'assistance technique et pédagogique.
-
-Le chef de ce département fixe l'encadrement des stages, établit et contrôle l'emploi du temps des enseignants remplaçant le
-directeur en cas d'absence ou d'empêchement de ce dernier.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A211-41
-
-Le département des stages a pour mission :
-
-1° D'établir le programme annuel des stages ;
-
-2° D'assurer l'accueil et le séjour des stagiaires ainsi que la préparation matérielle et le fonctionnement des stages et des
-manifestations sportives.
-
-Le chef de ce département est responsable du service de documentation et de l'audiovisuel et du service des ateliers.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-
-###### Article A211-42
-
-Le service de l'administration est chargé de la gestion administrative, financière et comptable de l'établissement.
-
-Il est placé sous les ordres d'un fonctionnaire de catégorie A du corps de l'administration de l'éducation nationale et de
-l'enseignement supérieur.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
 
 #####  Sous-section 2 : Contrôle financier
 
@@ -37437,38 +36600,6 @@ dispositions prévues à l'article A. 212-26.
 	  - Code du sport. - art. A212-26
 
 
-#####  Paragraphe 3 : Le livret de formation
-
-###### Article A212-27
-
-La validité du livret de formation expire à la date de l'obtention du diplôme complet et ne peut excéder quatre ans,
-prorogeable un an. Il est délivré, préalablement à l'entrée en formation, par le directeur régional de la jeunesse, des
-sports et de la cohésion sociale au vu du dossier conforme défini à l'article A. 212-17 et après positionnement du candidat,
-visé à l'article D. 212-27, par l'organisme de formation. 
-
-Le livret précise, sur proposition de l'organisme de formation habilité, un parcours de formation individualisé pour le
-candidat, pouvant comporter sa durée. 
-
-Il atteste, lorsqu'elles sont acquises, des capacités à participer à l'encadrement des activités notamment physiques ou
-sportives conformément à l'article D. 212-33.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 3 février 2012 - art. 12
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-17
-	  - Code du sport. - art. D212-27
-	  - Code du sport. - art. D212-33
-
-
 #####  Paragraphe 4 : L'alternance
 
 ###### Article A212-28
@@ -37663,15 +36794,14 @@ délivrance des unités capitalisables.
 
 ###### Article A212-35
 
-Les  décisions de délivrance d'une unité capitalisable font l'objet d'un  arrêté pris par le directeur régional de la
-jeunesse, des sports et de  la cohésion sociale et d'une attestation individuelle référant à une  nomenclature d'objectifs
-terminaux d'intégration, datée et numérotée.
+Les décisions de délivrance d'une unité capitalisable font l'objet d'un arrêté pris par le directeur régional de la jeunesse,
+des sports et de la cohésion sociale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 19
+	  - Arrêté du 30 janvier 2015 - art. 1
 
 	**Cité par**:
 
@@ -38262,42 +37392,6 @@ trois mois. Cette procédure n'est pas exclusive du retrait si le grief le justi
 	  - Code du sport. - art. A212-57 (M)
 
 
-##### Sous-paragraphe 3 : Le livret de formation
-
-###### Article A212-59
-
-Un livret de formation, d'une durée de validité de quatre ans maximum renouvelable pour un an, est délivré, préalablement à
-l'entrée en formation, par le directeur régional de la jeunesse, des sports et de la vie associative au vu du dossier
-conforme défini à l'article A. 212-51 et après positionnement du candidat, mentionné à l'article D. 212-43, par l'organisme
-de formation. Sa validité expire à la date de l'obtention du diplôme complet. 
-
-Le livret précise, sur proposition de l'organisme de formation habilité, un parcours de formation individualisé pour le
-candidat. 
-
-Il atteste, lorsqu'elles sont acquises, des capacités à participer à l'encadrement des activités notamment physiques ou
-sportives conformément à l'article D. 212-49.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 11 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. D212-43
-	  - Code du sport. - art. D212-49
-	  - Code du sport. - art. D212-51
-
-
 ##### Sous-paragraphe 4 : L'alternance
 
 ###### Article A212-60
@@ -38482,18 +37576,21 @@ des unités capitalisables.
 
 ###### Article A212-66
 
-Les décisions de délivrance d'une unité capitalisable font l'objet d'un arrêté par mention du diplôme et d'une attestation
-individuelle, référant à une nomenclature d'objectifs terminaux d'intégration, datée et numérotée.
+Les décisions de délivrance d'une unité capitalisable font l'objet d'un arrêté par mention du diplôme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 20 novembre 2006 - art. 18 (Ab)
+	  - Arrêté du 30 janvier 2015 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 21 décembre 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-70 (Ab)
 
 
 ##### Sous-paragraphe 7 : Validation des acquis de l'expérience
@@ -39145,42 +38242,6 @@ trois mois. Cette procédure n'est pas exclusive du retrait si le grief le justi
 	  - Code du sport. - art. A212-84 (Ab)
 
 
-##### Sous-paragraphe 3 : Le livret de formation
-
-###### Article A212-86
-
-Un livret de formation d'une durée de validité de quatre ans maximum renouvelable pour un an est délivré, préalablement à
-l'entrée en formation, par le directeur régional de la jeunesse, des sports et de la vie associative au vu du dossier
-conforme défini à l'article A. 212-78 et après positionnement du candidat visé à l'article D. 212-59, par l'organisme de
-formation. Sa validité expire à la date de l'obtention du diplôme complet. 
-
-Le livret précise, sur proposition de l'organisme de formation habilité, un parcours de formation individualisé pour le
-candidat. 
-
-Il atteste, lorsqu'elles sont acquises, des capacités à participer à l'encadrement des activités notamment physiques ou
-sportives conformément à l'article D. 212-65.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 11 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-78
-	  - Code du sport. - art. D212-59
-	  - Code du sport. - art. D212-65
-
-
 ##### Sous-paragraphe 4 : L'alternance
 
 ###### Article A212-87
@@ -39363,18 +38424,21 @@ des unités capitalisables.
 
 ###### Article A212-93
 
-Les décisions de délivrance d'une unité capitalisable font l'objet d'un arrêté par mention du diplôme, et d'une attestation
-individuelle, référant à une nomenclature d'objectifs terminaux d'intégration, datée et numérotée.
+Les décisions de délivrance d'une unité capitalisable font l'objet d'un arrêté par mention du diplôme.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 20 novembre 2006 - art. 18 (Ab)
+	  - Arrêté du 30 janvier 2015 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 21 décembre 2015 - art. 4
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-97 (Ab)
 
 
 ##### Sous-paragraphe 7 : Validation des acquis de l'expérience
@@ -39613,22 +38677,22 @@ la possession de la mention du diplôme.
 
 ###### Article A212-102
 
-Le brevet d'Etat d'éducateur sportif mentionné à l'article D. 212-70 est un diplôme professionnel. 
+Le troisième degré du brevet d'Etat d'éducateur sportif mentionné à l'article D. 212-70 est un diplôme professionnel. 
 
-Il comporte trois degrés et atteste de l'aptitude et de la qualification de son titulaire à enseigner les activités physiques
-et sportives sous toutes les formes, notamment d'accompagnement, d'animation, d'initiation ou d'entraînement. 
+Il atteste de l'aptitude et de la qualification de son titulaire à enseigner les activités physiques et sportives sous toutes
+les formes, notamment d'accompagnement, d'animation, d'initiation ou d'entraînement. 
 
-En outre, il confère à son titulaire : 
+En outre, il confère à son titulaire :
 
-― pour le premier degré, la qualification nécessaire à l'organisation et à la promotion des activités physiques et sportives,
-dans une option sportive ; 
+- la qualification nécessaire à l'organisation et à la promotion des activités physiques et sportives, dans une option
+sportive ;
 
-― pour le deuxième degré, la qualification nécessaire au perfectionnement technique et à la formation des cadres dans une
-option sportive, ainsi qu'une qualification approfondie en gestion et promotion des activités physiques et sportives ; 
+- la qualification nécessaire au perfectionnement technique et à la formation des cadres dans une option sportive, ainsi
+qu'une qualification approfondie en gestion et promotion des activités physiques et sportives ;
 
-― pour le troisième degré, la qualification nécessaire pour l'expertise et la recherche. 
+- la qualification nécessaire pour l'expertise et la recherche. 
 
-Chacun des trois degrés du brevet d'Etat d'éducateur sportif comprend : 
+Le brevet d'Etat d'éducateur sportif comprend : 
 
 1° Une partie commune à l'ensemble des options ; 
 
@@ -39642,14 +38706,14 @@ alternance et notamment par la voie de l'apprentissage.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 30 janvier 2015 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-103 (V)
-	  - Code du sport. - art. D212-70 (V)
+	  - Code du sport. - art. A212-103
+	  - Code du sport. - art. D212-70
 
 
 ###### Article A212-103
@@ -44081,8 +43145,7 @@ La déclaration prévue à l'article R. 312-4 mentionne :
 
 1° Les nom, prénoms, adresse, numéro de téléphone et adresse électronique du propriétaire de l'équipement déclaré ; 
 
-2° Le cas échéant, les nom, prénoms, numéro de téléphone et adresse électronique de la personne auprès de laquelle les
-informations sont vérifiées et complétées ; 
+2° (Abrogé) ; 
 
 3° Les caractéristiques générales de l'équipement déclaré ; 
 
@@ -44090,18 +43153,18 @@ informations sont vérifiées et complétées ;
 
 5° Les activités physiques et / ou sportives qui y sont praticables. 
 
-Un modèle de déclaration est joint à l'annexe III-1 (formulaire CERFA n° 13436*01).
+Un modèle de déclaration est joint à l'annexe III-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 30 janvier 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. Annexe III-1 (V)
-	  - Code du sport. - art. R312-4 (V)
+	  - Code du sport. - art. Annexe III-1 (art. A312-1) (V)
+	  - Code du sport. - art. R312-4
 
 
 ##### Section 2 : Installations fixes
@@ -44200,8 +43263,7 @@ Le contenu des pièces mentionnées aux 1°, 3° à 8°, 10° et 11° est explic
 
 ###### Article A312-4
 
-La demande d'homologation comporte, dans le cas des enceintes sportives ouvertes avant le 1er janvier 1996, les documents
-suivants : 
+La demande d'homologation comporte, dans le cas des enceintes existantes, les documents suivants : 
 
 1° Les pièces mentionnées aux 4° à 7°, et, le cas échéant, 8°, 10° et 11°, désignées à l'article A. 311-3, mises à jour,
 originelles ou reconstituées par un maître d'œuvre justifiant d'une assurance professionnelle et d'un diplôme reconnu par
@@ -44217,9 +43279,9 @@ articles R. 123-48 et R. 123-49 du code la construction et de l'habitation (piè
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 30 janvier 2015 - art. 2
 
 	**Cité par**:
 
@@ -44227,8 +43289,8 @@ articles R. 123-48 et R. 123-49 du code la construction et de l'habitation (piè
 
 	**Cite**:
 
-	  - Code de la construction et de l'habitation. - art. R*123-45 (V)
-	  - Code de la construction et de l'habitation. - art. R*123-48 (V)
+	  - Code de la construction et de l'habitation. - art. R*123-45
+	  - Code de la construction et de l'habitation. - art. R*123-48
 
 
 ###### Article A312-5
@@ -48509,31 +47571,6 @@ secours incendie sont définies dans les annexes III-22 à III-25 relatives à c
 
 ##### Sous-section 1 : Manifestations sportives sur les voies publiques ou ouvertes à la circulation publique ne comportant pas la participation de véhicules à moteur.
 
-###### Article A331-24
-
-Les conditions générales des polices d'assurances souscrites par les organisateurs d'épreuves ou compétitions sportives, en
-application des dispositions des articles R. 331-6 à R. 331-17-2, devront être conformes au modèle de l'annexe III-21-1 du
-présent code.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 3 mai 2012 - art. 4
-
-	**Abrogé par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-	**Cité par**:
-
-	  - Code du sport. - art. ANNEXE III-21-1 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. R331-6
-
-
 ###### Article A331-25
 
 Le montant minimum des garanties d'assurance prévues à l'article R. 331-14 est fixé :
@@ -48953,23 +47990,21 @@ chargé des sports.
 
 ###### Article A421-1
 
-Dans la collectivité territoriale de Mayotte, le préfet est le délégué territorial du Centre national pour le développement
-du sport.
+A Mayotte, le préfet est le délégué territorial du Centre national pour le développement du sport.
 
 Il est assisté d'un délégué territorial adjoint désigné par le directeur général de l'établissement sur proposition du
 délégué territorial.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 30 janvier 2015 - art. 2
 
 
 ###### Article A421-2
 
-I. ― Dans la collectivité territoriale de Mayotte la commission territoriale du Centre national pour le développement du
-sport comprend :
+I. ― A Mayotte la commission territoriale du Centre national pour le développement du sport comprend :
 
 Outre le délégué de l'établissement, membre de droit, ou son représentant :
 
@@ -48996,9 +48031,9 @@ entraîne sa démission de plein droit.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 30 janvier 2015 - art. 2
 
 
 ###### Article A421-3
@@ -49010,8 +48045,8 @@ la direction de la jeunesse et des sports.
 La commission se réunit sur convocation de ses coprésidents.
 
 Le président du conseil général ou son représentant, un maire ou un maire adjoint désigné par le président de l'Association
-des maires de Mayotte et le directeur du service de la jeunesse, des sports et de la vie associative de la collectivité
-territoriale de Mayotte assistent avec voix consultative aux séances de la commission territoriale.
+des maires de Mayotte et le directeur du service de la jeunesse, des sports et de la vie associative de Mayotte assistent
+avec voix consultative aux séances de la commission territoriale.
 
 Le délégué territorial et le président du comité régional olympique et sportif peuvent également inviter à assister à tout ou
 partie des réunions de la commission territoriale toute personne que celle-ci souhaite entendre.
@@ -49026,24 +48061,24 @@ La commission délibère à la majorité des membres présents ou représentés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 30 janvier 2015 - art. 2
 
 
 ###### Article A421-4
 
 La commission territoriale du Centre national pour le développement du sport définit les priorités territoriales en cohérence
 avec les directives de l'établissement concernant la répartition des subventions attribuées au niveau local et dans le
-respect des compétences de la collectivité territoriale de Mayotte.
+respect des compétences de Mayotte.
 
 Elle émet un avis sur l'attribution des subventions de fonctionnement destinées aux associations sportives locales.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 30 janvier 2015 - art. 2
 
 
 ###### Article A421-5
@@ -49222,7 +48257,7 @@ concernées.
 
 I. ― La commission du Centre national pour le développement du sport en Polynésie française comprend de façon paritaire :
 
-1° Outre le haut-commissaire de la République en Polynésie française, le délégué territorial du Centre national pour le
+1° Outre le haut-commissaire de la République en Polynésie française, délégué territorial du Centre national pour le
 développement du sport et le délégué territorial adjoint, membres de droit :
 
 a) D'une part, quatre représentants de la Polynésie française, dont le président de la Polynésie française, membres de droit,
@@ -49252,9 +48287,9 @@ La perte de la qualité au titre de laquelle un membre de cette commission a ét
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 30 janvier 2015 - art. 2
 
 
 ###### Article A424-2
@@ -66763,490 +65798,410 @@ un service public de formation de qualité.
 
 ###### Article Annexe III-1 (art. A312-1)
 
-Declaration relative aux equipements sportifs en application de l'article L. 312-2 du code du sport
+Déclaration relative aux équipements sportifs en application de l'article L. 312-2 du code du sport 
 
-(art. A. 312-1)
+q = plusieurs choix possibles ; m = un seul choix possible 
 
-q = plusieurs choix possibles m = un seul choix possible
-
-Objet de la déclaration (un seul choix possible)
+Objet de la déclaration (un seul choix possible) 
 
 <table>
   <tbody>
     <tr>
-      <td colspan="2" width="565">
+      <th colspan="2">
 
-m Création d'un équipement sportif
+m CRÉATION D'UN ÉQUIPEMENT SPORTIF 
+
+</th>
+    </tr>
+    <tr>
+      <td align="left">
+
+m Modification d'un équipement sportif. 
+
+</td>
+      <td align="left">
+
+Préciser la nature des modifications envisagées : 
+
+q Structure principale/ enveloppe 
+
+q Sol 
+
+q Eclairage 
+
+q Isolation/ chauffage 
+
+q Acoustique 
+
+q Annexe (s) (vestiaires, douches, tribunes) 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td align="left">
 
-m Modification d'un équipement sportif.
-
-</td>
-      <td width="336" valign="top">
-
-Préciser la nature des modifications envisagées :
-
-q Structure principale/enveloppe
-
-q Sol
-
-q Eclairage
-
-q Isolation/chauffage
-
-q Acoustique
-
-q Annexe(s) (vestiaires, douches, tribunes)
+m Cession d'un équipement sportif. 
 
 </td>
-    </tr>
-    <tr>
-      <td valign="top" width="229">
+      <td valign="middle">
 
-m Cession d'un équipement sportif.
+Indiquer identité du concessionnaire : 
 
-</td>
-      <td width="336">
+Nom : 
 
-Indiquer Identité du concessionnaire :
+Prénom : 
 
-Nom :
+N° : 
 
-Prénom :
+Libellé de la voie : 
 
-N° :
+Code postal : 
 
-Libellé de la voie :
-
-Code postal :
-
-Ville :
+Ville : 
 
 </td>
     </tr>
     <tr>
-      <td width="565" colspan="2">
+      <td colspan="2" align="center" valign="middle">
 
-m Suppression d'un équipement sportif
+m Suppression d'un équipement sportif 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" width="229">
+      <td>
 
-m Changement d'affectation
-
-d'un équipement sportif
+m Changement d'affectation d'un équipement sportif 
 
 </td>
-      <td width="336">
+      <td align="left" valign="middle">
 
-Nouvelle affectation :
+Nouvelle affectation : 
 
-m Je ne sais pas
+m Je ne sais pas 
 
 </td>
     </tr>
   </tbody>
 </table>
 
-Identité du (des) propriétaire(s)
+Identité du propriétaire principal 
+
+Nom : 
+
+Prénom : 
+
+N° : 
+
+Libellé de la voie : 
+
+Code postal : 
+
+Ville : 
+
+Type de propriétaire : 
+
+m Etat ; m Région ; m Département 
+
+m Commune ; m Etablissement public de coopération intercommunale ; m Etablissement d'enseignement privé 
+
+m Etablissement privé commercial ; m Autre établissement public ; m Association (s) 
+
+m Privé non commercial, non associatif (ex : particulier) 
+
+Identité du propriétaire secondaire (identité du propriétaire du terrain s'il est différent du propriétaire du bâti) 
+
+Nom : 
+
+Prénom : 
+
+N° : 
+
+Libellé de la voie : 
+
+Code postal : 
+
+Ville : 
+
+Type de propriétaire : 
+
+m Etat ; m Région ; m Département 
+
+m Commune ; m Etablissement public de coopération intercommunale ; m Etablissement d'enseignement privé 
+
+m Etablissement privé commercial ; m Autre établissement public ; m Association (s) 
+
+m Privé non commercial, non associatif (ex : particulier) 
+
+Caractéristiques générales de l'équipement 
 
 <table>
   <tbody>
     <tr>
-      <td valign="top" width="565">
+      <th colspan="7">
 
-Identité du propriétaire principal (concerne le bâti)
+NOM USUEL DE L'ÉQUIPEMENT 
 
-Nom :
+</th>
+    </tr>
+    <tr>
+      <td colspan="7" align="left" valign="middle">
 
-Prénom :
-
-N° :
-
-Libellé de la voie :
-
-Code postal :
-
-Ville :
-
-Type de propriétaire (cochez la case correspondante) :
-
-m Etat m Région m Département
-
-m Commune m Groupement de communes m Etablissement d'enseignement privé
-
-m Etablissement privé commercial m Etablissement public m Association(s)
-
-m Privé non commercial (particulier)
+Type d'équipement : 
 
 </td>
     </tr>
     <tr>
-      <td width="565" valign="top">
+      <td align="left" valign="middle" colspan="7">
 
-Identité de la personne ressource auprès de laquelle
+Localisation de l'équipement : 
 
-les informations peuvent être vérifiées ou complétées
+N° : 
 
-</td>
-    </tr>
-    <tr>
-      <td width="565" valign="top">
+Libellé de la voie : 
 
-Nom :
+Code postal : 
 
-Prénom :
-
-N° :
-
-Libellé de la voie :
-
-Code postal :
-
-Ville :
-
-Téléphone :
-
-Télécopie :
-
-Mail :
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-La présente déclaration est à transmettre à la direction régionale ou à la direction départementale de la jeunesse et des
-sports la plus proche de chez vous. Coordonnées sur le www.jeunesse-sports.gouv.fr
-
-Le recensement des équipements sportifs en ligne : www.res.jeunesse-sports.gouv.fr
-
-DECLARATION RELATIVE AUX EQUIPEMENTS SPORTIFS EN APPLICATION DE L'ARTICLE L. 312-2 DU CODE DU SPORT
-
-Caractéristiques générales de l'équipement
-
-<table>
-  <tbody>
-    <tr>
-      <td width="565">
-
-Nom usuel de l'équipement :
+Ville : 
 
 </td>
     </tr>
     <tr>
-      <td width="565">
+      <td align="left" valign="middle" colspan="7">
 
-Type d'équipement :
+Superficie de l'aire d'évolution (= l'aire de pratique à laquelle s'ajoute l'espace de sécurité qui lui est réservé exprimée
+en m2) : 
 
-</td>
-    </tr>
-    <tr>
-      <td width="565">
+Largeur de l'aire d'évolution (exprimée en m) : 
 
-Localisation de l'équipement (adresse complète) :
-
-Nom :
-
-Prénom :
-
-N° :
-
-Libellé de la voie :
-
-Code postal :
-
-Ville :
+Longueur de l'aire d'évolution (exprimée en m) : 
 
 </td>
     </tr>
     <tr>
-      <td width="565">
+      <td align="center" valign="middle" colspan="2">
 
-Superficie de l'aire d'évolution (4) (exprimée en m2) :
-
-Largeur de l'aire d'évolution (1) (exprimée en m) :
-
-Longueur de l'aire d'évolution (1) (exprimée en m) :
+Nature de l'équipement sportif 
 
 </td>
-    </tr>
-  </tbody>
-</table>
+      <td align="center" colspan="4" valign="middle">
 
-Caractéristiques spécifiques de l'équipement
-
-<table>
-  <tbody>
-    <tr>
-      <td colspan="2" width="309">
-
-Nature de l'équipement sportif
+m Intérieur m Extérieur couvert m Découvert 
 
 </td>
-      <td colspan="4" width="240">
+      <td align="center" valign="middle">
 
-m Intérieur
-
-m Extérieur
-
-m Découvert
-
-</td>
-      <td width="280">
-
-m Découvrable
-
-m Site artificiel
-
-m Site naturel aménagé
+m Découvrable m Site artificiel m Site naturel aménagé 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="309">
+      <td valign="middle" align="left" colspan="2">
 
-Date de mise en service de l'équipement (année d'ouverture au public) :
-
-</td>
-      <td colspan="2" width="112">
-
-Date précise
-
-...../...../.....
+Date de mise en service de l'équipement (année d'ouverture au public) : 
 
 </td>
-      <td colspan="2" width="128">
+      <td align="center" colspan="2" valign="middle">
 
-O
+Date précise 
 
-</td>
-      <td width="280">
-
-m Avant 1945 m 1945-1964 m 1965-1974 m 1975-1984 m 1985-1994 m 1995-2004
+// 
 
 </td>
-    </tr>
-    <tr>
-      <td colspan="2" width="309" rowspan="4">
+      <td align="center" colspan="2" valign="middle">
 
-Utilisateurs (classer par ordre croissant selon le nombre d'heures d'utilisation OU marquer la présence d'un utilisateur
-d'une croix si le classement est impossible)
+ou 
 
 </td>
-      <td width="112" colspan="2">
+      <td valign="middle" align="center">
 
-</td>
-      <td colspan="3" width="408">
-
-Individuel(s)/Famille(s)
+m Avant 1945 m 1945-1964 m 1965-1974 m 1975-1984 m 1985-1994 m 1995-2004 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="112">
+      <td valign="middle" rowspan="4" colspan="2">
+
+Merci de classer par ordre croissant d'utilisateurs selon le nombre d'heures d'utilisation (marquer la présence d'un
+utilisateur d'une croix si le classement est impossible) 
 
 </td>
-      <td width="408" colspan="3">
+      <td valign="middle" align="left" colspan="2">
+      </td><td colspan="3" valign="middle" align="center">
 
-Scolaires/Universités
-
-</td>
-    </tr>
-    <tr>
-      <td width="112" colspan="2">
-
-</td>
-      <td colspan="3" width="408">
-
-Clubs sportifs/Comités/Ligues/Fédérations
+Individuel (s)/ Famille (s) 
 
 </td>
     </tr>
     <tr>
-      <td colspan="2" width="112">
+      <td align="left" valign="middle" colspan="2">
+      </td><td valign="middle" align="center" colspan="3">
 
-</td>
-      <td width="408" colspan="3">
-
-Autre(s) association(s) et groupes divers
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="2" width="309">
-
-Locaux d'hébergement - Nombre de lits
-
-</td>
-      <td colspan="5" width="520">
+Scolaires/ Universités 
 
 </td>
     </tr>
     <tr>
-      <td rowspan="2" width="101">
+      <td align="left" colspan="2" valign="middle">
+      </td><td colspan="3" align="center" valign="middle">
 
-Nombre de vestiaire(s)
-
-</td>
-      <td width="208">
-
-sportifs
-
-</td>
-      <td width="520" colspan="5">
+Clubs sportifs/ Comités/ Ligues/ Fédérations 
 
 </td>
     </tr>
     <tr>
-      <td width="208">
+      <td valign="middle" align="left" colspan="2">
+      </td><td valign="middle" colspan="3" align="center">
 
-arbitre(s)/enseignant(e)(s)
-
-</td>
-      <td width="520" colspan="5">
+Autre (s) association (s) et groupes divers 
 
 </td>
     </tr>
     <tr>
-      <td width="309" colspan="2">
+      <td valign="middle" align="center" colspan="2">
 
-Nombre total de places assises en tribunes/gradins (fixes et télescopiques)
-
-</td>
-      <td colspan="5" width="520">
+Locaux d'hébergement-Nombre de lits 
 
 </td>
-    </tr>
-    <tr>
-      <td width="309" colspan="2">
-
-Adresse du site Internet relatif à l'équipement (URL)
-
-</td>
-      <td colspan="5" width="520">
-
-www.
-
-</td>
-    </tr>
-    <tr>
-      <td width="309" colspan="2">
-
-Ouverture exclusivement saisonnière
-
-</td>
-      <td width="520" colspan="5">
-
-m Oui m Non
-
-</td>
-    </tr>
-    <tr>
-      <td width="829" colspan="7">
-
-Activité(s) physique(s) et/ou sportive(s) (APS) praticable(s) :
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="3" width="397">
-
-Nom de l'(des) APS praticable(s) sur l'équipement
-
-</td>
-      <td colspan="4" width="432">
-
-Niveau effectivement pratiqué
-
-(mettre le chiffre correspondant à l'activité pratiquée)
-
-</td>
-    </tr>
-    <tr>
-      <td width="397" colspan="3" valign="top">
-      </td><td colspan="2" width="65">
-
-</td>
-      <td width="367" colspan="2" rowspan="4">
-
-1 = Non défini
-
-2 = Loisir - Entretien - Remise en forme
-
-3 = Scolaire
-
-4 = Entraînement
-
-5 = Compétition départementale
-
-6 = Compétition régionale
-
-7 = Compétition nationale
-
-8 = Compétition internationale
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" width="397" colspan="3">
-      </td><td width="65" valign="top" colspan="2">
+      <td colspan="5" align="left" valign="middle">
     </td></tr>
     <tr>
-      <td colspan="3" width="397" valign="top">
-      </td><td colspan="2" valign="top" width="65">
+      <td valign="middle" rowspan="2" align="center">
+
+Nombre de vestiaire (s) 
+
+</td>
+      <td valign="middle" align="center">
+
+sportifs 
+
+</td>
+      <td align="left" valign="middle" colspan="5">
     </td></tr>
     <tr>
-      <td width="397" colspan="3" valign="top">
-      </td><td valign="top" colspan="2" width="65">
+      <td align="center" valign="middle">
+
+arbitre (s)/ enseignant (e) (s) 
+
+</td>
+      <td valign="middle" align="left" colspan="5">
+    </td></tr>
+    <tr>
+      <td valign="middle" colspan="2">
+
+Nombre total de places assises en tribunes/ gradins (fixes et télescopiques) 
+
+</td>
+      <td valign="middle" colspan="5" align="left">
+    </td></tr>
+    <tr>
+      <td colspan="2" valign="middle">
+
+L'ouverture de l'équipement est-elle exclusivement saisonnière ? (moins de six mois par an d'exploitation ou d'utilisation de
+l'équipement) 
+
+</td>
+      <td align="center" valign="middle" colspan="5">
+
+m Oui m Non 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" valign="middle">
+
+Nom des activité (s) physique (s) et/ ou sportive (s) praticable (s) sur l'équipement sportif (existence d'aménagements sur
+l'équipement permettant la pratique) 
+
+</td>
+      <td colspan="4" valign="middle">
+
+Merci d'indiquer le niveau de compétition le plus élevé depuis quatre ans ou le niveau de pratique le plus élevé (vous pouvez
+mettre le chiffre correspondant à l'activité pratiquée) 
+
+</td>
+    </tr>
+    <tr>
+      <td colspan="3" align="left">
+      </td><td align="left" valign="middle" colspan="2">
+      </td><td align="left" colspan="2" rowspan="4" valign="middle">
+
+1 = Non défini 
+
+2 = Loisir-Entretien 
+
+3 = Scolaire 
+
+4 = Entraînement 
+
+5 = Compétition départementale 
+
+6 = Compétition régionale 
+
+7 = Compétition nationale 
+
+8 = Compétition internationale 
+
+</td>
+    </tr>
+    <tr>
+      <td align="left" colspan="3">
+      </td><td align="left" colspan="2">
+    </td></tr>
+    <tr>
+      <td colspan="3" align="left">
+      </td><td align="left" colspan="2">
+    </td></tr>
+    <tr>
+      <td colspan="3" align="left">
+      </td><td colspan="2" align="left">
     </td></tr>
   </tbody>
 </table>
 
-Identité de la personne ayant établi la déclaration
+Identité de la personne ayant établi la déclaration 
 
-<table>
-  <tbody>
-    <tr>
-      <td width="829" valign="top">
+Nom : 
 
-Nom :
+Prénom : 
 
-Prénom :
+N° : 
 
-N° :
+Libellé de la voie : 
 
-Libellé de la voie :
+Code postal : 
 
-Code postal :
+Ville : 
 
-Ville :
+Courriel : @ 
 
-</td>
-    </tr>
-  </tbody>
-</table>
+Fait à : 
 
-Fait à : Le : / / Signature
+Le :// 
 
-(4) L'aire d'évolution correspond à l'aire de pratique auquel s'ajoute l'espace sécuritaire réservé qui lui est associé.
+Signature (n'est pas nécessaire sur le formulaire électronique). 
 
-La présente déclaration est à transmettre à la direction régionale ou à la direction départementale de la jeunesse et des
-sports la plus proche de chez vous. Coordonnées sur le www.jeunesse-sports.gouv.fr
+La loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés s'applique à ce formulaire. 
 
-Le recensement des équipements sportifs en ligne : www.res.jeunesse-sports.gouv.fr
+Les données ci-dessus sont obligatoires. La loi vous donne droit d'accès et de rectification pour les données vous
+concernant : pour cela, vous pouvez adresser au ministère chargé des sports (Déclaration du fichier à la CNIL, récépissé n°
+1039564 du 28 septembre 2004 modifié en août 2005). 
+
+La présente déclaration est à transmettre à la direction départementale de la cohésion sociale, ou à la direction
+départementale de la cohésion sociale et de la protection de la population, ou à la direction de la jeunesse, des sports et
+de la cohésion sociale du département dans lequel se situe l'équipement (coordonnées sur le site  www.sports.gouv.fr). 
+
+Le recensement des équipements sportifs est en ligne sur  www.res.sports.gouv.fr
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Arrêté du 30 janvier 2015 - art.
+
 	**Cité par**:
 
-	  - Code du sport. - art. A312-1 (M)
+	  - Code du sport. - art. A312-1 (V)
 
 
 ###### Article Annexe III-2 (art. A312-3)
