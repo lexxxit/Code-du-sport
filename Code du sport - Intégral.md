@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-02-14
+Version Consolidée au 2015-02-18
 
 # Partie législative
 
@@ -8179,6 +8179,8 @@ nationale mentionnée aux articles 4 à 4-5 de la loi n° 2003-239 du 18 mars 20
 
 ##### Section 2 : Autorisations préalables
 
+##### Section 2 : Autorisation et déclaration préalables
+
 ###### Article L331-5
 
 Toute personne physique ou morale de droit privé, autre que les fédérations sportives, qui organise une manifestation ouverte
@@ -8287,6 +8289,20 @@ prévue à l'article L. 411-7 du code de la route.
 	**Cite**:
 
 	  - Code de la route. - art. L411-7 (V)
+
+
+###### Article L331-8-1
+
+Les manifestations sportives ne comportant pas la participation de véhicules à moteur et se déroulant à l'intérieur du
+territoire d'une seule commune font l'objet d'une déclaration auprès du maire de la commune concernée.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-177 du 16 février 2015 - art. 15 (V)
 
 
 ##### Section 3 : Obligation d'assurance des organisateurs de manifestations sportives
