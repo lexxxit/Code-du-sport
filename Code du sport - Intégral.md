@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-02-25
+Version Consolidée au 2015-03-22
 
 # Partie législative
 
@@ -28377,27 +28377,26 @@ présentation à l'organisateur de la manifestation du résultat négatif du rap
 ###### Article R311-1
 
 Une commission départementale des espaces, sites et itinéraires relatifs aux sports de nature est placée auprès du président
-du conseil général.
+du conseil départemental. 
 
 Cette commission comprend notamment un représentant du comité départemental olympique et sportif, des représentants des
 fédérations sportives agréées qui organisent des sports de nature, des représentants des groupements professionnels
 concernés, des représentants des associations agréées de protection de l'environnement, des élus locaux et des représentants
 de l'Etat.
 
-**Nota:**
-
-
-
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 2 et 3 de l'article 50-2 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
 	  - Loi n°84-610 du 16 juillet 1984 - art. 50-2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
@@ -28433,22 +28432,21 @@ inscrits à ce plan.
 
 ###### Article R311-3
 
-La composition et les modalités de fonctionnement de la commission sont fixées par délibération du conseil général.
-
-**Nota:**
-
-
+La composition et les modalités de fonctionnement de la commission sont fixées par délibération du conseil départemental.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 8 de l'article 50-2 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
 	  - Loi n°84-610 du 16 juillet 1984 - art. 50-2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 #### Chapitre II : Equipements sportifs
@@ -32869,49 +32867,49 @@ durée de quatre ans renouvelable une fois.
 ###### Article R411-3
 
 Le Centre national pour le développement du sport est administré par un conseil d'administration et dirigé par un directeur
-général.
+général. 
 
-Le conseil d'administration est composé, outre son président, des vingt membres suivants :
+Le conseil d'administration est composé, outre son président, des vingt membres suivants : 
 
-1° Quatre membres de droit :
+1° Quatre membres de droit : 
 
-a) Le ministre chargé des sports ou son représentant ;
+a) Le ministre chargé des sports ou son représentant ; 
 
-b) Le ministre chargé du budget ou son représentant ;
+b) Le ministre chargé du budget ou son représentant ; 
 
-c) Le président du Comité national olympique et sportif français ou son représentant ;
+c) Le président du Comité national olympique et sportif français ou son représentant ; 
 
-d) Le directeur des sports ou son représentant ;
+d) Le directeur des sports ou son représentant ; 
 
 2° Quatre représentants du ministère chargé des sports nommés par le ministre, dont deux chefs des services déconcentrés de
 l'Etat chargés des sports ; 
 
 3° Cinq représentants du mouvement sportif nommés par le ministre chargé des sports après désignation par le président du
-Comité national olympique et sportif français, dont :
+Comité national olympique et sportif français, dont : 
 
-a) Un président de comité régional olympique et sportif ;
+a) Un président de comité régional olympique et sportif ; 
 
-b) Un président de comité départemental olympique et sportif ;
+b) Un président de comité départemental olympique et sportif ; 
 
-4° Trois représentants de collectivités territoriales nommés par le ministre chargé des sports :
+4° Trois représentants de collectivités territoriales nommés par le ministre chargé des sports : 
 
-a) Un conseiller régional désigné par l'Association des régions de France ;
+a) Un conseiller régional désigné par l'Association des régions de France ; 
 
-b) Un conseiller général désigné par l'Assemblée des départements de France ;
+b) Un conseiller départemental désigné par l'Assemblée des départements de France ; 
 
-c) Un maire ou adjoint au maire désigné par l'Association des maires de France ;
+c) Un maire ou adjoint au maire désigné par l'Association des maires de France ; 
 
 5° Quatre personnalités qualifiées nommées par le ministre chargé des sports, dont une sur la proposition du président du
-Comité national olympique et sportif français.
+Comité national olympique et sportif français. 
 
 Pour chacun des membres titulaires à l'exception du président, des membres de droit et des personnalités qualifiées, un
-suppléant est désigné dans les mêmes conditions.
+suppléant est désigné dans les mêmes conditions. 
 
 Les membres du conseil d'administration mentionnés aux 2°, 3°, 4° et 5° ainsi que leurs suppléants sont nommés pour une durée
-de quatre ans, renouvelable une fois.
+de quatre ans, renouvelable une fois. 
 
 La perte de la qualité au titre de laquelle un membre a été nommé entraîne sa démission de plein droit du conseil
-d'administration.
+d'administration. 
 
 En cas de vacance pour quelque cause que ce soit du siège d'un membre titulaire ou suppléant du conseil d'administration, il
 est pourvu à son remplacement dans les mêmes conditions, dans un délai de deux mois à compter du début de cette vacance, pour
@@ -32925,7 +32923,7 @@ la durée du mandat restant à courir.
 
 	**Modifié par**:
 
-	  - Décret n°2009-548 du 15 mai 2009 - art. 3
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 	**Cité par**:
 
@@ -33278,18 +33276,18 @@ ou de dirigeant.
 La commission territoriale du Centre national pour le développement du sport est coprésidée par le délégué territorial ou son
 adjoint et par le président du comité régional olympique et sportif ou son représentant. Elle se réunit au moins deux fois
 par an sur convocation de ses coprésidents. Son secrétariat est assuré par les services déconcentrés de l'Etat chargés des
-sports.
+sports. 
 
 En cas d'absence ou d'empêchement simultané du délégué territorial et du délégué territorial adjoint, la coprésidence de la
-commission est assurée par un fonctionnaire de catégorie Adésigné par le délégué territorial.
+commission est assurée par un fonctionnaire de catégorie Adésigné par le délégué territorial. 
 
-La commission délibère à la majorité des voix des membres présents ou représentés.
+La commission délibère à la majorité des voix des membres présents ou représentés. 
 
-Le président du conseil régional, ou son représentant, et les présidents des conseils généraux des départements de la région,
-ou leurs représentants, ainsi que deux maires ou adjoints au maire de communes de la région, désignés par l'Association des
-maires de France, peuvent assister avec voix consultative aux séances de la commission territoriale. Les coprésidents de la
-commission territoriale peuvent également inviter à assister à tout ou partie des réunions toute personne que celle-ci
-souhaite entendre.
+Le président du conseil régional, ou son représentant, et les présidents des conseils départementaux des départements de la
+région, ou leurs représentants, ainsi que deux maires ou adjoints au maire de communes de la région, désignés par
+l'Association des maires de France, peuvent assister avec voix consultative aux séances de la commission territoriale. Les
+coprésidents de la commission territoriale peuvent également inviter à assister à tout ou partie des réunions toute personne
+que celle-ci souhaite entendre.
 
 **Liens relatifs à cet article**
 
@@ -33299,7 +33297,7 @@ souhaite entendre.
 
 	**Modifié par**:
 
-	  - Décret n°2009-548 du 15 mai 2009 - art. 10
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ###### Article R411-16
@@ -33418,13 +33416,9 @@ sports ;
 
 5° Trois représentants du mouvement sportif désignés par le président du comité régional olympique et sportif. 
 
-Le président du conseil régional ou son représentant, le président du conseil général ou son représentant, et un maire ou
-adjoint au maire désigné par l'association représentative des maires peuvent assister avec voix consultative aux séances de
-la commission.
-
-**Nota:**
-
-
+Le président du conseil régional ou son représentant, le président du conseil départemental ou son représentant, et un maire
+ou adjoint au maire désigné par l'association représentative des maires peuvent assister avec voix consultative aux séances
+de la commission.
 
 **Liens relatifs à cet article**
 
@@ -33434,7 +33428,7 @@ la commission.
 
 	**Modifié par**:
 
-	  - Décret n°2009-548 du 15 mai 2009 - art. 15
+	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ##### Sous-section 3 : Régime financier et comptable
