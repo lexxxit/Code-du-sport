@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-04-01
+Version Consolidée au 2015-04-29
 
 # Partie législative
 
@@ -33867,6 +33867,286 @@ caractéristiques de la collectivité et dans le respect des compétences propre
 
 ##  LIVRE Ier : ORGANISATION DES ACTIVITÉS PHYSIQUES  ET SPORTIVES
 
+### TITRE Ier :  PERSONNES PUBLIQUES
+
+#### Chapitre II : Etablissements publics nationaux 
+
+
+
+##### Section unique : Le Musée national du sport 
+
+
+
+
+
+
+##### Sous-section unique : Contrôle budgétaire 
+
+
+
+###### Article A112-1
+
+Le Musée national du sport est assujetti au contrôle budgétaire prévu par les articles 220 à 228 du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique, dans les conditions fixées à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-2
+
+En application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique, le contrôleur budgétaire assiste avec voix consultative au conseil d'administration de l'établissement. Il est
+destinataire, dans les mêmes conditions que les autres membres, des documents qui sont communiqués avant chaque séance, ainsi
+que des comptes rendus et des procès-verbaux. 
+
+Le document prévu à l'article A. 112-10 peut ouvrir la possibilité pour le contrôleur budgétaire de participer aux réunions
+de tout comité, commission ou organe consultatif existant au sein de l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+	  - Code du sport. - art. A112-10
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-3
+
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique préalablement à leur envoi aux membres du conseil d'administration. 
+
+Le contrôleur budgétaire est destinataire, après le vote du budget, d'une répartition détaillée des crédits et des prévisions
+de recettes dans les conditions précisées dans le document prévu à l'article A. 112-10.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+	  - Code du sport. - art. A112-10
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-4
+
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31
+mai et avant le 30 septembre sauf dérogation accordée par celui-ci. 
+
+Ils comprennent :
+
+- l'actualisation de la répartition initiale détaillée ;
+
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
+
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
+
+- l'état détaillé des ressources propres ;
+
+- le plan de trésorerie ;
+
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées. 
+
+En outre, sont transmis pour information :
+
+- les accords-cadres ;
+
+- les marchés à bons de commandes ;
+
+- la liste des agents accueillis en position d'activité ;
+
+- la liste des agents mis à disposition contre remboursement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-5
+
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
+
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au directeur général du Musée
+national du sport ;
+
+- les documents à caractère stratégique relatifs aux missions du Musée national du sport, ses objectifs, ses moyens et ses
+engagements financiers ;
+
+- les informations relatives au suivi du contrat de performance et à la contribution du Musée national du sport à la
+performance du programme budgétaire dont il est opérateur ;
+
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire du Musée national du sport ainsi que tout document relevant d'une cartographie des risques ;
+
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
+
+- les rapports d'inspection et d'audit des commissaires aux comptes et des auditeurs internes et externes, ainsi que les
+plans d'action du Musée national du sport relatifs à la mise en œuvre de leurs recommandations.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-6
+
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté du 25 juin 2014
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-7
+
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 112-10, au regard de la qualité du
+contrôle interne budgétaire : 
+
+Sont soumis au visa :
+
+- les décisions générales ou catégorielles relatives aux modalités de recrutement ou de rémunération des personnels ;
+
+- les actes relatifs au recrutement et à la rémunération des agents contractuels visés aux articles 4 et 6 de la loi n° 84-16
+du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ;
+
+- les décisions fixant la rémunération des fonctionnaires détachés sur contrat ;
+
+- les acquisitions et aliénations immobilières ;
+
+- les baux autres que les baux domaniaux ;
+
+- les marchés autres que les marchés à bons de commande ;
+
+- les bons de commandes ;
+
+- les décisions et conventions portant attribution de prêts ou de subventions. 
+
+Sont soumis à avis préalable :
+
+- les projets de transactions avant transmission au tiers pour signature.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 4
+	  - Loi n°84-16 du 11 janvier 1984 - art. 6
+	  - Code du sport. - art. A112-10
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-8
+
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
+
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Après avis de l'ordonnateur, le contrôleur budgétaire transmet au Musée national du sport le programme de contrôle et
+l'informe, le cas échéant, des agents placés sous l'autorité du ministre chargé du budget qui l'assisteront. 
+
+Le Musée national du sport est tenu de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les
+documents nécessaires à la réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et le cas échéant au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 112-10, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A112-10
+
+
+###### Article A112-9
+
+S'il apparaît au contrôleur budgétaire que la gestion du Musée national du sport remet en cause le caractère soutenable de
+l'exécution budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la
+poursuite de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci
+lui fait connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire. 
+
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A112-10
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission. 
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A112-2 (V)
+	  - Code du sport. - art. A112-3 (V)
+	  - Code du sport. - art. A112-7 (V)
+	  - Code du sport. - art. A112-8 (V)
+
+
 ###  TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES
 
 ####  Chapitre Ier : Associations sportives
@@ -34996,161 +35276,276 @@ Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration
 
 #####  Section 3 : L'Ecole nationale de voile et des sports nautiques
 
-#####  Sous-section 2 : Contrôle financier
+##### Sous-section 2 : Contrôle budgétaire
 
 ###### Article A211-43
 
-L'autorité chargée du contrôle financier sur l'Ecole nationale de voile et des sports nautiques, ci-après dénommée « le
-contrôleur », exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue
-de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible
-d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance.
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Ecole nationale de voile et des sports nautiques, les circuits
-et procédures mis en place. Il coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé
-partenarial.
+L'Ecole nationale de voile et des sports nautiques (ENVSN) est assujettie au contrôle budgétaire prévu par les articles 220 à
+228 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans les conditions
+fixées à la présente sous-section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-44
 
-Le contrôleur assiste avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe
-consultatif existant en son sein. Il reçoit dans les mêmes conditions que leurs membres les convocations, ordres du jour et
-tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur
-établissement.
+Le contrôleur budgétaire est destinataire, dans les mêmes conditions que les membres des instances auxquelles il peut
+assister en application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, des documents qui leur sont communiqués avant chaque séance, ainsi que des comptes rendus et des procès-
+verbaux. 
 
-En accord avec l'établissement, le contrôleur peut également assister aux réunions des autres comités.
+En application du deuxième alinéa du même article, le document prévu à l'article A. 211-49-1 peut ouvrir la possibilité pour
+le contrôleur budgétaire de compléter la liste des instances concernées.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+	  - Code du sport. - art. A211-49-1
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-44-1
+
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique préalablement à leur envoi aux membres de l'organe délibérant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+
 	**Créé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-45
 
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit, à l'appui du projet de budget, avec ses annexes, le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement et de fonctionnement
-permettant de le renseigner sur la capacité d'engagement de l'établissement.
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31
+mai et avant le 30 septembre sauf dérogation accordée par celui-ci. 
+
+Ils comprennent :
+
+- l'actualisation de la répartition initiale détaillée ;
+
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
+
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
+
+- le plan de trésorerie et la situation des placements ;
+
+- l'état détaillé des recettes propres ;
+
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées. 
+
+Si le contrôleur identifie des risques d'une exécution non soutenable, il en informe le ministre chargé du budget et le
+ministre de tutelle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-46
 
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de
-surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il
-reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents
-suivants :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+- les informations relatives au suivi des objectifs fixés par le ministre au dirigeant de l'ENVSN ;
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- les documents à caractère stratégique relatifs aux missions de l'organisme, ses objectifs, ses moyens et ses engagements
+financiers ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts ;
+- les informations relatives au suivi du contrat de performance et à la contribution de l'organisme à la performance du
+programme budgétaire concerné ;
 
-4° La situation des engagements ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire, ainsi que tout document relevant d'une cartographie des risques ;
 
-5° La situation de trésorerie et l'état des placements ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
+- le cas échéant, les informations relatives à la création de filiales ;
 
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement,
-ainsi que tout document relevant d'une cartographie des risques.
+- les rapports d'inspection et d'audit, ainsi que les plans d'action de l'ENVSN relatifs à la mise en œuvre de leurs
+recommandations.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-46-1
+
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté du 25 juin 2014
+
 	**Créé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-47
 
-I. ― Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de
-l'établissement :
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 211-49-1, au regard de la qualité du
+contrôle interne budgétaire : 
 
-1° Les décisions modificatives d'urgence ;
+Sont soumis au visa :
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements ou de mises à disposition ;
+- les mesures générales ou catégorielles, relatives notamment à la rémunération ou à la gestion du temps de travail et ayant
+un impact sur la masse salariale de l'ENVSN ;
 
-3° Les acquisitions et aliénations immobilières ;
+- les ouvertures de concours ;
 
-4° Les contrats, conventions, marchés ou commandes ;
+- les contrats de recrutement ;
 
-5° Les prêts et subventions ;
+- les conventions de mise à disposition de personnel (les entrées et les sorties) ;
 
-6° Les décisions d'attribution de garantie ;
+- les entrées par détachement sur contrat ;
 
-7° Les transactions ;
+- les acquisitions et aliénations immobilières ;
 
-8° Les placements financiers.
+- les baux autres que les baux domaniaux ;
 
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de
-décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande écrite d'informations
-complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à
-l'expiration de ce délai, son visa est réputé délivré.
+- les conventions et contrats autres que les contrats de recrutement, ainsi que les marchés autres que les marchés à bons de
+commande ;
 
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
+- les bons de commande. 
+
+Sont soumis à avis préalable :
+
+- les accords-cadres ;
+
+- les marchés à bons de commande ;
+
+- les prêts et subventions ;
+
+- les mesures relatives à l'avancement des personnels ;
+
+- les ruptures conventionnelles de contrat de personnel et les indemnités de départ ;
+
+- les projets de transactions avant transmission au tiers pour signature ;
+
+- les participations et les apports à toute entité dans les cas où ils ne sont pas approuvés par les autorités de tutelle
+ainsi que les cessions de participation et les retraits d'apports ;
+
+- les emprunts autorisés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A211-49-1
 
 
 ###### Article A211-48
 
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
 
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Après avis de l'ordonnateur, le contrôleur budgétaire transmet à l'ENVSN le programme de contrôle. Le cas échéant, il lui
+communique la liste des agents placés sous l'autorité du ministre chargé du budget qui l'assisteront. 
+
+L'ENVSN est tenue de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les documents nécessaires à
+la réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et, le cas échéant, au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 211-49-1, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A211-49-1
 
 
 ###### Article A211-49
 
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
+S'il apparaît au contrôleur budgétaire que la gestion de l'école nationale de voile et des sports nautiques met en cause le
+caractère soutenable de l'exécution budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses
+obligatoires ou inéluctables, la poursuite de son exploitation ou la qualité de la comptabilité budgétaire, il en informe
+l'ordonnateur par écrit. Celui-ci lui fait connaître dans les mêmes formes les mesures qu'il envisage de prendre pour
+rétablir la situation budgétaire. 
 
-Le contrôleur peut, en concertation avec l'ordonnateur et le cas échéant sur sa proposition, mettre en place un renforcement
-des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre chargé des
-sports.
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-49-1
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission. 
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A211-44 (V)
+	  - Code du sport. - art. A211-47 (V)
+	  - Code du sport. - art. A211-48 (V)
 
 
 ##### Section 4 : L'Ecole nationale des sports de montagne
@@ -35286,323 +35681,585 @@ Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration
 	  - Code du sport. - art. D211-57
 
 
-#####  Sous-section 2 : Contrôle financier
+##### Sous-section 2 : Contrôle budgétaire
 
 ###### Article A211-57
 
-L'autorité chargée du contrôle financier sur l'Ecole nationale des sports de montagne, ci-après dénommée " le contrôleur ",
-exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue de leur
-prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible d'être
-confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance. 
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'Ecole nationale des sports de montagne, les circuits et
-procédures mis en place. Il coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé
-partenarial.
+L'Ecole nationale des sports de montagne (ENSM) est assujettie au contrôle budgétaire prévu par les articles 220 à 228 du
+décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans les conditions fixées à la
+présente sous-section.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
 	**Modifié par**:
 
-	  - Arrêté du 12 septembre 2011 - art. 7
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-58
 
-Le contrôleur assiste avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe
-consultatif existant en son sein. Il reçoit dans les mêmes conditions que leurs membres les convocations, ordres du jour et
-tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur
-établissement.
+Le contrôleur budgétaire est destinataire, dans les mêmes conditions que les membres des instances auxquelles il peut
+assister en application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, des documents qui leur sont communiqués avant chaque séance ainsi que des comptes rendus et des procès-
+verbaux. 
 
-En accord avec l'établissement, le contrôleur peut également assister aux réunions des autres comités.
+En application du deuxième alinéa du même article, le document prévu à l'article A. 211-63-1 peut ouvrir la possibilité pour
+le contrôleur d'assister à d'autres instances existant au sein de l'organisme.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+	  - Code du sport. - art. A211-63-1
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-58-1
+
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique préalablement à leur envoi aux membres de l'organe délibérant.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+
 	**Créé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-59
 
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit, à l'appui du projet de budget avec ses annexes, le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement et de fonctionnement
-permettant de le renseigner sur la capacité d'engagement de l'établissement.
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique sont transmis au contrôleur budgétaire au moins deux fois par an, avant le 31
+mai et avant le 30 septembre, sauf dérogation accordée par celui-ci. Ils comprennent :
+
+- l'actualisation de la répartition initiale détaillée ;
+
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
+
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
+
+- l'état détaillé des ressources propres ;
+
+- le plan de trésorerie et la situation des placements ;
+
+- l'état détaillé des recettes propres ;
+
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées.
+
+Si le contrôleur identifie des risques d'une exécution non soutenable, il en informe le ministre chargé du budget et le
+ministre de tutelle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-60
 
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de
-surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il
-reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents
-suivants :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au dirigeant de l'ENSM ;
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- les documents à caractère stratégique relatifs aux missions de l'ENSM, ses objectifs, ses moyens et ses engagements
+financiers ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts ;
+- les informations relatives au suivi du contrat de performance et à la contribution de l'ENSM à la performance du programme
+budgétaire concerné ;
 
-4° La situation des engagements ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire de l'ENSM, ainsi que tout document relevant d'une cartographie des risques ;
 
-5° La situation de trésorerie et l'état des placements ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
+- le cas échéant, les informations relatives à la création de filiales ;
 
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement,
-ainsi que tout document relevant d'une cartographie des risques.
+- les rapports d'inspection et d'audit des auditeurs internes et externes ainsi que les plans d'action de l'ENSM relatifs à
+la mise en œuvre de leurs recommandations.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-60-1
+
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté du 25 juin 2014
+
 	**Créé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A211-61
 
-I. - Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de
-l'établissement :
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 211-63-1, au regard de la qualité du
+contrôle interne budgétaire : 
 
-1° Les décisions modificatives d'urgence ;
+Sont soumis au visa :
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements ou de mises à disposition ;
+- les mesures générales ou catégorielles, relatives notamment à la rémunération ou à la gestion du temps de travail et ayant
+un impact sur la masse salariale de l'organisme ;
 
-3° Les acquisitions et aliénations immobilières ;
+- les actes relatifs au recrutement, à la rémunération et à l'avancement des cadres dirigeants ;
 
-4° Les contrats, conventions, marchés ou commandes ;
+- les contrats de recrutement et leurs avenants ;
 
-5° Les prêts et subventions ;
+- les entrées par détachement sur contrat ;
 
-6° Les décisions d'attribution de garantie ;
+- les entrées par mise à disposition donnant lieu à remboursement ;
 
-8° Les transactions ;
+- les mesures relatives à l'avancement des personnels autres que les mesures liées à l'application des dispositions
+statutaires ;
 
-9° Les placements financiers.
+- les ruptures conventionnelles de contrat ;
 
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de
-décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande écrite d'informations
-complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à
-l'expiration de ce délai, son visa est réputé délivré.
+- les indemnités de départ ;
 
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
+- les conventions et contrats autres que les contrats de recrutement ;
 
-**Liens relatifs à cet article**
+- les marchés autres que les marchés à bons de commande ;
 
-	**Créé par**:
+- les bons de commande ;
 
-	  - Arrêté du 28 février 2008 - art. (V)
+- les prêts, secours et subventions ;
 
+- les acquisitions et aliénations immobilières ;
 
-###### Article A211-62
+- les baux autres que les baux domaniaux. 
 
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
+Sont soumis à avis préalable :
 
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
+- les accords-cadres ;
 
-**Liens relatifs à cet article**
+- les marchés à bons de commande ;
 
-	**Créé par**:
+- les projets de transactions avant transmission au tiers pour signature ;
 
-	  - Arrêté du 28 février 2008 - art. (V)
+- les emprunts autorisés et les attributions de garanties ;
 
-
-###### Article A211-63
-
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
-
-Le contrôleur peut, en concertation avec l'ordonnateur et, le cas échéant, sur sa proposition, mettre en place un
-renforcement des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre
-chargé des sports.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-
-##### Section 5 : Les centres de ressources, d'expertise et de performance sportives
-
-##### Sous-section 1 : Contrôle financier
-
-###### Article A211-64
-
-L'autorité chargée du contrôle financier sur les centres de ressources, d'expertise et de performance sportives, ci-après
-dénommée le contrôleur , exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue
-notamment, en vue de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels
-l'établissement est susceptible d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la
-performance.
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'établissement, les circuits et procédures mis en place. Il
-coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé partenarial.
+- les participations et les apports à toute entité dans les cas où ils ne sont pas approuvés par les autorités de tutelle
+ainsi que les cessions de participations et les retraits d'apports.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 12 septembre 2011 - art. 9
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A211-63-1
+
+
+###### Article A211-62
+
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés, qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
+
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Le contrôleur budgétaire transmet à l'ENSM le programme de contrôle. 
+
+L'ENSM est tenue de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les documents nécessaires à la
+réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et, le cas échéant, au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 211-63-1, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A211-63-1
+
+
+###### Article A211-63
+
+S'il apparaît au contrôleur budgétaire que la gestion de l'ENSM remet en cause le caractère soutenable de l'exécution
+budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la poursuite
+de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci lui fait
+connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire.
+
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A211-63-1
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission.
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A211-58 (V)
+	  - Code du sport. - art. A211-61 (V)
+	  - Code du sport. - art. A211-62 (V)
+
+
+##### Section 5 : Les centres de ressources, d'expertise et de performance sportives
+
+##### Sous-section 1 : Contrôle budgétaire
+
+###### Article A211-64
+
+Les centres de ressources, d'expertise et de performance sportives (CREPS) sont assujettis au contrôle budgétaire prévu par
+les articles 220 à 228 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans
+les conditions fixées à la présente sous-section.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-65
 
-Le contrôleur assiste avec voix consultative au conseil d'administration ainsi qu'à tout comité, commission ou organe
-consultatif existant en son sein. Il reçoit dans les mêmes conditions que leurs membres les convocations, ordres du jour et
-tous les documents qui doivent leur être adressés avant chaque séance. Les procès-verbaux lui sont adressés dès leur
-établissement.
+En application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
+publique, le contrôleur budgétaire assiste avec voix consultative au conseil d'administration du CREPS. Il est destinataire,
+dans les mêmes conditions que les autres membres, des documents qui sont communiqués avant chaque séance, ainsi que des
+comptes rendus et des procès-verbaux. 
+
+Le document prévu à l'article A. 211-70-1 peut ouvrir la possibilité pour le contrôleur budgétaire de participer aux réunions
+de tout comité, commission ou organe consultatif existant au sein du CREPS.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+	  - Code du sport. - art. A211-70-1
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
+
+
+###### Article A211-65-1
+
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique préalablement à leur envoi aux membres du conseil d'administration. 
+
+Le contrôleur budgétaire est destinataire, après le vote du budget, d'une répartition détaillée des crédits et des prévisions
+de recettes dans les conditions précisées dans le document prévu à l'article A. 211-70-1.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+	  - Code du sport. - art. A211-70-1
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-66
 
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit, à l'appui du projet de budget avec ses annexes, le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement permettant de le renseigner
-sur la capacité d'engagement de l'établissement.
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31
+mai et avant le 30 septembre sauf dérogation accordée par celui-ci.
+
+Ils comprennent :
+
+- l'actualisation de la répartition initiale détaillée ;
+
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
+
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
+
+- l'état détaillé des ressources propres ;
+
+- le plan de trésorerie ;
+
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées.
+
+En outre, sont transmis pour information :
+
+- les accords-cadres ;
+
+- les marchés à bons de commandes ;
+
+- la liste des agents accueillis en position d'activité ;
+
+- la liste des agents mis à disposition contre remboursement.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-67
 
-Le contrôleur suit l'exécution du budget de l'établissement. A cette fin, et pour l'exercice de sa mission générale de
-surveillance de l'établissement, il a accès à tous les documents se rapportant à son activité et à sa gestion. A ce titre, il
-reçoit notamment, selon une périodicité et des modalités qu'il fixe après consultation de l'établissement, les documents
-suivants :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au directeur du CREPS ;
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- les documents à caractère stratégique relatifs aux missions du CREPS, ses objectifs, ses moyens et ses engagements
+financiers ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts. Cette situation est complétée (en tant que de besoin et à la demande du contrôleur) d'une
-actualisation des documents prévisionnels transmis à l'appui du projet de budget ;
+- les informations relatives au suivi du contrat de performance et à la contribution de l'établissement à la performance du
+programme budgétaire dont il est opérateur ;
 
-4° La situation des engagements ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire du CREPS ainsi que tout document relevant d'une cartographie des risques ;
 
-5° La situation de trésorerie et l'état des placements ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance, et les informations
-relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
-
-7° La situation des effectifs ;
-
-8° L'état des recettes propres ;
-
-9° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement.
+- les rapports d'inspection et d'audit des commissaires aux comptes et des auditeurs internes et externes, ainsi que les
+plans d'action du CREPS relatifs à la mise en œuvre de leurs recommandations.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
+
+
+###### Article A211-67-1
+
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté du 25 juin 2014
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-68
 
-I. ― Sont soumis au visa du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de l'établissement :
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 211-70-1, au regard de la qualité du
+contrôle interne budgétaire : 
 
-1° Les décisions modificatives d'urgence ;
+Sont soumis au visa :
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements ou de mises à disposition ;
+- les décisions générales ou catégorielles relatives aux modalités de recrutement ou de rémunération des personnels ;
 
-3° Les acquisitions et aliénations immobilières ;
+- les actes relatifs au recrutement et à la rémunération des agents contractuels visés aux articles 4 et 6 de la loi n° 84-16
+du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ;
 
-4° Les transactions ;
+- les décisions fixant la rémunération des fonctionnaires détachés sur contrat ;
 
-5° Les baux, contrats, conventions, marchés ou commandes ;
+- les acquisitions et aliénations immobilières ;
 
-6° Les prêts et subventions.
+- les baux autres que les baux domaniaux ;
 
-II. ― Sont soumis à l'avis préalable du contrôleur, en dessous des seuils fixés au I. et au-dessus des seuils et selon des
-modalités qu'il fixe après consultation de l'établissement :
+- les marchés autres que les marchés à bons de commandes ;
 
-1° Les transactions ;
+- les bons de commandes ;
 
-2° Les baux, contrats, conventions, marchés ou commandes ;
+- les décisions et conventions portant attribution de prêts ou de subventions. 
 
-3° Les prêts et subventions.
+Sont soumis à avis préalable :
 
-III. ― Le contrôleur doit délivrer son visa ou faire connaître son avis dans un délai de quinze jours à compter de la
-réception des projets d'acte ou de décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute
-demande écrite d'informations complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En
-l'absence de réponse de sa part à l'expiration de ce délai, son visa est réputé délivré ou son avis est réputé favorable.
-
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
-
-Si l'ordonnateur ne se conforme pas à l'avis donné, il informe par écrit le contrôleur des motifs de sa décision.
+- les projets de transactions avant transmission au tiers pour signature.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Cite**:
 
-	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+	  - Loi n°84-16 du 11 janvier 1984 - art. 4
+	  - Loi n°84-16 du 11 janvier 1984 - art. 6
+	  - Code du sport. - art. A211-70-1
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
 
 
 ###### Article A211-69
 
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
 
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Après avis de l'ordonnateur, le contrôleur budgétaire transmet à l'établissement le programme de contrôle et l'informe, le
+cas échéant, des agents placés sous l'autorité du ministre chargé du budget qui l'assisteront. 
+
+L'établissement est tenu de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les documents
+nécessaires à la réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et, le cas échéant, au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 211-70-1, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. A211-70-1
 
 
 ###### Article A211-70
 
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
+S'il apparaît au contrôleur budgétaire que la gestion du CREPS remet en cause le caractère soutenable de l'exécution
+budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la poursuite
+de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci lui fait
+connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire.
 
-Le contrôleur peut, en concertation avec l'ordonnateur et le cas échéant sur sa proposition, mettre en place un renforcement
-des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre chargé des
-sports.
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Arrêté du 12 septembre 2011 - art. 9
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
+
+
+###### Article A211-70-1
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission.
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Abrogé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 3
+
+	**Cité par**:
+
+	  - Code du sport. - art. A211-65 (Ab)
+	  - Code du sport. - art. A211-65-1 (Ab)
+	  - Code du sport. - art. A211-68 (Ab)
+	  - Code du sport. - art. A211-69 (Ab)
 
 
 ##### Sous-section 2 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration
@@ -47837,159 +48494,270 @@ fixés par l'arrêté qui autorise l'épreuve.
 
 ####  Chapitre unique
 
-##### Section 2 : Organisation et fonctionnement
+##### Section 2 :  Contrôle budgétaire sur le Centre national pour le développement du sport
 
 ###### Article A411-1
 
-L'autorité chargée du contrôle financier sur le Centre national pour le développement du sport, ci-après dénommée « le
-contrôleur », exerce une mission générale de surveillance de la gestion de l'établissement. Elle contribue notamment, en vue
-de leur prévention, à l'identification des risques financiers, directs ou indirects, auxquels l'établissement est susceptible
-d'être confronté. A cette fin, elle s'appuie sur une analyse des risques et de la performance.
-
-Dans ce cadre, le contrôleur peut évaluer, en liaison avec l'établissement, les circuits et procédures mis en place. Il
-coordonne son intervention avec celle de l'agent comptable au titre du contrôle allégé partenarial.
+Le Centre national pour le développement du sport (CNDS) est assujetti au contrôle budgétaire prévu par les articles 220 à
+228 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans les conditions
+fixées à la présente section.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-2
 
-Le contrôleur assiste avec voix consultative au conseil d'administration. Il reçoit dans les mêmes conditions que les membres
-de ce conseil les convocations, ordres du jour et tous les documents qui doivent leur être adressés avant chaque séance. Les
-procès-verbaux lui sont adressés dès leur établissement.
+En application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable, le
+contrôleur budgétaire peut assister au conseil d'administration de l'établissement avec voix consultative. Il est
+destinataire, dans les mêmes conditions que les autres membres, des documents qui sont communiqués avant chaque séance, ainsi
+que des comptes rendus et des procès-verbaux. 
 
-En accord avec l'établissement, le contrôleur peut également assister aux réunions des autres comités.
+Le document prévu à l'article A. 411-10 peut ouvrir la possibilité pour le contrôleur budgétaire de participer aux réunions
+de tout comité, commission ou organe consultatif existant au sein de l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
+	  - Code du sport. - art. A411-10
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-3
 
-Le contrôleur suit la préparation du budget et de ses décisions modificatives. A cette fin, l'établissement lui communique
-les informations nécessaires en temps utile. Il reçoit à l'appui du projet de budget avec ses annexes le document de
-performance, un état retraçant les grandes composantes de la masse salariale et les perspectives la concernant, un échéancier
-prévisionnel des entrées et sorties de personnel permanent et non permanent. Il est informé des perspectives financières
-pluriannuelles et reçoit à ce titre une présentation détaillée des opérations d'investissement et de fonctionnement
-permettant de le renseigner sur la capacité d'engagement de l'établissement.
+Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
+des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable préalablement à leur envoi aux membres du conseil d'administration. 
+
+Le contrôleur budgétaire est destinataire, après le vote du budget, d'une répartition détaillée des crédits et des prévisions
+de recettes dans les conditions précisées dans le document prévu à l'article A. 411-10.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
+	  - Code du sport. - art. A411-10
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-4
 
-Le contrôleur suit l'exécution du budget de l'établissement et de ses décisions modificatives. A cette fin, et pour
-l'exercice de sa mission générale de surveillance de l'établissement, il a accès à tous les documents se rapportant à son
-activité et à sa gestion. A ce titre, il reçoit notamment, selon une périodicité et des modalités qu'il fixe après
-consultation de l'établissement, les documents suivants :
+Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31 mai et
+avant le 30 septembre sauf dérogation accordée par celui-ci. 
 
-1° La prévision de répartition des crédits ouverts au budget et son actualisation ;
+Ils comprennent :
 
-2° Les tableaux de bord relatifs à l'activité de l'établissement ;
+- l'actualisation de la répartition initiale détaillée ;
 
-3° La situation de l'exécution du budget, en recettes et en dépenses, précisant notamment la consommation des crédits
-limitativement ouverts ;
+- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
 
-4° La situation des engagements ;
+- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
 
-5° La situation de trésorerie et l'état des placements ;
+- le plan de trésorerie ;
 
-6° Les comptes rendus d'exécution des contrats d'objectifs et de moyens et des contrats de performance ;
+- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
+éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées. 
 
-7° La situation des effectifs ;
+En outre, sont transmis pour information :
 
-8° L'état des recettes propres ;
+- les accords-cadres ;
 
-9° Les informations relatives à la contribution de l'établissement à la performance du programme dont il est opérateur ;
+- les marchés à bons de commande ;
 
-10° Les documents relatifs à l'organisation, aux procédures, au fonctionnement et au contrôle interne de l'établissement,
-ainsi que tout document relevant d'une cartographie des risques.
+- un état récapitulatif des engagements juridiques résultant des conventions et décisions portant attributions de subvention
+prises par les délégués territoriaux accompagné d'un échéancier des besoins en crédits de paiement associés ;
+
+- la liste des agents mis à disposition contre remboursement ;
+
+- la liste des agents accueillis en position d'activité.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-5
 
-I. ― Sont soumis au visa préalable du contrôleur, selon des seuils et des modalités qu'il fixe après consultation de
-l'établissement :
+En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
+comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
 
-1° Les décisions modificatives d'urgence ;
+- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au directeur général du CNDS ;
 
-2° Les actes relatifs au recrutement, à la rémunération et à l'avancement du personnel, qu'il s'agisse de mesures générales
-ou individuelles, de contrats à durée indéterminée ou déterminée, de détachements, d'affectations ou de mises à disposition ;
+- les documents à caractère stratégique relatifs aux missions du CNDS, ses objectifs, ses moyens et ses engagements
+financiers ;
 
-3° Les acquisitions et aliénations immobilières ;
+- les informations relatives au suivi du contrat de performance et à la contribution du CNDS à la performance du programme
+budgétaire dont il est opérateur ;
 
-4° Les contrats, conventions, marchés ou commandes ;
+- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
+comptable et budgétaire du CNDS ainsi que tout document relevant d'une cartographie des risques ;
 
-5° Les prêts et subventions ;
+- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
 
-6° Les décisions d'attribution de garantie ;
-
-7° Les transactions ;
-
-8° Les placements financiers.
-
-II. - Le contrôleur doit délivrer son visa dans un délai de quinze jours à compter de la réception des projets d'acte ou de
-décision, accompagnés des pièces justificatives. Ce délai peut être interrompu par toute demande écrite d'informations
-complémentaires, nécessaires à l'instruction du dossier, formulée par le contrôleur. En l'absence de réponse de sa part à
-l'expiration de ce délai, son visa est réputé délivré.
-
-Si le contrôleur refuse son visa, il fait connaître par écrit les raisons de son refus et en informe le ministre chargé du
-budget. L'ordonnateur ne peut passer outre à un refus de visa que sur autorisation du ministre chargé du budget.
+- les rapports d'inspection et d'audit des commissaires aux comptes et des auditeurs internes et externes, ainsi que les
+plans d'action du CNDS relatifs à la mise en œuvre de leurs recommandations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-6
 
-Le contrôleur peut mettre en place et communiquer à l'établissement un programme annuel de vérification a posteriori.
-Indépendamment de ce programme, il peut, à tout moment, procéder à la vérification a posteriori d'un acte particulier.
-
-L'établissement est tenu de communiquer, à la demande du contrôleur, tous les documents nécessaires au bon accomplissement
-d'une vérification a posteriori.
+Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
+juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 25 juin 2014
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
 
 
 ###### Article A411-7
 
-S'il apparaît au contrôleur que la gestion de l'établissement remet en cause la soutenabilité de l'exécution budgétaire ou la
-couverture des charges obligatoires ou inéluctables, il en informe l'ordonnateur par écrit. L'ordonnateur lui fait connaître
-dans la même forme les mesures qu'il envisage de prendre pour y remédier.
+Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 411-10, au regard de la qualité du
+contrôle interne budgétaire : 
 
-Le contrôleur peut, en concertation avec l'ordonnateur et, le cas échéant, sur sa proposition, mettre en place un
-renforcement des contrôles pour une durée limitée. Il en rend compte au ministre chargé du budget et en informe le ministre
-chargé des sports.
+Sont soumis au visa :
+
+- les décisions générales ou catégorielles relatives aux modalités de recrutement ou de rémunération des personnels ;
+
+- les actes relatifs au recrutement et à la rémunération des agents contractuels visés aux articles 4 et 6 de la loi n° 84-16
+du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat ;
+
+- les actes relatifs à la rémunération des fonctionnaires détachés sur un contrat de droit public ;
+
+- les acquisitions et aliénations immobilières ;
+
+- les baux autres que les baux domaniaux ;
+
+- les marchés autres que les marchés à bons de commande ;
+
+- les bons de commandes ;
+
+- les conventions ou décisions portant attribution de prêts ou de subvention prises par l'ordonnateur principal du CNDS. 
+
+Sont soumis à avis préalable :
+
+- les projets de transactions avant transmission au tiers pour signature.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°84-16 du 11 janvier 1984 - art. 4
+	  - Loi n°84-16 du 11 janvier 1984 - art. 6
+	  - Code du sport. - art. A411-10
+
+	**Modifié par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A411-8
+
+Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés qui peuvent porter
+sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
+Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
+budgétaire ou dans les conclusions d'audits. 
+
+Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
+
+Après avis de l'ordonnateur, le contrôleur budgétaire transmet au CNDS le programme de contrôle et l'informe, le cas échéant,
+des agents placés sous l'autorité du ministre chargé du budget qui l'assisteront. 
+
+Le CNDS est tenu de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les documents nécessaires à la
+réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
+
+Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et le cas échéant au ministre
+chargé du budget et au ministre de tutelle. 
+
+L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
+
+Dans les conditions prévues à l'article A. 411-10, le contrôleur budgétaire peut à tout moment procéder au contrôle a
+posteriori d'un acte particulier non soumis à avis ou visa.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A411-10
+
+
+###### Article A411-9
+
+S'il apparaît au contrôleur budgétaire que la gestion du CNDS remet en cause le caractère soutenable de l'exécution
+budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la poursuite
+de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci lui fait
+connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire. 
+
+Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+
+###### Article A411-10
+
+Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
+soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
+périodicité et les modalités de leur transmission. 
+
+Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 20 avril 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A411-2 (V)
+	  - Code du sport. - art. A411-3 (V)
+	  - Code du sport. - art. A411-7 (V)
+	  - Code du sport. - art. A411-8 (V)
 
 
 ###  TITRE II : DISPOSITIONS APPLICABLES À L'OUTRE-MER
