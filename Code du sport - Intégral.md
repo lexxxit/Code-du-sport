@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-06-10
+Version Consolidée au 2015-06-12
 
 # Partie législative
 
@@ -26453,13 +26453,20 @@ contrôles ultérieurs.
 ###### Article R232-67-7
 
 L'analyse de l'échantillon de sang a pour objet de mettre en évidence les variables destinées à composer le module
-hématologique du profil biologique du sportif et mentionnées au 4° de l'article R. 232-41-3.
+hématologique du profil biologique du sportif et mentionnées au 4° du I de l'article R. 232-41-3. 
+
+L'analyse de l'échantillon d'urine a pour objet de mettre en évidence les variables destinées à composer le module stéroïdien
+du profil biologique du sportif et mentionnées au 5° du I de l'article R. 232-41-3.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+	  - Décret n°2015-645 du 9 juin 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R232-41-3
 
 
 ###### Article R232-67-8
@@ -26478,7 +26485,16 @@ l'Agence française de lutte contre le dopage, selon des modalités déterminée
 ###### Article R232-67-9
 
 L'unité de gestion du profil biologique du sportif traite les données biologiques portées à sa connaissance en les intégrant
-dans un algorithme de statistique prédictive. 
+dans un algorithme de statistique prédictive.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-645 du 9 juin 2015 - art. 2
+
+
+###### Article R232-67-9-1
 
 Pour l'établissement du module hématologique du profil biologique d'un sportif, sont pris en compte plus spécialement : 
 
@@ -26499,26 +26515,93 @@ profil biologique du sportif.
 
 	**Créé par**:
 
-	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+	  - Décret n°2015-645 du 9 juin 2015 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. R232-41-6
 
 
-###### Article R232-67-10
+###### Article R232-67-9-2
 
-Lorsque le conseiller scientifique ou son remplaçant, au vu des données hématologiques successives concernant un sportif,
-considère que des valeurs de la nature de celles mentionnées au 4° de l'article R. 232-41-3 et à l'article R. 232-67-9 sont
-atypiques ou correspondent à un profil longitudinal atypique, il peut, par l'intermédiaire de l'unité de gestion du profil
-biologique du sportif : 
+Pour l'établissement du module stéroïdien du profil biologique sont prises en compte, plus spécialement, les données ci-
+après : 
 
-- porter les constatations qu'il a effectuées à la connaissance du directeur du département des contrôles en lui
-recommandant, le cas échéant, de poursuivre le recueil de données physiologiques ou d'orienter des contrôles ultérieurs ; 
+a) Testostérone ; 
 
-- décider de soumettre le dossier du sportif au comité d'experts mentionné à l'article L. 232-22-1.
+b) Epitestostérone ; 
+
+c) Androstérone ; 
+
+d) Etiocholanolone ; 
+
+e) 5 β-androstanediol ; 
+
+f) 5 α-androstanediol ; 
+
+g) L'indice faisant apparaître la concentration de testostérone par rapport à celle d'épitestostérone, dénommé rapport T/
+E ; 
+
+h) L'indice faisant apparaître la concentration d'androstérone par rapport à celle de testostérone ; 
+
+i) L'indice faisant apparaître la concentration d'androstérone par rapport à celle d'étiocholanolone ; 
+
+j) L'indice faisant apparaître la concentration de 5 α-androstanediol par rapport à celle de 5 β-androstanediol ; 
+
+k) L'indice faisant apparaître la concentration de 5 α-androstanediol par rapport à celle d'épitestostérone. 
+
+Le directeur du département des analyses de l'Agence française de lutte contre le dopage et, en cas d'absence ou
+d'empêchement de ce dernier, le responsable de la section chimie, ont seuls compétence, au sein de l'agence, pour interpréter
+les données énumérées ci-dessus, qui sont examinées sous une forme anonyme.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°2013-1318 du 27 décembre 2013 - art. 2
+	  - Décret n°2015-645 du 9 juin 2015 - art. 3
+
+
+###### Article R232-67-10
+
+Lorsque le conseiller scientifique ou son remplaçant, au vu des données hématologiques successives concernant un sportif,
+considère que des valeurs de la nature de celles mentionnées au 4° de l'article R. 232-41-3 et à l'article R. 232-67-9-1 sont
+atypiques ou correspondent à un profil longitudinal atypique, il peut, par l'intermédiaire de l'unité de gestion du profil
+biologique du sportif :
+
+- porter les constatations qu'il a effectuées à la connaissance du directeur du département des contrôles en lui
+recommandant, le cas échéant, de poursuivre le recueil de données physiologiques ou d'orienter des contrôles ultérieurs ;
+
+- décider de soumettre le dossier du sportif au comité d'experts mentionné à l'article L. 232-22-1.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2015-645 du 9 juin 2015 - art. 4
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-22-1
+	  - Code du sport. - art. R232-41-3
+
+
+###### Article R232-67-10-1
+
+Lorsque le directeur du département des analyses ou son remplaçant, au vu des données stéroïdiennes successives concernant un
+sportif, considère que des valeurs de la nature de celles mentionnées au 5° du I de l'article R. 232-41-3 et à l'article R.
+232-67-9-2 sont atypiques ou correspondent à un profil longitudinal atypique, il peut, par l'intermédiaire de l'unité de
+gestion du profil biologique du sportif, procéder suivant les dispositions des deuxième et troisième alinéas de l'article R.
+232-67-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-645 du 9 juin 2015 - art. 5
+
+	**Cite**:
+
+	  - Code du sport. - art. R232-41-3
 
 
 ###### Article R232-67-11
