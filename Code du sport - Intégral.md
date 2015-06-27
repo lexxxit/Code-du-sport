@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-06-20
+Version Consolidée au 2015-06-28
 
 # Partie législative
 
@@ -38239,27 +38239,25 @@ Dans les deux unités capitalisables transversales, quelle que soit la spéciali
 
 ― UC 2 : EC de coordonner la mise en œuvre d'un projet d'action. 
 
-Dans l'unité capitalisable de la spécialité : 
+Dans les deux unités capitalisables de la mention : 
 
 ― UC 3 : EC de conduire une démarche de perfectionnement sportif dans une discipline. 
-
-Dans l'unité capitalisable de la mention : 
 
 ― UC 4 : EC d'encadrer la discipline sportive définie dans la mention en sécurité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 20 novembre 2006 - art. 13 (Ab)
+	  - Arrêté du 19 juin 2015 - art. 1
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 21 décembre 2015 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. D212-41 (V)
+	  - Code du sport. - art. D212-41
 
 
 ##### Sous-paragraphe 6 : Certification par unités capitalisables
@@ -39079,7 +39077,7 @@ professionnalisation et tout mode de formation, alternée, initiale ou continue.
 
 ###### Article A212-88
 
-Les quatre unités capitalisables constitutives du référentiel de certification du diplôme, définies à l'article D. 212-74,
+Les quatre unités capitalisables constitutives du référentiel de certification du diplôme, définies à l'article D. 212-57,
 sont définies par les objectifs terminaux d'intégration suivants : 
 
 Dans les deux unités capitalisables transversales quelle que soit la spécialité : 
@@ -39088,27 +39086,25 @@ Dans les deux unités capitalisables transversales quelle que soit la spécialit
 
 ― UC 2 : EC de gérer les ressources humaines et financières d'une organisation du secteur. 
 
-Dans l'unité capitalisable de la spécialité : 
+Dans les deux unités capitalisables de la mention : 
 
 ― UC 3 : EC de diriger un système d'entraînement dans une discipline. 
-
-Dans l'unité capitalisable de mention : 
 
 ― UC 4 : EC d'encadrer la discipline définie dans la mention en sécurité.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 20 novembre 2006 - art. 13 (Ab)
+	  - Arrêté du 19 juin 2015 - art. 2
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 21 décembre 2015 - art. 4
 
 	**Cite**:
 
-	  - Code du sport. - art. D212-74 (V)
+	  - Code du sport. - art. D212-57
 
 
 ##### Sous-paragraphe 6 : Certification par unités capitalisables
