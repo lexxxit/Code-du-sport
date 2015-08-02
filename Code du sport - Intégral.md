@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-07-25
+Version Consolidée au 2015-08-03
 
 # Partie législative
 
@@ -5211,7 +5211,9 @@ le 1er février 2006.
 
 Le collège de l'agence se renouvelle par tiers tous les deux ans. En cas de vacance survenant plus de six mois avant
 l'expiration du mandat, il est pourvu à la nomination d'un nouveau membre dont le mandat expire à la date à laquelle aurait
-expiré le mandat de la personne qu'il remplace. 
+expiré le mandat de la personne qu'il remplace. Le sexe du remplaçant est déterminé de manière à réduire, autant qu'il est
+possible, l'écart entre le nombre total de femmes et le nombre total d'hommes parmi les neuf membres du collège et la
+personnalité mentionnée au 1° du II de l'article L. 241-1.
 
 Le collège de l'agence ne peut délibérer que lorsque six au moins de ses membres sont présents. Le président a voix
 prépondérante en cas de partage égal des voix. 
@@ -5222,30 +5224,64 @@ Le collège de l'agence peut délibérer en formation disciplinaire composée d'
 membres mentionnés au 1° de l'article L. 232-6 du présent code. 
 
 Les membres et les agents de l'agence sont tenus au secret professionnel dans les conditions et sous les peines prévues à
-l'article  226-13 du code pénal.
-
-**Nota:**
-
-Ordonnance 2006-596 du 23 mai 2006 art. 11 : Les dispositions des titres III et IV du livre II de la partie législative du
-code du sport entrent en vigueur à la date définie au I de l'article 25 de la loi n° 2006-405 du 5 avril 2006. Cette date est
-le 1er février 2006.
+l'article 226-13 du code pénal.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (V)
-	  - Code du sport. - art. L232-6 (V)
+	  - Code pénal - art. 226-13
+	  - Code du sport. - art. L232-6
+	  - Code du sport. - art. L241-1
 
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. L3612-2 (MMN)
-	  - Code de la santé publique - art. L3612-2 (M)
-	  - Code de la santé publique L3612-2, alinéas 16 et 18 à 21
+
+
+###### Article L232-7-1
+
+I.-La fixation du nombre de femmes et d'hommes à désigner lors de chaque renouvellement, ainsi que le tirage au sort prévu au
+quatrième alinéa du présent article, interviennent six mois avant l'échéance des mandats, de telle sorte :
+
+- que l'écart entre le nombre de femmes et le nombre d'hommes désignés lors ce renouvellement soit au plus égal à un ;
+
+- et que soit réduit l'écart entre le nombre total de femmes et le nombre total d'hommes, parmi les neuf membres du collège
+et la personnalité mentionnée au 1° du II de l'article L. 241-1, d'autant qu'il est possible en vue d'obtenir un nombre égal
+de femmes et d'hommes. 
+
+Le tirage au sort est réalisé, concomitamment à la fixation du nombre de femmes et du nombre d'hommes à désigner, afin de
+déterminer, parmi les autorités mentionnées du quatrième au treizième alinéas de l'article L. 232-6 et au 3° du II de
+l'article L. 241-1 participant à ce renouvellement, celles qui désignent une femme et celles qui désignent un homme. 
+
+II.-Toutefois : 
+
+1° Lorsque le renouvellement partiel inclut le président du collège, celui-ci est désigné au préalable. Il est alors procédé,
+dans les conditions prévues au I, à la désignation des autres membres par les autres autorités appelées à prendre part à ce
+renouvellement ; 
+
+2° Dans le cas où une autorité souhaite renouveler le mandat d'un membre sortant, elle le désigne au préalable. Il est alors
+procédé, dans les conditions prévues au I, au besoin par tirage au sort, à la désignation des autres membres par les autres
+autorités appelées à prendre part à ce renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - ORDONNANCE n°2015-948 du 31 juillet 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L232-6
+	  - Code du sport. - art. L241-1
 
 
 ###### Article L232-8
