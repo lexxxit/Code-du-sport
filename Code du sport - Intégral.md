@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-08-03
+Version Consolidée au 2015-08-09
 
 # Partie législative
 
@@ -336,6 +336,53 @@ visées à l'article L. 113-2, ne peuvent excéder un montant fixé par décret.
 	**Cite**:
 
 	  - Code du sport. - art. L113-2 (V)
+
+
+#### Chapitre V : Dispositions particulières relatives à certaines structures de gestion de services publics du sport
+
+###### Article L115-1
+
+I.-Sous réserve du maintien de leur affectation au service public du sport et de l'élaboration par les collectivités
+bénéficiaires d'un projet d'établissement, sont transférés en pleine propriété : 
+
+1° Les biens immobiliers de l'Etat mis à la disposition du syndicat mixte " Centre du sport et de la jeunesse de Corse " à la
+collectivité territoriale de Corse ; 
+
+2° Les biens immobiliers de l'Etat mis à la disposition de l'association " Centre sportif de Normandie " à la région Basse-
+Normandie ; 
+
+3° Les biens immobiliers de l'Etat mis à la disposition du groupement d'intérêt public " Campus de l'excellence sportive de
+Bretagne " à la région Bretagne. 
+
+Les biens transférés sont identifiés par arrêté conjoint des ministres chargés des sports et du domaine. L'arrêté indique la
+valeur des immeubles domaniaux estimée par l'administration chargée des domaines. 
+
+Le transfert de propriété se réalise au jour de la signature de l'acte authentique constatant le transfert. La collectivité
+bénéficiaire du transfert est substituée à l'Etat pour les droits et obligations liés aux biens qu'elle reçoit en l'état. 
+
+II.-Ces transferts de propriété sont gratuits et ne donnent lieu au versement d'aucuns droits ou honoraires, ni d'aucune
+indemnité ou taxe, ni de la contribution prévue à l'article 879 du code général des impôts au profit d'agents de l'Etat. 
+
+III.-En cas de désaffectation des biens transférés au service public du sport avant l'expiration du délai de vingt ans à
+compter du transfert, l'Etat peut convenir avec la collectivité du retour du bien dans le patrimoine de l'Etat. A défaut, la
+collectivité verse à l'Etat la somme correspondant à la valeur vénale des biens fixée par l'administration chargée des
+domaines. 
+
+Si la désaffectation des biens est justifiée par la création d'une autre structure dédiée exclusivement au service public du
+sport d'une dimension au moins équivalente, se substituant aux biens transférés, le premier alinéa du présent III ne
+s'applique pas. Dans ce cas, l'affectation de la nouvelle structure au service public du sport est maintenue jusqu'au terme
+du délai de vingt ans mentionné au même premier alinéa. A défaut, la collectivité verse à l'Etat la somme correspondant à la
+valeur vénale des biens fixée par l'administration chargée des domaines.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 133 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 29
 
 
 ### TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES
@@ -2256,11 +2303,14 @@ encadrent et enseignent les activités physiques et sportives et contribuent à 
 Toutefois, la formation des personnels des collectivités territoriales et de leurs établissements publics s'effectue
 conformément aux dispositions statutaires qui leur sont applicables.
 
+Les établissements publics de formation mentionnés au premier alinéa du présent article peuvent recruter des assistants
+d'éducation dans les conditions fixées à l'article L. 916-1 du code de l'éducation.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Loi n°2015-991 du 7 août 2015 - art. 29
 
 	**Cité par**:
 
@@ -2272,8 +2322,6 @@ conformément aux dispositions statutaires qui leur sont applicables.
 
 	**Anciens textes**:
 
-	  - Code de l'éducation - art. L463-2 (M)
-	  - Code de l'éducation L463-2, paragraphe 1
 	  - Code de l'éducation - art. L463-2 (Ab)
 
 
@@ -44253,26 +44301,25 @@ administrateurs ou de ses gérants.
 
 ###### Article A322-4
 
-La déclaration d'ouverture d'une piscine ou d'une baignade aménagée prévue à l'article L. 1332-1 du code de la santé publique
-doit être accompagnée d'un dossier justificatif. Ces documents sont établis suivant les modalités définies à l'annexe III-7
-du présent code. Ils sont adressés en trois exemplaires à la mairie du lieu d'implantation de l'établissement au plus tard
-deux mois avant la date prévue pour l'ouverture de l'installation. Le maire délivre un récépissé de réception ; il transmet,
-dans le délai d'une semaine après réception, deux exemplaires au préfet.
+La   déclaration d'ouverture initiale d'une piscine ou d'une baignade aménagée prévue à l'article L. 1332-1 du code de la
+santé publique doit être accompagnée d'un dossier justificatif. Ces documents sont établis suivant les modalités définies à
+l'annexe III-7 du présent code. Ils sont adressés en trois exemplaires à la mairie du lieu d'implantation de l'établissement
+au plus tard deux mois avant la date prévue pour l'ouverture de l'installation. Le maire délivre un récépissé de réception ;
+il transmet, dans le délai d'une semaine après réception, deux exemplaires au préfet.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L1332-1 (V)
-	  - Code du sport. -   DÉCLARATION D'OUVERTURE D'UNE PISCINE OU D'UNE... (V)
+	  - Arrêté du 28 juillet 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. A322-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1332-1
 
 
 ###### Article A322-5
