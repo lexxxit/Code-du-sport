@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-08-09
+Version Consolidée au 2015-09-19
 
 # Partie législative
 
@@ -45142,16 +45142,19 @@ vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionné
 
 ###### Article A322-44
 
-Les pratiquants majeurs ou leur représentant légal pour les mineurs attestent de leur aptitude à nager au moins 25  mètres et
-à s'immerger, ou présentent un certificat d'une autorité qualifiée.
-
 Les enfants de moins de douze ans sont encadrés ou accompagnés.
+
+**Nota:**
+
+Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
+vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
+2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 9 septembre 2015 - art. 2
 
 	**Cité par**:
 
@@ -45772,14 +45775,6 @@ d'accentuer ou de créer un caractère de dangerosité ;
 Les personnes mineures doivent être porteuses d'une autorisation de leurs parents ou de la personne assurant leur tutelle
 pour pratiquer les activités.
 
-Les pratiquants majeurs et les représentants légaux pour leurs enfants mineurs attestent de l'aptitude du pratiquant à
-s'immerger et à nager au moins 25 mètres pour les moins de seize ans, et à plonger et à nager au moins 50 mètres à partir de
-seize ans. Ils peuvent présenter un certificat d'une autorité qualifiée. A défaut d'attestation, le pratiquant peut être
-soumis à un test correspondant aux conditions de sa pratique. Il s'agit d'un parcours, réalisé avec une brassière lorsqu'il y
-a lieu, visant à vérifier l'absence de réaction de panique du pratiquant. Ce parcours comprend au minimum une immersion
-complète à partir d'une embarcation ou d'un ponton, suivie de 20 mètres de propulsion, et un rétablissement sur un ponton ou
-une embarcation.
-
 Les pratiquants, même occasionnels, sont informés sur les capacités requises pour la pratique de l'activité dans laquelle ils
 s'engagent.
 
@@ -45789,9 +45784,9 @@ ainsi que sur le règlement et les consignes de sécurité de l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 9 septembre 2015 - art. 2
 
 	**Cité par**:
 
@@ -45923,6 +45918,144 @@ indiqués en bonne place.
 
 	  - Arrêté du 28 février 2008 - art. (V)
 
+
+##### Section 2 : Etablissements d'activités aquatiques et nautiques
+
+##### Sous-section préliminaire : Dispositions communes
+
+###### Article A322-3-1
+
+Pour la pratique des activités sportives mentionnées aux articles A. 322-42 et A. 322-64, l'exploitant d'un établissement qui
+organise l'une de ces activités demande au pratiquant soit : 
+
+1° D'attester de sa capacité à savoir nager vingt-cinq mètres et à s'immerger. Lorsque le pratiquant n'a pas la capacité
+juridique, son représentant légal atteste de cette capacité ; 
+
+2° De présenter un certificat qui mentionne la réussite au test prévu à l'article A. 322-3-2 ; 
+
+3° De présenter un des certificats mentionnés à l'article A. 322-3-3. 
+
+Lorsque le pratiquant ne peut fournir cette attestation ou l'un de ces certificats, il doit se soumettre au test prévu à
+l'article A. 322-3-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 septembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A322-3-2 (V)
+	  - Code du sport. - art. A322-3-3 (V)
+	  - Code du sport. - art. A322-3-4 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-42
+
+
+###### Article A322-3-2
+
+I.-Le test mentionné à l'article A. 322-3-1 permet de s'assurer que le pratiquant est apte à :
+
+- effectuer un saut dans l'eau ;
+
+- réaliser une flottaison sur le dos pendant cinq secondes ;
+
+- réaliser une sustentation verticale pendant cinq secondes ;
+
+- nager sur le ventre pendant vingt mètres ;
+
+- franchir une ligne d'eau ou passer sous une embarcation ou un objet flottant. 
+
+Ce test peut être réalisé avec ou sans brassière de sécurité. 
+
+II.-La réussite au test prévu au I est constatée selon le cas par : 
+
+1° Une personne titulaire d'une qualification relevant de l'article L. 212-1 dans l'une des activités sportives mentionnées
+aux articles A. 322-42 et A. 322-64 ; 
+
+2° Une personne mentionnée à l'article L. 212-3 ; 
+
+3° Une personne titulaire d'une qualification mentionnée à l'article A. 322-8. 
+
+III.-Un certificat attestant de la réussite au test prévu au I est remis au pratiquant ou à son représentant légal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 septembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A322-3-1 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-42
+	  - Code du sport. - art. A322-8
+	  - Code du sport. - art. L212-1
+
+
+###### Article A322-3-3
+
+Les certificats mentionnés au 3° de l'article A. 322-3-1 sont les suivants : 
+
+1° Le certificat attestant de la réussite au test commun aux fédérations sportives agréées ayant la natation en partage et
+répondant aux exigences mentionnées au I de l'article A. 322-3-2 ; 
+
+2° L'attestation scolaire prévue à l'article D. 312-47-2 du code de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D312-47-2
+	  - Code du sport. - art. A322-3-1
+
+
+###### Article A322-3-4
+
+Les fédérations qui ont reçu délégation pour les activités sportives mentionnées aux articles A. 322-42 et A. 322-64 édictent
+les règles de sécurité permettant la pratique des personnes qui ne peuvent pas fournir l'attestation ou les certificats
+prévus à l'article A. 322-3-1 ni réaliser le test mentionné à l'article A. 322-3-2. 
+
+Les établissements mentionnés aux articles A. 322-42 et A. 322-64 peuvent organiser la pratique de ces personnes conformément
+aux règles de sécurité prévues au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-3-1
+	  - Code du sport. - art. A322-42
+
+
+##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade
+
+##### Paragraphe 1 : Obligation de déclaration
+
+##### Paragraphe 2 : Obligation de surveillance
+
+##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours
+
+##### Paragraphe 4 : Normes d'hygiène et de sécurité
+
+##### Paragraphe 5 : Garanties de techniques et de sécurité
+
+##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques
+
+##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile
 
 ##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique
 
