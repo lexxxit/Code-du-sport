@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-09-19
+Version Consolidée au 2015-10-01
 
 # Partie législative
 
@@ -41642,17 +41642,12 @@ notifie sa décision au candidat.
 	  - Arrêté du 24 décembre 2008 - art. 8
 
 
-##### Sous-section 7 : Formation générale commune aux métiers de la montagne
-
-##### Paragraphe 1 : Formation générale commune aux métiers sportifs de la montagne 
+##### Sous-section 7 : Formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
 
 ###### Article A212-168
 
-La formation générale commune aux métiers sportifs de la montagne instituée par l'article D. 212-67 est organisée suivant les
-modalités définies par le présent code. 
-
-Les examens de formation générale commune aux métiers sportifs de la montagne sont indépendants de ceux de la formation
-spécifique prévue à l'article D. 212-67.
+La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est
+organisée suivant les modalités définies par le présent code.
 
 **Liens relatifs à cet article**
 
@@ -41662,207 +41657,14 @@ spécifique prévue à l'article D. 212-67.
 
 	**Modifié par**:
 
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. D212-67
+	  - Arrêté du 1er octobre 2012 - art. 2 (V)
+	  - Arrêté du 11 janvier 2013 - art. 2
 
 
 ###### Article A212-169
 
-Les candidats aux examens de formation générale commune doivent être âgés de dix-sept ans au moins au 1er janvier de l'année
-de l'examen sauf dérogation d'un an pouvant être accordée par le ministre chargé des sports. Ils adressent au directeur
-départemental de la jeunesse, des sports et de la vie associative du lieu de leur domicile, deux mois au moins avant la date
-fixée pour l'examen, un dossier comprenant les pièces suivantes :
-
-1° Un formulaire de candidature à l'examen de formation générale commune établie sur papier libre ; cette demande sera
-accompagnée de deux photographies d'identité et d'une enveloppe timbrée portant le nom, le prénom et l'adresse du candidat.
-
-Le candidat devra indiquer la langue vivante étrangère pour laquelle il désire éventuellement subir l'épreuve facultative ;
-
-2° Une fiche individuelle d'état civil datant de moins de trois mois ;
-
-3° Un certificat médical d'aptitude à la pratique et à l'enseignement du sport datant de moins de trois mois ;
-
-4° Une copie ou une photographie certifiée conforme du brevet national de secourisme délivré par la sécurité civile ;
-
-5° Soit l'attestation de réussite à l'examen technique de la formation spécifique du premier degré ou de l'option « moniteur
-de ski alpin pour enfants » du brevet d'Etat de ski ;
-
-Soit l'attestation de réussite à l'examen probatoire du diplôme d'accompagnateur en moyenne montagne du brevet d'Etat
-d'alpinisme ;
-
-Soit l'attestation de réussite au test technique du brevet d'Etat d'éducateur sportif du premier degré de l'option de ski
-alpin ;
-
-Soit l'attestation de réussite à l'examen probatoire du diplôme de moniteur d'escalade du brevet d'Etat d'alpinisme ;
-
-Soit l'attestation de réussite au test technique d'entrée en formation du brevet fédéral d'éducateur des sports de traineau
-et de ski pulka scandinave (premier degré) ;
-
-Soit l'attestation de réussite à l'examen probatoire du diplôme d'aspirant-guide.
-
-Tout dossier de candidature incomplet sera refusé.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-
-###### Article A212-170
-
-1° Une épreuve écrite comportant deux questions :
-
-a) L'une ayant trait à l'évolution du sport dans la société contemporaine, au développement des sports de montagne et à
-l'enseignement ou l'encadrement de ces sports ;
-
-b) L'autre relative à l'organisation et à la réglementation du sport en France.
-
-(Durée : deux heures ; notation : sur 20 points ; coefficient 1.)
-
-2° Trois interrogations orales portant sur :
-
-a) La connaissance du milieu montagnard et les notions d'écologie ;
-
-b) La topologie et l'orientation (notions nécessaires à la conduite d'une excursion en montagne) ;
-
-c) Les notions d'anatomie et de physiologie appliquées aux sports, et notamment aux sports de montagne.
-
-Pour chaque interrogation, le candidat tire au sort une question et bénéficie de trente minutes de préparation.
-
-Notation : sur 20 points (pour chacune des interrogations orales) ; coefficient 1.
-
-3° Un entretien portant sur la pédagogie générale et la conduite des groupes, ainsi que sur l'expérience personnelle du
-candidat dans ce domaine (durée : trente minutes ; notation : sur 20 points ; coefficient 1).
-
-4° Une épreuve orale de langue vivante étrangère sous forme d'une conversation du candidat avec le jury en partant d'une
-question ou d'un texte relatifs aux sports de montagne (durée : vingt minutes ; notation : sur 20 points ; coefficient 1).
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-
-###### Article A212-171
-
-Les jurys chargés d'examiner les candidats aux épreuves de formation générale commune aux métiers sportifs de la montagne
-sont présidés par un inspecteur général de la jeunesse et des sports.
-
-Les membres des jurys sont nommés par le ministre chargé des sports sur proposition du président. Ils sont choisis parmi les
-membres du corps de l'inspection de la jeunesse et des sports, les membres de l'enseignement public, des agents du relevant
-du ministre chargé des sports et des organisations professionnelles concernées.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-
-###### Article A212-172
-
-A l'issue des épreuves, le jury fixe la liste des candidats ayant obtenu la moyenne de 10 sur 20 pour l'ensemble des épreuves
-et en fait la proposition au ministre chargé des sports en vue de l'admission définitive des candidats aux examens de
-formation générale commune aux métiers sportifs de la montagne.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-
-###### Article A212-173
-
-Sont dispensées de subir les épreuves de l'examen de formation générale commune aux métiers sportifs de la montagne prévues
-aux articles A. 212-167 à A. 212-172 : 
-
-1° Les personnes titulaires du brevet de capacité à l'enseignement du ski ; 
-
-2° Les personnes titulaires du brevet d'assistant moniteur de ski ; 
-
-3° Les professeurs et les professeurs adjoints d'éducation physique et sportive titulaires ayant choisi l'option « ski
-alpin » ou l'option « ski nordique de fond » ; 
-
-4° Les professeurs adjoints d'éducation physique et sportive titulaires ayant choisi l'option « ski alpin » ou l'option « ski
-nordique de fond » ; 
-
-5° Les professeurs et les professeurs adjoints d'éducation physique et sportive titulaires ayant choisi l'option
-« escalade ».
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-167
-
-
-###### Article A212-174
-
-Les personnes titulaires du brevet d'Etat de ski dans les options "ski alpin (1er degré)", "moniteur de ski alpin pour
-enfants" et "ski nordique de fond (1er degré)" obtenu en application d'une réglementation antérieure à celle mise en place
-par les arrêtés du 29 octobre 1982 et du 8 novembre 1983 et qui sont candidates à la formation spécifique du brevet d'Etat
-d'éducateur sportif du premier degré mentionné à l'article A. 212-123 sont dispensées de la formation commune de ce dernier
-brevet d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-123
-
-
-###### Article A212-175
-
-La partie commune du brevet d'Etat d'éducateur sportif du premier degré défini à l'article A. 212-117 et la formation
-générale commune aux métiers sportifs de la montagne sont équivalentes.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-117
-
-
-##### Paragraphe 2 : Formation générale commune aux métiers d'enseignement, d'encadrement   et d'entraînement des sports de montagne
-
-###### Article A212-175-1-1
-
-La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est
-organisée suivant les modalités définies par le présent code.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Arrêté du 1er octobre 2012 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-
-###### Article A212-175-1-2
-
 La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est assurée
-par l'Ecole nationale des sports de montagne. 
+par l'Ecole nationale des sports de montagne.
 
 L'Ecole nationale des sports de montagne peut déléguer l'organisation de la formation générale commune aux métiers
 d'enseignement, d'encadrement et d'entraînement des sports de montagne à un établissement ou un autre organisme de formation
@@ -41871,162 +41673,131 @@ de la formation et de l'emploi du Conseil supérieur des sports de montagne, ré
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté du 1er octobre 2012 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
+	  - Arrêté du 1er octobre 2012 - art. 2 (V)
+	  - Arrêté du 11 janvier 2013 - art. 2
 
 
-###### Article A212-175-1-3
+###### Article A212-170
 
 Peuvent s'inscrire à la formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de
-montagne, les candidats âgés de dix-sept ans révolus à la date d'entrée en formation. Le dossier d'inscription, dont la
+montagne les candidats âgés de dix-sept ans révolus à la date d'entrée en formation. Le dossier d'inscription, dont la
 composition est fixée en annexe II-20, est déposé auprès de l'Ecole nationale des sports de montagne, deux mois au moins
-avant la date d'entrée en formation et comprend notamment : 
+avant la date d'entrée en formation et comprend notamment :
 
-1° L'attestation de réussite à l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC 1) ou son
-équivalent ; 
+1° L'attestation de réussite à l'unité d'enseignement "prévention et secours civiques de niveau 1" (PSC 1) ou son
+équivalent ;
 
-2° Selon les cas, l'une des attestations de réussite suivantes : 
+2° Selon les cas, l'une des attestations de réussite suivantes :
 
 - l'attestation de réussite à l'examen probatoire du diplôme d'accompagnateur en moyenne montagne du brevet d'Etat
-d'alpinisme ; 
+d'alpinisme ;
 
-- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré option " ski
-alpin " ; 
+- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré, option "ski
+alpin" ;
 
-- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré option " ski
-nordique de fond " ; 
+- l'attestation de réussite au test technique d'accès du brevet d'Etat d'éducateur sportif du premier degré, option "ski
+nordique de fond" ;
 
-- l'attestation de réussite au test technique d'accès du diplôme d'Etat de ski-moniteur national de ski alpin ; 
+- l'attestation de réussite au test technique d'accès du diplôme d'Etat de ski - moniteur national de ski alpin ;
 
 - l'attestation de réussite à l'examen probatoire du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté du 1er octobre 2012 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-175-1-7 (VT)
+	  - Arrêté du 1er octobre 2012 - art. 2
+	  - Arrêté du 11 janvier 2013 - art. 2
 
 
-###### Article A212-175-1-4
+###### Article A212-171
 
-Le cursus de formation, d'une durée minimale de trente-cinq heures, est articulé autour des cinq thématiques suivantes : 
+Le cursus de formation, d'une durée minimale de trente-cinq heures, est articulé autour des cinq thématiques suivantes :
 
-1° Thématique 1 : cadre juridique des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne ; 
+1° Thématique 1 : cadre réglementaire des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne ;
 
-2° Thématique 2 : approche de l'activité économique et touristique des sports de montagne ; 
+2° Thématique 2 : approche de l'activité économique et touristique des sports de montagne ;
 
-3° Thématique 3 : connaissance du milieu naturel montagnard ; 
+3° Thématique 3 : connaissance du milieu naturel montagnard ;
 
-4° Thématique 4 : accueil des différents publics, dont le public scolaire, en milieu montagnard ; 
+4° Thématique 4 : accueil des différents publics, dont le public scolaire, en milieu montagnard ;
 
-5° Thématique 5 : physiologie de l'effort adaptée aux sports de montagne. 
+5° Thématique 5 : physiologie de l'effort adaptée aux sports de montagne.
 
 La formation est coordonnée par un responsable pédagogique désigné par l'Ecole nationale des sports de montagne.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté du 1er octobre 2012 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-175-1-5 (VT)
-	  - Code du sport. - art. A212-175-1-6 (VT)
+	  - Arrêté du 1er octobre 2012 - art. 2 (V)
+	  - Arrêté du 11 janvier 2013 - art. 2
 
 
-###### Article A212-175-1-5
+###### Article A212-172
 
 La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne est évaluée
 au moyen d'une épreuve écrite de trois heures, transversale à l'ensemble des thématiques abordées au cours de la formation,
-mentionnées à l'article A. 212-175-1-4 (notée sur 20).
+mentionnées à l'article A. 212-71 (notée sur 20).
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté du 1er octobre 2012 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-175-1-4
+	  - Arrêté du 1er octobre 2012 - art. 2 (V)
+	  - Arrêté du 11 janvier 2013 - art. 2
 
 
-###### Article A212-175-1-6
+###### Article A212-173
 
-Le jury de l'épreuve est présidé par le directeur régional de la jeunesse et des sports et de la cohésion sociale
+Le jury de l'épreuve est présidé par le directeur régional de la jeunesse, des sports et de la cohésion sociale
 territorialement compétent ou son représentant, fonctionnaire de catégorie A appartenant à un corps relevant du ministère
-chargé des sports. Outre le responsable pédagogique mentionné à l'article A. 212-175-1-4, il comprend un représentant de
-l'Ecole nationale des sports de montagne, des agents de l'Etat et un représentant de chaque organisation professionnelle
-nationale la plus représentative des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne, désigné
-par son président.
+chargé des sports. Outre le responsable pédagogique mentionné à l'article A. 212-71, il comprend un représentant de l'Ecole
+nationale des sports de montagne, des agents de l'Etat et un représentant de chaque organisation professionnelle nationale la
+plus représentative des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne, désigné par son
+président.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté du 1er octobre 2012 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
+	  - Arrêté du 1er octobre 2012 - art. 2 (V)
+	  - Arrêté du 11 janvier 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-175-1-4
+	  - Code du sport. - art. A212-71 (V)
 
 
-###### Article A212-175-1-7
+###### Article A212-174
 
 La formation générale commune aux métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne peut être
 obtenue par la voie de la validation des acquis de l'expérience. 
 
 Les candidats souhaitant déposer une demande de validation des acquis de l'expérience doivent être titulaires de
-l'attestation de réussite mentionnée au 1° de l'article A. 212-175-1-3 et de l'une des attestations de réussite mentionnées
-au 2° du même article.
+l'attestation de réussite mentionnée au 1° de l'article A. 212-70 et de l'une des attestations de réussite mentionnées au 2°
+du même article.
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté du 1er octobre 2012 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
+	  - Arrêté du 1er octobre 2012 - art. 2 (V)
+	  - Arrêté du 11 janvier 2013 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-175-1-3
+	  - Code du sport. - art. A212-70 (V)
 
 
-###### Article A212-175-1-8
+###### Article A212-175
 
 Les candidats titulaires de l'attestation de réussite aux épreuves de l'examen de la formation générale commune aux métiers
 sportifs de la montagne ou de l'attestation de réussite aux épreuves de l'examen de la partie commune du brevet d'Etat
 d'éducateur sportif sont dispensés de la formation générale commune aux métiers d'enseignement, d'encadrement et
-d'entraînement des sports de montagne. 
+d'entraînement des sports de montagne.
 
 Les candidats titulaires de l'attestation de réussite à l'épreuve de la formation générale commune aux métiers
 d'enseignement, d'encadrement et d'entraînement des sports de montagne sont dispensés de l'examen de la formation générale
@@ -42034,13 +41805,10 @@ commune aux métiers sportifs de la montagne ou de l'examen de la partie commune
 
 **Liens relatifs à cet article**
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Arrêté du 1er octobre 2012 - art. 4 (V)
-
-	**Créé par**:
-
-	  - Arrêté du 11 janvier 2013 - art. 1
+	  - Arrêté du 1er octobre 2012 - art. 2 (V)
+	  - Arrêté du 11 janvier 2013 - art. 2
 
 
 ##### Sous-section 8 : Commission de reconnaissance des qualifications
@@ -44293,9 +44061,129 @@ administrateurs ou de ses gérants.
 	  - Code du sport. - art. R322-1 (V)
 
 
-##### Section 2 : Etablissements de natation  et d'activités aquatiques
+##### Section 2 : Etablissements d'activités aquatiques et nautiques
 
-##### Sous-section 1 : Dispositions communes
+##### Sous-section préliminaire : Dispositions communes
+
+###### Article A322-3-1
+
+Pour la pratique des activités sportives mentionnées aux articles A. 322-42 et A. 322-64, l'exploitant d'un établissement qui
+organise l'une de ces activités demande au pratiquant soit : 
+
+1° D'attester de sa capacité à savoir nager vingt-cinq mètres et à s'immerger. Lorsque le pratiquant n'a pas la capacité
+juridique, son représentant légal atteste de cette capacité ; 
+
+2° De présenter un certificat qui mentionne la réussite au test prévu à l'article A. 322-3-2 ; 
+
+3° De présenter un des certificats mentionnés à l'article A. 322-3-3. 
+
+Lorsque le pratiquant ne peut fournir cette attestation ou l'un de ces certificats, il doit se soumettre au test prévu à
+l'article A. 322-3-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 septembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A322-3-2 (V)
+	  - Code du sport. - art. A322-3-3 (V)
+	  - Code du sport. - art. A322-3-4 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-42
+
+
+###### Article A322-3-2
+
+I.-Le test mentionné à l'article A. 322-3-1 permet de s'assurer que le pratiquant est apte à :
+
+- effectuer un saut dans l'eau ;
+
+- réaliser une flottaison sur le dos pendant cinq secondes ;
+
+- réaliser une sustentation verticale pendant cinq secondes ;
+
+- nager sur le ventre pendant vingt mètres ;
+
+- franchir une ligne d'eau ou passer sous une embarcation ou un objet flottant. 
+
+Ce test peut être réalisé avec ou sans brassière de sécurité. 
+
+II.-La réussite au test prévu au I est constatée selon le cas par : 
+
+1° Une personne titulaire d'une qualification relevant de l'article L. 212-1 dans l'une des activités sportives mentionnées
+aux articles A. 322-42 et A. 322-64 ; 
+
+2° Une personne mentionnée à l'article L. 212-3 ; 
+
+3° Une personne titulaire d'une qualification mentionnée à l'article A. 322-8. 
+
+III.-Un certificat attestant de la réussite au test prévu au I est remis au pratiquant ou à son représentant légal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 septembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A322-3-1 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-42
+	  - Code du sport. - art. A322-8
+	  - Code du sport. - art. L212-1
+
+
+###### Article A322-3-3
+
+Les certificats mentionnés au 3° de l'article A. 322-3-1 sont les suivants : 
+
+1° Le certificat attestant de la réussite au test commun aux fédérations sportives agréées ayant la natation en partage et
+répondant aux exigences mentionnées au I de l'article A. 322-3-2 ; 
+
+2° L'attestation scolaire prévue à l'article D. 312-47-2 du code de l'éducation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code de l'éducation - art. D312-47-2
+	  - Code du sport. - art. A322-3-1
+
+
+###### Article A322-3-4
+
+Les fédérations qui ont reçu délégation pour les activités sportives mentionnées aux articles A. 322-42 et A. 322-64 édictent
+les règles de sécurité permettant la pratique des personnes qui ne peuvent pas fournir l'attestation ou les certificats
+prévus à l'article A. 322-3-1 ni réaliser le test mentionné à l'article A. 322-3-2. 
+
+Les établissements mentionnés aux articles A. 322-42 et A. 322-64 peuvent organiser la pratique de ces personnes conformément
+aux règles de sécurité prévues au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 9 septembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-3-1
+	  - Code du sport. - art. A322-42
+
+
+##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade
 
 ##### Paragraphe 1 : Obligation de déclaration
 
@@ -45918,144 +45806,6 @@ indiqués en bonne place.
 
 	  - Arrêté du 28 février 2008 - art. (V)
 
-
-##### Section 2 : Etablissements d'activités aquatiques et nautiques
-
-##### Sous-section préliminaire : Dispositions communes
-
-###### Article A322-3-1
-
-Pour la pratique des activités sportives mentionnées aux articles A. 322-42 et A. 322-64, l'exploitant d'un établissement qui
-organise l'une de ces activités demande au pratiquant soit : 
-
-1° D'attester de sa capacité à savoir nager vingt-cinq mètres et à s'immerger. Lorsque le pratiquant n'a pas la capacité
-juridique, son représentant légal atteste de cette capacité ; 
-
-2° De présenter un certificat qui mentionne la réussite au test prévu à l'article A. 322-3-2 ; 
-
-3° De présenter un des certificats mentionnés à l'article A. 322-3-3. 
-
-Lorsque le pratiquant ne peut fournir cette attestation ou l'un de ces certificats, il doit se soumettre au test prévu à
-l'article A. 322-3-2.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 9 septembre 2015 - art. 1
-
-	**Cité par**:
-
-	  - Code du sport. - art. A322-3-2 (V)
-	  - Code du sport. - art. A322-3-3 (V)
-	  - Code du sport. - art. A322-3-4 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A322-42
-
-
-###### Article A322-3-2
-
-I.-Le test mentionné à l'article A. 322-3-1 permet de s'assurer que le pratiquant est apte à :
-
-- effectuer un saut dans l'eau ;
-
-- réaliser une flottaison sur le dos pendant cinq secondes ;
-
-- réaliser une sustentation verticale pendant cinq secondes ;
-
-- nager sur le ventre pendant vingt mètres ;
-
-- franchir une ligne d'eau ou passer sous une embarcation ou un objet flottant. 
-
-Ce test peut être réalisé avec ou sans brassière de sécurité. 
-
-II.-La réussite au test prévu au I est constatée selon le cas par : 
-
-1° Une personne titulaire d'une qualification relevant de l'article L. 212-1 dans l'une des activités sportives mentionnées
-aux articles A. 322-42 et A. 322-64 ; 
-
-2° Une personne mentionnée à l'article L. 212-3 ; 
-
-3° Une personne titulaire d'une qualification mentionnée à l'article A. 322-8. 
-
-III.-Un certificat attestant de la réussite au test prévu au I est remis au pratiquant ou à son représentant légal.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 9 septembre 2015 - art. 1
-
-	**Cité par**:
-
-	  - Code du sport. - art. A322-3-1 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A322-42
-	  - Code du sport. - art. A322-8
-	  - Code du sport. - art. L212-1
-
-
-###### Article A322-3-3
-
-Les certificats mentionnés au 3° de l'article A. 322-3-1 sont les suivants : 
-
-1° Le certificat attestant de la réussite au test commun aux fédérations sportives agréées ayant la natation en partage et
-répondant aux exigences mentionnées au I de l'article A. 322-3-2 ; 
-
-2° L'attestation scolaire prévue à l'article D. 312-47-2 du code de l'éducation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 9 septembre 2015 - art. 1
-
-	**Cite**:
-
-	  - Code de l'éducation - art. D312-47-2
-	  - Code du sport. - art. A322-3-1
-
-
-###### Article A322-3-4
-
-Les fédérations qui ont reçu délégation pour les activités sportives mentionnées aux articles A. 322-42 et A. 322-64 édictent
-les règles de sécurité permettant la pratique des personnes qui ne peuvent pas fournir l'attestation ou les certificats
-prévus à l'article A. 322-3-1 ni réaliser le test mentionné à l'article A. 322-3-2. 
-
-Les établissements mentionnés aux articles A. 322-42 et A. 322-64 peuvent organiser la pratique de ces personnes conformément
-aux règles de sécurité prévues au premier alinéa.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 9 septembre 2015 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. A322-3-1
-	  - Code du sport. - art. A322-42
-
-
-##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade
-
-##### Paragraphe 1 : Obligation de déclaration
-
-##### Paragraphe 2 : Obligation de surveillance
-
-##### Paragraphe 3 : Plan d'organisation de la surveillance et des secours
-
-##### Paragraphe 4 : Normes d'hygiène et de sécurité
-
-##### Paragraphe 5 : Garanties de techniques et de sécurité
-
-##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques
-
-##### Sous-section 3 : Etablissements qui dispensent  un enseignement de la voile
 
 ##### Section 3 : Etablissements organisant la pratique   de la plongée subaquatique
 
