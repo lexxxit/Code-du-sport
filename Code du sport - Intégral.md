@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-11-01
+Version Consolidée au 2015-11-12
 
 # Partie législative
 
@@ -13550,6 +13550,29 @@ l'article R. 132-9.
 	  - Code du sport. - art. R132-9
 
 
+##### Sous-section 4 : Dispositions relatives au régime des décisions prises par les fédérations délégataires
+
+###### Article R*131-46
+
+Sous réserve des dispositions des articles R. 222-24 et R. 331-3, en application du II de l'article 21 de la loi du 12 avril
+2000, le silence gardé pendant deux mois par une fédération sportive délégataire vaut décision de rejet pour les demandes qui
+ne sont pas présentées en qualité de titulaire d'une licence sportive délivrée par cette fédération. 
+
+L'alinéa précédent n'est pas applicable aux demandes de délivrance de la licence sportive.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 21
+	  - Code du sport. - art. R222-24
+	  - Code du sport. - art. R331-3
+
+	**Créé par**:
+
+	  - Décret n°2015-1462 du 10 novembre 2015 - art. 1
+
+
 #### Chapitre II : Ligues professionnelles
 
 ##### Section 1 : Dispositions relatives aux statuts des ligues professionnelles
@@ -14015,6 +14038,30 @@ ligue professionnelle et par le ministre chargé des sports.
 	**Codifié par**:
 
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+
+
+##### Section 3 : Dispositions relatives au régime des décisions prises par les ligues professionnelles
+
+###### Article R132-18
+
+En application du II de l'article 21 de la loi du 12 avril 2000 et par exception à l'application du délai de deux mois prévu
+au premier alinéa du I de cet article, le délai à l'expiration duquel le silence gardé par une ligue professionnelle vaut
+décision d'acceptation est de quatre mois pour : 
+
+1° Les demandes de labellisation de club sportif ; 
+
+2° Les demandes de validation de l'enseignement scolaire ou professionnel ou de la formation universitaire des jeunes
+sportifs en centre de formation relevant d'une association sportive ou d'une société sportive.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2000-321 du 12 avril 2000 - art. 21
+
+	**Créé par**:
+
+	  - Décret n°2015-1462 du 10 novembre 2015 - art. 1
 
 
 ### TITRE IV : ORGANISMES DE REPRÉSENTATION ET DE CONCILIATION
