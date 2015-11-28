@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-11-12
+Version Consolidée au 2015-11-29
 
 # Partie législative
 
@@ -1596,13 +1596,28 @@ ces organes.
 ###### Article L131-12
 
 Des personnels de l'Etat ou des agents publics rémunérés par lui peuvent exercer auprès des fédérations agréées des missions
-de conseillers techniques sportifs, selon des modalités définies par décret en Conseil d'Etat.
+de conseillers techniques sportifs, selon des modalités définies par décret en Conseil d'Etat. Les fédérations peuvent, au
+titre de ces missions, leur verser des indemnités, dans des limites et conditions fixées par décret.
+
+Pendant la durée de leurs missions, les conseillers techniques sportifs restent placés, selon les cas, sous l'autorité
+hiérarchique exclusive du ministre chargé des sports ou du chef de service déconcentré dont ils relèvent. Ils ne peuvent être
+regardés, dans l'accomplissement de leurs missions, comme liés à la fédération par un lien de subordination caractéristique
+du contrat de travail au sens du livre II de la première partie du code du travail.
+
+Pour l'exercice de leurs missions et par dérogation à l'article 3 de la loi n° 83-634 du 13 juillet 1983 portant droits et
+obligations des fonctionnaires, lorsqu'ils ont la qualité de fonctionnaires, ces agents, lorsqu'ils exercent les missions de
+directeur technique national, de directeur technique national adjoint ou d'entraîneur national, peuvent être détachés sur
+contrat de droit public, dans les emplois correspondants, dans les conditions et selon les modalités fixées par le décret
+prévu au premier alinéa du présent article.
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 3
+
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 16, alinéa 15, 2e phrase
 	  - Loi n°84-610 du 16 juillet 1984 - art. 16 (Ab)
 
 	**Cité par**:
@@ -1615,7 +1630,11 @@ de conseillers techniques sportifs, selon des modalités définies par décret e
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 23
 
 
 ###### Article L131-13
@@ -1762,15 +1781,16 @@ ou départementaux ;
 
 2° Procèdent aux sélections correspondantes ;
 
-3° Proposent l'inscription sur les listes de sportifs, d'entraîneurs, d'arbitres et juges de haut niveau, sur la liste des
-sportifs Espoirs et sur la liste des partenaires d'entraînement.
+3° Proposent un projet de performance fédéral constitué d'un programme d'excellence sportive et d'un programme d'accession au
+haut niveau ;
+
+4° Proposent l'inscription sur la liste des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau, sur la liste
+des sportifs Espoirs et sur la liste des sportifs des collectifs nationaux.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 17, alinéa 1
-	  - Loi n°84-610 du 16 juillet 1984 - art. 17 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 17 (Ab)
 
 	**Cité par**:
@@ -1785,7 +1805,11 @@ sportifs Espoirs et sur la liste des partenaires d'entraînement.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 2
 
 
 ###### Article L131-16
@@ -1854,10 +1878,10 @@ Un décret en Conseil d'Etat fixe les conditions d'entrée en vigueur des règle
 
 ###### Article L131-16-1
 
-L'accès d'une fédération sportive délégataire, en vue de la mise en œuvre d'une éventuelle procédure disciplinaire contre un
+L'accès d'une fédération sportive délégataire, en vue de la mise en œuvre d'une éventuelle procédure de sanction contre un
 acteur d'une compétition sportive qui aurait parié sur celle-ci, à des informations personnelles relatives à des opérations
 de jeu enregistrées par un opérateur de jeux ou de paris en ligne titulaire de l'agrément prévu à l'article 21 de la loi n°
-2010-476 du 12 mai 2010 précitée s'effectue par demande adressée à l'Autorité de régulation des jeux en ligne.
+2010-476 du 12 mai 2010 précitée s'effectue par demande adressée à l'Autorité de régulation des jeux en ligne. 
 
 L'Autorité de régulation des jeux en ligne communique à des agents de la fédération délégataire spécialement habilités à
 cette fin dans des conditions prévues par décret les éléments strictement nécessaires, dans le respect des dispositions de la
@@ -1870,13 +1894,13 @@ loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux 
 	  - Loi n°78-17 du 6 janvier 1978
 	  - Loi n°2010-476 du 12 mai 2010 - art. 21
 
-	**Créé par**:
-
-	  - Loi n°2012-158 du 1er février 2012 - art. 8
-
 	**Cité par**:
 
 	  - Décret n°2013-947 du 22 octobre 2013 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 22
 
 
 ###### Article L131-17
@@ -2041,6 +2065,27 @@ L. 131-20.
 
 	  - Code du sport. - art. L131-14 (V)
 	  - Code du sport. - art. L131-20 (V)
+
+
+###### Article L131-22
+
+Toute fédération sportive membre d'une fédération internationale qui l'a habilitée à organiser la pratique d'une discipline
+sportive et pour laquelle une autre fédération s'est vue accorder la délégation prévue à l'article L. 131-14 est tenue de
+procéder, sur proposition de celle-ci, à : 
+
+1° L'inscription des compétitions de cette discipline au calendrier international ; 
+
+2° L'inscription des sportifs de haut niveau de cette discipline aux compétitions internationales.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. L131-14
 
 
 #### Chapitre II : Ligues professionnelles
@@ -2289,6 +2334,42 @@ est puni des peines prévues aux articles L. 716-9 et suivants du code de la pro
 	  - Code de la propriété intellectuelle - art. L716-9 (V)
 
 
+#### Chapitre Ier bis : Comité paralympique et sportif français 
+
+###### Article L141-6
+
+Le Comité paralympique et sportif français est une association regroupant les fédérations sportives concourant à
+l'organisation des sports pour les personnes en situation de handicap. Il veille au respect des règles du mouvement
+paralympique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 19
+
+
+###### Article L141-7
+
+Le Comité paralympique et sportif français est propriétaire des emblèmes paralympiques nationaux et dépositaire des emblèmes,
+du drapeau, de la devise et de l'hymne paralympiques. Il veille à la protection des termes " paralympique ", " paralympiade
+", " paralympisme ", " paralympien " et " paralympienne ". 
+
+Le fait de déposer à titre de marque, de reproduire, d'imiter, d'apposer, de supprimer ou de modifier les emblèmes, le
+drapeau, la devise, l'hymne et les termes mentionnés au premier alinéa, sans l'autorisation du Comité paralympique et sportif
+français, est puni des peines prévues aux articles L. 716-9 à L. 716-13 du code de la propriété intellectuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 19
+
+	**Cite**:
+
+	  - articles L. 716-9 à L. 716-13 du code de la propriété intellectuelle
+
+
 ## LIVRE II : ACTEURS DU SPORT
 
 ### TITRE Ier : FORMATION ET ENSEIGNEMENT
@@ -2429,8 +2510,8 @@ La convention détermine la durée, le niveau et les modalités de la formation.
 
 Elle prévoit qu'à l'issue de la formation, s'il entend exercer à titre professionnel la discipline sportive à laquelle il a
 été formé, le bénéficiaire de la formation peut être dans l'obligation de conclure, avec l'association ou la société dont
-relève le centre, un contrat de travail défini au 3° de l'article L. 1242-2 du code du travail, dont la durée ne peut excéder
-trois ans. 
+relève le centre, un contrat de travail défini aux articles L. 222-2 à L. 222-2-9 du présent code, dont la durée ne peut
+excéder trois ans. 
 
 Si l'association ou la société sportive ne lui propose pas de contrat de travail, elle est tenue d'apporter à l'intéressé une
 aide à l'insertion scolaire ou professionnelle, dans les conditions prévues par la convention. 
@@ -2453,7 +2534,7 @@ Conseil d'Etat, conformément à des stipulations types.
 	  - Arrêté du 12 juillet 2011 - art. (Ab)
 	  - Arrêté du 26 juillet 2012 - art. (V)
 	  - Code de l'éducation - art. L331-6 (V)
-	  - Code de l'éducation - art. L611-4 (M)
+	  - Code de l'éducation - art. L611-4 (V)
 	  - Code du sport. - art. L221-10 (V)
 	  - Code du sport. - art. L221-9 (V)
 	  - Code du sport. - art. L222-2-4 (V)
@@ -2462,12 +2543,13 @@ Conseil d'Etat, conformément à des stipulations types.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 24 (V)
 
 	**Cite**:
 
-	  - Code du sport. - art. L211-4 (V)
-	  - Code du travail - art. L1242-2 (V)
+	  - Code du sport. - art. L211-4
+	  - Code du sport. - art. L222-2 (V)
+	  - Code du travail - art. L1242-2
 
 
 ###### Article L211-6
@@ -3114,12 +3196,46 @@ une activité physique ou sportive en méconnaissance d'une mesure prise en appl
 
 #### Chapitre Ier : Sport de haut niveau
 
+###### Article L221-1
+
+Les sportifs, entraîneurs, arbitres et juges sportifs de haut niveau concourent, par leur activité, au rayonnement de la
+Nation et à la promotion des valeurs du sport.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°84-610 du 16 juillet 1984 - art. 26 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°90-365 du 26 avril 1990 - art. 1 (V)
+	  - Décret n°90-365 du 26 avril 1990 - art. 2 (V)
+	  - Décret n°90-365 du 26 avril 1990 - art. 4 (V)
+	  - Décret n°91-260 du 7 mars 1991 - art. 6 (Ab)
+	  - Arrêté du 19 novembre 1993 - art. 1 (V)
+	  - Décret n°2002-761 du 2 mai 2002 - art. 3 (Ab)
+	  - Décret n°2002-1010 du 18 juillet 2002 - art. 7 (Ab)
+	  - Arrêté du 14 mai 2009 - art. Annexe (VD)
+	  - Code du sport. - art. D221-24 (V)
+
+	**Codifié par**:
+
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 1
+
+
 ###### Article L221-2
 
 Le ministre chargé des sports arrête, au vu des propositions des fédérations, la liste des sportifs, entraîneurs, arbitres et
 juges sportifs de haut niveau. 
 
-Il arrête dans les mêmes conditions la liste des sportifs Espoirs et celle des partenaires d'entraînement. 
+Il arrête dans les mêmes conditions la liste des sportifs Espoirs et celle des sportifs des collectifs nationaux. 
+
+Il arrête, dans les mêmes conditions, les projets de performance fédéraux définis au 3° de l'article L. 131-15. 
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
 
@@ -3221,7 +3337,37 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Modifié par**:
 
-	  - Décret n°2013-264 du 28 mars 2013 - art. 1
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. L131-15 (V)
+
+
+###### Article L221-2-1
+
+L'inscription sur la liste des sportifs de haut niveau mentionnée au premier alinéa de l'article L. 221-2 est subordonnée à
+la conclusion d'une convention entre la fédération et le sportif. 
+
+Cette convention détermine les droits et obligations du sportif et de la fédération en matière de formation et
+d'accompagnement socioprofessionnel, de pratique compétitive, de suivi médical, de respect des règles d'éthique sportive et
+de droit à l'image. 
+
+Un décret fixe le contenu de la convention mentionnée au présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 4
+
+	**Cite**:
+
+	  - Code du sport. - art. L221-2 (V)
+
+	**Cité par**:
+
+	  - Code du sport. - art. L321-4-1 (V)
 
 
 ###### Article L221-3
@@ -3352,20 +3498,29 @@ carrière, dans des conditions fixées par décret en Conseil d'Etat.
 ###### Article L221-8
 
 Le ministre chargé des sports peut, après avis du comité d'entreprise ou, à défaut, des délégués du personnel, conclure avec
-une entreprise publique ou privée une convention destinée à faciliter l'emploi d'un sportif de haut niveau et sa reconversion
-professionnelle. Cette convention a également pour objet de définir les droits et devoirs de ce sportif au regard de
-l'entreprise, de lui assurer des conditions d'emploi compatibles avec son entraînement et sa participation à des compétitions
-sportives et de favoriser sa formation et sa promotion professionnelle. Les conditions de reclassement du sportif à
-l'expiration de la convention sont également précisées.
+une entreprise publique ou privée une convention destinée à faciliter l'emploi d'un sportif, arbitre ou juge de haut niveau
+et sa reconversion professionnelle. Cette convention a également pour objet de définir les droits et devoirs de ce sportif,
+arbitre ou juge au regard de l'entreprise, de lui assurer des conditions d'emploi compatibles avec son entraînement et sa
+participation à des compétitions sportives et de favoriser sa formation et sa promotion professionnelle. Elle précise
+également les conditions de formation du sportif, arbitre ou juge ainsi que ses conditions de reclassement à l'expiration de
+la convention. 
 
 Le comité d'entreprise ou, à défaut, les délégués du personnel sont informés des conditions d'application de la convention.
-Ils sont associés au suivi de sa mise en oeuvre et ils contribuent à l'insertion du sportif au sein de l'entreprise.
+Ils sont associés au suivi de sa mise en oeuvre et ils contribuent à l'insertion du sportif, arbitre ou juge au sein de
+l'entreprise.
+
+La relation contractuelle qui lie l'entreprise et le sportif, arbitre ou juge prend la forme :
+
+1° Soit d'un contrat de travail ;
+
+2° Soit d'un contrat de prestation de services, d'un contrat de cession de droit à l'image ou d'un contrat de parrainage
+exclusif de tout lien de subordination, intégrant un projet de formation ou d'insertion professionnelle du sportif, arbitre
+ou juge.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 du 16 juillet 1984 - art. 32 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 32 (Ab)
 
 	**Cité par**:
@@ -3375,26 +3530,20 @@ Ils sont associés au suivi de sa mise en oeuvre et ils contribuent à l'inserti
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 5
 
 
 ###### Article L221-9
 
-Sont ci-après reproduites les règles fixées à l'article L. 331-6 du code de l'éducation et relatives à la préparation des
-élèves, dans les établissements d'enseignement du second degré, en vue de : 
-
-1° La pratique sportive de haut niveau ; 
-
-2° La pratique professionnelle d'une discipline sportive lorsqu'ils ont conclu une convention mentionnée à l'article L. 211-5
-du présent code. 
-
-" Art. L. 331-6.-Les établissements scolaires du second degré permettent, selon des formules adaptées, la préparation des
-élèves en vue de : 
-
-" 1° La pratique sportive de haut niveau ; 
-
-" 2° La pratique professionnelle d'une discipline sportive lorsqu'ils ont conclu une convention mentionnée à l'article L.
-211-5 du code du sport. "
+Les règles relatives à la préparation des élèves, dans les établissements d'enseignement du second degré, en vue de la
+pratique sportive d'excellence et d'accession au haut niveau et de la pratique professionnelle d'une discipline sportive,
+lorsqu'ils ont conclu une convention mentionnée à l'article L. 211-5 du présent code, sont fixées à l'
+article L. 331-6 du code de l'éducation
+.
 
 **Liens relatifs à cet article**
 
@@ -3404,31 +3553,20 @@ du présent code.
 
 	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 13
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 6
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L331-6 (V)
-	  - Code du sport. - art. L211-5
+	  - Code de l'éducation - art. L331-6
+	  - Code du sport. - art. L211-5 (V)
 
 
 ###### Article L221-10
 
-Sont ci-après reproduites les règles fixées à l'article L. 611-4 du code de l'éducation et relatives à la préparation des
-étudiants, dans les établissements d'enseignement supérieur, en vue de : 
-
-1° La pratique sportive de haut niveau ; 
-
-2° La pratique professionnelle d'une discipline sportive lorsqu'ils ont conclu une convention mentionnée à l'article L. 211-5
-du présent code. 
-
-" Art. L. 611-4.-Les établissements d'enseignement supérieur permettent aux sportifs de haut niveau et aux bénéficiaires
-d'une convention de formation prévue à l'article L. 211-5 du code du sport de poursuivre leur carrière sportive par les
-aménagements nécessaires dans l'organisation et le déroulement de leurs études. 
-
-" Ils favorisent l'accès des sportifs de haut niveau et des bénéficiaires d'une convention de formation prévue au même
-article L. 211-5, qu'ils possèdent ou non des titres universitaires, à des enseignements de formation ou de perfectionnement,
-dans les conditions définies aux articles L. 612-2 à L. 612-4 et L. 613-3 à L. 613-5 du présent code. "
+Les règles relatives à la préparation des étudiants, dans les établissements d'enseignement supérieur, en vue de la pratique
+sportive d'excellence et d'accession au haut niveau et de la pratique professionnelle d'une discipline sportive, lorsqu'ils
+ont conclu une convention mentionnée à l'article L. 211-5 du présent code, sont fixées à l'article L. 611-4 du code de
+l'éducation.
 
 **Liens relatifs à cet article**
 
@@ -3438,26 +3576,28 @@ dans les conditions définies aux articles L. 612-2 à L. 612-4 et L. 613-3 à L
 
 	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 13
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 6
 
 	**Cite**:
 
-	  - Code de l'éducation - art. L611-4 (V)
-	  - Code de l'éducation - art. L612-2
-	  - Code de l'éducation - art. L613-3
-	  - Code du sport. - art. L211-5
+	  - Code de l'éducation - art. L611-4
+	  - Code du sport. - art. L211-5 (V)
 
 
 ###### Article L221-11
 
-Un décret            précise les droits et obligations des sportifs de haut niveau, des sportifs Espoirs et des partenaires
-d'entraînement. Il définit notamment : 
+Un décret précise les droits et obligations des sportifs de haut niveau, des sportifs Espoirs et des sportifs des collectifs
+nationaux. Il définit notamment : 
 
-1° Les conditions d'accès aux formations aménagées définies en liaison avec les ministères compétents ; 
+1° Les conditions d'accès aux formations scolaires, universitaires et professionnelles aménagées, en lien avec les services
+de l'Etat et les régions ;
 
-2° Les modalités d'insertion professionnelle ; 
+2° Les modalités de la formation sportive et citoyenne du sportif ;
 
-3° La participation à des manifestations d'intérêt général.
+3° Les modalités d'orientation destinées à construire un projet professionnel adapté à chaque sportif ainsi que les
+dispositifs de formation et d'insertion pouvant être mobilisés ;
+
+4° La participation à des manifestations d'intérêt général.
 
 **Liens relatifs à cet article**
 
@@ -3478,7 +3618,7 @@ d'entraînement. Il définit notamment :
 
 	**Modifié par**:
 
-	  - Décret n°2013-264 du 28 mars 2013 - art. 1
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 7
 
 
 ###### Article L221-12
@@ -3536,6 +3676,42 @@ justificatives.
 	  - Code du sport. - art. L421-1 (V)
 
 
+###### Article L221-13-1
+
+Une sportive de haut niveau inscrite sur la liste des sportifs de haut niveau mentionnée au premier alinéa de l'article L.
+221-2 conserve le bénéfice des droits inhérents à cette qualité, définis par le présent code, pendant une durée d'un an à
+compter de la date de la constatation médicale de son état de grossesse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 13
+
+	**Cite**:
+
+	  - Code du sport. - art. L221-2 (V)
+
+
+###### Article L221-14
+
+Les fédérations sportives délégataires assurent, en lien avec l'Etat, les entreprises et les collectivités territoriales, le
+suivi socioprofessionnel de leurs licenciés inscrits sur la liste des sportifs de haut niveau mentionnée au premier alinéa de
+l'article L. 221-2. 
+
+A cet effet, chaque fédération sportive délégataire désigne un référent chargé de ce suivi socioprofessionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 8
+
+	**Cite**:
+
+	  - Code du sport. - art. L221-2 (V)
+
+
 #### Chapitre II : Sport professionnel
 
 ###### Article L222-1
@@ -3566,34 +3742,26 @@ mentionné à l'alinéa premier.
 
 ###### Article L222-2
 
-I.-N'est pas considérée comme salaire la part de la rémunération versée à un sportif professionnel par une société soumise
-aux articles L. 122-2 et L. 122-12 et qui correspond à la commercialisation par ladite société de l'image collective de
-l'équipe à laquelle le sportif appartient. 
+Les articles L. 222-2-1 à L. 222-2-8 sont applicables : 
 
-Pour l'application du présent article, sont seules considérées comme des sportifs professionnels les personnes ayant conclu,
-avec une société mentionnée au premier alinéa, un contrat de travail dont l'objet principal est la participation à des
-épreuves sportives. 
+1° Au sportif professionnel salarié, défini comme toute personne ayant pour activité rémunérée l'exercice d'une activité
+sportive dans un lien de subordination juridique avec une association sportive ou une société mentionnée aux articles L.
+122-2 et L. 122-12 ; 
 
-II.-Des conventions collectives conclues, pour chaque discipline sportive, entre les organisations représentatives des
-sportifs professionnels et les organisations représentatives des sociétés employant des sportifs professionnels
-déterminent : 
+2° A l'entraîneur professionnel salarié, défini comme toute personne ayant pour activité principale rémunérée de préparer et
+d'encadrer l'activité sportive d'un ou de plusieurs sportifs professionnels salariés dans un lien de subordination juridique
+avec une association sportive ou une société mentionnée aux articles L. 122-2 et L. 122-12 et titulaire d'un diplôme, d'un
+titre à finalité professionnelle ou d'un certificat de qualification prévu à l'article L. 212-1. 
 
-1° La part de rémunération définie au I ci-dessus, laquelle ne peut excéder 30 % de la rémunération brute totale versée par
-la société au sportif professionnel ; 
+Une convention ou un accord collectif national détermine les critères à partir desquels l'activité de l'entraîneur
+professionnel salarié est considérée comme son activité principale.
 
-2° Les modalités de fixation de cette part de rémunération en fonction du niveau des recettes commerciales générées par
-l'exploitation de l'image collective de l'équipe sportive, et notamment des recettes de parrainage, de publicité et de
-marchandisage ainsi que de celles provenant de la cession des droits de retransmission audiovisuelle des compétitions ; 
+**Nota:**
 
-3° Le seuil au-delà duquel les dispositions du I ci-dessus s'appliquent à cette part de rémunération, lequel ne peut être
-inférieur à un montant fixé par décret au vu du niveau moyen de rémunération pratiqué dans la discipline sportive. Ce montant
-ne peut être inférieur à deux fois ni être supérieur à huit fois le plafond fixé par le décret pris en application de
-l'article L. 241-3 du code de la sécurité sociale. 
-
-III.-En l'absence d'une convention collective, pour une discipline sportive, contenant l'ensemble des stipulations
-mentionnées au 2° du II, un décret détermine la part de rémunération prévue au 1° du II. 
-
-IV.-Ces dispositions s'appliquent aux rémunérations versées jusqu'au  30 juin 2010.
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
 
 **Liens relatifs à cet article**
 
@@ -3609,13 +3777,13 @@ IV.-Ces dispositions s'appliquent aux rémunérations versées jusqu'au  30 juin
 
 	**Modifié par**:
 
-	  - Loi n°2009-1646 du 24 décembre 2009 - art. 22
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
 
 	**Cite**:
 
-	  - Code du sport. - art. L122-12
-	  - Code du sport. - art. L122-2
-	  - Code de la sécurité sociale. - art. L241-3
+	  - Code du sport. - art. L122-12 (V)
+	  - Code du sport. - art. L122-2 (V)
+	  - Code du sport. - art. L212-1 (V)
 
 	**Anciens textes**:
 
@@ -3624,67 +3792,349 @@ IV.-Ces dispositions s'appliquent aux rémunérations versées jusqu'au  30 juin
 
 ###### Article L222-2-1
 
-Les stipulations des conventions collectives en vigueur prévoyant un seuil inférieur au montant fixé par le décret mentionné
-au 3° du II de l'article L. 222-2 cessent de produire leurs effets à compter du 1er juillet 2010.
+Le code du travail est applicable au sportif professionnel salarié et à l'entraîneur professionnel salarié, à l'exception des
+dispositions des articles L. 1221-2, L. 1241-1 à L. 1242-9, L. 1242-12, L. 1242-13, L. 1242-17, L. 1243-7 à L. 1243-10, L.
+1243-13 à L. 1245-1, L. 1246-1 et L. 1248-1 à L. 1248-11 relatives au contrat de travail à durée déterminée.
+
+**Nota:**
+
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-1 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 185 (V)
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
 
 	**Cité par**:
 
 	  - Code du sport. - art. L222-2 (V)
 	  - Code du sport. - art. L222-2-8 (V)
 
+	**Cite**:
+
+	  - Code du travail - art. L1221-2 (V)
+	  - Code du travail - art. L1241-1 (V)
+	  - Code du travail - art. L1242-12 (V)
+	  - Code du travail - art. L1242-13 (V)
+	  - Code du travail - art. L1242-17 (V)
+	  - Code du travail - art. L1243-13 (V)
+	  - Code du travail - art. L1243-7 (V)
+	  - Code du travail - art. L1246-1 (V)
+	  - Code du travail - art. L1248-1 (V)
+
 
 ###### Article L222-2-2
 
-Pour l'application de l'article L. 131-7 du code de la sécurité sociale, l'Agence centrale des organismes de sécurité sociale
-transmet annuellement à l'autorité administrative compétente les données, rendues anonymes, relatives au montant de la
-rémunération de chaque sportif professionnel qui lui sont transmises par les sociétés mentionnées aux articles L. 122-2 et L.
-122-12 du présent code, en précisant la discipline pratiquée par ce sportif. 
+Les articles L. 222-2-1, L. 222-2-3 à L. 222-2-5, L. 222-2-7 et L. 222-2-8 peuvent, avec l'accord des parties, s'appliquer
+aux sportifs qui sont salariés de leur fédération sportive en qualité de membre d'une équipe de France, ainsi qu'aux
+entraîneurs qui les encadrent à titre principal.
 
-Les modalités d'application du présent article sont fixées par voie réglementaire.
+**Nota:**
+
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-2 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2008-1425 du 27 décembre 2008 - art. 185 (V)
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
 
 	**Cite**:
 
-	  - Code du sport. - art. L122-12
-	  - Code du sport. - art. L122-2
-	  - Code de la sécurité sociale. - art. L131-7
+	  - Code du sport. - art. L222-1 (V)
+	  - Code du sport. - art. L222-2-3 (V)
+	  - Code du sport. - art. L222-2-7 (V)
 
 	**Cité par**:
 
 	  - Code du sport. - art. L223-3 (V)
 
 
-###### Article L222-3
+###### Article L222-2-3
 
-Les dispositions des articles L. 8241-1 et L. 8241-2 du code du travail ne sont pas applicables à l'opération mentionnée à
-cet article lorsqu'elle concerne le salarié d'une association sportive ou d'une société mentionnée aux articles L. 122-2 et
-L. 122-12 du présent code mis à disposition de la fédération sportive délégataire intéressée en qualité de membre d'une
-équipe de France, dans des conditions définies par la convention conclue entre ladite fédération et la ligue professionnelle
-qu'elle a constituée, et alors qu'il conserve pendant la période de mise à disposition sa qualité de salarié de l'association
-ou de la société sportive ainsi que les droits attachés à cette qualité.
+Afin d'assurer la protection des sportifs et entraîneurs professionnels et de garantir l'équité des compétitions, tout
+contrat par lequel une association sportive ou une société mentionnée aux articles L. 122-2 et L. 122-12 s'assure, moyennant
+rémunération, le concours de l'un de ces salariés est un contrat de travail à durée déterminée.
+
+**Nota:**
+
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-3 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
 
 	**Cite**:
 
 	  - Code du sport. - art. L122-12 (V)
 	  - Code du sport. - art. L122-2 (V)
-	  - Code du travail - art. L8241-2 (V)
+
+	**Cité par**:
+
+	  - Code du sport. - art. L222-2-2 (V)
+	  - Code du sport. - art. L222-4 (V)
+
+
+###### Article L222-2-4
+
+La durée d'un contrat de travail mentionné à l'article L. 222-2-3 ne peut être inférieure à la durée d'une saison sportive
+fixée à douze mois. 
+
+Toutefois, un contrat conclu en cours de saison sportive peut avoir une durée inférieure à douze mois, dans les conditions
+définies par une convention ou un accord collectif national ou, à défaut, par le règlement de la fédération sportive ou, le
+cas échéant, de la ligue professionnelle : 
+
+1° Dès lors qu'il court au minimum jusqu'au terme de la saison sportive ; 
+
+2° S'il est conclu pour assurer le remplacement d'un sportif ou d'un entraîneur professionnel en cas d'absence du sportif ou
+de l'entraîneur ou de suspension de son contrat de travail ; 
+
+3° S'il est conclu pour assurer le remplacement d'un sportif ou d'un entraîneur faisant l'objet de l'opération mentionnée au
+premier alinéa de l'article L. 222-3. 
+
+Les dates de début et de fin de la saison sportive sont arrêtées par le règlement de la fédération sportive ou, le cas
+échéant, de la ligue professionnelle. 
+
+La durée du contrat de travail mentionné à l'article L. 222-2-3 ne peut être supérieure à cinq ans, sous réserve de l'article
+L. 211-5. 
+
+Afin d'assurer la protection des sportifs et entraîneurs professionnels et de garantir l'équité des compétitions, la durée
+maximale mentionnée à l'avant-dernier alinéa du présent article n'exclut pas le renouvellement du contrat ou la conclusion
+d'un nouveau contrat avec le même employeur.
+
+**Nota:**
+
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-4 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
+
+	**Cite**:
+
+	  - Code du sport. - art. L211-5 (V)
+	  - Code du sport. - art. L222-3 (V)
+
+
+###### Article L222-2-5
+
+I.-Le contrat de travail à durée déterminée est établi par écrit en au moins trois exemplaires et comporte la mention des
+articles L. 222-2 à L. 222-2-8. 
+
+Il comporte : 
+
+1° L'identité et l'adresse des parties ; 
+
+2° La date d'embauche et la durée pour laquelle il est conclu ; 
+
+3° La désignation de l'emploi occupé et les activités auxquelles participe le salarié ; 
+
+4° Le montant de la rémunération et de ses différentes composantes, y compris les primes et accessoires de salaire s'il en
+existe ; 
+
+5° Les noms et adresses des caisses de retraite complémentaire et de prévoyance et de l'organisme assurant la couverture
+maladie complémentaire ; 
+
+6° L'intitulé des conventions ou accords collectifs applicables. 
+
+II.-Le contrat de travail à durée déterminée est transmis par l'employeur au sportif ou à l'entraîneur professionnel au plus
+tard dans les deux jours ouvrables suivant l'embauche.
+
+**Nota:**
+
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-5 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-2 (V)
+
+
+###### Article L222-2-6
+
+Le règlement de la fédération sportive ou, le cas échéant, de la ligue professionnelle peut prévoir une procédure
+d'homologation du contrat de travail à durée déterminée du sportif et de l'entraîneur professionnels et déterminer les
+modalités de l'homologation ainsi que les conséquences sportives en cas d'absence d'homologation du contrat. 
+
+Les conditions dans lesquelles l'absence d'homologation du contrat peut faire obstacle à son entrée en vigueur sont
+déterminées par une convention ou un accord collectif national.
+
+**Nota:**
+
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-6 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
+
+
+###### Article L222-2-7
+
+Les clauses de rupture unilatérale pure et simple du contrat de travail à durée déterminée du sportif et de l'entraîneur
+professionnels salariés sont nulles et de nul effet.
+
+**Nota:**
+
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-7 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
+
+	**Cité par**:
+
+	  - Code du sport. - art. L222-2-2 (V)
+
+
+###### Article L222-2-8
+
+I.-Est réputé à durée indéterminée tout contrat conclu en méconnaissance des règles de fond et de forme prévues aux articles
+L. 222-2-1 à L. 222-2-5. 
+
+II.-Le fait de méconnaître les règles de fond et de forme prévues aux mêmes articles L. 222-2-1 à L. 222-2-5 est puni d'une
+amende de 3 750 €. La récidive est punie d'une amende de 7 500 € et d'un emprisonnement de six mois.
+
+**Nota:**
+
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-8 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-2-1 (V)
+
+
+###### Article L222-2-9
+
+Tout au long de l'exécution du contrat de travail à durée déterminée d'un sportif professionnel, l'association sportive ou la
+société mentionnée aux articles L. 122-2 et L. 122-12 qui l'emploie offre au sportif des conditions de préparation et
+d'entraînement équivalentes à celles des autres sportifs professionnels salariés de l'association ou de la société.
+
+**Nota:**
+
+Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-9 dans sa rédaction résultant de
+l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
+de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
+professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
+
+	**Cite**:
+
+	  - Code du sport. - art. L122-12 (V)
+	  - Code du sport. - art. L122-2 (V)
+
+
+###### Article L222-2-10
+
+L'association sportive ou la société mentionnée aux articles L. 122-2 et L. 122-12 assure, en lien avec les fédérations
+sportives, les ligues professionnelles et les organisations représentatives de sportifs et d'entraîneurs professionnels, le
+suivi socioprofessionnel des sportifs professionnels salariés qu'elle emploie.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 15
+
+	**Cite**:
+
+	  - Code du sport. - art. L122-12 (V)
+	  - Code du sport. - art. L122-2 (V)
+
+
+###### Article L222-2-11
+
+Le sportif professionnel qui participe librement, pour son propre compte, à une compétition sportive est présumé ne pas être
+lié à l'organisateur de la compétition par un contrat de travail.
+
+La présomption de salariat prévue à l'article L. 7121-3 du code du travail ne s'applique pas au sportif dont les conditions
+d'exercice sont définies au premier alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 18
+
+	**Cite**:
+
+	  - Code du travail - art. L7121-3
+
+
+###### Article L222-3
+
+Les dispositions des articles L. 8241-1 et L. 8241-2 du code du travail ne sont pas applicables à l'opération mentionnée au
+présent alinéa lorsqu'elle concerne le salarié d'une association sportive ou d'une société mentionnée aux articles L. 122-2
+et L. 122-12 du présent code mis à disposition de la fédération sportive délégataire intéressée en qualité de membre d'une
+équipe de France, dans des conditions définies par la convention conclue entre ladite fédération et la ligue professionnelle
+qu'elle a constituée, et alors qu'il conserve pendant la période de mise à disposition sa qualité de salarié de l'association
+ou de la société sportive ainsi que les droits attachés à cette qualité. 
+
+Les articles L. 8241-1 et L. 8241-2 du code du travail ne sont pas applicables à l'opération mentionnée au présent alinéa
+lorsqu'elle concerne le sportif ou l'entraîneur professionnel salarié d'une association sportive ou d'une société mentionnée
+aux articles L. 122-2 et L. 122-12 du présent code muté temporairement au sein d'une autre association sportive ou d'une
+société et dont les modalités sont prévues par convention ou accord collectif national ou, à défaut, par le règlement de la
+fédération sportive ou, le cas échéant, de la ligue professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 17
+
+	**Cite**:
+
+	  - Code du sport. - art. L122-12 (V)
+	  - Code du sport. - art. L122-2 (V)
+	  - Code du travail - art. L8241-2
 
 	**Cité par**:
 
@@ -3698,23 +4148,23 @@ ou de la société sportive ainsi que les droits attachés à cette qualité.
 
 ###### Article L222-4
 
-Le versement prévu à l'article L. 6322-37 du code du travail n'est pas dû en cas de contrat à durée déterminée conclu, en
-application du 3° de l'article L. 1242-2 du code du travail, dans le secteur d'activité du sport professionnel.
+Le versement prévu à l'article L. 6322-37 du code du travail n'est pas dû en cas de contrat à durée déterminée conclu en
+application de l'article L. 222-2-3 du présent code.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 24 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-2-3 (V)
+	  - Code du travail - art. L6322-37
 
 	**Anciens textes**:
 
 	  - Code du travail - art. L785-3 (Ab)
-
-	**Cite**:
-
-	  - Code du travail - art. L1242-2 (V)
-	  - Code du travail - art. L6322-37 (V)
 
 
 ###### Article L222-5
@@ -4793,18 +5243,29 @@ organisations nationales antidopage.
 
 ###### Article L231-6
 
-Les fédérations sportives délégataires assurent l'organisation de la surveillance médicale particulière à laquelle sont
-soumis leurs licenciés inscrits sur la liste des sportifs de haut niveau mentionnée au premier alinéa de l'article L. 221-2
-du présent code ainsi que des licenciés inscrits dans les filières d'accès au sport de haut niveau. 
+I.-Les fédérations sportives délégataires assurent l'organisation de la surveillance médicale à laquelle sont soumis leurs
+licenciés inscrits sur la liste des sportifs de haut niveau mentionnée au premier alinéa de l'article L. 221-2. 
 
-Un arrêté des ministres chargés de la santé et des sports définit la nature et la périodicité des examens médicaux qui sont
-assurés dans le cadre de cette surveillance. 
+Un arrêté du ministre chargé des sports définit la nature et la périodicité des examens médicaux qui sont assurés dans le
+cadre de cette surveillance. 
 
-Les résultats de ces examens sont mentionnés dans le livret prévu à l'article L. 231-7 du présent code. 
+Les fédérations sportives délégataires peuvent définir des examens médicaux complémentaires adaptés à leur discipline
+sportive. 
 
-Cette surveillance médicale ne dispense pas les employeurs des sportifs professionnels titulaires d'un contrat de travail au
-titre du 3° de l'article L. 1242-2 du code du travail de satisfaire aux obligations qui leur incombent en application du
-titre IV du livre II du même code.
+II.-Les fédérations sportives délégataires assurent l'organisation de la surveillance médicale de leurs licenciés non
+inscrits sur la liste des sportifs de haut niveau mentionnée au premier alinéa de l'article L. 221-2 et reconnus dans le
+projet de performance fédéral mentionné à l'article L. 131-15. 
+
+Ces fédérations définissent la nature et la périodicité des examens médicaux qui sont assurés dans le cadre de cette
+surveillance. 
+
+Un arrêté du ministre chargé des sports fixe le cadre relatif au contenu et à la mise en œuvre de cette surveillance. 
+
+III.-Les résultats des examens prévus aux I et II du présent article figurent dans le livret mentionné à l'article L. 231-7. 
+
+La surveillance médicale prévue aux mêmes I et II ne dispense pas les employeurs des sportifs professionnels titulaires d'un
+contrat de travail de satisfaire aux obligations qui leur incombent en application du titre II du livre VI de la quatrième
+partie du code du travail.
 
 **Liens relatifs à cet article**
 
@@ -4821,13 +5282,14 @@ titre IV du livre II du même code.
 	  - Code du sport. - art. Annexe II-2 (art R232-86) (M)
 	  - Code du sport. - art. D221-20 (V)
 	  - Code du sport. - art. L231-3 (V)
+	  - Code du sport. - art. L231-7 (V)
 	  - Code du sport. - art. L232-31 (V)
 	  - Code du sport. - art. R221-20 (V)
 	  - Code du sport. - art. R231-3 (V)
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 24 (V)
 
 	**Anciens textes**:
 
@@ -4835,9 +5297,8 @@ titre IV du livre II du même code.
 
 	**Cite**:
 
+	  - Code du sport. - art. L131-15 (V)
 	  - Code du sport. - art. L221-2 (V)
-	  - Code du sport. - art. L231-7 (V)
-	  - Code du travail - art. L1242-2 (V)
 
 
 ###### Article L231-7
@@ -9925,6 +10386,36 @@ définition des actifs incorporels pouvant être concédés aux opérateurs de p
 	  - Code du sport. - art. L122-2
 
 
+###### Article L333-1-4
+
+L'organisateur d'une manifestation ou d'une compétition sportive mentionné à l'article L. 331-5 qui interdit à ses acteurs
+d'engager, directement ou par personne interposée, des mises sur des paris reposant sur cette manifestation ou cette
+compétition sportive peut, en vue de sanctionner les manquements à cette interdiction, demander à l'Autorité de régulation
+des jeux en ligne l'accès à des informations personnelles relatives à des opérations de jeu enregistrées par un opérateur de
+jeux ou de paris en ligne titulaire de l'agrément prévu à l'article 21 de la loi n° 2010-476 du 12 mai 2010 relative à
+l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne. 
+
+Les opérations informatiques de rapprochement réalisées par l'Autorité de régulation des jeux en ligne et la communication
+par cette autorité de leurs résultats aux agents ou aux représentants de l'organisateur mentionné au premier alinéa du
+présent article spécialement habilités à cette fin sont autorisées par décret en Conseil d'Etat, pris après avis motivé et
+publié de la Commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 21
+	  - Code du sport. - art. L331-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 22
+
+	**Cité par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 (V)
+
+
 ###### Article L333-2
 
 Les droits d'exploitation audiovisuelle cédés aux sociétés sportives sont commercialisés par la ligue professionnelle dans
@@ -10206,23 +10697,27 @@ associations sportives locales et la formation de leurs animateurs.
 ###### Article L421-1
 
 Les dispositions du présent code sont applicables à Mayotte, à l'exception des articles L. 111-2, L. 112-1, L. 112-2, L.
-221-13, L. 222-2, L. 222-3, L. 222-4, 
+221-13,    L. 222-2 à L. 222-2-11, L. 222-3, L. 222-4, 
 L. 311-3, L. 311-6 et L. 332-16.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 24 (V)
 
 	**Cite**:
 
-	  - Code du sport. - art. L111-2 (V)
-	  - Code du sport. - art. L221-13 (V)
-	  - Code du sport. - art. L222-2 (V)
-	  - Code du sport. - art. L311-3 (V)
-	  - Code du sport. - art. L311-6 (V)
-	  - Code du sport. - art. L332-16 (V)
+	  - Code du sport. - art. L111-2
+	  - Code du sport. - art. L221-13
+	  - Code du sport. - art. L222-2
+	  - Code du sport. - art. L311-3
+	  - Code du sport. - art. L311-6
+	  - Code du sport. - art. L332-16
 
 
 ###### Article L421-2
