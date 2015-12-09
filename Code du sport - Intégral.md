@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-11-29
+Version Consolidée au 2015-12-10
 
 # Partie législative
 
@@ -28487,6 +28487,226 @@ Pour l'application de l'article L. 232-9, un sportif peut se prévaloir d'une ra
 	**Cite**:
 
 	  - Code du sport. - art. L232-9
+
+
+##### Sous-section 3 : Traitement automatisé de données à caractère personnel dénommé "autorisations d'usage à des fins thérapeutiques délivrées aux sportifs"
+
+###### Article R232-85-2
+
+Est autorisée la création par l'Agence française de lutte contre le dopage d'un traitement automatisé de données à caractère
+personnel visant à faciliter les échanges d'informations relatives aux autorisations d'usage à des fins thérapeutiques entre
+cette agence, les agences nationales antidopage, l'Agence mondiale antidopage, les organisations responsables de grandes
+manifestations au sens du 2° de l'article L. 230-3 et les fédérations sportives internationales. 
+
+Ce traitement rassemble les données concernant la substance qui fait l'objet d'une autorisation ou la méthode à laquelle elle
+se rapporte, sa posologie et sa voie d'administration.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1609 du 7 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-3
+
+	**Cité par**:
+
+	  - Code du sport. - art. R232-85-3 (V)
+
+
+###### Article R232-85-3
+
+Le traitement mentionné à l'article R. 232-85-2 a pour finalités de : 
+
+1° Rassembler des informations sur les sportifs au sens de l'article L. 230-3 qui ont été ou sont titulaires d'une
+autorisation d'usage à des fins thérapeutiques ; 
+
+2° Favoriser la reconnaissance mutuelle des autorisations délivrées, dans leur domaine de compétence, par les autorités
+mentionnées au premier alinéa de l'article R. 232-85-2 ; 
+
+3° Eviter l'engagement d'une procédure pénale et disciplinaire à l'encontre d'un sportif titulaire d'une autorisation en
+cours de validité ; 
+
+4° Faciliter l'exercice par l'Agence mondiale antidopage de ses prérogatives en matière d'autorisation à usage thérapeutique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1609 du 7 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-3
+	  - Code du sport. - art. R232-85-2
+
+	**Cité par**:
+
+	  - Code du sport. - art. R232-85-4 (V)
+
+
+###### Article R232-85-4
+
+Sont enregistrées dans le traitement français automatisé des données à caractère personnel mentionné à l'article R. 232-85-3,
+les catégories de données ci-après : 
+
+1° Les données relatives à l'état civil du sportif : 
+
+a) Nom et prénom ; 
+
+b) Date de naissance ; 
+
+c) Sexe ; 
+
+2° L'indication de la discipline sportive pour l'exercice de laquelle l'autorisation a été sollicitée ; 
+
+3° La mention de la pathologie dont le traitement a justifié l'octroi de l'autorisation ; 
+
+4° Les données relatives à la substance autorisée, sa posologie et sa voie d'administration ou la méthode à laquelle elle se
+rapporte ; 
+
+5° La date de délivrance de l'autorisation et sa durée de validité ; 
+
+6° La mention de l'autorité l'ayant délivrée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1609 du 7 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R232-85-3
+
+	**Cité par**:
+
+	  - Code du sport. - art. R232-85-5 (V)
+	  - Code du sport. - art. R232-85-6 (V)
+	  - Code du sport. - art. R232-85-7 (V)
+
+
+###### Article R232-85-5
+
+I.-Les données collectées directement par l'Agence française de lutte contre le dopage en vertu de l'article R. 232-85-4
+alimentent le traitement. 
+
+II.-Ce traitement est également alimenté par les données de même nature mises à la disposition de l'Agence française de lutte
+contre le dopage par : 
+
+1° L'Agence mondiale antidopage à partir du système d'administration et de gestion antidopage hébergé sur une plate-forme
+internet sécurisée au Canada ; 
+
+2° Une fédération sportive internationale à la condition que le lieu d'hébergement des données traitées se trouve dans un
+Etat assurant un niveau de protection suffisant de la vie privée et des libertés et droits fondamentaux des personnes à
+l'égard du traitement dont ces données font l'objet ou peuvent faire l'objet ; 
+
+3° Une agence nationale antidopage, pour autant que le lieu d'hébergement des données traitées satisfasse aux conditions
+mentionnées au 2° ; 
+
+4° Une organisation responsable d'une grande manifestation au sens du 2° de l'article L. 230-3, pour autant que le lieu
+d'hébergement des données traitées satisfasse aux conditions mentionnées au 2°.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1609 du 7 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-3
+	  - Code du sport. - art. R232-85-4
+
+	**Cité par**:
+
+	  - Code du sport. - art. R232-85-7 (V)
+
+
+###### Article R232-85-6
+
+Sont seuls habilités à enregistrer ou modifier les données mentionnées à l'article R. 232-85-4 la personne désignée par le
+président de l'Agence française de lutte contre le dopage pour exercer les fonctions de responsable du service médical de
+l'agence ainsi que les agents placés sous son autorité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1609 du 7 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R232-85-4
+
+
+###### Article R232-85-7
+
+I.-Les données mentionnées à l'article R. 232-85-4 sont communiquées à l'Agence mondiale antidopage. 
+
+II.-Ont accès à ces données avec l'assentiment de l'Agence française de lutte contre le dopage : 
+
+1° Une fédération sportive internationale, pour autant que le lieu d'hébergement des données traitées satisfasse aux
+conditions mentionnées au 2° du II de l'article R. 232-85-5 ; 
+
+2° Une agence nationale antidopage, pour autant que le lieu d'hébergement des données traitées satisfasse aux conditions
+mentionnées au 2° du II de l'article R. 232-85-5 ; 
+
+3° Une organisation responsable d'une grande manifestation au sens du 2° de l'article L. 230-3, pour autant que le lieu
+d'hébergement des données satisfasse aux conditions mentionnées au 2° du II de l'article R. 232-85-5.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1609 du 7 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-3
+	  - Code du sport. - art. R232-85-4
+	  - Code du sport. - art. R232-85-5
+
+
+###### Article R232-85-8
+
+Les informations et les données à caractère personnel enregistrées dans le traitement automatisé ne peuvent être conservées
+au-delà d'un délai supérieur à dix-huit mois à compter de l'expiration de la durée de validité de l'autorisation.
+
+Toutefois, en cas de contentieux, ce délai est prorogé, le cas échéant, jusqu'à l'intervention d'une décision
+juridictionnelle irrévocable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1609 du 7 décembre 2015 - art. 1
+
+
+###### Article R232-85-9
+
+Le responsable du service médical de l'Agence française de lutte contre le dopage, suppléé, le cas échéant, par le conseiller
+scientifique placé auprès du président de l'agence, est responsable du respect des règles de gestion du traitement.
+
+Le droit d'accès et de rectification s'exerce auprès de ce responsable dans les conditions prévues aux articles 39, 40 et 43
+de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés. Le responsable du traitement
+dispose d'un délai de deux mois pour donner suite à la demande.
+
+Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au présent traitement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
+	  - Loi n°78-17 du 6 janvier 1978 - art. 43
+
+	**Créé par**:
+
+	  - Décret n°2015-1609 du 7 décembre 2015 - art. 1
 
 
 ##### Section 4 : Sanctions administratives
