@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-12-10
+Version Consolidée au 2015-12-27
 
 # Partie législative
 
@@ -14049,23 +14049,19 @@ l'article R. 132-9.
 
 ###### Article R*131-46
 
-Sous réserve des dispositions des articles R. 222-24 et R. 331-3, en application du II de l'article 21 de la loi du 12 avril
-2000, le silence gardé pendant deux mois par une fédération sportive délégataire vaut décision de rejet pour les demandes qui
-ne sont pas présentées en qualité de titulaire d'une licence sportive délivrée par cette fédération. 
-
-L'alinéa précédent n'est pas applicable aux demandes de délivrance de la licence sportive.
+En application du II de l'article 21 de la loi du 12 avril 2000 relative aux droits des citoyens dans leurs relations avec
+les administrations, le silence gardé pendant deux mois par une fédération sportive délégataire vaut décision de rejet pour
+les demandes dont la liste figure à l'annexe I-7, qui entrent dans le champ de ses missions de service public.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Loi n°2000-321 du 12 avril 2000 - art. 21
-	  - Code du sport. - art. R222-24
-	  - Code du sport. - art. R331-3
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2015-1462 du 10 novembre 2015 - art. 1
+	  - Décret n°2015-1752 du 24 décembre 2015 - art. 1
 
 
 #### Chapitre II : Ligues professionnelles
@@ -51921,6 +51917,182 @@ l'organe disciplinaire, etc.
 
 	  - Code du sport. - art. R131-3 (M)
 	  - Code du sport. - art. R132-7 (V)
+
+
+###### Article Annexe I-7 (art. R*131-46)
+
+<table>
+    <tbody>
+      <tr>
+        <th>OBJET DE LA DEMANDE
+
+</th>
+        <th>DISPOSITIONS APPLICABLES
+
+</th>
+        <th>DÉLAI À L'EXPIRATION DUQUEL 
+
+la décision de rejet est acquise, lorsqu'il est différent du délai de deux mois
+
+</th>
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+
+Les demandes relatives à l'accès et à la participation des sportifs, individuellement ou par équipe, à des compétitions et
+des épreuves et à l'organisation et au déroulement de ces épreuves, à l'exception de celles prévues par les articles L. 331-5
+et R. 331-3
+
+</td>
+        <td align="left" valign="top">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td align="left" valign="top">
+      </td></tr>
+      <tr>
+        <td valign="top" align="left">
+
+Les demandes relatives à l'équipement des sportifs, aux installations et aux éclairages
+
+</td>
+        <td align="left" valign="top">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td align="left" valign="top">
+      </td></tr>
+      <tr>
+        <td align="left" valign="top">
+
+Les demandes relatives aux relations avec les médias
+
+</td>
+        <td valign="top" align="left">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td align="left" valign="top">
+      </td></tr>
+      <tr>
+        <td align="left" valign="top">
+
+Les demandes relatives aux relations avec les partenaires commerciaux
+
+</td>
+        <td align="left" valign="top">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td align="left" valign="top">
+
+</td>
+      </tr>
+      <tr>
+        <td valign="top" align="left">
+
+Les demandes relatives à l'accueil du public et à l'organisation des billetteries
+
+</td>
+        <td align="left" valign="top">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td valign="top" align="left">
+
+</td>
+      </tr>
+      <tr>
+        <td align="left" valign="top">
+
+Les demandes relatives à la capacité des sportifs, à l'exception des demandes de délivrance de la licence sportive
+
+</td>
+        <td valign="top" align="left">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td align="left" valign="top">
+      </td></tr>
+      <tr>
+        <td align="left" valign="top">
+
+Les demandes relatives à la capacité des clubs et à leurs statuts
+
+</td>
+        <td align="left" valign="top">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td valign="top" align="left">
+      </td></tr>
+      <tr>
+        <td valign="top" align="left">
+
+Les demandes relatives aux règles de jeu et aux règles techniques
+
+</td>
+        <td valign="top" align="left">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td align="left" valign="top">
+      </td></tr>
+      <tr>
+        <td valign="top" align="left">
+
+Les demandes relatives aux agents sportifs, à l'exception de celles prévues par les articles L. 222-15 et R. 222-24
+
+</td>
+        <td valign="top" align="left">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td valign="top" align="left">
+      </td></tr>
+      <tr>
+        <td valign="top" align="left">
+
+Les demandes relatives à l'inscription aux formations et brevets fédéraux
+
+</td>
+        <td align="left" valign="top">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td valign="top" align="left">
+      </td></tr>
+      <tr>
+        <td align="left" valign="top">
+
+Les demandes relatives aux relations avec d'autres fédérations sportives et des associations sportives non affiliées
+
+</td>
+        <td align="left" valign="top">
+
+Règlements des fédérations sportives délégataires
+
+</td>
+        <td valign="top" align="left">
+      </td></tr>
+    </tbody>
+  </table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1752 du 24 décembre 2015 - art.
 
 
 ### Annexes II
