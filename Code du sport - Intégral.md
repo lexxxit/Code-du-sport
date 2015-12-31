@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2015-12-27
+Version Consolidée au 2016-01-01
 
 # Partie législative
 
@@ -336,6 +336,463 @@ visées à l'article L. 113-2, ne peuvent excéder un montant fixé par décret.
 	**Cite**:
 
 	  - Code du sport. - art. L113-2 (V)
+
+
+#### Chapitre IV : Répartition des missions et des compétences entre l'Etat et les régions dans l'organisation et le fonctionnement des centres de ressources, d'expertise et de performance sportive
+
+##### Section 1 : Répartition des missions et des compétences entre l'Etat et les régions
+
+###### Article L114-1
+
+Les centres de ressources, d'expertise et de performance sportive sont des établissements publics locaux de formation dans
+les domaines du sport, de la jeunesse et de l'éducation populaire. Sous réserve de la section 2 du présent chapitre, les
+dispositions relatives au contrôle administratif prévues au titre IV du livre Ier de la quatrième partie du code général des
+collectivités territoriales leur sont applicables. 
+
+Ces établissements sont créés ou fermés par arrêté du ministre chargé des sports sur proposition de la région, chaque région
+métropolitaine ayant vocation à accueillir au moins un de ces établissements sur son territoire.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+
+###### Article L114-2
+
+Les centres de ressources, d'expertise et de performance sportive exercent, au nom de l'Etat, les missions suivantes : 
+
+1° Assurer, en liaison avec les fédérations sportives, la formation et la préparation des sportifs figurant sur les listes
+mentionnées à l'article L. 221-2 ; 
+
+2° Participer au réseau national du sport de haut niveau et assurer le fonctionnement des pôles nationaux de ressources et
+d'expertise dans les domaines du sport, de la jeunesse et de l'éducation populaire ; 
+
+3° Mettre en œuvre des formations initiales et continues dans les domaines des activités physiques ou sportives, en
+application de l'article L. 211-1, et dans les domaines de la jeunesse et de l'éducation populaire, conformément aux
+objectifs nationaux et en lien avec le schéma régional des formations de la région concernée ; 
+
+4° Assurer la formation initiale et continue des agents de l'Etat exerçant leurs missions dans les domaines du sport, de la
+jeunesse et de l'éducation populaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code du sport. - art. L114-14 (VD)
+	  - Code du sport. - art. L114-4 (VD)
+
+	**Cite**:
+
+	  - Code du sport. - art. L211-1 (VT)
+	  - Code du sport. - art. L221-2 (V)
+
+
+###### Article L114-3
+
+Les centres de ressources, d'expertise et de performance sportive peuvent, au nom de la région, exercer les missions
+suivantes : 
+
+1° Assurer l'accueil et l'accompagnement de sportifs régionaux, le cas échéant par le biais de conventions entre régions
+fixant les modalités de leur prise en charge ; 
+
+2° Promouvoir des actions en faveur du sport au service de la santé et du sport pour tous ; 
+
+3° Développer des activités en faveur de la jeunesse et de l'éducation populaire ; 
+
+4° Mettre en œuvre des offres de formation aux métiers du sport et de l'animation, conformément aux besoins identifiés par le
+schéma régional des formations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+
+###### Article L114-4
+
+L'Etat a la charge : 
+
+1° De la rémunération des agents de l'Etat exerçant dans les centres de ressources, d'expertise et de performance sportive,
+sous réserve de l'article L. 114-6 ; 
+
+2° Des missions d'encadrement et de surveillance des sportifs et des stagiaires et des dépenses de fonctionnement directement
+liées à la pédagogie, à la recherche et au transfert d'expériences et de pratiques dans les domaines du sport, de la jeunesse
+et de l'éducation populaire ; 
+
+3° De l'acquisition et de la maintenance des matériels informatiques et des logiciels prévus pour leur mise en service et
+pour l'exercice des missions exercées au nom de l'Etat mentionnées à l'article L. 114-2. 
+
+Le financement de ces dépenses est assuré par les crédits prévus à cet effet par le budget de l'Etat et par les ressources
+propres de chaque établissement.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 133 (V)
+	  - Code du sport. - art. L114-13 (VD)
+	  - Code du sport. - art. L114-5 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L114-2 (VD)
+	  - Code du sport. - art. L114-6 (VD)
+
+
+###### Article L114-5
+
+La région a la charge : 
+
+1° De la construction, de la reconstruction, de l'extension et des grosses réparations des locaux et des infrastructures des
+centres de ressources, d'expertise et de performance sportive ; 
+
+2° De l'entretien général et technique et du fonctionnement des centres de ressources, d'expertise et de performance
+sportive, à l'exception des dépenses de fonctionnement mentionnées au 2° de l'article L. 114-4 ; 
+
+3° De l'acquisition et de la maintenance des équipements des centres de ressources, d'expertise et de performance sportive, à
+l'exception des matériels et logiciels mentionnés au 3° du même article L. 114-4 ; 
+
+4° De l'accueil, de la restauration et de l'hébergement au sein des centres de ressources, d'expertise et de performance
+sportive, à l'exception des missions d'encadrement et de surveillance des sportifs et des stagiaires mentionnées au 2° dudit
+article L. 114-4. 
+
+La région bénéficie du fonds de compensation pour la taxe sur la valeur ajoutée au titre des dépenses d'investissement
+prévues au 1° du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 133 (V)
+	  - Décret n°2015-1696 du 17 décembre 2015 - art. 7 (VD)
+	  - Décret n°2016-1055 du 1er août 2016 - art. 1 (V)
+	  - Décret n°2016-1803 du 20 décembre 2016 - art. 1 (VD)
+	  - Code du sport. - art. L114-6 (VD)
+	  - Code général des collectivités territoriales - art. L4321-1 (VD)
+	  - Code général des collectivités territoriales - art. L4425-29 (VD)
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L114-4 (VD)
+
+
+###### Article L114-6
+
+La région assure le recrutement, la gestion et la rémunération des personnels des centres de ressources, d'expertise et de
+performance sportive exerçant les compétences mentionnées aux 1° à 4° de l'article L. 114-5. Ces personnels exercent leurs
+missions dans les conditions définies à l'article L. 114-16.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code du sport. - art. L114-16 (VD)
+	  - Code du sport. - art. L114-4 (VD)
+	  - Code général des collectivités territoriales - art. L4425-29 (VD)
+
+	**Cite**:
+
+	  - Code du sport. - art. L114-5 (VD)
+
+
+###### Article L114-7
+
+I.-La région est propriétaire des locaux dont elle assure la construction et la reconstruction. 
+
+II.-Les biens immobiliers des centres de ressources, d'expertise et de performance sportive appartenant à l'Etat à la date de
+publication de la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République sont transférés
+en pleine propriété, à titre gratuit, à la région. Celle-ci est substituée à l'Etat dans les droits et obligations liés aux
+biens transférés. Ce transfert ne donne lieu au versement d'aucuns droits ou honoraires, ni d'aucune indemnité ou taxe, ni de
+la contribution prévue à l'article 879 du code général des impôts. Dans le cas où l'Etat a délégué à une personne privée
+l'exécution de tout ou partie des compétences liées au fonctionnement et à l'équipement des centres, la région peut résilier
+ces contrats et elle supporte les charges financières résultant de cette résiliation anticipée. 
+
+III.-Les biens immobiliers des centres de ressources, d'expertise et de performance sportive appartenant à un département, à
+une commune ou à un groupement de communes peuvent être transférés en pleine propriété à la région, à titre gratuit et sous
+réserve de l'accord des parties. Lorsque la région effectue sur ces biens des travaux de construction, de reconstruction ou
+d'extension, ce transfert est de droit, à sa demande, et ne donne lieu au versement d'aucuns droits ou honoraires, ni
+d'aucune indemnité ou taxe, ni de la contribution prévue à l'article 879 du même code.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2015-991 du 7 août 2015 (V)
+	  - Code général des impôts, CGI. - art. 879 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code du sport. - art. L114-8 (VD)
+
+
+###### Article L114-8
+
+Les articles L. 1321-1 à L. 1321-6 du code général des collectivités territoriales s'appliquent aux constructions existantes
+transférées en application de l'article L. 114-7 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L1321-1 (V)
+	  - Code du sport. - art. L114-7 (VD)
+
+
+###### Article L114-9
+
+Les conditions dans lesquelles le maintien des concessions de logement et des prestations accessoires est assuré à certaines
+catégories de personnel de l'Etat dans les établissements relevant de la compétence des régions sont fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+
+##### Section 2 : Organisation des centres de ressources, d'expertise et de performance sportive
+
+##### Sous-section 1 : Organisation administrative
+
+###### Article L114-10
+
+Les centres de ressources, d'expertise et de performance sportive sont administrés par un conseil d'administration composé,
+selon l'importance ou la spécificité de l'établissement, de vingt ou de vingt-cinq membres. 
+
+Le conseil d'administration est présidé par l'une des personnalités qualifiées désignées par le président du conseil régional
+mentionnées au 3°. 
+
+Le conseil d'administration comprend, selon que l'effectif du conseil d'administration est de vingt ou de vingt-cinq
+membres : 
+
+1° Six ou sept représentants de la région et d'autres collectivités territoriales, désignés par les organes délibérants des
+collectivités concernées ; 
+
+2° Trois ou quatre représentants du mouvement sportif, d'associations de jeunesse et d'éducation populaire ou d'organismes
+partenaires du centre, nommés par arrêté du ministre chargé des sports ; 
+
+3° Deux ou trois personnalités qualifiées, désignées par le président du conseil régional ; 
+
+4° Cinq ou six représentants du personnel, des sportifs et des stagiaires, élus à cette fin ; 
+
+5° Quatre ou cinq représentants de l'Etat, nommés par arrêté du ministre chargé des sports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+
+###### Article L114-11
+
+Les centres de ressources, d'expertise et de performance sportive sont dirigés par un directeur. 
+
+Le directeur et ses adjoints sont nommés par arrêté du ministre chargé des sports. La nomination du directeur est soumise
+pour avis préalable au président de la région concernée. 
+
+Le directeur représente l'Etat au sein de l'établissement. 
+
+En cas de difficultés graves dans le fonctionnement du centre de ressources, d'expertise et de performance sportive, le
+directeur peut prendre toutes dispositions nécessaires pour assurer le bon fonctionnement du service public. Le directeur
+expose, dans les meilleurs délais, au conseil d'administration les décisions prises et en rend compte au ministre chargé des
+sports et au président du conseil régional.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+
+###### Article L114-12
+
+Les centres de ressources, d'expertise et de performance sportive disposent, pour l'accomplissement de leurs missions, des
+équipements, des personnels et des crédits qui leur sont attribués par l'Etat et la région. Ils peuvent disposer des
+ressources provenant notamment de la vente des biens, des legs, des rémunérations de services, des droits d'inscription, de
+l'hébergement, de la restauration et de subventions diverses ainsi que de toutes autres recettes autorisées par les lois et
+règlements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+
+##### Sous-section 2 : Organisation financière
+
+###### Article L114-13
+
+Les actes des centres de ressources, d'expertise et de performance sportive relatifs au budget et à ses modifications sont
+préparés, adoptés et deviennent exécutoires dans les conditions définies aux articles L. 421-11, à l'exception du second
+alinéa du a, et L. 421-12 du code de l'éducation. Ces actes ainsi que le compte financier sont soumis au contrôle budgétaire
+dans les conditions définies à l'article L. 421-13 du même code. 
+
+Pour l'application du premier alinéa du présent article, les dépenses pédagogiques mentionnées au second alinéa du e de
+l'article L. 421-11 et au I de l'article L. 421-13 du code de l'éducation correspondent à celles définies au 2° de l'article
+L. 114-4 du présent code et les termes : " autorité académique " mentionnés aux premier et second alinéas du d, au premier
+alinéa du e et au f de l'article L. 421-11 et au second alinéa du II de l'article L. 421-13 du code de l'éducation désignent
+le directeur régional de la jeunesse, des sports et de la cohésion sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-11 (V)
+	  - Code de l'éducation - art. L421-12 (V)
+	  - Code de l'éducation - art. L421-13 (V)
+	  - Code du sport. - art. L114-4 (VD)
+
+	**Cité par**:
+
+	  - Code du sport. - art. R114-12 (VD)
+
+
+###### Article L114-14
+
+I.-Les actes de l'établissement donnant lieu à délibération du conseil d'administration et correspondant aux missions
+définies à l'article L. 114-2 du présent code sont transmis au ministre chargé des sports. Ils deviennent exécutoires quinze
+jours après leur transmission. Dans ce délai, le ministre chargé des sports peut prononcer le retrait de ces actes lorsqu'ils
+sont contraires aux lois et règlements ou de nature à porter atteinte au fonctionnement du service public du sport. La
+décision motivée est communiquée sans délai à l'auteur de l'acte. 
+
+II.-Sous réserve des dispositions particulières applicables au budget et aux décisions le modifiant, les actes de
+l'établissement relatifs à la passation des conventions, notamment des marchés, et les actes relatifs au fonctionnement de
+l'établissement, correspondant aux compétences dévolues à la région, peuvent, dans les conditions prévues à l'article L.
+4142-1 du code général des collectivités territoriales, être déférés au tribunal administratif par le représentant de l'Etat
+dans la région. 
+
+Un décret en Conseil d'Etat fixe la liste des actes mentionnés au premier alinéa du présent II qui sont transmis au
+représentant de l'Etat dans la région. Il précise ceux qui sont exécutoires dès leur transmission et ceux qui sont
+exécutoires quinze jours après leur transmission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L4142-1 (V)
+	  - Code du sport. - art. L114-2 (VD)
+
+
+##### Sous-section 3 : Dispositions applicables au patrimoine mobilier
+
+###### Article L114-15
+
+Les articles L. 421-17 et L. 421-19 du code de l'éducation sont applicables aux centres de ressources, d'expertise et de
+performance sportive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cite**:
+
+	  - Code de l'éducation - art. L421-17 (V)
+	  - Code de l'éducation - art. L421-19 (V)
+
+
+##### Sous-section 4 : Dispositions diverses
+
+###### Article L114-16
+
+I.-Par dérogation à la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, à la loi n° 84-16
+du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et à la loi n° 84-53 du 26
+janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale, les agents de l'Etat ou de la
+région affectés dans un centre de ressources, d'expertise et de performance sportive conservent leur statut, sont administrés
+par la personne publique dont ils relèvent et sont placés sous l'autorité du directeur de l'établissement. Ils sont
+représentés au sein des instances relatives au dialogue social et aux conditions de travail de l'établissement. 
+
+II.-Pour l'exercice des missions et des compétences relevant de l'Etat, le ministre chargé des sports assigne au directeur du
+centre de ressources, d'expertise et de performance sportive des objectifs nationaux. Ceux-ci et les indicateurs associés
+sont définis dans un contrat pluriannuel de performance. 
+
+III.-Pour l'exercice des missions et des compétences incombant à la région, le président du conseil régional s'adresse
+directement au directeur du centre de ressources, d'expertise et de performance sportive. 
+
+Il lui fait connaître les objectifs fixés par la région et les moyens que celle-ci alloue à cet effet à l'établissement. Le
+directeur du centre de ressources, d'expertise et de performance sportive est chargé de mettre en œuvre ces objectifs et de
+rendre compte de l'utilisation de ces moyens. 
+
+Le directeur du centre de ressources, d'expertise et de performance sportive encadre et organise le travail des personnels
+désignés à l'article L. 114-6 du présent code placés sous son autorité. 
+
+Une convention passée entre le centre de ressources, d'expertise et de performance sportive et le conseil régional précise
+les modalités d'exercice de leurs compétences respectives.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 (V)
+	  - Loi n°84-16 du 11 janvier 1984 (V)
+	  - Loi n°84-53 du 26 janvier 1984 (V)
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Code du sport. - art. L114-6 (VD)
+
+
+###### Article L114-17
+
+Un décret en Conseil d'Etat définit les conditions d'application du présent chapitre. 
+
+Il précise notamment le régime financier et comptable de ces établissements. 
+
+Il détermine le régime de droit public applicable à leurs comités techniques et à leurs comités d'hygiène, de sécurité et des
+conditions de travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
+
+	**Cité par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 28 (V)
 
 
 #### Chapitre V : Dispositions particulières relatives à certaines structures de gestion de services publics du sport
@@ -970,28 +1427,29 @@ un marché réglementé.
 ###### Article L122-11
 
 Les sociétés sportives ne peuvent bénéficier des aides prévues par les dispositions du titre Ier du livre V de la première
-partie du code général des collectivités territoriales ainsi que par les articles L. 2251-3 et L. 3231-3 du même code.
+partie du code général des collectivités territoriales ainsi que par l'article L. 2251-3 du même code.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 19-1, alinéa 2
-	  - Loi n°84-610 du 16 juillet 1984 - art. 19-1 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 19-1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
 	**Cité par**:
 
 	  - Loi n°2011-617 du 1er juin 2011 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2015-991 du 7 août 2015 - art. 3
+
 	**Cite**:
 
 	  - Code général des collectivités territoriales - art. L2251-3 (V)
-	  - Code général des collectivités territoriales - art. L3231-3 (V)
 
 
 ##### Section 2 : Sociétés d'économie mixte
@@ -2378,8 +2836,9 @@ français, est puni des peines prévues aux articles L. 716-9 à L. 716-13 du co
 
 ###### Article L211-1
 
-Les établissements publics de formation relevant de l'Etat assurent la formation initiale des personnes qui gèrent, animent,
-encadrent et enseignent les activités physiques et sportives et contribuent à leur formation continue.
+Les établissements publics de formation relevant de l'Etat et les établissements publics locaux de formation dans les
+domaines du sport, de la jeunesse et de l'éducation populaire assurent la formation initiale des personnes qui gèrent,
+animent, encadrent et enseignent les activités physiques et sportives et contribuent à leur formation continue. 
 
 Toutefois, la formation des personnels des collectivités territoriales et de leurs établissements publics s'effectue
 conformément aux dispositions statutaires qui leur sont applicables.
@@ -2389,8 +2848,13 @@ d'éducation dans les conditions fixées à l'article L. 916-1 du code de l'édu
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
 	**Modifié par**:
 
+	  - Loi n°2015-991 du 7 août 2015 - art. 28
 	  - Loi n°2015-991 du 7 août 2015 - art. 29
 
 	**Cité par**:
@@ -8182,17 +8646,15 @@ sports de nature.
 
 ###### Article L311-3
 
-Le département favorise le développement maîtrisé des sports de nature.A cette fin, il élabore un plan départemental des
+Le département favorise le développement maîtrisé des sports de nature. A cette fin, il élabore un plan départemental des
 espaces, sites et itinéraires relatifs aux sports de nature. Ce plan inclut le plan départemental des itinéraires de
 promenade et de randonnée prévu à l'article L. 361-1 du code de l'environnement. Il est mis en oeuvre dans les conditions
-prévues à l'article L. 130-5 du code de l'urbanisme.
+prévues aux articles L. 113-6 et L. 113-7 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 50-2, alinéa 1, 2e à 4e phrases
-	  - Loi n°84-610 du 16 juillet 1984 - art. 50-2 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 50-2 (Ab)
 
 	**Cité par**:
@@ -8210,12 +8672,16 @@ prévues à l'article L. 130-5 du code de l'urbanisme.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 	**Cite**:
 
-	  - Code de l'urbanisme - art. L130-5 (V)
-	  - Code de l'environnement - art. L361-1 (V)
+	  - Code de l'urbanisme - art. L113-6 (VD)
+	  - Code de l'environnement - art. L361-1 (VD)
 
 
 ###### Article L311-4
@@ -9249,23 +9715,19 @@ l'habitation.
 
 ###### Article L331-2
 
-Toute compétition, rencontre, démonstration ou manifestation publique de quelque nature que ce soit, dans une discipline
-sportive, qui n'est pas organisée ou autorisée par une fédération sportive agréée fait l'objet d'une déclaration à l'autorité
-administrative un mois au moins avant la date de la manifestation prévue.
-
-L'autorité administrative peut, par arrêté motivé, interdire la tenue de cette manifestation lorsqu'elle présente des risques
-d'atteinte à la dignité, à l'intégrité physique ou à la santé des participants.
+L'autorité administrative peut, par arrêté motivé, interdire la tenue de toute compétition, rencontre, démonstration ou
+manifestation publique de quelque nature que ce soit, dans une discipline ou une activité sportive lorsqu'elle présente des
+risques d'atteinte à la dignité, à l'intégrité physique ou à la santé des participants.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 49-1 A, alinéas 1 et 2
 	  - Loi n°84-610 du 16 juillet 1984 - art. 49-1 A (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
 	**Cité par**:
 
@@ -9275,27 +9737,29 @@ d'atteinte à la dignité, à l'intégrité physique ou à la santé des partici
 	  - Code du sport. - art. L331-3 (V)
 	  - Code du sport. - art. R331-49 (VD)
 
+	**Modifié par**:
+
+	  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 17
+
 
 ###### Article L331-3
 
-Le fait d'organiser une des manifestations définies au premier alinéa de l'article L. 331-2 sans avoir procédé à la
-déclaration prévue au même alinéa, ou en violation d'une décision d'interdiction prononcée en application du deuxième alinéa
-du même article, est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
+Le fait d'organiser une des manifestations définies à l'article L. 331-2 en violation d'une décision d'interdiction est puni
+d'un an d'emprisonnement et de 15 000 € d'amende.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 49-1 A, alinéa 3
 	  - Loi n°84-610 du 16 juillet 1984 - art. 49-1 A (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du sport. - art. L331-2 (V)
+	  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 17
 
 	**Cité par**:
 
@@ -9463,16 +9927,17 @@ prévue à l'article L. 411-7 du code de la route.
 
 ###### Article L331-8-1
 
-Les manifestations sportives ne comportant pas la participation de véhicules à moteur et se déroulant à l'intérieur du
-territoire d'une seule commune font l'objet d'une déclaration auprès du maire de la commune concernée.
+Les déclarations des manifestations sportives se déroulant sur la voie publique à l'intérieur du territoire d'une seule
+commune et ne comportant pas la participation de véhicule à moteur sont transférées au maire de la commune concernée ou au
+préfet de police à Paris. 
 
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-177 du 16 février 2015 - art. 15 (V)
+	  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 17
 
 
 ##### Section 3 : Obligation d'assurance des organisateurs de manifestations sportives
@@ -19853,20 +20318,14 @@ statut de travailleur indépendant.
 
 ###### Article R212-6
 
-Le            directeur régional de la jeunesse, des sports et de la cohésion sociale  peut, par arrêté motivé et après avoir
-mis l'intéressé en mesure de présenter des observations écrites en défense, interdire à toute personne ayant commis une
-fraude au cours d'un examen visant à l'obtention d'un diplôme mentionné à l'article R. 212-2 délivré par l'Etat de se
-présenter, temporairement ou définitivement, aux examens organisés en application du présent code.
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale peut, par arrêté motivé et après avoir mis
+l'intéressé en mesure de présenter des observations écrites, interdire à toute personne de se présenter, temporairement ou
+définitivement, aux examens et certifications organisés en application du présent code lorsqu'elle a commis une fraude : 
 
-**Nota:**
+- au cours d'un examen ; 
 
-Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
-missions sanitaires et médico-sociales à une agence régionale de santé. 
-
-(date d'entrée en vigueur indéterminée)
-
-Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
-date au 2 avril 2010.
+- au cours d'une évaluation concourant à l'obtention d''un diplôme mentionné à l'article R. 212-2 ou d'un certificat
+complémentaire délivré par l'Etat.
 
 **Liens relatifs à cet article**
 
@@ -19876,7 +20335,8 @@ date au 2 avril 2010.
 
 	**Modifié par**:
 
-	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
+	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 2
 
 	**Cité par**:
 
@@ -20057,6 +20517,599 @@ reconstituée, conformément au sixième alinéa de l'article L. 335-5 du code d
 
 	  - Code de l'éducation - art. R335-5 (V)
 	  - Code du sport. - art. R212-7 (V)
+
+
+##### Paragraphe 3 : Dispositions générales et communes au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires 
+
+##### Sous-Paragraphe 1er : Le jury 
+
+
+
+###### Article R212-10-1
+
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale arrête la liste des membres du jury compétent pour
+l'ensemble des formations et certifications : 
+
+- pour chaque mention du brevet professionnel, du diplôme d'Etat et du diplôme d'Etat supérieur de la jeunesse, de
+l'éducation populaire et du sport (BPJEPS, DEJEPS, DESJEPS) ; 
+
+- ou pour chaque certificat complémentaire. 
+
+Le jury peut organiser en son sein des commissions de travail thématiques ou territoriales. 
+
+Le jury peut faire appel, à l'exception de la validation des acquis de l'expérience, à des experts choisis au sein d'une
+liste arrêtée par le directeur régional de la jeunesse, des sports et de la cohésion sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 21 juin 2016 - art. 6 (MMN)
+	  - Arrêté du 21 juin 2016 - art. 6 (VD)
+	  - Arrêté du 21 juin 2016 - art. 7 (MMN)
+	  - Code du sport. - art. A212-18 (V)
+	  - Code du sport. - art. A212-57 (V)
+
+
+###### Article R212-10-2
+
+Le jury est présidé par un fonctionnaire de catégorie A. 
+
+En cas d'indisponibilité du président du jury, celui-ci peut être suppléé par un agent de catégorie A. 
+
+Outre le président, le jury est composé : 
+
+- de formateurs et cadres techniques, dont la moitié au moins sont des agents de l'Etat ; 
+
+- d'employeurs et de salariés, désignés de façon paritaire sur proposition des organisations représentatives. A défaut de
+proposition des organisations représentatives, le directeur régional de la jeunesse, des sports et de la cohésion sociale
+désigne ces professionnels dans les conditions et délais fixés par arrêté des ministres chargés de la jeunesse et des
+sports. 
+
+Ces professionnels représentent au moins un quart et au plus la moitié des membres du jury. 
+
+Dans le cas où les proportions requises aux trois alinéas précédents ne sont pas atteintes lors de la tenue de ses réunions
+plénières, en raison de l'absence d'un ou de plusieurs de ses membres, le jury peut néanmoins délibérer valablement sous
+réserve de la présence d'au moins un formateur ou cadre technique, au moins un employeur et au moins un salarié, en dehors du
+président ou de son suppléant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-20 (V)
+	  - Code du sport. - art. A212-28 (V)
+
+
+###### Article R212-10-3
+
+Avec l'accord du directeur régional de la jeunesse, des sports et de la cohésion sociale, des moyens de conférence
+audiovisuelle sont ouverts aux candidats pour certaines épreuves certificatives selon des modalités fixées par arrêtés des
+ministres chargés de la jeunesse et des sports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-25 (V)
+
+
+###### Article R212-10-4
+
+Le jury vérifie que l'organisation et le déroulement des épreuves certificatives sont conformes aux règlements du diplôme ou
+du certificat complémentaire et à leur mise en œuvre telle que habilitée par le directeur régional de la jeunesse, des sports
+et de la cohésion sociale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+
+###### Article R212-10-5
+
+Le jury : 
+
+1° Valide les épreuves certificatives conduites : 
+
+- soit par ses membres ; 
+
+- soit par les experts mentionnés au R. 212-10-1 ; 
+
+- soit par l'organisme de formation, quand les épreuves certificatives lui sont déléguées en application de l'article R.
+212-10-8, le cas échéant en demandant à un ou plusieurs de ses membres ou à des experts, en cas d'épreuves certificatives
+déléguées à l'organisme de formation en application de l'article R. 212-10-8, la vérification de leur conformité ; 
+
+2° Se prononce sur la validation intégrale ou partielle des acquis de l'expérience après avoir vérifié si les acquis dont
+fait état le candidat dans son dossier correspondent aux compétences exigées par le règlement du diplôme visé ; 
+
+3° Arrête les résultats, quelles que soient les modalités de certification retenues : 
+
+- des unités capitalisables (UC) constitutives du brevet professionnel, diplôme d'Etat et diplôme d'Etat supérieur de la
+jeunesse, de l'éducation populaire et du sport (BPJEPS, DEJEPS, DESJEPS) ; 
+
+- ou des certificats complémentaires qui peuvent leur être associés. 
+
+Les unités capitalisables sont attribuées selon le référentiel de certification défini aux articles D. 212-23, D. 212-38 et
+D. 212-54 fixé par arrêté des ministres chargés de la jeunesse et des sports et dont l'acquisition est contrôlée par des
+épreuves certificatives.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-26 (V)
+
+
+###### Article R212-10-6
+
+Le jury, souverain dans sa délibération, fait connaître au directeur régional de la jeunesse, des sports et de la cohésion
+sociale les unités capitalisables, les diplômes et les certificats complémentaires qui ont été validés. 
+
+La validité d'une unité capitalisable est de cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+
+###### Article R212-10-7
+
+Dès lors que le candidat justifie de la possession de la totalité des unités capitalisables en état de validité, quel qu'en
+soit le mode d'acquisition, le directeur régional de la jeunesse, des sports et de la cohésion sociale, seul ou, lorsque
+l'arrêté du diplôme le prévoit, conjointement, délivre, conformément à l'article R. 212-10-6, le diplôme dans la spécialité,
+la mention considérée, l'option quand elle existe ou le certificat complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+
+##### Sous-Paragraphe 2 : L'habilitation 
+
+
+###### Article R212-10-8
+
+Tout organisme de formation désirant mettre en place des sessions de formation préparant aux brevet professionnel, diplôme
+d'Etat et diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (BPJEPS, DEJEPS, DESJEPS) doit au
+préalable être habilité par le directeur régional de la jeunesse, des sports et de la cohésion sociale du lieu principal de
+la formation. 
+
+Seuls les organismes de formation habilités en application du premier alinéa peuvent obtenir une habilitation pour mettre en
+place des sessions de formation préparant à un certificat complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-27 (V)
+	  - Code du sport. - art. A212-34 (V)
+
+
+###### Article R212-10-9
+
+L'habilitation de l'organisme de formation est délivrée par le directeur régional de la jeunesse, des sports et de la
+cohésion sociale pour une durée de cinq ans au vu d'un dossier répondant aux exigences du cahier des charges mentionné à
+l'article R. 212-10-11 lui permettant d'apprécier la capacité de l'organisme de formation à dispenser une formation conforme
+au règlement du diplôme préparé et la capacité à offrir des garanties de réussite.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 21 juin 2016 - art. 6 (VD)
+	  - Arrêté du 21 juin 2016 - art. 7 (V)
+	  - Arrêté du 5 septembre 2016 - art. 7 (VD)
+	  - Arrêté du 21 septembre 2016 - art. 6 (V)
+	  - Arrêté du 21 septembre 2016 - art. 6 (VD)
+	  - Arrêté du 21 septembre 2016 - art. 7 (V)
+	  - Arrêté du 28 septembre 2016 - art. 6 (VD)
+	  - Arrêté du 10 octobre 2016 - art. 6 (VD)
+	  - Arrêté du 10 octobre 2016 - art. 8 (VD)
+	  - Arrêté du 31 octobre 2016 - art. 7 (VD)
+	  - Arrêté du 9 novembre 2016 - art. 6 (VD)
+	  - Arrêté du 1er décembre 2016 - art. 6 (V)
+	  - Arrêté du 1er décembre 2016 - art. 7 (V)
+	  - Arrêté du 27 février 2017 - art. 6 (V)
+	  - Arrêté du 27 février 2017 - art. 6 (VD)
+	  - Arrêté du 27 février 2017 - art. 7 (VD)
+	  - Code du sport. - art. A212-29 (V)
+
+
+###### Article R212-10-10
+
+Cette habilitation est délivrée : 
+
+- pour un diplôme, dans une spécialité et une mention ; 
+
+- pour un certificat complémentaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+
+###### Article R212-10-11
+
+I.-Le ministre chargé de la jeunesse et le ministre chargé du sport arrêtent le cahier des charges prévu à l'article R.
+212-10-9. 
+
+Ce cahier des charges comprend : 
+
+1° Des clauses générales liées à la capacité de l'organisme de formation à dispenser une formation professionnelle dans les
+métiers de l'animation et du sport ; 
+
+2° Des clauses particulières en relation directe avec le diplôme visé dans une spécialité voire une mention quand elle existe
+ou un certificat complémentaire. 
+
+II.-Les clauses particulières portent sur les exigences suivantes : 
+
+1° Le respect des dispositions des articles L. 6352-3 à L. 6352-5, L. 6353-1, L. 6353-8 et L. 6353-9 du code du travail ; 
+
+2° La capacité de l'organisme à identifier des objectifs pédagogiques et à adapter son offre au public formé ; 
+
+3° L'adéquation des moyens pédagogiques, techniques et d'encadrement qu'il consacre à la formation, le cas échéant par
+l'appel à des personnes ou des organismes sous-traitants, au regard des objectifs à atteindre, s'agissant en particulier des
+qualifications visées, du public formé et de la durée de l'action de formation ; 
+
+4° La qualité des titres, diplômes et certificats de qualifications professionnelles des personnels en charge de la
+réalisation des actions de formation et leur cohérence avec les formations proposées ; 
+
+5° Selon la nature de l'action, de l'objectif visé et du public formé, sa capacité à mettre en place un système de suivi
+pédagogique et d'évaluation adapté dès l'entrée en formation, la description des moyens pédagogiques et techniques, et les
+résultats obtenus en matière de réussite aux certifications et à d'accès à l'emploi ; 
+
+6° Les modalités de la formation continue des personnels, coordonnateurs et formateurs, en charge de la réalisation des
+actions de formation ; 
+
+7° La mobilisation des structures accueillant les personnes en formation pour la réalisation de leur période d'alternance en
+entreprise telle que définie à l'article R. 212-10-19 ; 
+
+8° La compétence des tuteurs des personnes en alternance en entreprise ainsi que leur qualification, leur expérience
+professionnelle et leur implication dans l'activité professionnelle, dans les diplômes préparés ainsi que les modalités de
+formation et de suivi des tuteurs ; 
+
+9° La capacité à identifier et respecter dans le parcours de formation l'apprentissage par les stagiaires des règles
+déontologiques de la profession.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-32 (V)
+
+
+###### Article R212-10-12
+
+Sous réserve du dépôt du dossier de demande d'habilitation conformément aux modalités et au calendrier arrêtés par le
+directeur régional de la jeunesse, des sports et de la cohésion sociale et après avis du directeur technique national de la
+fédération ayant reçu délégation pour la discipline concernée par la mention pour les diplômes qui le prévoient, le directeur
+régional de la jeunesse, des sports et de la cohésion sociale peut délivrer l'habilitation. 
+
+Le défaut de réponse du directeur régional de la jeunesse, des sports et de la cohésion sociale sur la demande d'habilitation
+dans un délai de six mois vaut autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 21 juin 2016 - art. 8 (VD)
+	  - Arrêté du 21 juin 2016 - art. 9 (VD)
+	  - Arrêté du 5 septembre 2016 - art. 10 (VD)
+	  - Arrêté du 21 septembre 2016 - art. 10 (V)
+	  - Arrêté du 21 septembre 2016 - art. 9 (V)
+	  - Arrêté du 21 septembre 2016 - art. 9 (VD)
+	  - Arrêté du 28 septembre 2016 - art. 9 (VD)
+	  - Arrêté du 10 octobre 2016 - art. 11 (VD)
+	  - Arrêté du 10 octobre 2016 - art. 9 (VD)
+	  - Arrêté du 31 octobre 2016 - art. 10 (VD)
+	  - Arrêté du 9 novembre 2016 - art. 9 (VD)
+	  - Arrêté du 1er décembre 2016 - art. 12 (V)
+	  - Arrêté du 1er décembre 2016 - art. 9 (V)
+	  - Arrêté du 27 février 2017 - art. 11 (VD)
+	  - Arrêté du 27 février 2017 - art. 12 (VD)
+	  - Arrêté du 27 février 2017 - art. 9 (V)
+	  - Arrêté du 27 février 2017 - art. 9 (VD)
+	  - Code du sport. - art. A212-31 (V)
+
+
+###### Article R212-10-13
+
+Dans sa demande d'habilitation, l'organisme de formation s'engage à : 
+
+1° Respecter les conditions fixées par le cahier des charges mentionné à l'article R. 212-10-11 et le règlement du diplôme ou
+du certificat complémentaire pendant toute la période de l'habilitation ; 
+
+2° Déclarer ses sessions de formation selon des modalités définies par arrêté des ministres chargés de la jeunesse et des
+sports ; 
+
+3° Renseigner l'outil national de suivi des inscriptions et des résultats aux épreuves certificatives conformément aux
+dispositions transmises par le directeur régional de la jeunesse, des sports et de la cohésion sociale lors de la décision
+d'habilitation ; 
+
+4° Procéder à l'inscription auprès de la direction régionale de la jeunesse, des sports et de la cohésion sociale des
+personnes entrant en formation après vérification des conditions d'inscription fixées dans le règlement du diplôme ou du
+certificat complémentaire ; 
+
+5° Communiquer les pièces demandées par la direction régionale de la jeunesse, des sports et de la cohésion sociale prévues
+par arrêté des ministres chargés de la jeunesse et des sports lors de l'inscription des personnes entrant en formation ; 
+
+6° Présenter à la direction régionale de la jeunesse, des sports et de la cohésion sociale toute pièce demandée lors des
+contrôles sur pièce ou sur site et faciliter le déroulement des contrôles sur site ; 
+
+7° Obtenir la validation écrite du directeur régional de la jeunesse, des sports et de la cohésion sociale pour toute
+modification du dossier initialement déposé ; 
+
+8° Fournir à la direction régionale de la jeunesse, des sports et de la cohésion sociale toutes les pièces nécessaires à la
+tenue des jurys ; 
+
+9° Présenter un bilan des actions de formation et de leur mise en œuvre et un bilan d'insertion des diplômés selon des
+modalités fixées par arrêté des ministres chargés de la jeunesse et des sports ; 
+
+10° Signaler à la direction régionale de la jeunesse, des sports et de la cohésion sociale tout cas de fraude et tout
+incident ou dysfonctionnement lors d'épreuves certificatives déléguées ; 
+
+11° Respecter les règles déontologiques de fonctionnement des jurys.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-32 (V)
+	  - Code du sport. - art. A212-33 (V)
+	  - Code du sport. - art. A212-37 (V)
+	  - Code du sport. - art. A212-39 (V)
+
+
+###### Article R212-10-14
+
+Sur demande de l'organisme de formation habilité déposée au moins six mois avant le terme de l'habilitation auprès du
+directeur régional de la jeunesse, des sports et de la cohésion sociale, celui-ci peut accorder un renouvellement de
+l'habilitation pour cinq ans après s'être assuré : 
+
+1° Du respect des engagements souscrits lors de la demande d'habilitation ; 
+
+2° De la tenue à jour du dossier répondant au cahier des charges ; 
+
+3° Du respect du cahier des charges ; 
+
+4° De la qualité de la mise en œuvre des sessions de formations antérieures sur la base des bilans produits ou des contrôles
+effectués. 
+
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale notifie sa décision au plus tard deux mois après
+réception de la demande de renouvellement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-34 (V)
+
+
+###### Article R212-10-15
+
+En cas de non-respect d'une des obligations prévues aux articles R. 212-10-11 à R. 212-10-13, le directeur régional de la
+jeunesse, des sports et de la cohésion sociale peut procéder : 
+
+1° A la suspension de l'habilitation de l'organisme de formation. Cette décision entraîne la suspension de l'ouverture de
+toute session de formation non commencée à la date de la décision ; 
+
+2° A la suspension d'une ou de plusieurs sessions de formation en cours ou à venir. 
+
+Sauf en cas d'urgence, la décision de suspension est prise après que le titulaire ait été mis en mesure de présenter ses
+observations. 
+
+La décision de suspension de l'habilitation ou des sessions de formation est prononcée pour une durée de six mois maximum. Il
+y est mis fin lorsque l'organisme de formation rapporte la preuve qu'il respecte de nouveau les obligations définies aux
+articles R. 212-10-11 à R. 212-10-13. Si au terme du délai de suspension prononcé, l'organisme de formation ne respecte
+toujours pas les obligations dont le non-respect a justifié la suspension, le directeur régional de la jeunesse, des sports
+et de la cohésion sociale procède, dans le respect des droits de la défense, au retrait de l'habilitation de l'organisme de
+formation ou à la fermeture définitive de la session.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+
+###### Article R212-10-16
+
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale peut procéder au retrait de l'habilitation de
+l'organisme de formation en cas de non-respect d'une des obligations prévues aux articles R. 212-10-11 à R. 212-10-13 après
+que celui-ci a été amené à présenter ses observations en défense. 
+
+Ce retrait d'habilitation a pour conséquence l'impossibilité de mettre en place toute session de formation non commencée à la
+date de la décision et la fermeture des sessions en cours. 
+
+Le retrait de l'habilitation délivrée en application du premier alinéa de l'article R. 212-10-8 entraîne le retrait de
+l'habilitation délivrée en application du second alinéa de ce même article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+
+##### Sous-Paragraphe 3 : Les modalités de la formation
+
+###### Article R212-10-17
+
+Des exigences préalables à l'entrée en formation permettant de vérifier le niveau des personnes désirant suivre la formation
+et définies par l'arrêté de spécialité, de mention, d'option ou de certificats complémentaires peuvent être requises pour
+accéder aux formations prévues aux articles D. 212-24, D. 212-27, D. 212-40, D. 212-43, D. 212-56 et D. 212-59. 
+
+Des tests d'exigences préalables peuvent être prévus pour vérifier ce niveau.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 15 décembre 2006 - art. 3 (V)
+	  - Arrêté du 15 décembre 2006 - art. 5 (V)
+	  - Arrêté du 13 juin 2016 - art. 2
+	  - Arrêté du 13 juin 2016 - art. 4
+	  - Arrêté du 21 juin 2016 - art. 5 (VD)
+	  - Arrêté du 21 juin 2016 - art. 6 (VD)
+	  - Arrêté du 18 juillet 2016 - art. 5 (VD)
+	  - Arrêté du 5 septembre 2016 - art. 6 (VD)
+	  - Arrêté du 21 septembre 2016 - art. 5 (V)
+	  - Arrêté du 21 septembre 2016 - art. 5 (VD)
+	  - Arrêté du 21 septembre 2016 - art. 6 (V)
+	  - Arrêté du 28 septembre 2016 - art. 5 (VD)
+	  - Arrêté du 10 octobre 2016 - art. 5 (VD)
+	  - Arrêté du 10 octobre 2016 - art. 7 (VD)
+	  - Arrêté du 31 octobre 2016 - art. 6 (VD)
+	  - Arrêté du 9 novembre 2016 - art. 5 (V)
+	  - Arrêté du 9 novembre 2016 - art. 5 (VD)
+	  - Arrêté du 1er décembre 2016 - art. 5 (V)
+	  - Arrêté du 1er décembre 2016 - art. 6 (V)
+	  - Arrêté du 27 février 2017 - art. 5 (V)
+	  - Arrêté du 27 février 2017 - art. 5 (VD)
+	  - Arrêté du 27 février 2017 - art. 6 (VD)
+	  - Code du sport. - art. A212-35 (V)
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+
+###### Article R212-10-18
+
+Quand ils sont prévus ces tests font l'objet d'une harmonisation nationale de la spécialité, la mention, l'option ou du
+certificat complémentaire afin de garantir l'égalité d'accès aux personnes désirant entrer en formation sur le territoire. 
+
+L'organisation de cette harmonisation nationale est précisée par arrêté des ministres chargés de la jeunesse et des sports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-40 (V)
+
+
+###### Article R212-10-19
+
+Les situations de formation en entreprise recouvrant des phases d'encadrement de public, déterminées dans le processus
+pédagogique du brevet professionnel, du diplôme d'Etat ou du diplôme d'Etat supérieur de la jeunesse, de l'éducation
+populaire et du sport ou des certificats complémentaires, sont mises en place par l'organisme de formation habilité, sous la
+responsabilité d'un tuteur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+
+###### Article R212-10-20
+
+Pour exercer contre rémunération les fonctions prévues à l'article L. 212-1 les personnes en cours de formation préparant à
+un diplôme, un titre à finalité professionnelle ou un certificat de qualification mentionnés à l'article R. 212-1 doivent,
+dans les conditions prévues par le règlement de ces diplômes, titres ou certificats de qualification, être placées sous
+l'autorité d'un tuteur et avoir satisfait aux exigences préalables à leur mise en situation professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Arrêté du 21 juin 2016 - art. 6 (VD)
+	  - Arrêté du 21 juin 2016 - art. 7 (V)
+	  - Arrêté du 5 septembre 2016 - art. 7 (VD)
+	  - Arrêté du 21 septembre 2016 - art. 6 (V)
+	  - Arrêté du 21 septembre 2016 - art. 6 (VD)
+	  - Arrêté du 21 septembre 2016 - art. 7 (V)
+	  - Arrêté du 28 septembre 2016 - art. 6 (VD)
+	  - Arrêté du 10 octobre 2016 - art. 6 (VD)
+	  - Arrêté du 10 octobre 2016 - art. 8 (VD)
+	  - Arrêté du 31 octobre 2016 - art. 7 (VD)
+	  - Arrêté du 9 novembre 2016 - art. 6 (VD)
+	  - Arrêté du 1er décembre 2016 - art. 6 (V)
+	  - Arrêté du 27 février 2017 - art. 6 (V)
+	  - Arrêté du 27 février 2017 - art. 6 (VD)
+	  - Arrêté du 27 février 2017 - art. 7 (VD)
+
+	**Cite**:
+
+	  - Code du sport. - art. L212-1
+	  - Code du sport. - art. R212-1
+
+
+##### Paragraphe 4 : Dispositions diverses relatives à l'outre-mer 
+
+
+
+###### Article R212-10-21
+
+Pour l'application des dispositions de la présente sous-section aux départements et régions d'outre-mer : 
+
+1° La référence à la “ direction régionale de la jeunesse, des sports et de la cohésion sociale ” est remplacée par la
+référence à la “ direction de la jeunesse, des sports et de la cohésion sociale ” ; 
+
+2° La référence au “ directeur régional de la jeunesse, des sports et de la cohésion sociale ” est remplacée par la référence
+au “ directeur de la jeunesse, des sports et de la cohésion sociale ”.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2015-1527 du 24 novembre 2015 - art. 1
 
 
 ##### Sous-section 2 : Diplômes, titres à finalité professionnelle ou certificats de qualification
@@ -20707,58 +21760,6 @@ dispense.
 	  - Code du sport. - art. D212-21
 
 
-###### Article R212-29
-
-Le jury est nommé par le directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par un
-fonctionnaire de catégorie A. Il est composé :
-
-- de formateurs et cadres techniques, dont la moitié au moins sont des agents de l'Etat ;
-
-- de professionnels du secteur d'activité comprenant, de façon paritaire, des employeurs et salariés désignés sur proposition
-des organisations représentatives, sauf dispositions particulières prévues par l'arrêté de création de la spécialité. 
-
-Ces professionnels représentent au moins un quart et au plus la moitié des membres du jury.
-
-**Nota:**
-
-Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
-missions sanitaires et médico-sociales à une agence régionale de santé. 
-
-(date d'entrée en vigueur indéterminée)
-
-Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
-date au 2 avril 2010.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-792 du 31 août 2001 - art. 10 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 9 juillet 2002 - art. 7 (VT)
-	  - Arrêté du 27 décembre 2007 - art. 6 (VT)
-	  - Arrêté du 28 avril 2011 - art. 6 (VT)
-	  - Arrêté du 6 juillet 2011 - art. 5 (VT)
-	  - Arrêté du 11 juillet 2011 - art. 6 (V)
-	  - Arrêté du 29 avril 2013 - art. 5 (V)
-	  - Arrêté du 29 avril 2013 - art. 6 (VT)
-	  - Arrêté du 15 octobre 2013 - art. 6 (V)
-	  - Arrêté du 15 octobre 2013 - art. 5 (VT)
-	  - Arrêté du 28 janvier 2014 - art. 5 (V)
-	  - Code du sport. - art. A212-32 (M)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
-	  - Décret n°2012-164 du 1er février 2012 - art. 1
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
-
-
 ###### Article R212-30
 
 Chaque unité capitalisable, quel qu'en soit le mode d'acquisition, est délivrée par le directeur régional de la jeunesse, des
@@ -20819,50 +21820,6 @@ date au 2 avril 2010.
 	**Cité par**:
 
 	  - Code du sport. - art. A212-42 (M)
-
-
-###### Article R212-32
-
-Les organismes de formation préparant au brevet professionnel pour une spécialité et, le cas échéant, une mention doivent
-avoir obtenu, préalablement à la mise en place de la formation, une habilitation du directeur régional de la jeunesse, des
-sports et de la cohésion sociale du lieu de formation. 
-
-Ces organismes de formation peuvent, au cours de la période pendant laquelle ils sont habilités, demander une habilitation
-spécifique pour une session ou des sessions de formation à une unité capitalisable complémentaire ou à un certificat de
-spécialisation. 
-
-Les conditions de délivrance de l'habilitation sont fixées par arrêté des ministres chargés de la jeunesse et des sports
-après avis de la commission professionnelle consultative des métiers du sport et de l'animation.
-
-**Nota:**
-
-Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
-missions sanitaires et médico-sociales à une agence régionale de santé. 
-
-(date d'entrée en vigueur indéterminée)
-
-Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
-date au 2 avril 2010.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-792 du 31 août 2001 - art. 13 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
-	  - Décret n°2012-164 du 1er février 2012 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-175-12 (V)
-	  - Code du sport. - art. A212-20 (M)
 
 
 ##### Paragraphe 3 : Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport
@@ -21096,69 +22053,6 @@ Dans tous les cas, le parcours individualisé de formation est précédé d'un p
 	  - Code du sport. - art. D212-36 (V)
 
 
-###### Article D212-44
-
-Des exigences préalables, définies par mention, peuvent être requises pour accéder aux formations prévues à l'article D.
-212-43.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-1418 du 20 novembre 2006 - art. 10 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 27 avril 2007 - art. 3 (V)
-	  - Arrêté du 12 juillet 2007 - art. 3 (V)
-	  - Arrêté du 27 décembre 2007 - art. 3 (M)
-	  - Arrêté du 27 décembre 2007 - art. 3 (V)
-	  - Arrêté du 31 décembre 2007 - art. 3 (V)
-	  - Arrêté du 4 janvier 2008 - art. 3 (V)
-	  - Arrêté du 10 janvier 2008 - art. 3 (V)
-	  - Arrêté du 22 janvier 2008 - art. 3 (V)
-	  - Arrêté du 14 février 2008 (V)
-	  - Arrêté du 14 février 2008 - art. 3 (V)
-	  - Arrêté du 1 juillet 2008 - art. 3 (V)
-	  - Arrêté du 1er juillet 2008 - art. 3 (V)
-	  - Arrêté du 18 décembre 2008 - art. 3 (V)
-	  - Arrêté du 18 décembre 2008 (V)
-	  - Arrêté du 15 avril 2009 - art. 3 (V)
-	  - Arrêté du 29 juin 2009 - art. 3 (V)
-	  - Arrêté du 29 juin 2009 (V)
-	  - Arrêté du 5 janvier 2010 - art. 3 (V)
-	  - Arrêté du 15 mars 2010 - art. 3 (V)
-	  - Arrêté du 18 mai 2010 - art. 3 (V)
-	  - Arrêté du 26 mai 2010 - art. 4 (V)
-	  - Arrêté du 8 novembre 2010 - art. 3 (V)
-	  - Arrêté du 17 janvier 2011 - art. 2
-	  - Arrêté du 25 janvier 2011 - art. 3 (V)
-	  - Arrêté du 28 avril 2011 - art. 3 (V)
-	  - Arrêté du 6 juillet 2011 - art. 3 (VD)
-	  - Arrêté du 11 juillet 2011 - art. 3 (V)
-	  - Arrêté du 8 août 2011 - art. 3 (V)
-	  - Arrêté du 29 décembre 2011 - art. 3 (V)
-	  - Arrêté du 31 janvier 2012 - art. 3 (V)
-	  - Arrêté du 30 avril 2013 - art. 3 (V)
-	  - Arrêté du 15 octobre 2013 - art. 3 (V)
-	  - Arrêté du 23 juin 2014 - art. 3 (V)
-	  - Arrêté du 5 février 2015 - art. 3 (V)
-	  - Arrêté du 1er décembre 2016 - art. 3 (V)
-	  - Arrêté du 6 mars 2017 - art. 2
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. D212-43
-
-
 ###### Article D212-49
 
 Le cursus de formation mis en oeuvre par un organisme habilité respecte le principe de l'alternance prévoyant les séquences
@@ -21200,43 +22094,6 @@ jeunesse, de l'éducation populaire et du sport.
 	**Codifié par**:
 
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article R212-45
-
-Le jury est nommé par le directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par un
-fonctionnaire de catégorie A. Outre son président, il est composé, à parts égales :
-
-- de formateurs et de cadres techniques, dont la moitié au moins sont des agents du ministère chargé de la jeunesse et des
-sports ;
-
-- de professionnels du secteur d'activité, à parité employeurs et salariés, choisis sur proposition des organisations
-représentatives.
-
-**Nota:**
-
-Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
-missions sanitaires et médico-sociales à une agence régionale de santé. 
-
-(date d'entrée en vigueur indéterminée)
-
-Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
-date au 2 avril 2010.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-62 (Ab)
-	  - Code du sport. - art. A212-67 (Ab)
 
 
 ###### Article R212-46
@@ -21290,40 +22147,6 @@ date au 2 avril 2010.
 	**Cité par**:
 
 	  - Code du sport. - art. A212-71 (Ab)
-
-
-###### Article R212-48
-
-Les organismes de formation préparant à ce diplôme par la voie des unités capitalisables pour une ou plusieurs mentions
-doivent avoir obtenu, préalablement à la mise en place de la formation, une habilitation du            directeur régional de
-la jeunesse, des sports et de la cohésion sociale  du lieu de formation. 
-
-Les conditions de délivrance de l'habilitation sont fixées par l'arrêté organisant la spécialité.
-
-**Nota:**
-
-Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
-missions sanitaires et médico-sociales à une agence régionale de santé. 
-
-(date d'entrée en vigueur indéterminée)
-
-Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
-date au 2 avril 2010.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (Ab)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-175-12 (V)
-	  - Code du sport. - art. A212-52 (M)
 
 
 ##### Paragraphe 4 : Diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport
@@ -21557,59 +22380,6 @@ Dans tous les cas, le parcours individualisé de formation est précédé d'un p
 	  - Code du sport. - art. D212-52 (V)
 
 
-###### Article D212-60
-
-Des exigences préalables, définies par mention, peuvent être requises pour accéder aux formations prévues à l'article D.
-212-59.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-1419 du 20 novembre 2006 - art. 10 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 du 24 juillet 2007
-
-	**Cité par**:
-
-	  - Arrêté du 27 décembre 2007 - art. 3 (M)
-	  - Arrêté du 27 décembre 2007 - art. 3 (V)
-	  - Arrêté du 31 décembre 2007 - art. 3 (V)
-	  - Arrêté du 4 janvier 2008 - art. 3 (V)
-	  - Arrêté du 10 janvier 2008 - art. 3 (V)
-	  - Arrêté du 22 janvier 2008 - art. 3 (V)
-	  - Arrêté du 1er juillet 2008 - art. 3 (V)
-	  - Arrêté du 1 juillet 2008 - art. 3 (V)
-	  - Arrêté du 18 décembre 2008 - art. 3 (V)
-	  - Arrêté du 18 décembre 2008 (V)
-	  - Arrêté du 15 avril 2009 - art. 3 (V)
-	  - Arrêté du 29 juin 2009 - art. 3 (V)
-	  - Arrêté du 29 juin 2009 (V)
-	  - Arrêté du 15 mars 2010 - art. 3 (V)
-	  - Arrêté du 18 mai 2010 - art. 3 (V)
-	  - Arrêté du 8 novembre 2010 - art. 3 (V)
-	  - Arrêté du 25 janvier 2011 - art. 3 (V)
-	  - Arrêté du 28 avril 2011 - art. 3 (V)
-	  - Arrêté du 6 juillet 2011 - art. 3 (VD)
-	  - Arrêté du 11 août 2011 - art. 3 (V)
-	  - Arrêté du 11 juillet 2011 - art. 3 (VT)
-	  - Arrêté du 29 décembre 2011 - art. 3 (V)
-	  - Arrêté du 26 avril 2012 - art. 3 (V)
-	  - Arrêté du 30 avril 2013 - art. 3 (V)
-	  - Arrêté du 15 octobre 2013 - art. 3 (V)
-	  - Arrêté du 6 mars 2017 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. D212-59
-
-
 ###### Article D212-65
 
 Le cursus de formation mis en oeuvre par un organisme habilité respecte le principe de l'alternance prévoyant les séquences
@@ -21652,47 +22422,6 @@ fonctions d'animation ou du diplôme d'Etat de directeur de projet d'animation e
 	**Codifié par**:
 
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-
-###### Article R212-61
-
-Le jury est nommé par le directeur régional de la jeunesse, des sports et de la cohésion sociale. Il est présidé par un
-fonctionnaire de catégorie A. Outre son président, il est composé à parts égales :
-
-- de formateurs et de cadres techniques, dont la moitié au moins sont des agents du ministère chargé de la jeunesse et des
-sports ;
-
-- de professionnels du secteur d'activité, à parité employeurs et salariés, choisis sur proposition des organisations
-représentatives.
-
-**Nota:**
-
-Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
-missions sanitaires et médico-sociales à une agence régionale de santé. 
-
-(date d'entrée en vigueur indéterminée)
-
-Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
-date au 2 avril 2010.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-1419 du 20 novembre 2006 - art. 11 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-89 (Ab)
-	  - Code du sport. - art. A212-94 (Ab)
 
 
 ###### Article R212-62
@@ -21754,44 +22483,6 @@ date au 2 avril 2010.
 	**Cité par**:
 
 	  - Code du sport. - art. A212-98 (Ab)
-
-
-###### Article R212-64
-
-Les organismes de formation préparant à ce diplôme par la voie des unités capitalisables pour une ou plusieurs mentions
-doivent avoir obtenu, préalablement à la mise en place de la formation, une habilitation du            directeur régional de
-la jeunesse, des sports et de la cohésion sociale  du lieu de formation. 
-
-Les conditions de délivrance de l'habilitation sont fixées par l'arrêté organisant la spécialité.
-
-**Nota:**
-
-Décret n° 2009-1540 du 10 décembre 2009 art 10 : les présentes dispositions entrent en vigueur à la date de la dévolution des
-missions sanitaires et médico-sociales à une agence régionale de santé. 
-
-(date d'entrée en vigueur indéterminée)
-
-Décret n° 2010-336 du 31 mars 2010 portant création des agences régionales de santé, paru au JORF du 1er avril 2010, fixe la
-date au 2 avril 2010.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2006-1419 du 20 novembre 2006 - art. 14 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°2009-1540 du 10 décembre 2009 - art. 10 (VD)
-
-	**Abrogé par**:
-
-	  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-175-12 (V)
-	  - Code du sport. - art. A212-79 (Ab)
 
 
 ##### Paragraphe 5 : Diplômes d'Etat des métiers d'enseignement, d'encadrement et d'entraînement des sports de montagne
@@ -38439,37 +39130,18 @@ au candidat ayant réussi l'ensemble des épreuves.
 	  - Arrêté du 24 décembre 2008 - art. 2
 
 
-#####  Sous-section 3 : Brevet professionnel de la jeunesse,  de l'éducation populaire et du sport
+##### Sous-section 2 bis : Dispositions générales et communes au brevet professionnel, au diplôme d'Etat et au diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport (BPJEPS, DEJEPS, DESJEPS) et à leurs certificats complémentaires
 
-#####  Paragraphe 1 : Conditions d'inscription
+
+
+##### Paragraphe 1 : Le jury
+
+
 
 ###### Article A212-17
 
-Lorsque la formation est organisée dans une spécialité et, quand elle existe, dans une mention donnée de cette spécialité
-ainsi que dans le cadre d'une unité capitalisable complémentaire ou d'un certificat de spécialisation, pour une certification
-en unités capitalisables, le dossier de candidature est déposé un mois avant la date fixée pour les tests de vérification des
-exigences préalables pour l'entrée en formation auprès du directeur régional de la jeunesse, des sports et de la cohésion
-sociale qui a habilité l'organisme de formation conformément aux articles A. 212-20 à A. 212-26. 
-
-Le dossier comprend les pièces suivantes : 
-
-1° Une fiche d'inscription normalisée avec photographie ; 
-
-2° Les copies de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
-défense pour les Français de moins de vingt-cinq ans ; 
-
-3° La ou les attestations justifiant de la satisfaction aux exigences préalables fixées par l'arrêté portant création de la
-spécialité, de la mention, de l'unité capitalisable complémentaire ou du certificat de spécialisation visé ; 
-
-4° Pour les personnes en situation de handicap, et selon la certification visée, l'avis d'un médecin agréé par la Fédération
-française handisport ou par la Fédération française de sport adapté ou désigné par la commission des droits et de l'autonomie
-des personnes handicapées en vue de l'application des articles A. 212-44 et A. 212-45 ; 
-
-5° La ou les autres pièces prévues par l'arrêté portant création de la spécialité, de la mention, de l'unité capitalisable
-complémentaire ou du certificat de spécialisation visé ; 
-
-6° La photocopie du diplôme autorisant l'inscription en formation à une unité capitalisable complémentaire ou à un certificat
-de spécialisation.
+Un jury par mention ou par certificat complémentaire est constitué par le directeur régional de la jeunesse, des sports et de
+la cohésion sociale.
 
 **Liens relatifs à cet article**
 
@@ -38481,43 +39153,20 @@ de spécialisation.
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-20
-	  - Code du sport. - art. A212-44
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 
 ###### Article A212-18
 
-Lorsque la certification est réalisée par validation des acquis de l'expérience, le dossier de candidature est composé comme
-suit :
-
-- une première partie relative à la recevabilité de la demande (ou livret de recevabilité) ;
-
-- une notice explicative accompagnant le livret de recevabilité ;
-
-- une seconde partie relative à la description et à l'analyse des activités réalisées par le candidat ;
-
-- un guide méthodologique. 
-
-Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de
-la nature de son expérience au directeur régional de la jeunesse, des sports    et de la cohésion sociale de son lieu de
-domicile, qui se prononce sur la recevabilité de sa demande. 
-
-La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le
-diplôme visé. 
-
-En outre, le candidat à un diplôme permettant l'encadrement d'activités s'exerçant en environnement spécifique, définies à
-l'article R. 212-7, doit satisfaire aux exigences techniques préalables à l'entrée dans la formation ou à l'inscription à
-l'examen pour l'obtention de ce diplôme.
+Les experts mentionnés au dernier alinéa de l'article R. 212-10-1 sont choisis par le directeur régional de la jeunesse, des
+sports et de la cohésion sociale en raison de leur expérience, de leurs compétences et de leur niveau technique dans le
+domaine considéré par le diplôme visé.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 1
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cité par**:
 
@@ -38525,64 +39174,41 @@ l'examen pour l'obtention de ce diplôme.
 
 	**Cite**:
 
-	  - Code du sport. - art. R212-7
+	  - Code du sport. - art. R212-10-1
 
 
 ###### Article A212-19
 
-Lorsque la certification est réalisée au moyen d'un examen composé d'épreuves ponctuelles, le dossier de candidature, dont la
-composition est conforme à celle fixée à l'article A. 212-17, est déposé deux mois avant la date d'organisation de la
-première épreuve auprès du directeur régional de la jeunesse, des sports    et de la cohésion sociale, organisateur de
-l'examen.
+Il est mis fin par le directeur régional de la jeunesse, des sports et de la cohésion sociale aux fonctions d'un membre du
+jury en cas :
+
+- d'empêchement constaté par lui ;
+
+- de démission ;
+
+- de manquement aux règles déontologiques du jury ou pour trois absences non justifiées.
+
+Dans ce cas, le directeur régional de la jeunesse, des sports et de la cohésion sociale procède à la désignation d'un nouveau
+membre du jury.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 1
+	  - Arrêté du 21 décembre 2015 - art. 1
 
-	**Cite**:
-
-	  - Code du sport. - art. A212-17
-
-
-#####  Paragraphe 2 : L'habilitation
 
 ###### Article A212-20
 
-Conformément à l'article R. 212-32, les organismes de formation préparant au brevet professionnel par la voie des unités
-capitalisables doivent avoir obtenu une habilitation pour la spécialité préparée et, quand elle existe, pour une mention
-donnée de cette spécialité. 
-
-Un dossier de demande d'habilitation est déposé dans les conditions fixées par le directeur régional de la jeunesse, des
-sports et de la cohésion sociale. Le défaut de réponse dans un délai de six mois vaut autorisation.
-
-1. Ce dossier comprend, pour une demande initiale : 
-
-a) Une présentation de l'organisme et de son organisation administrative, financière et pédagogique ; 
-
-b) Le nombre de sessions de formation envisagé sur la période d'habilitation et l'effectif maximum de stagiaires en parcours
-complet par session de formation ; 
-
-c) Une présentation détaillée de la première session de formation, incluant, le cas échéant, l'unité capitalisable
-complémentaire ou le certificat de spécialisation associé, permettant l'appréciation des critères prévus à l'article A.
-212-22. Dans le cas d'une formation accueillant des apprentis, cette partie de dossier est visée par le centre de formation
-d'apprentis concerné ; 
-
-d) Une analyse des profils et les perspectives d'emploi visées par l'organisme accueillant des stagiaires qui ne sont pas en
-situation d'emploi avant leur entrée en formation. 
-
-2. L'organisme de formation peut demander le renouvellement de son habilitation avant la date d'échéance en présentant au
-directeur régional de la jeunesse, des sports et de la cohésion sociale le dossier de demande d'habilitation actualisé. 
-
-Ce dossier comporte alors l'état de l'insertion professionnelle des diplômés et l'analyse des résultats pour chaque
-certification de la session ou des sessions relevant de l'habilitation précédente.
+En l'absence de proposition des organisations représentatives mentionnées à l'article R. 212-10-2, deux mois après leur
+saisine, le directeur régional de la jeunesse, des sports et de la cohésion sociale désigne de façon paritaire des
+représentants qualifiés dans le champ de l'animation ou du sport.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 11 décembre 2014 - art. 2
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cité par**:
 
@@ -38591,52 +39217,27 @@ certification de la session ou des sessions relevant de l'habilitation précéde
 
 	**Cite**:
 
-	  - Code du sport. - art. R212-32
-
-
-###### Article A212-20-1
-
-Pour  une session de formation à une unité capitalisable complémentaire ou à  un certificat de spécialisation, le dossier de
-demande d'habilitation  comprend : 
-
-a) Le nombre de sessions de formation  envisagé pour la période d'habilitation et l'effectif maximum de  stagiaires en
-parcours complet par session de formation ; 
-
-b) Une présentation détaillée de la première session de formation. 
-
-Le  dossier de demande d'habilitation est déposé dans les conditions fixées  par le directeur régional de la jeunesse, des
-sports et de la cohésion  sociale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 3 février 2012 - art. 4
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 2
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-22-1 (Ab)
+	  - Code du sport. - art. R212-10-2
 
 
 ###### Article A212-21
 
-L'organisme  de formation, pour être habilité, doit posséder au moins une personne,  responsable pédagogique de la mise en
-œuvre de chaque formation  préparant à une spécialité du brevet professionnel, ayant suivi le cycle  de formation relative à
-la méthodologie du dispositif en unités  capitalisables ou reconnue compétente dans ladite méthodologie. 
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale peut autoriser les membres de jury mentionnés à
+l'article R. 212-10-2 à utiliser les moyens de communication audiovisuelle en application des dispositions de l'ordonnance n°
+2014-1329 du 6 novembre 2014.
 
-Le  cycle de formation précité est organisé conformément à un cahier des  charges qui est défini par le ministre chargé des
-sports et mis en œuvre  par le directeur régional de la jeunesse, des sports et de la cohésion  sociale du lieu
-d'organisation du cycle de formation.
+Les membres qui participent aux réunions et délibérations du jury par ces moyens de communication sont réputés présents. Pour
+ces derniers, il est mentionné, sur la liste de présence, en face de leur nom, "à distance".
 
 **Liens relatifs à cet article**
 
+	**Cite**:
+
+	  - ORDONNANCE n°2014-1329 du 6 novembre 2014
+
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 5
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cité par**:
 
@@ -38645,50 +39246,15 @@ d'organisation du cycle de formation.
 
 ###### Article A212-22
 
-Au vu du dossier prévu à l'article A. 212-20, le directeur régional de la jeunesse, des sports et de la cohésion sociale peut
-habiliter l'organisme en appréciant les éléments suivants : 
-
-1° Conformité aux dispositions de l'arrêté portant création de la spécialité, de la mention, de l'unité capitalisable
-complémentaire ou du certificat de spécialisation visé ; 
-
-2° Durée minimale de 600 heures pour une formation en centre par la voie initiale ; 
-
-3° Description de la formation dispensée en centre et en entreprise, en lien avec les référentiels professionnel et de
-certification ; 
-
-4° Existence d'entreprises susceptibles d'accueillir les stagiaires pour les mises en situation pédagogique et pertinence des
-modalités d'organisation et de suivi de l'alternance ; 
-
-5° Justification de la définition de l'objectif terminal et des objectifs intermédiaires spécifiés jusqu'au deuxième rang de
-la ou des unités capitalisables d'adaptation, et, le cas échéant, des unités capitalisables complémentaires ou certificats de
-spécialisation, en relation avec les emplois visés et la spécialité et, éventuellement, la mention ; 
-
-6° Adéquation des moyens humains, financiers et des équipements de l'organisme de formation à la mise en œuvre de sessions ; 
-
-7° Adaptation des financements prévus au regard des différents publics des stagiaires accueillis ; 
-
-8° Intégration au sein de la formation d'une démarche d'éducation à l'environnement vers le développement durable ; 
-
-9° Adaptation de l'organisation pédagogique de la formation au regard des profils des stagiaires concernés ; 
-
-10° Pertinence des modalités d'organisation du positionnement, des modalités d'élaboration des parcours individualisés et des
-modalités de mise en place de situations d'évaluation certificative, notamment pour les personnes bénéficiant d'allégements
-ou de dispense ; 
-
-11° Cohérence dans l'organisation des situations d'évaluation certificative et correspondance de ces situations aux unités
-capitalisables qu'elles permettent d'évaluer ; 
-
-12° Modalités du suivi de l'insertion professionnelle des diplômés ; 
-
-13° Taux de l'insertion professionnelle des diplômés de la session ou des sessions relevant de l'habilitation précédente dans
-le cas d'une nouvelle demande d'habilitation, exprimée dans un délai inférieur à trois ans après la fin de l'habilitation
-précédente et portant sur la même spécialité ou, le cas échéant, la même mention.
+Les moyens de communication audiovisuelle utilisés pour les réunions et délibérations des jurys doivent garantir une
+participation effective, continue et en temps réel de l'ensemble des membres du jury, qu'ils soient ou non physiquement
+présents, et permettre leur identification à tout moment.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 6
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cité par**:
 
@@ -38699,206 +39265,120 @@ précédente et portant sur la même spécialité ou, le cas échéant, la même
 	  - Code du sport. - art. A212-26-1 (Ab)
 
 
-###### Article A212-22-1
-
-Au vu du dossier prévu à l'article A. 212-20-1, le directeur régional de la jeunesse, des sports et de la cohésion sociale
-peut habiliter l'organisme de formation en appréciant les éléments suivants : 
-
-1° Conformité aux dispositions de l'arrêté portant création de l'unité capitalisable complémentaire ou du certificat de
-spécialisation visé ; 
-
-2° Description de la formation dispensée en centre et en entreprise, en lien avec les référentiels professionnel et de
-certification ; 
-
-3° Existence d'entreprises susceptibles d'accueillir les stagiaires pour les mises en situation pédagogique et pertinence des
-modalités d'organisation et de suivi de l'alternance ; 
-
-4° Justification de la définition de l'objectif terminal et des objectifs intermédiaires spécifiés jusqu'au deuxième rang ; 
-
-5° Adéquation des moyens humains, financiers et des équipements de l'organisme de formation à la mise en œuvre de sessions ; 
-
-6° Adaptation des financements prévus au regard des différents publics des stagiaires accueillis ; 
-
-7° Adaptation de l'organisation pédagogique de la formation au regard des profils des stagiaires concernés ; 
-
-8° Pertinence des modalités d'organisation du positionnement, des modalités d'élaboration des parcours individualisés et des
-modalités de mise en place de situations d'évaluation certificative, notamment pour les personnes bénéficiant d'allégements
-ou de dispense ; 
-
-9° Cohérence dans l'organisation des situations d'évaluation certificative et correspondance de ces situations aux unités
-capitalisables qu'elles permettent d'évaluer.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 3 février 2012 - art. 7
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-20-1 (Ab)
-
-
 ###### Article A212-23
 
-Le directeur régional de la jeunesse, des sports et de la cohésion sociale délivre, pour une durée déterminée et un effectif
-maximal de stagiaires en parcours complet par session, en fonction des éléments produits conformément aux articles A. 212-22
-à A. 212-22-1, et notifie l'habilitation à l'organisme concerné. 
-
-Cette habilitation peut être délivrée pour un nombre de sessions déterminé, dans la limite de trois ans. Toute habilitation
-d'une unité capitalisable complémentaire ou d'un certificat de spécialisation est délivrée pour les seules sessions de
-formation débutant avant l'échéance de la période d'habilitation accordée au titre de la spécialité ou, le cas échéant, de la
-mention. 
-
-Le directeur régional de la jeunesse, des sports et de la cohésion sociale peut n'accorder l'habilitation que pour une seule
-session, sur décision motivée. 
-
-Pendant la durée de l'habilitation, sur demande motivée de l'organisme de formation, le directeur régional de la jeunesse,
-des sports et de la cohésion sociale peut modifier le nombre de sessions et l'effectif maximal de stagiaires en parcours
-complet.
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale prend toutes les dispositions pour garantir que
+seules les personnes autorisées ont accès aux salles équipées de matériel de communication audiovisuelle, lorsqu'elles sont
+utilisées par le jury et pour s'assurer d'un niveau suffisant de sécurité et de confidentialité des débats.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 8
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-22
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 
 ###### Article A212-24
 
-Toute modification d'un des éléments mentionnés aux articles A. 212-22 et A. 212-22-1 doit être portée immédiatement à la
-connaissance du directeur régional de la jeunesse, des sports et de la cohésion sociale. L'habilitation est confirmée, dans
-des délais compatibles avec l'organisation de la formation, si la modification apportée ne constitue pas un motif de retrait.
+Les membres de jury qui participent aux réunions et délibérations par des moyens de communication audiovisuelle, assistent à
+la réunion dans son intégralité, de l'ouverture de la séance jusqu'à la prise de la décision finale, sauf difficulté
+technique insurmontable.
+
+Le président de jury veille à ce qu'ils puissent participer à la réunion dans les mêmes conditions que les personnes
+physiquement présentes et disposer de tous les éléments d'appréciation nécessaires aux délibérations.
+
+En cas d'interruption de la communication, au cours de la réunion, avec la ou les personnes qui participent à distance, les
+délibérations sont suspendues par le président du jury et reprennent sur sa décision.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 9
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-22
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 
 ###### Article A212-25
 
-Après que l'organisme a été amené à présenter ses observations en défense, le directeur régional de la jeunesse, des sports
-et de la cohésion sociale peut procéder au retrait de l'habilitation dans les cas suivants : 
-
-― modification ne respectant pas les exigences fixées aux articles A. 212-22 et A. 212-22-1 ; 
-
-― omission de déclaration de cette modification ; 
-
-― griefs dûment motivés, notamment en cas d'anomalies graves constatées dans l'organisation ou le suivi de la formation, la
-mise en place ou le fonctionnement du dispositif d'évaluation.
+En application de l'article R. 212-10-3, certaines épreuves certificatives peuvent être organisées à distance par des moyens
+de communication audiovisuelle au bénéfice des candidats en raison de leur éloignement géographique. Le directeur régional de
+la jeunesse, des sports et de la cohésion sociale détermine la ou les situations d'épreuves pour lesquelles il est recouru à
+ces modalités techniques, les modalités de passage ainsi que les candidats concernés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 10
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-22
+	  - Code du sport. - art. R212-10-3
 
 
 ###### Article A212-26
 
-Le directeur régional de la jeunesse, des sports    et de la cohésion sociale peut à tout moment, pour les mêmes motifs que
-ceux mentionnés à l'article précédent, et justifiant une mesure d'urgence, suspendre l'habilitation pour une durée maximale
-de trois mois. Cette procédure n'est pas exclusive du retrait si le grief le justifie.
+Les épreuves certificatives visées à l'article R. 212-10-5 se déroulent en présence d'au moins deux personnes chargées
+d'évaluer les compétences des candidats et désignées par le directeur régional de la jeunesse, des sports et de la cohésion
+sociale parmi les membres du jury ou les experts ou les évaluateurs proposés par l'organisme de formation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 1
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. A212-26-1 (Ab)
 
-
-###### Article A212-26-1
-
-Dans le respect des délais fixés par le directeur régional de la jeunesse, des sports et de la cohésion sociale, avant chaque
-session de formation, l'organisme habilité communique au directeur régional de la jeunesse, des sports et de la cohésion
-sociale : 
-
-― les dates et lieux de déroulement de la session ; 
-
-― les noms, prénoms et qualifications du responsable pédagogique et des formateurs ; 
-
-― le descriptif précis du projet de processus d'évaluation certificative ; 
-
-― l'organisation pédagogique détaillée de la session ; 
-
-― les moyens humains, financiers et les équipements affectés à l'action de formation ; 
-
-― dans le cas d'une formation accueillant des apprentis, l'avis du centre de formation d'apprentis concerné. 
-
-Dans le respect des délais fixés par le directeur régional de la jeunesse, des sports et de la cohésion sociale, l'organisme
-de formation lui transmet la liste des stagiaires, leurs entreprises d'accueil pour les mises en situation pédagogique et la
-liste des tuteurs. 
-
-En cas de non-conformité de la déclaration aux exigences fixées aux articles A. 212-22 et A212-22-1 ou à toute autre
-disposition réglementaire, le directeur régional de la jeunesse, des sports et de la cohésion sociale met en œuvre les
-dispositions prévues à l'article A. 212-26.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 3 février 2012 - art. 11
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 2
-
 	**Cite**:
 
-	  - Code du sport. - art. A212-22
-	  - Code du sport. - art. A212-26
+	  - Code du sport. - art. R212-10-5
 
 
-#####  Paragraphe 4 : L'alternance
+###### Article A212-27
 
-###### Article A212-28
-
-Les  périodes en entreprise recouvrant des phases d'animation,  d'accompagnement ou d'encadrement d'une activité, déterminées
-dans le  processus pédagogique, sont mises en œuvre par l'organisme habilité,  sous la responsabilité d'un tuteur. 
-
-Les conditions de mise en œuvre respectent le code du travail en  ce qui concerne les contrats d'apprentissage, les contrats
-de  professionnalisation et tous les modes de formation alternée, initiale  ou continue.
+L'objet, la nature, les modalités et la durée des épreuves certificatives déléguées à l'organisme de formation en application
+de l'article R. 212-10-8 sont fixés par le directeur régional de la jeunesse, des sports et de la cohésion sociale dans la
+décision d'habilitation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 13
+	  - Arrêté du 21 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-10-8
+
+
+###### Article A212-28
+
+Les membres du jury ou experts mentionnés à l'article R. 212-10-2 doivent communiquer sans délai au directeur régional de la
+jeunesse, des sports et de la cohésion sociale toute constatation de non-conformité du déroulement des épreuves
+certificatives déléguées à l'organisme de formation. Dans ce cas, le directeur régional de la jeunesse, des sports et de la
+cohésion sociale peut demander à l'organisme de formation d'organiser à nouveau la ou les épreuves certificatives pour le ou
+les candidats concernés.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-10-2
+
+
+##### Paragraphe 2 : L'habilitation
+
 
 
 ###### Article A212-29
 
-Dans  le cas d'une spécialité et, le cas échéant, d'une mention, d'une unité  capitalisable complémentaire ou d'un certificat
-de spécialisation  comportant une activité physique ou sportive, seuls les stagiaires  engagés dans un cursus de formation
-organisé par la voie des unités  capitalisables, mis en œuvre par un organisme habilité, bénéficient de  l'alternance avec
-mise en situation pédagogique dans l'entreprise. 
-
-L'arrêté  portant création de la spécialité, de la mention, de l'unité  capitalisable complémentaire ou du certificat de
-spécialisation peut, le  cas échéant, fixer les exigences minimales, en termes d'objectifs  intermédiaires des unités
-capitalisables, notamment visant les  compétences relatives à la protection des pratiquants et des tiers, pour  placer le
-stagiaire dans certaines situations déterminées par ledit  arrêté.
+Le contenu du cahier des charges prévu à l'article R. 212-10-9 est fixé à l'annexe II-2-1.
 
 **Liens relatifs à cet article**
 
@@ -38919,508 +39399,327 @@ stagiaire dans certaines situations déterminées par ledit  arrêté.
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 14
-
-
-#####  Paragraphe 5 : Nomenclature
-
-###### Article A212-30
-
-Les dix unités capitalisables constitutives du référentiel de certification du diplôme, définies à l'article D. 212-25, sont
-définies par les objectifs terminaux d'intégration suivants : 
-
-Dans les quatre unités capitalisables transversales quelle que soit la spécialité : 
-
-― UC 1 : être capable de communiquer dans les situations de la vie professionnelle ; 
-
-― UC 2 : être capable de prendre en compte les caractéristiques des publics pour préparer une action éducative ; 
-
-― UC 3 : être capable de préparer un projet ainsi que son évaluation ; 
-
-― UC 4 : être capable de participer au fonctionnement de la structure et à la gestion de l'activité. 
-
-Dans les cinq unités capitalisables de la spécialité : 
-
-― UC 5 : être capable de préparer une action d'animation ; 
-
-― UC 6 : être capable d'encadrer un groupe dans le cadre d'une action d'animation ; 
-
-― UC 7 : être capable de mobiliser les connaissances nécessaires à la conduite des activités professionnelles ; 
-
-― UC 8 : être capable de conduire une action éducative ; 
-
-― UC 9 : être capable de maîtriser les outils ou techniques de la spécialité. 
-
-Dans une unité capitalisable d'adaptation : 
-
-― UC 10 : elle vise l'adaptation à l'emploi et au contexte particulier.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. D212-25 (V)
+	  - Code du sport. - art. R212-10-9
 
 
-#####  Paragraphe 6 : Certification par unités capitalisables
+###### Article A212-30
 
-###### Article A212-31
+Tout organisme de formation doit répondre à l'ensemble des clauses, générales et particulières, du cahier des charges pour
+être habilité.
 
-Un  jury par spécialité est constitué par le directeur régional de la  jeunesse, des sports et de la cohésion sociale après
-notification de  l'habilitation de la première session de formation de cette spécialité.  Le jury est renouvelé par le
-directeur régional de la jeunesse, des  sports et de la cohésion sociale jusqu'au terme de la dernière session  habilitée
-dans cette spécialité.
+L'organisme de formation habilité est réputé remplir les clauses générales pour toute nouvelle demande d'habilitation. Il
+doit cependant en communiquer les éléments lorsqu'il dépose une demande d'habilitation dans une autre région.
+
+Tout organisme de formation doit pouvoir justifier durant son habilitation remplir les exigences du cahier des charges.
+
+L'organisme de formation doit tenir à disposition du directeur régional de la jeunesse, des sports et de la cohésion sociale
+aux fins de contrôle sur place ou sur pièce :
+
+- l'entier dossier d'inscription du candidat ;
+
+- toutes les pièces justificatives des engagements pris dans son dossier d'habilitation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 15
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 
-###### Article A212-31-1
+###### Article A212-31
 
-Le  jury statuant sur la certification des unités capitalisables  complémentaires et des certificats de spécialisation est le
-jury de la  spécialité pour laquelle l'organisme de formation est habilité.
+L'avis consultatif du directeur technique national mentionné à l'article R. 212-10-12 est réputé favorable en l'absence de
+réponse dans le délai de deux mois suivant sa saisine par le directeur régional de la jeunesse, des sports et de la cohésion
+sociale.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 16
+	  - Arrêté du 21 décembre 2015 - art. 1
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Arrêté du 21 décembre 2015 - art. 2
+	  - Code du sport. - art. R212-10-12
 
 
 ###### Article A212-32
 
-Un jury, constitué conformément à l'article R. 212-29, est désigné pour chaque spécialité mise en œuvre. 
+La décision d'habilitation de l'organisme de formation délivrée par le directeur régional de la jeunesse, des sports et de la
+cohésion sociale fixe notamment : 
 
-Ce jury : 
+1° L'effectif maximal de stagiaires en parcours complet de formation pour une session ; 
 
-1° Vérifie que les processus d'évaluation certificative, conformes aux référentiels professionnel et de certification du
-diplôme considéré, et leur mise en œuvre validés par le directeur régional de la jeunesse, des sports et de la cohésion
-sociale sont respectés ; 
+2° L'effectif minimal qui est fixé à huit stagiaires en parcours complet de formation pour une session. A titre dérogatoire,
+un organisme de formation désirant ouvrir une session de formation comportant moins de huit stagiaires doit au préalable en
+avoir obtenu l'accord exprès du directeur régional de la jeunesse, des sports et de la cohésion sociale ; 
 
-2° Peut organiser une ou des commissions et faire appel à des experts choisis au sein d'une liste établie par le directeur
-régional de la jeunesse, des sports et de la cohésion sociale ; 
-
-3° Valide les certifications conduites : 
-
-― soit par les commissions, instituées en tant que de besoin ; 
-
-― soit par les experts dont il est fait mention ci-dessus ; 
-
-― soit par l'organisme de formation, quand les modalités de certification lui sont déléguées.
+3° Le nombre maximal de sessions commençant sur une année. A la demande de l'organisme de formation, ce nombre de sessions
+peut être modifié à la hausse avec l'accord exprès du directeur régional de la jeunesse, des sports et de la cohésion
+sociale, qui, au vu du calendrier prévisionnel des sessions, peut demander, sur le fondement des articles R. 212-10-11 et R.
+212-10-13, à l'organisme de formation tout élément permettant de démontrer sa capacité à dispenser une formation offrant des
+garanties de réussite.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 17
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. R212-29
+	  - Code du sport. - art. R212-10-11
+	  - Code du sport. - art. R212-10-13
 
 
 ###### Article A212-33
 
-Au  cours d'une session de formation, les situations d'évaluation  certificative, au nombre de trois ou quatre, doivent
-comporter au  minimum : 
+Conformément à l'article R. 212-10-13, l'organisme de formation habilité doit : 
 
-1° Une appréciation des compétences dans  une ou plusieurs situations d'activité professionnelle recouvrant les  objectifs
-terminaux d'intégration des unités capitalisables de la  spécialité ou de la mention, le cas échéant ; 
+1° Déposer auprès de la direction régionale de la jeunesse, des sports et de la cohésion sociale un calendrier annuel
+prévisionnel des sessions de formation dans les conditions définies par le directeur régional de la jeunesse, des sports et
+de la cohésion sociale ; 
 
-2° La  production d'un document écrit personnel, support d'un entretien, de  nature à évaluer la pertinence d'un projet dans
-son contexte  professionnel. Cette situation d'évaluation certificative permet au  minimum l'évaluation des unités
-capitalisables transversales UC 1 et UC  4. 
+2° Procéder à la déclaration de chaque session de formation ; 
 
-Le processus de certification doit permettre l'évaluation séparée de chaque unité capitalisable.
+3° Renseigner l'outil national de suivi des inscriptions et des résultats aux épreuves certificatives conformément aux
+dispositions transmises par le directeur régional de la jeunesse, des sports et de la cohésion sociale.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 18
+	  - Arrêté du 21 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-10-13
 
 
 ###### Article A212-34
 
-Le jury, après délibération, propose au directeur régional de la jeunesse, des sports    et de la cohésion sociale la
-délivrance des unités capitalisables.
+En cas de refus du directeur régional de la jeunesse, des sports et de la cohésion sociale opposé à la demande de
+renouvellement de l'habilitation prévue à l'article R. 212-10-14, l'organisme de formation peut déposer une nouvelle demande
+d'habilitation conformément aux dispositions des articles R. 212-10-8 à R. 212-10-13.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 1
+	  - Arrêté du 21 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R212-10-14
+	  - Code du sport. - art. R212-10-8
+
+
+##### Paragraphe 3 : Les modalités de la formation
+
+
+
+##### Sous-Paragraphe 1 : Les conditions d'inscription des candidats
 
 
 ###### Article A212-35
 
-Les décisions de délivrance d'une unité capitalisable font l'objet d'un arrêté pris par le directeur régional de la jeunesse,
-des sports et de la cohésion sociale.
+Pour les tests d'exigences préalables mentionnés à l'article R. 212-10-17, le dossier d'inscription des candidats est déposé
+un mois avant la date fixée pour les épreuves auprès d'un organisme de formation chargé de les organiser, qui en contrôle la
+conformité. 
+
+Le dossier comprend les pièces suivantes : 
+
+1° Une fiche d'inscription avec photographie ; 
+
+2° La photocopie d'une pièce d'identité en cours de validité ; 
+
+3° La ou les attestations justifiant de l'allègement de certaines épreuves fixées par l'arrêté portant création de la
+spécialité, de la mention du diplôme, ou du certificat complémentaire visé ; 
+
+4° Un certificat médical de non contre-indication à la pratique sportive datant de moins d'un an, sauf disposition contraire
+prévue par l'arrêté portant création de la spécialité, de la mention ou du certificat complémentaire visé ; 
+
+5° En outre, pour les personnes en situation de handicap, l'avis d'un médecin agréé par la Fédération française handisport ou
+par la Fédération française de sport adapté ou désigné par la commission des droits et de l'autonomie des personnes
+handicapées sur la nécessité d'aménager le cas échéant les tests d'exigences préalables selon la certification visée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 30 janvier 2015 - art. 1
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. A212-39 (M)
 	  - Code du sport. - art. A212-44 (V)
 
+	**Cite**:
 
-#####  Paragraphe 7 : Validation des acquis de l'expérience
+	  - Code du sport. - art. R212-10-17
+
 
 ###### Article A212-36
 
-Le jury, créé pour valider les évaluations certificatives réalisées dans une spécialité du diplôme par la voie des unités
-capitalisables, est chargé d'instruire les dossiers de demande de validation d'acquis de l'expérience.
+Pour l'inscription dans une formation, le dossier du candidat est déposé auprès de l'organisme de formation, qui en contrôle
+la conformité, un mois avant la date fixée pour l'entrée en formation du candidat.
+
+Tout dossier incomplet est rejeté par l'organisme de formation.
+
+Le dossier comprend les pièces suivantes :
+
+1° Une fiche d'inscription avec photographie ;
+
+2° La photocopie d'une pièce d'identité en cours de validité ;
+
+3° Les copies de l'attestation de recensement et du certificat individuel de participation à la journée défense et
+citoyenneté ;
+
+4° La ou les attestations justifiant de la satisfaction aux exigences préalables fixées par l'arrêté portant création de la
+spécialité, de la mention du diplôme, ou du certificat complémentaire visé ;
+
+5° Les pièces justifiant des dispenses et équivalences de droit ;
+
+6° Pour une inscription à un certificat complémentaire, la photocopie du diplôme autorisant l'inscription en formation ou une
+attestation d'inscription à la formation conduisant à ce diplôme ;
+
+7° La ou les autres pièces prévues par l'arrêté portant création de la spécialité, de la mention, ou du certificat
+complémentaire visé ;
+
+8° En outre, pour les personnes en situation de handicap, l'avis d'un médecin agréé par la Fédération française handisport ou
+par la Fédération française de sport adapté ou désigné par la commission des droits et de l'autonomie des personnes
+handicapées sur la nécessité d'aménager le cas échéant la formation ou les épreuves certificatives selon la certification
+visée.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. A212-37 (V)
+	  - Code du sport. - art. A212-44 (V)
 
 
 ###### Article A212-37
 
-Le candidat dont la demande est déclarée recevable, conformément aux dispositions de l'article A. 212-18, dépose son dossier
-complet (première et deuxième partie) auprès du jury du diplôme visé. 
+En application du 4° de l'article R. 212-10-13, la demande d'inscription est transmise par l'organisme de formation au
+directeur régional de la jeunesse, des sports et de la cohésion sociale au plus tard le jour de l'entrée en formation du
+candidat, accompagnée des pièces visées aux 2°, 5°, 6°, 8° de l'article A. 212-36 et d'une attestation de complétude du
+dossier du candidat. 
 
-Il joint à son dossier les pièces suivantes :
-
-- une copie de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
-défense pour les Français de moins de vingt-cinq ans ;
-
-- pour les candidats à une spécialité relevant du domaine des activités physiques ou sportives, un certificat médical de non-
-contre-indication à la pratique de la spécialité datant de moins de trois mois à la date limite de dépôt du dossier et
-l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent ;
-
-- pour les personnes handicapées, l'avis d'un médecin agréé par la Fédération française handisport ou par la Fédération
-française du sport adapté. 
-
-Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux compétences exigées par le
-référentiel du diplôme visé et, le cas échéant, les valide intégralement ou partiellement.
+L'inscription de chaque candidat est validée par le directeur régional de la jeunesse, des sports et de la cohésion sociale,
+au plus tard un mois après son entrée en formation.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 24 décembre 2008 - art. 3
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-18
+	  - Code du sport. - art. A212-36
+	  - Code du sport. - art. R212-10-13
 
 
 ###### Article A212-38
 
-Peuvent être exclues de la validation des acquis de l'expérience ou soumises à restrictions spéciales certaines compétences
-liées aux conditions de sécurité particulières, tant pour les pratiquants que pour les tiers, dans l'exercice d'activités se
-déroulant dans un environnement spécifique définies aux articles R. 212-7 à R. 212-10. Elles font l'objet d'une validation
-dans le cadre d'un cursus de formation mis en œuvre par la voie des unités capitalisables par un établissement visé au
-premier alinéa de l'article L. 212-2 du code du sport ayant reçu l'habilitation pour la spécialité du diplôme considérée et,
-quand elle existe, dans une mention donnée de cette spécialité. 
+Au plus tard un mois après la date d'ouverture de la session, l'organisme de formation adresse au directeur régional de la
+jeunesse, des sports et de la cohésion sociale :
 
-Les modalités d'exclusion de la validation des acquis de l'expérience et de certification de ces compétences sont fixées par
-l'arrêté créant la spécialité du diplôme et, quand elle existe, dans une mention donnée de cette spécialité.
+1° La liste des entreprises d'accueil pour chaque inscrit et la liste de leurs tuteurs ;
+
+2° Le planning définitif du déroulement de la session.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 20
-
-	**Cite**:
-
-	  - Code du sport. - art. L212-2
-	  - Code du sport. - art. R212-7
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 
 ###### Article A212-39
 
-Le jury propose au directeur régional de la jeunesse, des sports et de la cohésion sociale la validation des unités
-capitalisables. Leur délivrance s'effectue dans les mêmes conditions que celles mentionnées à l'article A. 212-35 par le
-directeur régional de la jeunesse, des sports et de la cohésion sociale.
+En application du 9° de l'article R. 212-10-13, l'organisme de formation communique à la direction régionale de la jeunesse,
+des sports et de la cohésion sociale :
+
+- dans le mois suivant la fin de chaque session, un bilan quantitatif et qualitatif suivant le modèle figurant à l'annexe
+II-2-2 ;
+
+- dans la cinquième année d'habilitation et dans les conditions et le calendrier fixés par le directeur régional de la
+jeunesse, des sports et de la cohésion sociale, un bilan des actions de formation réalisées pendant la période d'habilitation
+permettant d'en apprécier la qualité ainsi qu'un bilan d'insertion des diplômés.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 21
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-35
+	  - Code du sport. - art. R212-10-13
 
 
-##### Paragraphe 8 : Dispositions diverses et transitoires
+##### Sous-Paragraphe 2 : L'harmonisation nationale
+
+
 
 ###### Article A212-40
 
-Les modalités d'organisation de l'examen composé d'épreuves ponctuelles sont fixées par arrêté particulier du ministre chargé
-de la jeunesse et des sports.
+L'harmonisation nationale prévue à l'article R. 212-10-18 s'appuie :
 
-**Liens relatifs à cet article**
+- sur les directeurs régionaux de la jeunesse, des sports et de la cohésion sociale, chargés d'établir les calendriers
+régionaux des tests d'exigences préalables ;
 
-	**Créé par**:
+- sur les coordonnateurs nationaux désignés pour une période de trois ans par le directeur des sports après appel à
+candidature et après avis, pour les disciplines sportives, du directeur technique national de la fédération ayant reçu
+délégation pour la discipline concernée. 
 
-	  - Arrêté du 28 février 2008 - art. (V)
+Peuvent être désignés pour l'exercice d'une fonction de coordonnateur national les personnels membres d'un des corps
+suivants, en position normale d'activité au sein d'un service et disposant de compétences en matière sportive, de jeunesse ou
+de formation professionnelle :
 
+- inspecteurs généraux de la jeunesse et des sports ;
 
-###### Article A212-42
+- inspecteurs de la jeunesse et des sports ;
 
-Le directeur régional de la jeunesse, des sports et de la cohésion sociale, seul ou conjointement, délivre, conformément aux
-articles R. 212-31 et R. 212-31-1, le diplôme dans la spécialité ou mention considérée ainsi que l'unité capitalisable
-complémentaire ou le certificat de spécialisation dès lors que le candidat justifie de la possession de la totalité des
-unités capitalisables en état de validité, quel que soit leur mode d'acquisition.
+- conseillers techniques et pédagogiques supérieurs. 
+
+Sous l'autorité du directeur des sports, les coordonnateurs nationaux participent à :
+
+- l'élaboration des textes de référence concernant les diplômes professionnels qu'ils ont à suivre ;
+
+- la coordination de l'offre des tests d'exigences préalables à l'entrée en formation sur le territoire national ;
+
+- l'harmonisation de la mise en œuvre de ces diplômes ;
+
+- l'évaluation du dispositif de certifications.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 3 février 2012 - art. 23
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. R212-31
+	  - Code du sport. - art. R212-10-18
 
 
-###### Article A212-43
+##### Sous-Paragraphe 3 : La validation des acquis de l'expérience
 
-En cas de codélivrance de la spécialité du diplôme, le directeur régional de la jeunesse, des sports    et de la cohésion
-sociale du lieu de la formation, conjointement avec l'autorité administrative compétente : 
+###### Article A212-41
 
-1° Habilite l'organisme de formation ; 
-
-2° Désigne le jury ; 
-
-3° Organise les modalités de certification.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 3 février 2012 - art. 1
-
-
-###### Article A212-44
-
-Le  directeur régional de la jeunesse, des sports et de la cohésion sociale  qui a habilité l'organisme de formation peut,
-pour les personnes  présentant une altération substantielle, durable ou définitive d'une ou  de plusieurs fonctions
-physiques, sensorielles, mentales, cognitives ou  psychiques, un poly-handicap ou un trouble de santé invalidant, aménager
-les tests d'entrée en formation, le cursus de formation et les épreuves  d'évaluation certificative. 
-
-Cette décision est  prise après avis d'un médecin agréé par la Fédération française  handisport ou par la Fédération
-française de sport adapté ou désigné par  la commission des droits et de l'autonomie des personnes handicapées,  selon la
-spécialité, la mention, l'unité capitalisable complémentaire ou  le certificat de spécialisation préparé.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 3 février 2012 - art. 24
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-17 (M)
-
-
-###### Article A212-45
-
-Le directeur régional de la jeunesse, des sports    et de la cohésion sociale, dans les mêmes conditions, examine la
-compatibilité du handicap justifiant les aménagements mentionnés ci-dessus avec l'exercice professionnel de l'activité
-faisant l'objet de la spécialité du diplôme. Il peut apporter une restriction aux prérogatives ouvertes par la possession de
-la spécialité du diplôme.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 3 février 2012 - art. 1
-
-
-###### Article A212-46
-
-Les  stagiaires engagés dans un cursus de formation conduisant à la  délivrance du brevet d'Etat d'éducateur sportif du
-premier degré peuvent  solliciter leur intégration dans une formation mise en œuvre par la  voie des unités capitalisables,
-par un organisme habilité, suivant des  modalités définies dans chaque arrêté de spécialité et, quand elle  existe, dans une
-mention donnée de cette spécialité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 3 février 2012 - art. 25
-
-
-###### Article A212-47
-
-Les titulaires du brevet d'aptitude professionnelle d'assistant-animateur technicien de la jeunesse et des sports, suivant
-l'option et les supports techniques, peuvent bénéficier d'un cursus aménagé, défini dans l'arrêté de spécialité et, quand
-elle existe, dans une mention donnée de cette spécialité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 3 février 2012 - art. 26
-
-
-#####  Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport
-
-#####  Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle »
-
-###### Article A212-48
-
-L'organisation de la spécialité animation socio-éducative ou culturelle » du diplôme d'Etat de la jeunesse, de l'éducation
-populaire et du sport mentionné à l'article D. 212-35 est fixée par l'arrêté du 20 novembre 2006 s'y rapportant.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté du 20 novembre 2006 (V)
-	  - Code du sport. - art. D212-35 (V)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-
-#####  Paragraphe 2 : Spécialité « perfectionnement sportif »
-
-###### Article A212-49
-
-La spécialité « perfectionnement sportif » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport confère à
-son titulaire les compétences suivantes, attestées par le référentiel de certification : 
-
-― concevoir des programmes de perfectionnement sportif ; 
-
-― coordonner la mise en œuvre d'un projet de perfectionnement dans un champ disciplinaire ; 
-
-― conduire une démarche de perfectionnement sportif ; 
-
-― conduire des actions de formation. 
-
-Le référentiel professionnel et le référentiel de certification mentionnés aux articles D. 212-37 et D. 212-38 figurent
-respectivement aux annexes II-3 et II-4. 
-
-Lorsque la formation est suivie dans le cadre de la formation initiale, sa durée minimale est de 1 200 heures dont 700 heures
-en centre de formation. 
-
-La présente sous-section a pour objet de déterminer les modalités de préparation et de délivrance de cette spécialité du
-diplôme d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 1 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 18 décembre 2008 (V)
-	  - Arrêté du 29 juin 2009 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. Annexe II-3 (art. 212-49) (V)
-	  - Code du sport. - art. Annexe II-4 (art. A212-49) (V)
-	  - Code du sport. - art. D212-37 (V)
-
-
-###### Article A212-50
-
-La spécialité « perfectionnement sportif » du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport est
-organisée en mentions disciplinaires.
-
-Sont précisées, notamment :
-
-― les exigences préalables à l'entrée en formation ;
-
-― les exigences préalables à la mise en situation pédagogique définies en termes d'objectifs intermédiaires des unités
-capitalisables ;
-
-― les dispenses et équivalences avec d'autres certifications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-
-##### Sous-paragraphe 1 : Conditions d'inscription
-
-###### Article A212-51
-
-La formation est organisée dans une mention pour une certification en unités capitalisables. Le dossier de candidature est
-déposé, un mois avant la date de mise en place des tests de vérification des exigences préalables à l'entrée en formation,
-auprès du directeur régional de la jeunesse, des sports et de la vie associative qui a habilité l'organisme de formation pour
-cette mention, conformément aux articles A. 212-52 à A. 212-58. 
-
-Le dossier comprend les pièces suivantes : 
-
-― une fiche d'inscription normalisée avec photographie ; 
-
-― les copies de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
-défense, pour les Français de moins de vingt-cinq ans ; 
-
-― l'attestation de formation aux premiers secours ; 
-
-― la ou les attestations justifiant de la satisfaction aux exigences préalables fixées par l'arrêté relatif à la mention ; 
-
-― un certificat médical de non-contre-indication à la pratique de la discipline certifiée par la mention, datant de moins de
-trois mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-52 (V)
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-68 (V)
-
-
-###### Article A212-51-1
-
-Lorsque la certification est réalisée par validation des acquis de l'expérience, le dossier de candidature est composé comme
-suit :
+Lorsque la certification est réalisée par la validation des acquis de l'expérience, le dossier de candidature est composé
+comme suit :
 
 - une première partie relative à la recevabilité de la demande (ou livret de recevabilité) ;
 
@@ -39431,44 +39730,323 @@ suit :
 - un guide méthodologique. 
 
 Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de
-la nature de son expérience au directeur régional de la jeunesse, des sports et de la vie associative de son lieu de
+la nature de son expérience au directeur régional de la jeunesse, des sports et de la cohésion sociale de son lieu de
 domicile, qui se prononce sur la recevabilité de sa demande. 
 
 La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le
 diplôme visé. 
 
 En outre, le candidat à un diplôme permettant l'encadrement d'activités s'exerçant en environnement spécifique, définies à
-l'article R. 212-7, doit satisfaire aux exigences techniques préalables à l'entrée dans la formation ou à l'inscription à
-l'examen pour l'obtention de ce diplôme.
+l'article R. 212-7, doit satisfaire aux exigences techniques préalables à l'entrée dans la formation pour l'obtention de ce
+diplôme.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 24 décembre 2008 - art. 4
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
+	  - Arrêté du 21 décembre 2015 - art. 1
 
 	**Cité par**:
 
-	  - Code du sport. - art. A212-68 (Ab)
+	  - Code du sport. - art. A212-42 (V)
 
 	**Cite**:
 
 	  - Code du sport. - art. R212-7
 
 
-#####  Sous-paragraphe 2 : L'habilitation
+###### Article A212-42
+
+Le candidat dont la demande est déclarée recevable, conformément aux dispositions de l'article A. 212-41, dépose un dossier
+(première et seconde parties) auprès du directeur régional de la jeunesse, des sports et de la cohésion sociale, organisateur
+du jury du diplôme visé, au plus tard deux mois avant la date du jury. 
+
+Ce dossier est composé des pièces suivantes : 
+
+1° Une copie de l'attestation de recensement et du certificat individuel de participation à la journée défense et
+citoyenneté ; 
+
+2° L'attestation de l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent
+pour les candidats à un diplôme nécessitant sa possession ; 
+
+3° En outre, pour les personnes en situation de handicap, l'avis d'un médecin agréé par la Fédération Française Handisport ou
+par la Fédération Française de Sport Adapté ou désigné par la commission des droits et de l'autonomie des personnes
+handicapées sur la nécessité le cas échéant d'aménager l'épreuve selon la certification visée. 
+
+Seuls les dossiers complets sont présentés au jury. 
+
+Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux compétences exigées par le
+référentiel du diplôme visé et, le cas échéant, les valide intégralement ou partiellement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-41 (V)
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-44 (V)
+
+
+###### Article A212-43
+
+Peuvent être exclues de la validation des acquis de l'expérience ou soumises à restrictions spéciales certaines compétences
+liées aux conditions de sécurité particulières, tant pour les pratiquants que pour les tiers, dans l'exercice d'activités se
+déroulant dans un environnement spécifique définies aux articles R. 212-7 à R. 212-10. Elles font l'objet d'une validation
+dans le cadre d'un cursus de formation mis en œuvre par la voie des unités capitalisables par un établissement visé au
+premier alinéa de l'article L. 212-2 ayant reçu l'habilitation dans une mention du diplôme donné. 
+
+Les modalités d'exclusion de la validation des acquis de l'expérience et de certification de ces compétences sont fixées par
+l'arrêté créant la mention du diplôme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L212-2
+	  - Code du sport. - art. R212-7
+
+
+##### Sous-Paragraphe 4 : Les personnes en situation de handicap
+
+
+###### Article A212-44
+
+Pour les personnes en situation de handicap, le directeur régional de la jeunesse, des sports et de la cohésion sociale peut
+décider d'aménager les tests d'entrée en formation, le cursus de formation et les épreuves d'évaluation certificative. 
+
+Cette décision est prise au vu de l'avis mentionné au 5° de l'article A. 212-35, ou au 8° de l'article A. 212-36 ou au 3° de
+l'article A. 212-42. 
+
+Elle est communiquée à l'organisme de formation concerné qui doit mettre en place ces aménagements.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-17 (M)
+	  - Code du sport. - art. A212-45 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-35
+	  - Code du sport. - art. A212-36 (M)
+	  - Code du sport. - art. A212-42 (M)
+
+
+###### Article A212-45
+
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale examine la compatibilité du handicap justifiant
+les aménagements mentionnés à l'article A. 212-44 avec l'exercice professionnel de l'activité du diplôme après avis d'un
+médecin agréé par la Fédération française handisport ou par la Fédération française de sport adapté ou désigné par la
+commission des droits et de l'autonomie des personnes handicapées. 
+
+Le directeur régional de la jeunesse, des sports et de la cohésion sociale peut apporter une restriction aux conditions
+d'exercice ouvertes par la possession du diplôme.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-44 (V)
+
+
+#####  Sous-section 3 : Brevet professionnel de la jeunesse,  de l'éducation populaire et du sport
+
+###### Article A212-46
+
+Toute session de formation conduisant à l'obtention du brevet professionnel de la jeunesse, de l'éducation populaire et du
+sport doit comporter une durée minimale de 600 heures pour une formation en centre par la voie initiale.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 2
+
+
+###### Article A212-47
+
+Les dix unités capitalisables constitutives du référentiel de certification du diplôme, définies à l'article D. 212-25, sont
+définies par les objectifs terminaux d'intégration suivants : 
+
+Dans les quatre unités capitalisables transversales, quelle que soit la spécialité :
+
+- UC 1 : être capable de communiquer dans les situations de la vie professionnelle ;
+
+- UC 2 : être capable de prendre en compte les caractéristiques des publics pour préparer une action éducative ;
+
+- UC 3 : être capable de préparer un projet ainsi que son évaluation ;
+
+- UC 4 : être capable de participer au fonctionnement de la structure et à la gestion de l'activité. 
+
+Dans les cinq unités capitalisables de la spécialité :
+
+- UC 5 : être capable de préparer une action d'animation ;
+
+- UC 6 : être capable d'encadrer un groupe dans le cadre d'une action d'animation ;
+
+- UC 7 : être capable de mobiliser les connaissances nécessaires à la conduite des activités professionnelles ;
+
+- UC 8 : être capable de conduire une action éducative ;
+
+- UC 9 : être capable de maîtriser les outils ou techniques de la spécialité. 
+
+Dans une unité capitalisable d'adaptation :
+
+- UC 10 : elle vise l'adaptation à l'emploi et au contexte particulier.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 2
+
+	**Cite**:
+
+	  - Code du sport. - art. D212-25
+
+
+#####  Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport
+
+##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”
+
+###### Article A212-48
+
+L'organisation de la spécialité " animation socio-éducative ou culturelle " du diplôme d'Etat de la jeunesse, de l'éducation
+populaire et du sport mentionné à l'article D. 212-35 est fixée par l'arrêté du 20 novembre 2006 s'y rapportant.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. D212-35
+
+
+##### Paragraphe 2 : Spécialité “perfectionnement sportif”
+
+###### Article A212-49
+
+La spécialité " perfectionnement sportif " du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport confère à
+son titulaire les compétences suivantes, attestées par le référentiel de certification :
+
+- concevoir des programmes de perfectionnement sportif ;
+
+- coordonner la mise en œuvre d'un projet de perfectionnement dans un champ disciplinaire
+
+- conduire une démarche de perfectionnement sportif ;
+
+- conduire des actions de formation. 
+
+Le référentiel professionnel et le référentiel de certification mentionnés aux articles D. 212-37 et D. 212-38 figurent
+respectivement aux annexes II-3 et II-4. 
+
+Lorsque la formation est suivie dans le cadre de la formation initiale, sa durée minimale est de 1 200 heures dont 700 heures
+en centre de formation.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 18 décembre 2008 (V)
+	  - Arrêté du 29 juin 2009 (V)
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 3
+
+	**Cite**:
+
+	  - Code du sport. - art. D212-37
+
+
+###### Article A212-50
+
+La spécialité "perfectionnement sportif" du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport est organisée
+en mentions disciplinaires.
+
+Sont précisées, notamment :
+
+- les exigences préalables à l'entrée en formation ;
+
+- les exigences préalables à la mise en situation pédagogique définies en termes d'objectifs intermédiaires des unités
+capitalisables ;
+
+- les dispenses et équivalences avec d'autres certifications.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 3
+
+
+###### Article A212-51
+
+Les quatre unités capitalisables constitutives du référentiel de certification du diplôme, définies à l'article D. 212-41,
+sont définies par les objectifs terminaux d'intégration suivants : 
+
+Dans les deux unités capitalisables transversales, quelle que soit la spécialité :
+
+- UC 1 : EC de concevoir un projet d'action ;
+
+- UC 2 : EC de coordonner la mise en œuvre d'un projet d'action. 
+
+Dans les deux unités capitalisables de la mention :
+
+- UC 3 : EC de conduire une démarche de perfectionnement sportif dans une discipline ;
+
+- UC 4 : EC d'encadrer la discipline sportive définie dans la mention en sécurité.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 21 décembre 2015 - art. 3
+
+	**Cité par**:
+
+	  - Code du sport. - art. A212-68 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. D212-41
+
 
 ###### Article A212-52
 
-Les organismes de formation préparant au diplôme d'Etat spécialité "perfectionnement sportif" doivent, conformément à
-l'article R. 212-48, présenter au directeur régional en charge de la jeunesse et des sports du lieu de la formation, aux
-dates fixées par celui-ci, une demande d'habilitation par mention préparée.
+Les situations d'évaluation certificative doivent comporter au minimum :
 
-Le défaut de réponse dans un délai de six mois vaut autorisation.
+- une évaluation des compétences dans une ou plusieurs situations d'activité recouvrant les objectifs terminaux d'intégration
+des unités capitalisables de la spécialité et de la mention (UC 3 et UC 4) ;
+
+- la production d'un document écrit personnel retraçant une expérience de conception et de coordination de la mise en œuvre
+de programmes de perfectionnement sportif dans le champ disciplinaire défini dans la mention assortie de son évaluation et
+soutenu devant une commission du jury mentionnée à l'article précédent, qui permettra l'évaluation des unités capitalisables
+transversales (UC 1 et UC 2).
+
+Le processus de certification doit permettre l'évaluation distincte de chaque unité capitalisable.
 
 **Liens relatifs à cet article**
 
@@ -39480,650 +40058,32 @@ Le défaut de réponse dans un délai de six mois vaut autorisation.
 
 	**Modifié par**:
 
-	  - Arrêté du 11 décembre 2014 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. R212-48
-
-
-###### Article A212-53
-
-L'organisme de formation, pour être habilité, doit comprendre au moins une personne, responsable pédagogique de la mise en
-œuvre de chaque formation préparant à une mention de la spécialité du diplôme d'Etat, ayant suivi le cycle de formation
-relatif à la méthodologie du dispositif en unités capitalisables ou reconnue compétente dans ladite méthodologie, dans des
-conditions définies par instruction du ministre chargé de la jeunesse et des sports. Le cycle de formation précité est
-organisé conformément à un cahier des charges défini par le ministre chargé de la jeunesse et des sports et sous l'autorité
-du directeur régional de la jeunesse, des sports et de la vie associative du lieu d'organisation du cycle de formation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-54 (M)
-
-
-###### Article A212-54
-
-La demande d'habilitation porte sur l'intégralité de la formation relative à la mention et est construite en référence à
-celle-ci. 
-
-Elle est instruite au vu d'un dossier comprenant : 
-
-― les profils et perspectives d'emploi visés par cette mention ; 
-
-― le processus d'évaluation proposé au jury, conforme à l'article A. 212-64, et s'appuyant sur le référentiel de
-certification défini en annexe II-4 ; 
-
-― le dispositif d'organisation des modalités de vérification des exigences préalables à l'entrée en formation figurant dans
-l'arrêté de la mention ; 
-
-― les modalités d'organisation du positionnement ; 
-
-― l'organisation pédagogique détaillée de la formation comprenant notamment les modalités de suivi de l'alternance ; 
-
-― l'attestation de la formation suivie par le responsable pédagogique de la formation visée à l'article A. 212-53, délivrée
-par le directeur régional de la jeunesse, des sports et de la vie associative ; 
-
-― la qualification des formateurs et des tuteurs correspondant à la mention considérée ; 
-
-― les moyens et équipements mis en œuvre par l'organisme de formation, notamment le budget de la formation ; 
-
-― les modalités de suivi de l'insertion professionnelle des diplômés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-53 (V)
-	  - Code du sport. - art. A212-64 (V)
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-55 (M)
-	  - Code du sport. - art. A212-56 (M)
-	  - Code du sport. - art. A212-57 (M)
-
-
-###### Article A212-55
-
-Après avis du directeur technique national placé auprès de la fédération ayant reçu délégation pour la discipline concernée
-par la mention, le directeur régional de la jeunesse, des sports et de la vie associative délivre et notifie l'habilitation à
-l'organisme concerné, pour une durée et un effectif annuel déterminés en fonction des éléments produits dans la demande
-mentionnée à l'article A. 212-54.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-54 (V)
-
-
-###### Article A212-56
-
-Toute modification d'un des éléments mentionnés à l'article A. 212-54 doit être portée immédiatement à la connaissance du
-directeur régional de la jeunesse, des sports et de la vie associative.
-
-L'habilitation est confirmée, dans des délais compatibles avec l'organisation de la formation, si la modification apportée ne
-constitue pas un motif de retrait.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-54 (V)
-
-
-###### Article A212-57
-
-Après que l'organisme a été amené à présenter ses observations en défense, le directeur régional de la jeunesse, des sports
-et de la vie associative procède au retrait de l'habilitation dans les cas suivants : 
-
-― modification ne respectant pas les exigences fixées à l'article A. 212-54 ; 
-
-― omission de déclaration de cette modification ; 
-
-― griefs dûment motivés, notamment en cas d'anomalies graves constatées dans l'organisation ou le suivi de la formation, la
-mise en place ou le fonctionnement du dispositif d'évaluation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Arrêté du 27 décembre 2007 - art. 5 bis (V)
-	  - Arrêté du 6 mars 2017 - art. 5
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-54 (V)
-
-
-###### Article A212-58
-
-Le directeur régional de la jeunesse, des sports et de la vie associative peut à tout moment, pour les mêmes motifs que ceux
-mentionnés à l'article A. 212-57 et justifiant une mesure d'urgence, suspendre l'habilitation pour une durée maximale de
-trois mois. Cette procédure n'est pas exclusive du retrait si le grief le justifie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 10 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-57 (M)
-
-
-##### Sous-paragraphe 4 : L'alternance
-
-###### Article A212-60
-
-Les situations d'apprentissage recouvrant des phases de perfectionnement sportif dans une discipline, déterminées dans le
-processus pédagogique, sont mises en œuvre par l'organisme habilité, sous la responsabilité d'un tuteur. 
-
-Les conditions de mise en œuvre respectent les articles L. 6223-5 
-à L. 6223-8 du code du travail en ce qui concerne les contrats d'apprentissage et les articles L. 6325-1 et 6325-2 du même
-code en ce qui concerne les contrats de professionnalisation et tout mode de formation, alternée, initiale ou continue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 12 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du travail - art. L6223-5
-	  - Code du travail - art. L6223-8
-	  - Code du travail - art. L6325-1
-
-
-##### Sous-paragraphe 5 : Nomenclature
-
-###### Article A212-61
-
-Les quatre unités capitalisables constitutives du référentiel de certification du diplôme, définies à l'article D. 212-41,
-sont définies par les objectifs terminaux d'intégration suivants : 
-
-Dans les deux unités capitalisables transversales, quelle que soit la spécialité : 
-
-― UC 1 : EC de concevoir un projet d'action ; 
-
-― UC 2 : EC de coordonner la mise en œuvre d'un projet d'action. 
-
-Dans les deux unités capitalisables de la mention : 
-
-― UC 3 : EC de conduire une démarche de perfectionnement sportif dans une discipline. 
-
-― UC 4 : EC d'encadrer la discipline sportive définie dans la mention en sécurité.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 19 juin 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. D212-41
-
-
-##### Sous-paragraphe 6 : Certification par unités capitalisables
-
-###### Article A212-62
-
-Après notification de l'habilitation à l'organisme de formation, le directeur régional de la jeunesse, des sports et de la
-vie associative procède à la constitution du jury visé à l'article R. 212-45 deux mois au moins avant la mise en place des
-tests de vérification des exigences préalables à l'entrée en formation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 14 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. R212-45
-
-
-###### Article A212-63
-
-Le jury : 
-
-― est chargé, à partir du projet présenté au directeur régional de la jeunesse, des sports et de la vie associative, d'agréer
-les situations d'évaluation certificative conformes à l'article A. 212-64 ; 
-
-― détermine éventuellement la composition des commissions, dans lesquelles peuvent siéger des experts, chargées de
-l'évaluation certificative des épreuves agréées. Les commissions, instituées en tant que de besoin, proposent au jury les
-résultats des évaluations certificatives ; 
-
-― valide tant l'organisation des épreuves que les résultats individuels, dans le respect des situations d'évaluation
-certificative agréées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 15 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-64
-
-
-###### Article A212-64
-
-Les situations d'évaluation certificative doivent comporter au minimum :
-
-― une évaluation des compétences dans une ou plusieurs situations d'activité recouvrant les objectifs terminaux d'intégration
-des unités capitalisables de la spécialité et de la mention (UC 3 et UC 4) ;
-
-― la production d'un document écrit personnel retraçant une expérience de conception et de coordination de la mise en œuvre
-de programmes de perfectionnement sportif dans le champ disciplinaire défini dans la mention assortie de son évaluation et
-soutenu devant une commission du jury mentionnée à l'article précédent, qui permettra l'évaluation des unités capitalisables
-transversales (UC 1 et UC 2).
-
-Le processus de certification doit permettre l'évaluation distincte de chaque unité capitalisable.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 16 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-54 (M)
-	  - Code du sport. - art. A212-63 (Ab)
-
-
-###### Article A212-65
-
-Le jury, après délibération, propose au directeur régional de la jeunesse, des sports et de la vie associative la délivrance
-des unités capitalisables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 17 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-
-###### Article A212-66
-
-Les décisions de délivrance d'une unité capitalisable font l'objet d'un arrêté par mention du diplôme.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-70 (Ab)
-
-
-##### Sous-paragraphe 7 : Validation des acquis de l'expérience
-
-###### Article A212-67
-
-La validation des acquis de l'expérience est effectuée par le jury défini par l'article R. 212-45.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 19 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. R212-45
-
-
-###### Article A212-68
-
-Le candidat dont la demande est déclarée recevable, conformément aux dispositions de l'article A. 212-51-1, dépose son
-dossier complet (première et deuxième partie) auprès du jury de la mention demandée. 
-
-Il joint à son dossier les pièces suivantes :
-
-- une copie de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
-défense pour les Français de moins de vingt-cinq ans ;
-
-- l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent ;
-
-- un certificat médical de non-contre-indication à la pratique de la discipline certifiée par la mention datant de moins de
-trois mois à la date limite de dépôt du dossier ;
-
-- pour les personnes handicapées, l'avis d'un médecin agréé par la Fédération française handisport ou par la Fédération
-française du sport adapté. 
-
-Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux compétences exigées par le
-référentiel professionnel et le référentiel de certification de la mention considérée et, le cas échéant, les valide
-intégralement ou partiellement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 24 décembre 2008 - art. 5
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-51-1 (Ab)
-
-
-###### Article A212-69
-
-Peuvent être exclues de la validation des acquis de l'expérience ou soumises à restrictions spéciales certaines compétences
-liées aux conditions de sécurité particulières, tant pour les pratiquants que pour les tiers, dans l'exercice d'activités se
-déroulant dans un environnement spécifique définies à l'article R. 212-7 à R. 212-10. 
-
-Elles font l'objet d'une validation dans le cadre d'un cursus de formation mis en œuvre par la voie des unités capitalisables
-par l'un des établissements visés au premier alinéa de l'article L. 212-2 ayant reçu l'habilitation pour la mention du
-diplôme considérée. 
-
-Les modalités d'exclusion de la validation des acquis de l'expérience et de certification de ces compétences sont incluses
-dans l'arrêté créant la mention du diplôme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 21 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. L212-2
-	  - Code du sport. - art. R212-7
-
-
-###### Article A212-70
-
-Le jury propose au directeur régional de la jeunesse, des sports et de la vie associative la validation des unités
-capitalisables. Leur délivrance s'effectue, dans les mêmes conditions que celles mentionnées à l'article A. 212-66, par le
-directeur régional de la jeunesse, des sports et de la vie associative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 22 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-147 (V)
-	  - Code du sport. - art. A212-174 (VD)
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-66 (Ab)
-
-
-##### Sous-paragraphe 8 : Dispositions diverses
-
-###### Article A212-71
-
-Le directeur régional de la jeunesse, des sports et de la vie associative, seul ou conjointement, délivre, conformément à
-l'article R. 212-47, le diplôme dans la mention considérée, dès lors que le candidat justifie de la possession de la totalité
-des unités capitalisables en cours de validité, quel que soit leur mode d'acquisition.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 23 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-173 (VD)
-
-	**Cite**:
-
-	  - Code du sport. - art. R212-47
-
-
-###### Article A212-72
-
-En cas de codélivrance de la mention du diplôme, le directeur régional de la jeunesse, des sports et de la vie associative du
-lieu de la formation, conjointement avec l'autorité administrative compétente :
-
-― habilite l'organisme de formation ;
-
-― désigne le jury ;
-
-― organise les modalités de certification.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 24 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-140 (V)
-
-
-###### Article A212-73
-
-Le directeur régional de la jeunesse, des sports et de la vie associative qui a habilité l'organisme dispensateur d'une
-formation peut, pour les personnes présentant une altération substantielle, durable ou définitive d'une ou plusieurs
-fonctions physiques, sensorielles, mentales, cognitives ou psychiques, d'un polyhandicap ou trouble de santé invalidant et
-après avis d'un médecin agréé par la Fédération française handisport ou par la fédération française du sport adapté, aménager
-le cursus de formation et les épreuves d'évaluation certificative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 25 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-151 (V)
-
-
-###### Article A212-74
-
-Le directeur régional de la jeunesse, des sports et de la vie associative, dans les mêmes conditions, examine la
-compatibilité du handicap justifiant les aménagements mentionnés ci-dessus avec l'exercice professionnel de l'activité
-faisant l'objet de la mention du diplôme. Il peut apporter une restriction aux conditions d'exercice ouvertes par la
-possession de la mention du diplôme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 26 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
 	  - Arrêté du 21 décembre 2015 - art. 3
 
 
 ##### Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport
 
-##### Paragraphe 1 : Spécialité « animation socio-éducative ou culturelle »
+##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”
 
-###### Article A212-75
+###### Article A212-53
 
-L'organisation de la spécialité animation socio-éducative ou culturelle » du diplôme d'Etat supérieur de la jeunesse, de
+L'organisation de la spécialité "animation socio-éducative ou culturelle" du diplôme d'Etat supérieur de la jeunesse, de
 l'éducation populaire et du sport est fixée par l'arrêté du 20 novembre 2006 s'y rapportant.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Arrêté du 20 novembre 2006
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Arrêté du 21 décembre 2015 - art. 4
 
+	**Cité par**:
 
-##### Paragraphe 2 : Spécialité « performance sportive »
+	  - Code du sport. - art. A212-54 (M)
 
-###### Article A212-76
+
+##### Paragraphe 2 : Spécialité "performance sportive"
+
+###### Article A212-54
 
 Il est créé une spécialité " performance sportive " du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et
 du sport qui confère à son titulaire les compétences suivantes attestées par le référentiel de certification :
@@ -40138,436 +40098,70 @@ du sport qui confère à son titulaire les compétences suivantes attestées par
 
 - organiser des actions de formation de formateurs dans le cadre des réseaux professionnels de l'organisation. 
 
-Le référentiel professionnel et le référentiel de certification mentionnés aux articles D. 212-53 et D. 212-54 susvisé
-figurent respectivement aux annexes II-3-1 et II-4-1. 
+Le référentiel professionnel et le référentiel de certification mentionnés aux articles D. 212-53 et D. 212-54 figurent
+respectivement aux annexes II-3-1 et II-4-1. 
 
 Lorsque la formation est suivie dans le cadre de la formation initiale, sa durée minimale est de 1 200 heures dont 700 heures
-en centre de formation. 
-
-La présente sous-section a pour objet de déterminer les modalités de préparation et de délivrance de cette spécialité du
-diplôme d'Etat supérieur.
+en centre de formation.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 1 (Ab)
-
 	**Modifié par**:
 
-	  - Arrêté du 1er juillet 2008 - art. 2
+	  - Arrêté du 21 décembre 2015 - art. 4
 
 	**Cité par**:
 
-	  - Arrêté du 18 décembre 2008 (V)
-	  - Arrêté du 29 juin 2009 (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
+	  - Code du sport. - art. A212-55 (M)
+	  - Code du sport. - art. A212-56 (M)
+	  - Code du sport. - art. A212-57 (M)
 
 	**Cite**:
 
 	  - Code du sport. - art. D212-53
-	  - Code du sport. - art. D212-54
 
 
-###### Article A212-77
+###### Article A212-55
 
-La spécialité « performance sportive » du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport est
+La spécialité "performance sportive" du diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport est
 organisée en mentions disciplinaires définies par arrêté.
 
 Cet arrêté précise notamment, le cas échéant :
 
-― les exigences préalables à l'entrée en formation ;
+- les exigences préalables à l'entrée en formation ;
 
-― les exigences préalables à la mise en situation pédagogique, définies en termes d'objectifs intermédiaires des unités
+- les exigences préalables à la mise en situation pédagogique, définies en termes d'objectifs intermédiaires des unités
 capitalisables ;
 
-― les dispenses et équivalences avec d'autres certifications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-
-##### Sous-paragraphe 1 : Conditions d'inscription
-
-###### Article A212-78
-
-La formation est organisée dans une mention pour une certification en unités capitalisables. Le dossier de candidature est
-déposé un mois avant la date de mise en place des tests de vérification des exigences préalables à l'entrée en formation,
-auprès du directeur régional de la jeunesse, des sports et de la vie associative qui a habilité l'organisme de formation pour
-cette mention, conformément aux articles A. 212-79 à A. 212-85.
-
-Le dossier comprend les pièces suivantes : 
-
-― une fiche d'inscription normalisée avec photographie ; 
-
-― les copies de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
-défense pour les Français de moins de vingt-cinq ans ; 
-
-― l'attestation de formation aux premiers secours ; 
-
-― la ou les attestations justifiant de la satisfaction aux exigences préalables fixées par l'arrêté relatif à la mention ; 
-
-― un certificat médical de non contre-indication à la pratique de la discipline certifiée par la mention datant de moins de
-trois mois.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-79
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-86 (Ab)
-	  - Code du sport. - art. A212-95 (V)
-
-
-###### Article A212-78-1
-
-Lorsque la certification est réalisée par validation des acquis de l'expérience, le dossier de candidature est composé comme
-suit :
-
-- une première partie relative à la recevabilité de la demande (ou livret de recevabilité) ;
-
-- une notice explicative accompagnant le livret de recevabilité ;
-
-- une seconde partie relative à la description et à l'analyse des activités réalisées par le candidat ;
-
-- un guide méthodologique. 
-
-Le candidat complète et transmet la première partie de son dossier avec les pièces justificatives attestant de la durée et de
-la nature de son expérience au directeur régional de la jeunesse, des sports et de la vie associative de son lieu de
-domicile, qui se prononce sur la recevabilité de sa demande. 
-
-La décision de recevabilité est fondée sur deux critères : la durée de l'expérience exigée et le rapport direct avec le
-diplôme visé. 
-
-En outre, le candidat à un diplôme permettant l'encadrement d'activités s'exerçant en environnement spécifique, définies à
-l'article R. 212-7, doit satisfaire aux exigences techniques préalables à l'entrée dans la formation ou à l'inscription à
-l'examen pour l'obtention de ce diplôme.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 24 décembre 2008 - art. 6
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-95 (Ab)
-
-	**Cite**:
-
-	  - Code du sport. - art. R212-7
-
-
-##### Sous-paragraphe 2 : L'habilitation
-
-###### Article A212-79
-
-Les organismes de formation préparant au diplôme d'Etat supérieur spécialité "performance sportive" doivent, conformément à
-l'article R. 212-64, présenter au directeur régional en charge de la jeunesse et des sports du lieu de la formation, aux
-dates fixées par celui-ci, une demande d'habilitation par mention préparée.
-
-Le défaut de réponse dans un délai de six mois vaut autorisation.
+- les dispenses et équivalences avec d'autres certifications.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 11 décembre 2014 - art. 3
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-78 (Ab)
-
-	**Cite**:
-
-	  - Code du sport. - art. R212-64
-
-
-###### Article A212-80
-
-L'organisme de formation, pour être habilité, doit comprendre au moins une personne, responsable pédagogique de la mise en
-œuvre de chaque formation préparant à une mention de la spécialité du diplôme d'Etat supérieur, ayant suivi le cycle de
-formation relative à la méthodologie du dispositif en unités capitalisables ou reconnue compétente dans ladite méthodologie
-dans des conditions définies par instruction du ministre chargé de la jeunesse et des sports. Le cycle de formation précité
-est organisé conformément à un cahier des charges défini par le ministre chargé de la jeunesse et des sports et sous
-l'autorité du directeur régional de la jeunesse, des sports et de la vie associative du lieu d'organisation du cycle de
-formation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 5 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-81 (Ab)
-
-
-###### Article A212-81
-
-La demande d'habilitation porte sur l'intégralité de la formation relative à la mention et est construite en référence à
-celle-ci. 
-
-Elle est instruite au vu d'un dossier comprenant : 
-
-― les profils et perspectives d'emploi visés par cette mention ; 
-
-― le processus d'évaluation proposé au jury, conforme à l'article A. 212-91, et s'appuyant sur le référentiel de
-certification défini en son annexe II-4 ; 
-
-― le dispositif d'organisation des modalités de vérification des exigences préalables à l'entrée en formation figurant dans
-l'arrêté de la mention ; 
-
-― les modalités d'organisation du positionnement ; 
-
-― l'organisation pédagogique détaillée de la formation comprenant notamment les modalités de suivi de l'alternance ; 
-
-― l'attestation de la formation suivie par le responsable pédagogique de la formation visée à l'article A. 212-80, délivrée
-par le directeur régional de la jeunesse, des sports et de la vie associative ; 
-
-― la qualification des formateurs et des tuteurs correspondant à la mention considérée ; 
-
-― les moyens et équipements mis en œuvre par l'organisme de formation, notamment le budget de la formation ; 
-
-― les modalités de suivi de l'insertion professionnelle des diplômés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 6 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-80 (Ab)
-	  - Code du sport. - art. A212-91
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-83 (Ab)
-	  - Code du sport. - art. A212-84 (Ab)
-
-
-###### Article A212-82
-
-Après avis du directeur technique national de la fédération ayant reçu un agrément pour la discipline concernée par la
-mention, le directeur régional de la jeunesse, des sports et de la vie associative délivre et notifie l'habilitation à
-l'organisme concerné, pour une durée et un effectif annuel déterminés en fonction des éléments produits dans la demande
-mentionnée à l'article précédent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 7 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
 	  - Arrêté du 21 décembre 2015 - art. 4
 
 
-###### Article A212-83
-
-Toute modification d'un des éléments mentionnés à l'article A. 212-81 doit être portée immédiatement à la connaissance du
-directeur régional de la jeunesse, des sports et de la vie associative.
-
-L'habilitation est confirmée, dans des délais compatibles avec l'organisation de la formation, si la modification apportée ne
-constitue pas un motif de retrait.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 8 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-81
-
-
-###### Article A212-84
-
-Après que l'organisme a été amené à présenter ses observations en défense, le directeur régional de la jeunesse, des sports
-et de la vie associative procède au retrait de l'habilitation dans les cas suivants : 
-
-― modification ne respectant pas les exigences fixées à l'article A. 212-81 ; 
-
-― omission de déclaration de cette modification ; 
-
-― griefs dûment motivés, notamment en cas d'anomalies graves constatées dans l'organisation ou le suivi de la formation, la
-mise en place ou le fonctionnement du dispositif d'évaluation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 9 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-81 (Ab)
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-85 (Ab)
-
-
-###### Article A212-85
-
-Le directeur régional de la jeunesse, des sports et de la vie associative peut à tout moment, pour les mêmes motifs que ceux
-mentionnés à l'article A. 212-84 et justifiant une mesure d'urgence, suspendre l'habilitation pour une durée maximale de
-trois mois. Cette procédure n'est pas exclusive du retrait si le grief le justifie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 10 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-84 (Ab)
-
-
-##### Sous-paragraphe 4 : L'alternance
-
-###### Article A212-87
-
-Les situations d'apprentissage recouvrant des phases de perfectionnement sportif dans une discipline, déterminées dans le
-processus pédagogique, sont mises en œuvre par l'organisme habilité, sous la responsabilité d'un tuteur. 
-
-Les conditions de mise en œuvre respectent les articles L. 6223-5 à L. 6223-8 du code du travail en ce qui concerne les
-contrats d'apprentissage et les articles L. 6325-1 et L. 6325-2 du même code en ce qui concerne les contrats de
-professionnalisation et tout mode de formation, alternée, initiale ou continue.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 12 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du travail - art. L6223-5
-	  - Code du travail - art. L6325-1
-
-
-##### Sous-paragraphe 5 : Nomenclature
-
-###### Article A212-88
+###### Article A212-56
 
 Les quatre unités capitalisables constitutives du référentiel de certification du diplôme, définies à l'article D. 212-57,
 sont définies par les objectifs terminaux d'intégration suivants : 
 
-Dans les deux unités capitalisables transversales quelle que soit la spécialité : 
+Dans les deux unités capitalisables transversales quelle que soit la spécialité :
 
-― UC 1 : EC de construire la stratégie d'une organisation du secteur ; 
+- UC 1 : EC de construire la stratégie d'une organisation du secteur ;
 
-― UC 2 : EC de gérer les ressources humaines et financières d'une organisation du secteur. 
+- UC 2 : EC de gérer les ressources humaines et financières d'une organisation du secteur. 
 
-Dans les deux unités capitalisables de la mention : 
+Dans les deux unités capitalisables de la mention :
 
-― UC 3 : EC de diriger un système d'entraînement dans une discipline. 
+- UC 3 : EC de diriger un système d'entraînement dans une discipline ;
 
-― UC 4 : EC d'encadrer la discipline définie dans la mention en sécurité.
+- UC 4 : EC d'encadrer la discipline définie dans la mention en sécurité.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
-
-	  - Arrêté du 19 juin 2015 - art. 2
-
-	**Abrogé par**:
 
 	  - Arrêté du 21 décembre 2015 - art. 4
 
@@ -40576,74 +40170,14 @@ Dans les deux unités capitalisables de la mention :
 	  - Code du sport. - art. D212-57
 
 
-##### Sous-paragraphe 6 : Certification par unités capitalisables
-
-###### Article A212-89
-
-Après notification de l'habilitation à l'organisme de formation, le directeur régional de la jeunesse, des sports et de la
-vie associative procède à la constitution du jury visé à l'article R. 212-61, deux mois au moins avant la mise en place des
-tests de vérification des exigences préalables à l'entrée en formation.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 14 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. R212-61
-
-
-###### Article A212-90
-
-Le jury : 
-
-― est chargé, à partir du projet présenté au directeur régional de la jeunesse, des sports et de la vie associative, d'agréer
-les situations d'évaluation certificative conformes à l'article A. 212-91 ; 
-
-― détermine éventuellement la composition des commissions dans lesquelles peuvent siéger des experts, chargées de
-l'évaluation certificative des épreuves agréées. Les commissions, instituées en tant que de besoin, proposent au jury les
-résultats des évaluations certificatives ; 
-
-― valide tant l'organisation des épreuves que les résultats individuels, dans le respect des situations d'évaluation
-certificative agréées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 15 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-91
-
-
-###### Article A212-91
+###### Article A212-57
 
 Les situations d'évaluation certificative doivent comporter, au minimum :
 
-― une évaluation des compétences dans une ou plusieurs situations d'activité recouvrant les objectifs terminaux d'intégration
+- une évaluation des compétences dans une ou plusieurs situations d'activité recouvrant les objectifs terminaux d'intégration
 des unités capitalisables de la spécialité et de la mention (UC 3 et UC 4) ;
 
-― la production d'un document écrit personnel retraçant une expérience de direction de projet sportif assortie de son
+- la production d'un document écrit personnel retraçant une expérience de direction de projet sportif assortie de son
 évaluation, et soutenu devant une commission du jury mentionnée à l'article précédent qui permettra l'évaluation des unités
 capitalisables transversales (UC 1 et UC 2).
 
@@ -40651,291 +40185,15 @@ Le processus de certification doit permettre l'évaluation distincte de chaque u
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 16 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
 	**Cité par**:
 
-	  - Code du sport. - art. A212-81 (Ab)
-	  - Code du sport. - art. A212-90 (Ab)
-
-
-###### Article A212-92
-
-Le jury, après délibération, propose au directeur régional de la jeunesse, des sports et de la vie associative la délivrance
-des unités capitalisables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 17 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-
-###### Article A212-93
-
-Les décisions de délivrance d'une unité capitalisable font l'objet d'un arrêté par mention du diplôme.
-
-**Liens relatifs à cet article**
+	  - Arrêté du 27 décembre 2007 - art. 5 bis (V)
+	  - Arrêté du 6 mars 2017 - art. 5
+	  - Code du sport. - art. A212-58 (Ab)
 
 	**Modifié par**:
 
-	  - Arrêté du 30 janvier 2015 - art. 1
-
-	**Abrogé par**:
-
 	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-97 (Ab)
-
-
-##### Sous-paragraphe 7 : Validation des acquis de l'expérience
-
-###### Article A212-94
-
-La validation des acquis de l'expérience est effectuée par le jury défini par l'article R. 212-61.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 19 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. R212-61
-
-
-###### Article A212-95
-
-Le candidat dont la demande est déclarée recevable, conformément aux dispositions de l'article A. 212-78-1, dépose son
-dossier complet (première et deuxième partie) auprès du jury de la mention demandée. 
-
-Il joint à son dossier les pièces suivantes :
-
-- une copie de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la
-défense pour les Français de moins de vingt-cinq ans ;
-
-- l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent ;
-
-- un certificat médical de non-contre-indication à la pratique de la discipline certifiée par la mention datant de moins
-trois mois à la date limite de dépôt du dossier ;
-
-- pour les personnes handicapées, l'avis d'un médecin agréé par la Fédération française handisport ou par la Fédération
-française du sport adapté. 
-
-Le jury vérifie si les acquis dont fait état le candidat dans son dossier correspondent aux compétences exigées par le
-référentiel professionnel et le référentiel de certification de la mention considérée et, le cas échéant, les valide
-intégralement ou partiellement.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 24 décembre 2008 - art. 7
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-78-1 (Ab)
-
-
-###### Article A212-96
-
-Peuvent être exclues de la validation des acquis de l'expérience ou soumises à restrictions spéciales certaines compétences
-liées aux conditions de sécurité particulières, tant pour les pratiquants que pour les tiers, dans l'exercice d'activités se
-déroulant dans un environnement spécifique définies à l'article R. 212-7 à R. 212-10. 
-
-Elles font l'objet d'une validation dans le cadre d'un cursus de formation mis en œuvre par la voie des unités capitalisables
-par l'un des établissements visés au premier alinéa de l'article L. 212-2 ayant reçu l'habilitation pour la mention du
-diplôme considérée. 
-
-Les modalités d'exclusion de la validation des acquis de l'expérience et de certification de ces compétences sont incluses
-dans la présente sous-section créant la mention du diplôme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 21 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-197 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. L212-2
-	  - Code du sport. - art. R212-7
-
-
-###### Article A212-97
-
-Le jury propose au directeur régional de la jeunesse, des sports et de la vie associative la validation des unités
-capitalisables. Leur délivrance s'effectue, dans les mêmes conditions que celles mentionnées à l'article A. 212-93, par le
-directeur régional de la jeunesse, des sports et de la vie associative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 22 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-93 (Ab)
-
-
-##### Sous-paragraphe 8 : Dispositions diverses
-
-###### Article A212-98
-
-Le directeur régional de la jeunesse, des sports et de la vie associative, seul ou conjointement, délivre, conformément à
-l'article R. 212-63, le diplôme dans la mention considérée, dès lors que le candidat justifie de la possession de la totalité
-des unités capitalisables en état de validité, quel que soit leur mode d'acquisition.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 23 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. R212-63
-
-
-###### Article A212-99
-
-En cas de codélivrance de la mention du diplôme, le directeur régional de la jeunesse, des sports et de la vie associative du
-lieu de la formation, conjointement avec l'autorité administrative compétente :
-
-― habilite l'organisme de formation ;
-
-― désigne le jury ;
-
-― organise les modalités de certification.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 24 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-
-###### Article A212-100
-
-Le directeur régional de la jeunesse, des sports et de la vie associative qui a habilité l'organisme dispensateur d'une
-formation peut, pour les personnes présentant une altération substantielle, durable ou définitive d'une ou plusieurs
-fonctions physiques, sensorielles, mentales, cognitives ou psychiques, d'un polyhandicap ou trouble de santé invalidant et
-après avis d'un médecin agréé par la fédération française handisport ou par la fédération française du sport adapté, aménager
-le cursus de formation et les épreuves d'évaluation certificative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 25 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-101 (Ab)
-
-
-###### Article A212-101
-
-Le directeur régional de la jeunesse, des sports et de la vie associative, dans les mêmes conditions, examine la
-compatibilité du handicap justifiant les aménagements mentionnés à l'article A. 212-100 avec l'exercice professionnel de
-l'activité faisant l'objet de la mention du diplôme. Il peut apporter une restriction aux conditions d'exercice ouvertes par
-la possession de la mention du diplôme.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Arrêté du 20 novembre 2006 - art. 26 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 21 décembre 2015 - art. 4
-
-	**Cite**:
-
-	  - Code du sport. - art. A212-100 (Ab)
 
 
 ##### Sous-section 6 : Brevet d'Etat d'éducateur sportif
@@ -61022,6 +60280,685 @@ Il doit être titulaire de l'attestation de formation aux premiers secours.
 	**Cité par**:
 
 	  - Code du sport. - art. A212-2 (V)
+
+
+###### Article Annexe II-2-1
+
+CAHIER DES CHARGES 
+
+Titre, qualité, coordonnées du déclarant
+
+Partie 1 : CLAUSES GÉNÉRALES 
+
+1-1. L'identification de l'organisme de formation
+
+- raison sociale : dénomination, adresse, téléphone, courriel
+
+- statut juridique
+
+- attestation d'assurances concernant l'activité de formation
+
+- directeur de l'organisme de formation (identité, adresse, téléphone, courriel)
+
+Les éléments fournis sous forme de fiches par l'organisme de formation doivent permettre d'apprécier :
+
+1-2. La capacité de l'organisme de formation de répondre au cadre général de la formation professionnelle
+
+- être déclaré auprès de la DIRECCTE et en conformité avec les formalités inhérentes à cet enregistrement :
+
+- fournir le numéro d'activité délivré et le dernier bilan pédagogique et financier transmis à la DIRECCTE (L. 6352-11, R
+6352-23 du code du travail)
+
+- fournir copie de la convention de formation type utilisée entre l'organisme de formation, l'entreprise d'accueil et le
+stagiaire
+
+- respecter les dispositions du code du travail mentionnées aux articles L.6352-3 à L.6352-5, L.6353-1, L.6353-8 et
+L.6353-9 :
+
+- fournir le règlement intérieur applicable aux stagiaires
+
+- préciser comment est assurée la représentation des stagiaires
+
+1-3. La capacité de l'organisme de formation d'assurer le suivi administratif et financier des stagiaires, de répondre à
+leurs questions et sollicitations avant l'inscription, pendant la formation et à l'issue de celle-ci
+
+- disposer d'outils d'information et de modalités d'information dédiés aux stagiaires :
+
+- décrire les modalités d'information des stagiaires (fiches type, site internet, journées portes ouvertes, séances
+d'information, rendez-vous personnels …)
+
+- disposer d'un secrétariat dédié, de permanences, de référents …
+
+- fournir l'organigramme général de l'organisme de formation
+
+- fournir l'organigramme détaillé et nominatif du secteur formation
+
+- accompagner les stagiaires dans la recherche de financement ou de stage
+
+- préciser les nom(s), prénom(s) et qualité(s) de la (des) personne(s) chargées d'accompagner les stagiaires pour la
+recherche de financement ou d'alternance
+
+- présenter les outils de suivi de l'insertion des stagiaires
+
+1-4. La capacité de l'organisme de formation d'assurer la formation des stagiaires et de disposer de moyens techniques,
+pédagogiques et d'encadrement dédiés aux actions de formation
+
+- décrire les outils généraux à disposition de la formation : centre documentaire, publications, site internet, FOAD…
+
+- décrire les modalités de choix des entreprises et de collaboration avec les tuteurs
+
+- décrire le dispositif d'évaluation interne pour les sessions de formation
+
+1-5. La capacité de respecter et faire apparaitre de manière lisible dans le parcours de formation l'apprentissage par les
+stagiaires de la dimension éducative et citoyenne de la profession
+
+- présenter comment les stagiaires sont formés :
+
+- à la connaissance des principes de la laïcité
+
+- à la prise en compte des diversités
+
+- à la prise en compte du développement durable et de la transition écologique
+
+- fournir le projet pédagogique s'il existe ou expliciter les orientations éducatives et pédagogiques de l'organisme
+
+Les établissements publics de formation relevant du ministère chargé des sports et les centres de formation des apprentis
+demandant une habilitation sont réputés remplir les clauses 1-2, 1-3, 1-4 et 1-5.
+
+Pour les organismes de formation en cours d'habilitation quinquennale, les clauses générales seront réputées remplies si une
+nouvelle habilitation est demandée. Si le dossier est déposé dans une autre région que celle qui a accordé la première
+habilitation, les éléments du dossier seront cependant transmis pour information.
+
+Partie 2 : CLAUSES PARTICULIÈRES 
+
+Diplôme, spécialité, mention ou certificat complémentaire pour lequel est demandée l'habilitation
+
+Les éléments fournis sous forme de fiches par l'organisme de formation doivent permettre d'apprécier :
+
+2-1. L'adéquation des lieux de la formation
+
+- coordonnées du lieu de formation (adresse, téléphone, courriel)
+
+- coordonnées du coordonnateur de la formation (nom, prénom, qualité, téléphone et courriel)
+
+- liste des équipements mobilisés (salles et capacité de ces salles, centre documentaire, salle informatique, lieux de
+pratiques,…)
+
+- présenter les moyens pédagogiques affectés à la réalisation d'une session (matériel mobile et permanent, espaces,
+équipements informatiques, …)
+
+- avis de la commission départementale de sécurité et d'accessibilité
+
+2-2. La capacité de l'organisme de formation à identifier des objectifs pédagogiques et à adapter son offre au public formé
+et à l'emploi visé, ainsi qu'à être cohérent dans ses moyens pédagogiques, techniques et d'encadrement dédiés à la formation
+
+- présenter le public ciblé, les critères de sélection envisagés, les modalités du positionnement, l'intégration des
+stagiaires en parcours partiel
+
+- fournir une fiche présentant les éventuels services annexes (restauration, hébergement, salles de repos, de convivialité,
+accessibilité …)
+
+- si l'organisme de formation organise les tests d'exigences préalables (TEP), fournir une fiche présentant les modalités et
+le calendrier retenus pour la première session
+
+- joindre le ruban pédagogique, adapté aux attendus du diplôme, prévu pour la première session, décrivant la progression
+pédagogique et faisant apparaître les périodes d'alternance, la montée en puissance de la responsabilisation du stagiaire,
+les contenus abordés
+
+- présenter les certifications et le calendrier retenu pour la première session
+
+- préciser le nombre de sessions commençant sur une seule année civile, leur planification sur l'année, l'effectif minimal et
+maximal prévu par session (en équivalent temps plein), le calendrier de la première session (avec les dates de
+positionnement)
+
+- le cas échéant, fournir la liste des organismes sous traitants des contenus de formation (intitulé, raison sociale,
+adresse, contenus de formation envisagés, lieux de formation en référence au point 2-1)
+
+- présenter un budget prévisionnel dédié à la première session de formation en adéquation avec les publics et les objectifs
+pédagogiques
+
+2-3. La capacité de l'organisme de formation à mettre en place un système de suivi pédagogique et d'évaluation adapté dès
+l'entrée en formation, la description des moyens pédagogiques et techniques
+
+- Fournir une fiche de présentation du coordonnateur pédagogique précisant nom, prénom, qualification, expérience, quotité de
+temps de travail consacré à la coordination (environ 0,5 ETP sur la durée de la session) ainsi que les modalités de mise en
+œuvre de cette coordination
+
+- Le coordonnateur pédagogique disposera :
+
+- des qualifications exigées par l'arrêté du diplôme pour lequel est demandée l'habilitation
+
+- ou, quand l'arrêté ne le précise pas,
+
+- d'un diplôme au moins du niveau du diplôme pour lequel est demandée l'habilitation et d'une expérience de formateur ou de
+coordonnateur (fournir CV et justificatifs de diplôme)
+
+- ou de trois années d'expérience de formateur ou de coordonnateur et la maîtrise de l'activité visée par le diplôme (fournir
+CV et justificatifs)
+
+- d'une équipe pédagogique qu'il anime et coordonne : décrire la composition de l'équipe et ses modalités de fonctionnement
+
+- décrire l'organisation de l'alternance entre les temps de formation théorique en centre de formation et pratique en
+entreprise et le suivi de cette alternance
+
+- présenter les méthodes de positionnement et d'individualisation des parcours de formation ainsi que les dates retenues pour
+la première session
+
+2-4. La qualité des titres, diplômes et certificats de qualifications professionnelles des personnels en charge de la
+réalisation des actions et leur cohérence avec les formations proposées
+
+- Fournir la liste des formateurs comportant nom, prénom, qualification, contenus enseignés, statut (employé permanent,
+vacataire, prestataire…), et présenter les rôles de chacun dans la formation visée ainsi que les modalités d'encadrement des
+intervenants ponctuels
+
+- L'équipe de formateurs disposera de permanents détenant :
+
+- des qualifications exigées par l'arrêté du diplôme pour lequel est demandée l'habilitation
+
+- ou, quand l'arrêté ne le précise pas, au moins le niveau du diplôme visé et/ou l'expertise du métier visé
+
+2-5. La capacité à mobiliser des structures accueillant les personnes en formation pour la réalisation de leur alternance en
+entreprise et donc
+
+- à disposer d'un réseau et de ressources en lien avec le diplôme visé : fournir la liste des professionnels, employeurs,
+experts en lien avec le diplôme et la mention pouvant être sollicitées comme tuteurs, experts ou évaluateurs… et préciser les
+modalités de mobilisation de ce réseau
+
+- à assurer le suivi de l'alternance par un dispositif tutoral : présenter le dispositif de tutorat faisant apparaître :
+
+- les liens de pertinence entre les séquences de formation en centre et la formation en entreprise (objectifs et contenus de
+formation confiés aux entreprises)
+
+- les modalités et outils de travail avec les tuteurs, organisation de la progressivité de la montée en responsabilité, le
+soutien, la remédiation…
+
+- les critères retenus pour le choix des tuteurs, les exigences qui leur sont imposées
+
+- les modalités de formation et de suivi des tuteurs
+
+2-6. La capacité à organiser des certifications conformes aux textes réglementaires et à assurer l'équité des stagiaires
+
+- Fournir une fiche détaillant les modalités de certification (regroupements, contexte, durée, supports, évaluateurs, dates
+envisagées pour la première session, lieux, …)
+
+- fournir la liste des évaluateurs pressentis pour la première session pour les épreuves certificatives déléguées et préciser
+les critères de choix des évaluateurs
+
+- fournir les grilles de certification utilisées et les documents fournis aux évaluateurs lorsque les épreuves certificatives
+sont déléguées
+
+- préciser les modalités des épreuves de rattrapage
+
+- préciser les conditions de présentation des candidats aux épreuves de certification (gestion des absences, identité,
+convocations…)
+
+Les fédérations nationales délégataires et leurs organes déconcentrés demandant une habilitation dans un diplôme portant sur
+leur discipline sont réputés remplir les clauses 2-4 et 2-5 pour les formateurs de la fédération et les intervenants
+conseillers techniques sportifs (CTS), conseillers techniques nationaux (CTN)… les éléments du dossier seront cependant
+transmis pour information.
+
+Les établissements publics de formation relevant du ministère chargé des sports demandant une habilitation sont réputés
+remplir la clause 2-1.
+
+Les établissements publics de formation relevant du ministère chargé des sports lorsqu'ils sont inscrits sur la liste
+mentionnée à l'article A. 212-175-11 du code du sport sont réputés remplir les clauses 2-3, 2-4, 2-5 pour les formations
+relevant de l'environnement spécifique.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 21 décembre 2015 - art.
+
+	**Cite**:
+
+	  - Code du sport. - art. A212-175-11
+	  - Code du travail
+
+
+###### Article Annexe II-2-2
+
+<table>
+      <tbody>
+        <tr>
+          <th colspan="3">BILAN PÉDAGOGIQUE ET ADMINISTRATIF DE LA SESSION DE FORMATION
+
+</th>
+        </tr>
+        <tr>
+          <th colspan="3">
+
+A renseigner et joindre à la DRJSCS un mois après la fin de la session
+
+</th>
+        </tr>
+        <tr>
+          <td align="left">
+
+ORGANISME DE FORMATION
+
+</td>
+          <td align="left" colspan="2">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+DIPLÔME
+
+</td>
+          <td align="left" colspan="2">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+SPÉCIALITÉ
+
+</td>
+          <td colspan="2" align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+MENTION
+
+</td>
+          <td colspan="2" align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+NUMERO D'HABILITATION
+
+</td>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+DATE DE LA SESSION 
+
+</td>
+          <td align="left">
+
+DU
+
+</td>
+          <td align="left">
+
+AU
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+<table>
+      <tbody>
+        <tr>
+          <th colspan="5">
+
+BILAN QUANTITATIF DE LA SESSION DE FORMATION
+
+</th>
+        </tr>
+        <tr>
+          <td align="center" rowspan="2">
+
+Nombre de stagiaires inscrits
+
+</td>
+          <td align="center" rowspan="2">
+
+…
+
+</td>
+          <td align="center" rowspan="2">
+
+dont
+
+</td>
+          <td align="center">
+
+…
+
+</td>
+          <td align="left">
+
+en parcours complets.
+
+</td>
+        </tr>
+        <tr>
+          <td align="center">
+
+…
+
+</td>
+          <td align="left">
+
+en parcours incomplets.
+
+</td>
+        </tr>
+        <tr>
+          <td align="center">
+
+Nombre de diplômés
+
+</td>
+          <td align="center">
+
+…
+
+</td>
+          <td align="left" colspan="3">
+
+Nombre de certifications partielles acquises ...
+
+</td>
+        </tr>
+        <tr>
+          <td align="center">
+
+Nombre d'abandons
+
+</td>
+          <td align="center">
+
+…
+
+</td>
+          <td colspan="3" align="left">
+
+Raisons principales :
+
+</td>
+        </tr>
+        <tr>
+          <td rowspan="2" align="center">
+
+Volume horaire pour un parcours complet
+
+</td>
+          <td rowspan="2" align="center">
+
+…
+
+</td>
+          <td align="center" rowspan="2">
+
+dont
+
+</td>
+          <td align="center">
+
+…
+
+</td>
+          <td align="left">
+
+en centre.
+
+</td>
+        </tr>
+        <tr>
+          <td align="center" valign="middle">
+
+…
+
+</td>
+          <td valign="middle" align="left">
+
+en entreprise.
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+<table>
+      <tbody>
+        <tr>
+          <td colspan="2" align="left" valign="middle">
+
+BILAN QUALITATIF DE LA SESSION DE FORMATION
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+Par rapport aux contenus pédagogiques
+
+</td>
+          <td align="left">
+
+Par rapport aux moyens pédagogiques utilisés
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+Par rapport aux modalités du suivi de l'alternance
+
+</td>
+          <td align="left">
+
+Par rapport aux modalités certificatives proposées
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+Par rapport à la cohorte de stagiaires
+
+</td>
+          <td align="left">
+
+Par rapport à l'insertion / prospective / sorties vers l'emploi des stagiaires
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left">
+
+</td>
+          <td align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+
+Avis général sur le déroulement de la session
+
+</td>
+        </tr>
+        <tr>
+          <td align="left" colspan="2">
+
+</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left" colspan="2">
+
+</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+
+Changements souhaités pour la session suivante (demande d'accord exprès de la DRJSCS)
+
+</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left" colspan="2">
+
+</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left" colspan="2">
+
+CADRE RÉSERVÉ À LA DRJSCS
+
+</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td colspan="2" align="left">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left" colspan="2">
+
+</td>
+        </tr>
+        <tr>
+          <td align="left" colspan="2">
+
+</td>
+        </tr>
+      </tbody>
+    </table>
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 21 décembre 2015 - art.
 
 
 ###### Article Annexe II-3 (art. A212-49)
