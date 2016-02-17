@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-02-13
+Version Consolidée au 2016-02-18
 
 # Partie législative
 
@@ -14522,6 +14522,26 @@ les demandes dont la liste figure à l'annexe I-7, qui entrent dans le champ de 
 	**Modifié par**:
 
 	  - Décret n°2015-1752 du 24 décembre 2015 - art. 1
+
+
+##### Sous-section 5 : Dispositions relatives aux licences de tir délivrées par les fédérations délégataires
+
+###### Article R131-47
+
+La licence de tir peut être refusée ou retirée par la fédération sportive ayant reçu délégation du ministre chargé des sports
+au titre de l'article L. 131-14 aux personnes inscrites au fichier national automatisé nominatif des personnes interdites
+d'acquisition et de détention d'armes mentionné à l'article L. 312-16 du code de la sécurité intérieure.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-156 du 15 février 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L131-14
+	  - Code de la sécurité intérieure - art. L312-16
 
 
 #### Chapitre II : Ligues professionnelles
