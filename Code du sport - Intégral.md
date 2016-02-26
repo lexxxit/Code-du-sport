@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-02-18
+Version Consolidée au 2016-02-27
 
 # Partie législative
 
@@ -35552,9 +35552,9 @@ durée de quatre ans renouvelable une fois.
 Le Centre national pour le développement du sport est administré par un conseil d'administration et dirigé par un directeur
 général. 
 
-Le conseil d'administration est composé, outre son président, des vingt membres suivants : 
+Le conseil d'administration est composé, outre son président, des vingt-trois membres suivants :  
 
-1° Quatre membres de droit : 
+1° Cinq membres de droit :
 
 a) Le ministre chargé des sports ou son représentant ; 
 
@@ -35564,8 +35564,10 @@ c) Le président du Comité national olympique et sportif français ou son repr�
 
 d) Le directeur des sports ou son représentant ; 
 
-2° Quatre représentants du ministère chargé des sports nommés par le ministre, dont deux chefs des services déconcentrés de
-l'Etat chargés des sports ; 
+e) Le président du Comité paralympique et sportif français ou son représentant ;
+
+2° Cinq représentants du ministère chargé des sports nommés par le ministre, dont deux chefs des services déconcentrés de
+l'Etat chargés de sports ; 
 
 3° Cinq représentants du mouvement sportif nommés par le ministre chargé des sports après désignation par le président du
 Comité national olympique et sportif français, dont : 
@@ -35585,11 +35587,14 @@ c) Un maire ou adjoint au maire désigné par l'Association des maires de France
 5° Quatre personnalités qualifiées nommées par le ministre chargé des sports, dont une sur la proposition du président du
 Comité national olympique et sportif français. 
 
+6° Un représentant du personnel de l'établissement nommé par le ministre chargé des sports, désigné par le comité technique
+de l'établissement. 
+
 Pour chacun des membres titulaires à l'exception du président, des membres de droit et des personnalités qualifiées, un
 suppléant est désigné dans les mêmes conditions. 
 
-Les membres du conseil d'administration mentionnés aux 2°, 3°, 4° et 5° ainsi que leurs suppléants sont nommés pour une durée
-de quatre ans, renouvelable une fois. 
+Les membres du conseil d'administration mentionnés aux 2°, 3°, 4°, 5° et 6° ainsi que leurs suppléants sont nommés pour une
+durée de quatre ans, renouvelable une fois.
 
 La perte de la qualité au titre de laquelle un membre a été nommé entraîne sa démission de plein droit du conseil
 d'administration. 
@@ -35604,13 +35609,13 @@ la durée du mandat restant à courir.
 
 	  - Décret n°2006-248 du 2 mars 2006 - art. 3 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
-
 	**Cité par**:
 
 	  - Arrêté du 21 mars 2014 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2016-191 du 24 février 2016 - art. 1
 
 
 ###### Article R411-5
@@ -35725,14 +35730,14 @@ Il nomme aux emplois de l'établissement et a autorité sur le personnel.
 Il prépare les délibérations du conseil d'administration et en assure l'exécution. Il lui rend compte, à chaque réunion, de
 l'activité de l'établissement. 
 
-Il notifie aux délégués territoriaux de l'établissement mentionnés aux paragraphes 2, 3 et 4 de la présente sous-section et
-aux articles R. 421-4, R. 422-3, R. 423-1, R. 424-1, R. 425-1 , R. 426-1 et R. 427-1 le montant des crédits à répartir au
-niveau local ainsi que les directives de l'établissement concernant cette répartition adoptées par le conseil
-d'administration en application du 13° de l'article R. 411-6. 
+Il notifie aux délégués territoriaux de l'établissement mentionnés aux paragraphes 2,3 et 4 de la présente sous-section et
+aux articles R. 421-4, R. 422-3, R. 423-1, R. 424-1, R. 425-1, R. 426-1     R. 427-1, R. 428-1 et R. 429-1 le montant des
+crédits à répartir au niveau local ainsi que les directives de l'établissement concernant cette répartition adoptées par le
+conseil d'administration en application du 13° de l'article R. 411-6. 
 
 Il peut, dans les limites qu'il détermine, déléguer sa signature à des agents de l'établissement et aux délégués de
-l'établissement mentionnés aux paragraphes 2, 3 et 4 de la présente sous-section et aux articles R. 421-4, R. 422-3, R.
-423-1, R. 424-1, R. 425-1, R. 426-1 et R. 427-1. 
+l'établissement mentionnés aux paragraphes 2,3 et 4 de la présente sous-section et aux articles R. 421-4, R. 422-3, R. 423-1,
+R. 424-1, R. 425-1, R. 426-1     R. 427-1, R. 428-1 et R. 429-1. 
 
 Il établit le rapport annuel d'activité, le soumet au conseil d'administration et le transmet, après approbation du conseil
 d'administration, au ministre chargé des sports.
@@ -35745,7 +35750,7 @@ d'administration, au ministre chargé des sports.
 
 	**Modifié par**:
 
-	  - Décret n°2009-548 du 15 mai 2009 - art. 5
+	  - Décret n°2016-191 du 24 février 2016 - art. 6
 
 	**Cite**:
 
@@ -35884,19 +35889,23 @@ La commission territoriale du Centre national pour le développement du sport in
 
 2° Le délégué territorial adjoint de l'établissement ou son représentant ; 
 
-3° Le préfet de chacun des départements de la région ou son représentant ; 
+3° Dix représentants de l'Etat désignés par le préfet de région ; 
 
-4° Deux agents des services déconcentrés de l'Etat chargés des sports désignés par le préfet de région ; ce nombre est porté
-à trois pour les régions comportant quatre ou cinq départements et à quatre pour les régions comportant plus de cinq
-départements ; 
+4° Le président du comité régional olympique et sportif dont le ressort territorial comprend le chef-lieu de la région ou son
+représentant ; 
 
-5° Le président du comité régional olympique et sportif ou son représentant ; 
+5° Cinq représentants du mouvement sportif désignés par le président du comité régional olympique et sportif dont le ressort
+territorial comprend le chef-lieu de la région ; 
 
-6° Le président de chacun des comités départementaux olympiques et sportifs de la région ou son représentant ; 
+6° Un conseiller régional désigné par l'Association des régions de France ; 
 
-7° Deux représentants du mouvement sportif désignés par le président du comité régional olympique et sportif ; ce nombre est
-porté à trois pour les régions comportant quatre ou cinq départements et à quatre pour les régions comportant plus de cinq
-départements. 
+7° Un conseiller départemental issu d'un département de la région désigné par l'Assemblée des départements de France ; 
+
+8° Deux maires ou adjoints au maire de communes de la région désignés par l'Association des maires de France, dont un désigné
+en accord avec l'Association nationale des élus en charge du sport ; 
+
+9° Un président d'établissement public de coopération intercommunale de la région désigné par l'Assemblée des communautés de
+France. 
 
 Les membres de la commission territoriale autres que les membres de droit sont nommés par le délégué territorial de
 l'établissement pour une durée de quatre ans, renouvelable une fois. Pour chacun de ces membres, un suppléant est désigné
@@ -35915,7 +35924,7 @@ la durée du mandat restant à courir.
 
 	**Modifié par**:
 
-	  - Décret n°2009-548 du 15 mai 2009 - art. 8
+	  - Décret n°2016-191 du 24 février 2016 - art. 2
 
 	**Cité par**:
 
@@ -35957,20 +35966,17 @@ ou de dirigeant.
 ###### Article R411-15
 
 La commission territoriale du Centre national pour le développement du sport est coprésidée par le délégué territorial ou son
-adjoint et par le président du comité régional olympique et sportif ou son représentant. Elle se réunit au moins deux fois
-par an sur convocation de ses coprésidents. Son secrétariat est assuré par les services déconcentrés de l'Etat chargés des
-sports. 
+adjoint et par le président du comité régional olympique et sportif dont le ressort territorial comprend le chef-lieu de la
+région ou son représentant. Elle se réunit au moins deux fois par an sur convocation de ses coprésidents. Son secrétariat est
+assuré par les services déconcentrés de l'Etat chargés des sports. 
 
 En cas d'absence ou d'empêchement simultané du délégué territorial et du délégué territorial adjoint, la coprésidence de la
 commission est assurée par un fonctionnaire de catégorie Adésigné par le délégué territorial. 
 
 La commission délibère à la majorité des voix des membres présents ou représentés. 
 
-Le président du conseil régional, ou son représentant, et les présidents des conseils départementaux des départements de la
-région, ou leurs représentants, ainsi que deux maires ou adjoints au maire de communes de la région, désignés par
-l'Association des maires de France, peuvent assister avec voix consultative aux séances de la commission territoriale. Les
-coprésidents de la commission territoriale peuvent également inviter à assister à tout ou partie des réunions toute personne
-que celle-ci souhaite entendre.
+Les coprésidents de la commission territoriale peuvent également inviter à assister à tout ou partie des réunions toute
+personne que celle-ci souhaite entendre.
 
 **Liens relatifs à cet article**
 
@@ -35980,7 +35986,7 @@ que celle-ci souhaite entendre.
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+	  - Décret n°2016-191 du 24 février 2016 - art. 3
 
 
 ###### Article R411-16
@@ -36083,8 +36089,7 @@ territorial, parmi les chefs des services déconcentrés de l'Etat chargés des 
 
 ###### Article R411-23
 
-Dans les régions et départements d'outre-mer, les dispositions du paragraphe 2 de la présente sous-section sont modifiées
-comme suit : 
+En Guadeloupe et à La Réunion, les dispositions du paragraphe 2 de la présente sous-section sont modifiées comme suit : 
 
 La commission territoriale du Centre national pour le développement du sport comprend : 
 
@@ -36092,16 +36097,17 @@ La commission territoriale du Centre national pour le développement du sport co
 
 2° Le délégué territorial adjoint de l'établissement ou son représentant ; 
 
-3° Trois agents de l'Etat désignés par le préfet de région parmi les agents des services déconcentrés de l'Etat chargés des
-sports ; 
+3° Cinq représentants de l'Etat désignés par le préfet de région ; 
 
 4° Le président du comité régional olympique et sportif ou son représentant ; 
 
-5° Trois représentants du mouvement sportif désignés par le président du comité régional olympique et sportif. 
+5° Deux représentants du mouvement sportif désignés par le président du comité régional olympique et sportif ; 
 
-Le président du conseil régional ou son représentant, le président du conseil départemental ou son représentant, et un maire
-ou adjoint au maire désigné par l'association représentative des maires peuvent assister avec voix consultative aux séances
-de la commission.
+6° Le président du conseil régional ou son représentant ; 
+
+7° Le président du conseil départemental ou son représentant ; 
+
+8° Un maire ou adjoint au maire de communes de la région désigné par l'Association des maires de France.
 
 **Liens relatifs à cet article**
 
@@ -36111,7 +36117,7 @@ de la commission.
 
 	**Modifié par**:
 
-	  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+	  - Décret n°2016-191 du 24 février 2016 - art. 4
 
 
 ##### Sous-section 3 : Régime financier et comptable
@@ -36544,6 +36550,42 @@ caractéristiques de la collectivité et dans le respect des compétences propre
 	  - Code du sport. - art. R112-2
 	  - Code du sport. - art. R411-2
 	  - Code du sport. - art. R411-24
+
+
+#### Chapitre VIII : Dispositions applicables à la Martinique
+
+###### Article R428-1
+
+Le représentant de l'Etat en Martinique est le délégué territorial du Centre national pour le développement du sport. Il est
+assisté d'un délégué territorial adjoint désigné par le directeur général sur proposition du délégué territorial. 
+
+Dans la collectivité, une commission territoriale du Centre national pour le développement du sport exerce les compétences
+mentionnées à l'article R. 411-16. La composition de cette commission est fixée par arrêté du ministre chargé des sports, en
+tenant compte des caractéristiques de la collectivité et dans le respect des compétences propres à ses institutions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-191 du 24 février 2016 - art. 5
+
+
+#### Chapitre IX : Dispositions applicables à la Guyane
+
+###### Article R429-1
+
+Le représentant de l'Etat en Guyane est le délégué territorial du Centre national pour le développement du sport. Il est
+assisté d'un délégué territorial adjoint désigné par le directeur général sur proposition du délégué territorial. 
+
+Dans la collectivité, une commission territoriale du Centre national pour le développement du sport exerce les compétences
+mentionnées à l'article R. 411-16. La composition de cette commission est fixée par arrêté du ministre chargé des sports, en
+tenant compte des caractéristiques de la collectivité et dans le respect des compétences propres à ses institutions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-191 du 24 février 2016 - art. 5
 
 
 # Partie réglementaire - Arrêtés
