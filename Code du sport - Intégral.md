@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-03-01
+Version Consolidée au 2016-03-11
 
 # Partie législative
 
@@ -11808,7 +11808,7 @@ République.
 
 ### TITRE Ier : PERSONNES PUBLIQUES
 
-#### Chapitre II : Etablissements publics nationaux
+#### Chapitre II : Etablissements publics nationaux et locaux
 
 ##### Section 1 : Dispositions générales
 
@@ -12567,16 +12567,6 @@ réparations de ces immeubles.
 
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
 
-
-#### Chapitre II : Etablissements publics nationaux et locaux
-
-##### Section 1 : Dispositions générales
-
-##### Section 2 : Le Centre national pour le développement du sport
-
-##### Section 3 : Les établissements publics de formation
-
-##### Section 4 : Le Musée national du sport
 
 #### Chapitre III : Collectivités territoriales
 
@@ -33053,106 +33043,6 @@ l'article D. 321-4.
 
 ##### Section 1 : Dispositions générales
 
-##### Sous-section 1 : Obligation de déclarer l'exploitation d'un établissement de pratique sportive
-
-###### Article R322-1
-
-Toute personne désirant exploiter un établissement mentionné à l'article L. 322-1 doit en faire la déclaration au préfet du
-département du siège de l'établissement deux mois au moins avant l'ouverture.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 1er du décret n°93-1101 du 3 septembre 1993 concernant la déclaration des établissements dans lesquels sont pratiquées des activités physiques et sportives et la sécurité de ces activités
-	  - Décret n°93-1101 du 3 septembre 1993 - art. 1 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°84-810 du 30 août 1984 - art. 1 (M)
-	  - Code de la sécurité intérieure - art. R312-40 (V)
-	  - Code du sport. - art. A322-1 (M)
-	  - Code du sport. - art. A322-142 (V)
-	  - Code du sport. - art. A322-16 (V)
-	  - Code du sport. - art. A322-165 (V)
-	  - Code du sport. - art. A322-3 (V)
-	  - Code du sport. - art. A322-65 (V)
-	  - Code du sport. - art. D322-16 (M)
-	  - Code du sport. - art. R322-2 (V)
-	  - Code du sport. - art. R322-3 (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2016-281 du 8 mars 2016 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. L322-1 (V)
-
-
-###### Article R322-2
-
-La déclaration mentionnée à l'article R. 322-1 expose les garanties d'hygiène et de sécurité prévues par l'établissement pour
-le fonctionnement des activités physiques et sportives ; la forme de cette déclaration et la liste des documents qui devront
-y être joints sont définies par arrêté du ministre chargé des sports.
-
-Toute modification portant sur l'un des éléments de la déclaration est déclarée dans les mêmes formes. Sauf cas d'urgence
-justifiée, la déclaration est faite avant la modification.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 2 du décret n°93-1101 du 3 septembre 1993 concernant la déclaration des établissements dans lesquels sont pratiquées des activités physiques et sportives et la sécurité de ces activités
-	  - Décret n°93-1101 du 3 septembre 1993 - art. 2 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2016-281 du 8 mars 2016 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. R322-1 (V)
-
-
-###### Article R322-3
-
-Lorsque la déclaration prévue à l'article R. 322-1 fait apparaître que l'établissement ne remplit pas les conditions fixées
-par les lois et règlements applicables, le préfet peut s'opposer, par arrêté motivé et après avoir mis l'intéressé en mesure
-de présenter des observations écrites, à l'ouverture de cet établissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 3 du décret n°93-1101 du 3 septembre 1993 concernant la déclaration des établissements dans lesquels sont pratiquées des activités physiques et sportives et la sécurité de ces activités
-	  - Décret n°93-1101 du 3 septembre 1993 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2016-281 du 8 mars 2016 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. R322-1 (V)
-
-	**Cité par**:
-
-	  - Code du sport. - art. R322-10 (V)
-
-
 ##### Sous-section 2 : Obligations générales
 
 ###### Article R322-4
@@ -33221,27 +33111,34 @@ techniques applicables à l'encadrement des activités physiques et sportives me
 
 ###### Article R322-6
 
-L'exploitant d'un établissement mentionné à l'article L. 322-1 est tenu d'informer le préfet de tout accident grave survenu
-dans l'établissement.
+L'exploitant d'un établissement mentionné à l'article L. 322-1 est tenu d'informer le préfet : 
+
+a) De tout accident grave ; 
+
+b) De toute situation présentant ou ayant présenté des risques graves par leur probabilité et leurs conséquences éventuelles
+pour la santé et la sécurité physique ou morale des pratiquants.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 1 de l'article 8 du décret n°93-1101 du 3 septembre 1993 concernant la déclaration des établissements dans lesquels sont pratiquées des activités physiques et sportives et la sécurité de ces activités
 	  - Décret n°93-1101 du 3 septembre 1993 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-281 du 8 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L322-1 (V)
+	  - Code du sport. - art. L322-1
 
 	**Cité par**:
 
-	  - Code du sport. - art. R322-8 (M)
+	  - Code du sport. - art. R322-8 (V)
 
 
 ###### Article R322-7
@@ -33276,18 +33173,18 @@ délégation mentionnée à l'article L. 131-14 pour les disciplines concernées
 
 ###### Article R322-8
 
-Dans le cas mentionné à l'article R. 322-6, le préfet ordonne une enquête pour établir les circonstances dans lesquelles
-l'accident est survenu.
+Dans les cas mentionnés à l'article R. 322-6, le préfet ordonne une enquête pour établir les circonstances dans lesquelles
+l'accident est survenu ou celle à laquelle la situation est apparue.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Alinéa 2 de l'article 8 du décret n°93-1101 du 3 septembre 1993 concernant la déclaration des établissements dans lesquels sont pratiquées des activités physiques et sportives et la sécurité de ces activités
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-281 du 8 mars 2016 - art. 1
 
 	**Cite**:
 
@@ -33297,38 +33194,41 @@ l'accident est survenu.
 ###### Article R322-9
 
 Le préfet peut adresser à l'exploitant de l'établissement les mises en demeure nécessaires et lui impartir un délai pour
-mettre fin :
+mettre fin : 
 
-1° Aux manquements aux garanties d'hygiène et de sécurité mentionnées dans la déclaration ou définies en application de
-l'article R. 322-7 ;
+1° Aux manquements aux garanties d'hygiène et de sécurité ; 
 
-2° Au défaut de souscription du contrat d'assurance mentionné à l'article L. 321-1 ;
+2° Au défaut de souscription du contrat d'assurance mentionné à l'article L. 321-1 ; 
 
 3° Aux risques particuliers que présente l'activité de l'établissement pour la santé et la sécurité physique ou morale des
-pratiquants ;
+pratiquants ; 
 
-4° Aux situations exposant les pratiquants à l'utilisation de substances ou de procédés interdits en application du livre II.
+4° Aux situations exposant les pratiquants à l'utilisation de substances ou de procédés interdits en application du livre
+II. 
 
-A l'issue du délai fixé, le préfet peut prononcer la fermeture temporaire ou définitive de l'établissement, par arrêté
-motivé, si l'exploitant n'a pas remédié aux situations qui ont fait l'objet des mises en demeure.
+A l'issue du délai fixé, le préfet peut s'opposer à l'ouverture ou prononcer la fermeture temporaire ou définitive de
+l'établissement, par arrêté motivé, si l'exploitant n'a pas remédié aux situations qui ont fait l'objet des mises en
+demeure. 
 
-En cas d'urgence, la fermeture temporaire peut être prononcée sans mise en demeure préalable.
+En cas d'urgence, l'opposition à ouverture ou la fermeture temporaire peut être prononcée sans mise en demeure préalable.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°93-1101 du 3 septembre 1993 concernant la déclaration des établissements dans lesquels sont pratiquées des activités physiques et sportives et la sécurité de ces activités
 	  - Décret n°93-1101 du 3 septembre 1993 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-281 du 8 mars 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L321-1 (V)
-	  - Code du sport. - art. R322-7 (V)
+	  - Code du sport. - art. L321-1
 
 	**Cité par**:
 
@@ -33513,13 +33413,16 @@ Les éducateurs sportifs titulaires de ce diplôme portent le titre de maître n
 
 ###### Article D322-16
 
-La déclaration mentionnée à l'article R. 322-1 comporte un plan d'organisation de la surveillance et des secours qui fixe, en
-fonction de la configuration de l'établissement mentionné à l'article D. 322-12 :
+Chaque établissement établit un plan d'organisation de la surveillance et des secours qui fixe, en fonction de la
+configuration de l'établissement mentionné à l'article D. 322-12 : 
 
-1° Le nombre des personnes chargées de garantir la surveillance et le nombre des personnes chargées de les assister ;
+1° Le nombre des personnes chargées de garantir la surveillance et le nombre des personnes chargées de les assister ; 
 
 2° Le nombre des pratiquants pouvant être admis simultanément dans l'établissement de baignade d'accès payant pour y
-pratiquer les activités considérées. Ce nombre est déterminé en fonction du nombre des personnes mentionnées au 1°.
+pratiquer les activités considérées. Ce nombre est déterminé en fonction du nombre des personnes mentionnées au 1°. 
+
+Ce plan est transmis au préfet de département deux mois avant l'ouverture de l'établissement ainsi qu'après chaque
+modification. 
 
 Les ministres chargés de la sécurité civile et des sports fixent par arrêté le contenu du plan d'organisation de la
 surveillance et des secours.
@@ -33528,12 +33431,15 @@ surveillance et des secours.
 
 	**Anciens textes**:
 
-	  - Art. 6 du décret n°77-1177 du 20 octobre 1977 relatif à la surveillance et à l'enseignement des activités de natation
 	  - Décret n°77-1177 du 20 octobre 1977 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-281 du 8 mars 2016 - art. 2
 
 	**Cité par**:
 
@@ -33542,8 +33448,7 @@ surveillance et des secours.
 
 	**Cite**:
 
-	  - Code du sport. - art. D322-12 (V)
-	  - Code du sport. - art. R322-1 (V)
+	  - Code du sport. - art. D322-12
 
 
 ###### Article D322-17
