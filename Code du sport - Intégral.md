@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-03-11
+Version Consolidée au 2016-03-17
 
 # Partie législative
 
@@ -50699,15 +50699,18 @@ Outre le délégué de l'établissement, membre de droit, ou son représentant :
 
 a) Le directeur de la jeunesse, des sports et de la vie associative, membre de droit, ou son représentant ;
 
-b) Deux agents de la direction de la jeunesse et des sports désignés par le directeur de la jeunesse, des sports et de la vie
-associative ;
+b) Cinq agents de l'Etat désignés par le préfet ;
 
 2° D'autre part :
 
 a) Le président du comité régional olympique et sportif de Mayotte, membre de droit, ou son représentant ;
 
 b) Deux représentants du mouvement sportif désignés par le président du comité régional olympique et sportif. L'un de ces
-représentants est issu d'une discipline olympique.
+représentants est issu d'une discipline olympique ;
+
+c) Deux élus du conseil départemental de Mayotte ou leurs représentants ; 
+
+d) Un maire ou un maire adjoint désigné par le président de l'Association des maires de France. 
 
 II. ― Les membres de la commission territoriale autres que les membres de droit sont nommés par le délégué territorial de
 l'établissement. Pour chacun de ces membres, un suppléant est désigné dans les mêmes conditions.
@@ -50720,7 +50723,7 @@ entraîne sa démission de plein droit.
 
 	**Modifié par**:
 
-	  - Arrêté du 30 janvier 2015 - art. 2
+	  - Arrêté du 4 mars 2016 - art. 1
 
 
 ###### Article A421-3
@@ -50730,10 +50733,6 @@ représentant et par le président du comité régional olympique et sportif ou 
 la direction de la jeunesse et des sports.
 
 La commission se réunit sur convocation de ses coprésidents.
-
-Le président du conseil général ou son représentant, un maire ou un maire adjoint désigné par le président de l'Association
-des maires de Mayotte et le directeur du service de la jeunesse, des sports et de la vie associative de Mayotte assistent
-avec voix consultative aux séances de la commission territoriale.
 
 Le délégué territorial et le président du comité régional olympique et sportif peuvent également inviter à assister à tout ou
 partie des réunions de la commission territoriale toute personne que celle-ci souhaite entendre.
@@ -50750,7 +50749,7 @@ La commission délibère à la majorité des membres présents ou représentés.
 
 	**Modifié par**:
 
-	  - Arrêté du 30 janvier 2015 - art. 2
+	  - Arrêté du 4 mars 2016 - art. 2
 
 
 ###### Article A421-4
@@ -51066,15 +51065,16 @@ délégué territorial de l'établissement, membre de droit, ou son représentan
 a) Le directeur de la jeunesse, des sports et de la vie associative de la Nouvelle-Calédonie, membre de droit, ou son
 représentant ;
 
-b) Deux agents de la direction de la jeunesse et des sports de la Nouvelle-Calédonie, désignés par le directeur de la
-jeunesse, des sports et de la vie associative de la Nouvelle-Calédonie.
+b) Trois agents de l'Etat désignés par le haut-commissaire de la République ;
 
 2° D'autre part :
 
 a) Le président du comité territorial olympique et sportif de la Nouvelle-Calédonie, membre de droit, ou son représentant ;
 
 b) Deux représentants du mouvement sportif désignés par le président du comité territorial olympique et sportif. L'un de ces
-représentants est issu d'une discipline olympique.
+représentants est issu d'une discipline olympique ;
+
+c) Le président du gouvernement de Nouvelle-Calédonie, membre de droit, ou son représentant. 
 
 La commission territoriale est coprésidée par le délégué territorial de l'établissement ou son représentant et par le
 président du comité territorial olympique et sportif de la Nouvelle-Calédonie ou son représentant. 
@@ -51091,7 +51091,7 @@ commission territoriale afin de tenir compte du calendrier des Jeux du Pacifique
 
 	**Modifié par**:
 
-	  - Arrêté du 21 mars 2011 - art. 2
+	  - Arrêté du 4 mars 2016 - art. 3
 
 
 ###### Article A425-3
@@ -51099,8 +51099,8 @@ commission territoriale afin de tenir compte du calendrier des Jeux du Pacifique
 La commission territoriale du Centre national pour le développement du sport se réunit sur convocation du délégué
 territorial. Son secrétariat est assuré par la direction de la jeunesse et des sports de la Nouvelle-Calédonie
 
-Le président du gouvernement de Nouvelle-Calédonie, ou son représentant, et les présidents des assemblées de province, ou
-leurs représentants, assistent avec voix consultative aux séances de la commission territoriale.
+Les présidents des assemblées de province, ou leurs représentants, assistent avec voix consultative aux séances de la
+commission territoriale.
 
 Le délégué territorial et le président du comité territorial olympique et sportif peuvent également inviter à assister à tout
 ou partie des réunions de la commission territoriale toute personne que celle-ci souhaite entendre.
@@ -51115,9 +51115,9 @@ La commission délibère à la majorité des membres présents ou représentés.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 4 mars 2016 - art. 5
 
 
 ###### Article A425-4
@@ -51209,6 +51209,60 @@ l'établissement concernant la répartition des subventions à attribuer au nive
 	**Cite**:
 
 	  - Code du sport. - art. R427-1
+
+
+#### Chapitre VIII : Dispositions applicables à la Martinique
+
+###### Article A428-1
+
+La commission territoriale du Centre national pour le développement du sport en Martinique comprend : 
+
+1° Le délégué territorial de l'établissement ou son représentant ; 
+
+2° Le délégué territorial adjoint de l'établissement ou son représentant ; 
+
+3° Cinq représentants de l'Etat désignés par le préfet ; 
+
+4° Le président du comité régional olympique et sportif ou son représentant ; 
+
+5° Deux représentants du mouvement sportif désignés par le président du comité régional olympique et sportif ; 
+
+6° Deux élus de la collectivité territoriale de Martinique ou leurs représentants ; 
+
+7° Un maire ou adjoint au maire de communes de la Martinique désigné par l'Association des maires de France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 4 mars 2016 - art. 1
+
+
+#### Chapitre IX : Dispositions applicables à la Guyane
+
+###### Article A429-1
+
+La commission territoriale du Centre national pour le développement du sport en Guyane comprend : 
+
+1° Le délégué territorial de l'établissement ou son représentant ; 
+
+2° Le délégué territorial adjoint de l'établissement ou son représentant ; 
+
+3° Cinq représentants de l'Etat désignés par le préfet ; 
+
+4° Le président du comité régional olympique et sportif ou son représentant ; 
+
+5° Deux représentants du mouvement sportif désignés par le président du comité régional olympique et sportif ; 
+
+6° Deux élus de la collectivité territoriale de Guyane ou leurs représentants ; 
+
+7° Un maire ou adjoint au maire de communes de la Guyane désigné par l'Association des maires de France.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 4 mars 2016 - art. 1
 
 
 # ANNEXES
