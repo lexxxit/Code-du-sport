@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-04-16
+Version Consolidée au 2016-04-17
 
 # Partie législative
 
@@ -37755,6 +37755,81 @@ Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre cha
 	  - Code du sport. - art. A112-8 (V)
 
 
+#### Chapitre IV : Les centres de ressources, d'expertise et de performance sportive
+
+##### Section unique : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement des scrutins pour l'élection de membres au conseil d'administration
+
+###### Article A114-1
+
+Pour l'élection des cinq ou six représentants du personnel, des sportifs et des stagiaires mentionnés au 4° de l'article R.
+114-4, il est constitué cinq collèges : 
+
+1° Collège des personnels pédagogiques ; 
+
+2° Collège des personnels administratifs et des personnels médicaux et paramédicaux ; 
+
+3° Collège des personnels ouvriers, techniques et de service ; 
+
+4° Collège des sportifs accueillis dans le centre ; 
+
+5° Collège des stagiaires en formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 1
+
+
+###### Article A114-2
+
+Sont électeurs et éligibles au sein des collèges 1° à 3° les personnels titulaires ainsi que les agents contractuels
+bénéficiant d'un contrat de dix mois au moins à la date de clôture du scrutin, en activité au sein de l'établissement au jour
+du scrutin. 
+
+Ne peuvent participer au scrutin les personnels en position de disponibilité, de congé de longue durée ou de congé parental. 
+
+Au sein du collège 4°, ne sont électeurs et éligibles que les sportifs inscrits dans l'établissement à la date de clôture du
+scrutin. 
+
+Au sein du collège 5°, ne sont électeurs et éligibles que les stagiaires inscrits, à la date de clôture du scrutin, à un
+cycle de formation dispensé par l'établissement portant sur une période d'au moins dix mois. 
+
+Les membres d'un collège ne peuvent ni voter dans un autre collège, ni être choisis par les membres d'un autre collège pour
+les représenter. 
+
+Il est établi une liste électorale par collège. Nul ne peut prendre part au vote s'il ne figure sur une liste électorale.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 1
+
+
+###### Article A114-3
+
+Les directeurs des centres de ressources, d'expertise et de performance sportive sont chargés d'établir les listes
+électorales et d'organiser toutes les opérations afférentes à l'élection des membres élus siégeant au conseil
+d'administration de leur établissement, dont les modalités pratiques sont précisées en annexe I-0-1. 
+
+Les directeurs des centres de ressources, d'expertise et de performance sportive fixent la date des élections, le lieu ainsi
+que les heures d'ouverture et de fermeture des scrutins. Les élections ont lieu quatre mois au plus et un mois au moins avant
+la date d'expiration de la durée du mandat des membres en exercice telle que fixée par l'article R. 114-7 du code du sport. 
+
+Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration est admis.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R114-7
+
+
 ###  TITRE II : ASSOCIATIONS ET SOCIÉTÉS SPORTIVES
 
 ####  Chapitre Ier : Associations sportives
@@ -39561,402 +39636,6 @@ Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre cha
 	  - Code du sport. - art. A211-58 (V)
 	  - Code du sport. - art. A211-61 (V)
 	  - Code du sport. - art. A211-62 (V)
-
-
-##### Section 5 : Les centres de ressources, d'expertise et de performance sportives
-
-##### Sous-section 1 : Contrôle budgétaire
-
-###### Article A211-64
-
-Les centres de ressources, d'expertise et de performance sportives (CREPS) sont assujettis au contrôle budgétaire prévu par
-les articles 220 à 228 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique dans
-les conditions fixées à la présente sous-section.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2012-1246 du 7 novembre 2012 - art. 220
-
-	**Modifié par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-
-###### Article A211-65
-
-En application de l'article 222 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable
-publique, le contrôleur budgétaire assiste avec voix consultative au conseil d'administration du CREPS. Il est destinataire,
-dans les mêmes conditions que les autres membres, des documents qui sont communiqués avant chaque séance, ainsi que des
-comptes rendus et des procès-verbaux. 
-
-Le document prévu à l'article A. 211-70-1 peut ouvrir la possibilité pour le contrôleur budgétaire de participer aux réunions
-de tout comité, commission ou organe consultatif existant au sein du CREPS.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2012-1246 du 7 novembre 2012 - art. 222
-	  - Code du sport. - art. A211-70-1
-
-	**Modifié par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-
-###### Article A211-65-1
-
-Pour l'examen du budget initial, des budgets rectificatifs et du compte financier, le contrôleur budgétaire est destinataire
-des projets de documents prévus à l'article 175 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
-comptable publique préalablement à leur envoi aux membres du conseil d'administration. 
-
-Le contrôleur budgétaire est destinataire, après le vote du budget, d'une répartition détaillée des crédits et des prévisions
-de recettes dans les conditions précisées dans le document prévu à l'article A. 211-70-1.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2012-1246 du 7 novembre 2012 - art. 175
-	  - Code du sport. - art. A211-70-1
-
-	**Créé par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-
-###### Article A211-66
-
-Les comptes rendus de gestion mentionnés au second alinéa de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif
-à la gestion budgétaire et comptable publique sont transmis au contrôleur budgétaire, au moins deux fois par an, avant le 31
-mai et avant le 30 septembre sauf dérogation accordée par celui-ci.
-
-Ils comprennent :
-
-- l'actualisation de la répartition initiale détaillée ;
-
-- la situation détaillée de l'exécution du budget et la prévision d'exécution au 31 décembre ;
-
-- la situation des engagements et, le cas échéant, l'actualisation de la programmation pluriannuelle ;
-
-- l'état détaillé des ressources propres ;
-
-- le plan de trésorerie ;
-
-- une note de synthèse analysant l'exécution des crédits et la prévision des crédits non consommés et identifiant les risques
-éventuels d'une exécution non soutenable ainsi que les mesures correctrices envisagées.
-
-En outre, sont transmis pour information :
-
-- les accords-cadres ;
-
-- les marchés à bons de commandes ;
-
-- la liste des agents accueillis en position d'activité ;
-
-- la liste des agents mis à disposition contre remboursement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
-
-	**Modifié par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-
-###### Article A211-67
-
-En application des dispositions de l'article 223 du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et
-comptable publique, le contrôleur budgétaire est notamment destinataire des documents suivants :
-
-- les informations relatives au suivi des objectifs fixés par le ministre chargé des sports au directeur du CREPS ;
-
-- les documents à caractère stratégique relatifs aux missions du CREPS, ses objectifs, ses moyens et ses engagements
-financiers ;
-
-- les informations relatives au suivi du contrat de performance et à la contribution de l'établissement à la performance du
-programme budgétaire dont il est opérateur ;
-
-- les documents relatifs à l'organisation, aux procédures internes et au fonctionnement du contrôle interne, notamment
-comptable et budgétaire du CREPS ainsi que tout document relevant d'une cartographie des risques ;
-
-- les documents relatifs aux politiques des achats, de l'immobilier, des ressources humaines et des systèmes d'information ;
-
-- les rapports d'inspection et d'audit des commissaires aux comptes et des auditeurs internes et externes, ainsi que les
-plans d'action du CREPS relatifs à la mise en œuvre de leurs recommandations.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°2012-1246 du 7 novembre 2012 - art. 223
-
-	**Modifié par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-
-###### Article A211-67-1
-
-Le contrôleur budgétaire suit la gestion des emplois et des crédits de personnel dans les conditions prévues à l'arrêté du 25
-juin 2014 relatif au document prévisionnel de gestion des emplois et des crédits de personnel des organismes.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Arrêté du 25 juin 2014
-
-	**Créé par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-
-###### Article A211-68
-
-Dans les conditions et selon les seuils fixés par le document prévu à l'article A. 211-70-1, au regard de la qualité du
-contrôle interne budgétaire : 
-
-Sont soumis au visa :
-
-- les décisions générales ou catégorielles relatives aux modalités de recrutement ou de rémunération des personnels ;
-
-- les actes relatifs au recrutement et à la rémunération des agents contractuels visés aux articles 4 et 6 de la loi n° 84-16
-du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat ;
-
-- les décisions fixant la rémunération des fonctionnaires détachés sur contrat ;
-
-- les acquisitions et aliénations immobilières ;
-
-- les baux autres que les baux domaniaux ;
-
-- les marchés autres que les marchés à bons de commandes ;
-
-- les bons de commandes ;
-
-- les décisions et conventions portant attribution de prêts ou de subventions. 
-
-Sont soumis à avis préalable :
-
-- les projets de transactions avant transmission au tiers pour signature.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°84-16 du 11 janvier 1984 - art. 4
-	  - Loi n°84-16 du 11 janvier 1984 - art. 6
-	  - Code du sport. - art. A211-70-1
-
-	**Modifié par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-
-###### Article A211-69
-
-Le contrôleur budgétaire établit un programme de contrôle a posteriori en fonction des risques identifiés qui peuvent porter
-sur la qualité de la comptabilité budgétaire tenue ou le caractère soutenable de la prévision budgétaire et de son exécution.
-Il se fonde sur les risques qu'il constate, dans l'exercice de ses missions, lors des travaux relatifs au contrôle interne
-budgétaire ou dans les conclusions d'audits. 
-
-Ce contrôle peut porter sur des actes ou des circuits et procédures de dépenses et de recettes. 
-
-Après avis de l'ordonnateur, le contrôleur budgétaire transmet à l'établissement le programme de contrôle et l'informe, le
-cas échéant, des agents placés sous l'autorité du ministre chargé du budget qui l'assisteront. 
-
-L'établissement est tenu de communiquer au contrôleur budgétaire et aux personnes qui l'assistent tous les documents
-nécessaires à la réalisation du contrôle a posteriori au plus tard dans le délai d'un mois. 
-
-Les conclusions et recommandations éventuelles du contrôle sont transmises à l'ordonnateur et, le cas échéant, au ministre
-chargé du budget et au ministre de tutelle. 
-
-L'ordonnateur indique les mesures qu'il entend mettre en œuvre pour pallier les risques ou défaillances identifiés. 
-
-Dans les conditions prévues à l'article A. 211-70-1, le contrôleur budgétaire peut à tout moment procéder au contrôle a
-posteriori d'un acte particulier non soumis à avis ou visa.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. A211-70-1
-
-
-###### Article A211-70
-
-S'il apparaît au contrôleur budgétaire que la gestion du CREPS remet en cause le caractère soutenable de l'exécution
-budgétaire au regard de l'autorisation budgétaire, la couverture de ses dépenses obligatoires ou inéluctables, la poursuite
-de son exploitation ou la qualité de la comptabilité budgétaire, il en informe l'ordonnateur par écrit. Celui-ci lui fait
-connaître dans les mêmes formes les mesures qu'il envisage de prendre pour rétablir la situation budgétaire.
-
-Le contrôleur budgétaire rend compte de ces échanges au ministre chargé du budget et au ministre de tutelle.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-
-###### Article A211-70-1
-
-Après concertation avec l'ordonnateur, le contrôleur budgétaire établit un document fixant la liste détaillée des actes
-soumis à visa ou avis, les montants des seuils de visa ou d'avis, le format des documents et états à transmettre ainsi que la
-périodicité et les modalités de leur transmission.
-
-Ce document est transmis à l'ordonnateur, à l'agent comptable, au ministre chargé du budget et au ministre de tutelle.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 20 avril 2015 - art. 1
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A211-65 (Ab)
-	  - Code du sport. - art. A211-65-1 (Ab)
-	  - Code du sport. - art. A211-68 (Ab)
-	  - Code du sport. - art. A211-69 (Ab)
-
-
-##### Sous-section 2 : Conditions d'exercice du droit de suffrage, d'éligibilité et règles applicables au déroulement du scrutin pour l'élection de membres au conseil d'administration
-
-###### Article A211-71
-
-Pour l'élection des cinq membres élus au conseil d'administration de chacun des centres de ressources, d'expertise et de
-performance sportives, il est constitué cinq collèges : 
-
-1° Collège des personnels pédagogiques ; 
-
-2° Collège des personnels administratifs et des personnels médicaux et paramédicaux ; 
-
-3° Collège des personnels ouvriers, techniques et de service ; 
-
-4° Collège des sportifs accueillis dans les " pôles France  "   ou les " pôles Espoirs " ; 
-
-5° Collège des stagiaires en formation.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 9
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. Annexe II-18 (art. A211-73) (Ab)
-
-
-###### Article A211-72
-
-Sont électeurs et éligibles au sein des collèges 1° à 3° les personnels titulaires ainsi que les non-titulaires bénéficiant
-d'un contrat de dix mois au moins à la date de clôture du scrutin, en activité au sein de l'établissement au jour du
-scrutin. 
-
-Ne peuvent participer au scrutin les personnels en position de disponibilité, de congé de longue durée ou de congé parental. 
-
-Au sein du collège 4°, ne sont électeurs et éligibles que les sportifs inscrits, à la date de clôture du scrutin, au sein
-d'un " pôle France " ou d'un " pôle Espoirs " de l'établissement. 
-
-Au sein du collège 5°, ne sont électeurs et éligibles que les stagiaires inscrits, à la date de clôture du scrutin, à un
-cycle de formation dispensé par l'établissement portant sur une période d'au moins dix mois. 
-
-Les membres d'un collège ne peuvent ni voter dans un autre collège, ni être choisis par un membre d'un autre collège pour le
-représenter. 
-
-Il est établi une liste électorale par collège. Nul ne peut prendre part au vote s'il ne figure sur une liste électorale.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 9
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-
-###### Article A211-73
-
-Les directeurs des centres de ressources, d'expertise et de performance sportives sont chargés d'établir les listes
-électorales et d'organiser toutes les opérations afférentes à l'élection des membres élus siégeant au conseil
-d'administration de leur établissement, dont les modalités pratiques sont précisées en annexe II-18. 
-
-Les directeurs des centres de ressources, d'expertise et de performance sportives fixent la date des élections, le lieu ainsi
-que les heures d'ouverture et de fermeture des scrutins. Les élections ont lieu quatre mois au plus et un mois au moins avant
-la date d'expiration de la durée du mandat des membres en exercice telle que fixée par l'article D. 211-74 du code du sport. 
-
-Le vote a lieu à bulletin secret. Le vote par correspondance ou par procuration est admis.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 12 septembre 2011 - art. 9
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. D211-74
 
 
 ####  Chapitre II : Enseignement du sport contre rémunération
@@ -54773,6 +54452,201 @@ techniques prises en considération lors de la conception du modèle.
 
 ### Annexes II
 
+###### Article Annexe I-0-1 (art. A114-3)
+
+Titre Ier 
+
+ÉTABLISSEMENT DES LISTES ÉLECTORALES 
+
+I-1. Le directeur du centre de ressources, d'expertise et de performance sportive établit pour chaque collège la liste des
+électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 114-1 à A.
+114-3. 
+
+I-2. Le directeur du centre de ressources, d'expertise et de performance sportive organise la publicité de ces listes,
+notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception, dans les
+huit jours suivant la date de publicité, au directeur du centre de ressources, d'expertise et de performance sportive. Celui-
+ci statue sur le bienfondé des réclamations et arrête dans le même délai la liste électorale définitive. 
+
+Titre II 
+
+ORGANISATION DES OPÉRATIONS DE VOTE 
+
+II-1. Calendrier des opérations de vote. 
+
+Le calendrier des opérations électorales est fixé ainsi qu'il suit : 
+
+- affichage et publication des listes électorales au moins trente jours avant la date du scrutin ; 
+
+- dépôt des actes de candidature au moins vingt et un jours avant la date du scrutin ; 
+
+- distribution du matériel de vote, au sein de l'établissement, au moins quinze jours avant la date du scrutin ; 
+
+- dépouillement de tous les bulletins de vote le jour même du scrutin ; 
+
+- proclamation des résultats le jour même du scrutin. 
+
+II-2 a. Organisation matérielle. 
+
+Les déclarations de candidatures, précisant les noms des candidats titulaires et suppléants, sont adressées, par lettre
+recommandée avec avis de réception, ou déposées auprès du directeur contre récépissé. 
+
+Chaque candidature doit comprendre à la fois un membre titulaire et un membre suppléant. 
+
+Les candidats peuvent accompagner leur candidature d'une profession de foi. 
+
+II-2 b. Matériels de vote. 
+
+La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique, notamment
+lorsque le centre comprend plusieurs sites, incombe au directeur du centre de ressources, d'expertise et de performance
+sportive. 
+
+Le centre de ressources, d'expertise et de performance sportive fait parvenir, en temps utile, aux électeurs, sous enveloppe
+libellée à leur nom : 
+
+- les bulletins de vote ; 
+
+- un exemplaire de la présente annexe ; 
+
+- le cas échéant, les professions de foi des candidats. 
+
+Pour les personnes absentes de l'établissement à cette période, pour quelque raison que ce soit, il sera procédé à un envoi
+avec avis de réception au domicile de l'électeur, sept jours au moins avant la date de clôture du scrutin. 
+
+II-2 c. Bureau de vote. 
+
+Les électeurs doivent exclusivement utiliser le matériel de vote fourni par le centre. 
+
+Le vote, sous peine de nullité, doit être exprimé à l'aide d'un seul bulletin de vote ne comportant ni rature, ni signe
+distinctif, ni surcharge. Ce bulletin est glissé par l'électeur dans une enveloppe qui, également, ne doit comporter aucun
+signe de reconnaissance. 
+
+Le vote sur place a lieu sur chacun des sites du centre le jour du scrutin. 
+
+Le vote par correspondance est admis pour l'ensemble des électeurs. Tous les votes par correspondance sont adressés à la
+boîte postale ouverte à cette fin au bureau de poste du site siège du centre de ressources, d'expertise et de performance
+sportive. 
+
+Les votes par correspondance sont retirés en bloc au bureau de la poste du siège du centre, la veille de la date fixée pour
+le vote sur place. 
+
+Pour les votes transmis par la poste, l'enveloppe extérieure (enveloppe n° 1), préaffranchie, ne doit comporter aucune autre
+mention que celles préimprimées. Une seconde enveloppe (enveloppe n° 2), dans laquelle est glissée une troisième enveloppe
+(enveloppe n° 3) contenant le bulletin de vote, doit comporter, lisiblement écrits : le nom, le prénom, le collège auquel il
+appartient et la signature de l'électeur. 
+
+Les électeurs qui ne peuvent voter personnellement ont la possibilité d'exercer leur droit de vote par un mandataire, en lui
+donnant procuration écrite pour voter en leur lieu et place. 
+
+Le mandataire doit être inscrit sur la même liste électorale que le mandant. Nul ne peut être porteur de plus de deux
+procurations. 
+
+Les opérations électorales se déroulent publiquement dans un local d'accès facile où la liberté et le secret du vote sont
+assurés, sous le contrôle d'un bureau de vote constitué, pour chacun des sites du centre de ressources, d'expertise et de
+performance sportive, d'un président et de deux assesseurs choisis par le directeur du centre parmi les électeurs. 
+
+Les bulletins de vote et les enveloppes nécessaires sont déposés sur une table distincte de celle où est déposée l'urne. 
+
+Le passage par l'isoloir est obligatoire. 
+
+Les votants sont appelés à apposer leur signature sur une liste d'émargement, avant que le bulletin ne soit introduit dans
+l'urne. Les votants doivent pouvoir justifier de leur identité. 
+
+Avant le début du vote sur place au site siège du centre, il est procédé au recensement des votes par correspondance. 
+
+Le nom des électeurs dont émanent ces enveloppes est émargé sur les listes. 
+
+Sont mises à part sans être ouvertes : 
+
+- les enveloppes n° 2 non signées ou ne comportant pas le nom, le prénom et le collège de l'électeur ou sur lesquelles ces
+mentions sont illisibles ; 
+
+- les enveloppes n° 3 ou les bulletins de vote trouvés dans l'enveloppe n° 1 sans l'enveloppe n° 2. 
+
+Entraînent la nullité du suffrage de l'électeur : 
+
+- les enveloppes n° 2 multiples parvenues sous la signature d'un même électeur ; 
+
+- les enveloppes n° 3 portant une mention ou un signe distinctif ; 
+
+- les enveloppes n° 3 parvenues en nombre multiple sous une même enveloppe n° 2 ; 
+
+- les bulletins trouvés dans l'enveloppe n° 2 sans l'enveloppe n° 3. 
+
+L'enveloppe contenant le bulletin de vote est introduite dans l'urne. 
+
+Titre III 
+
+RÉSULTATS 
+
+III-1. Opérations de dépouillement. 
+
+Les opérations de dépouillement des votes s'effectuent publiquement au bureau de vote. 
+
+Le président du bureau de vote veille à ce que le nombre des scrutateurs soit suffisant pour assurer le dépouillement des
+votes. Le nombre de scrutateurs doit être au moins égal au nombre de personnes constituant le bureau. 
+
+Dès la clôture du scrutin, le bureau vérifie que le nombre d'enveloppes recueillies dans l'urne est bien égal au nombre des
+émargements effectués sur la liste des électeurs. 
+
+Chaque membre du bureau signe la liste des électeurs. 
+
+Le dépouillement intervient aussitôt après. 
+
+Sont notamment considérés comme nuls : 
+
+- les enveloppes vides ; 
+
+- les bulletins trouvés dans l'urne sans enveloppe ; 
+
+- les bulletins ou enveloppes non conformes au modèle type ; 
+
+- les bulletins ou enveloppes portant un signe distinctif, des surcharges ou des ratures ; 
+
+- les bulletins différents contenus dans une même enveloppe. 
+
+Sont déclarés élus, pour chacun des collèges, le ou, pour les centres comportant deux représentants du deuxième collège, les
+candidats ayant obtenu le plus grand nombre de voix, ainsi que son ou leurs suppléants ; en cas d'égalité du nombre de
+suffrages obtenus, le ou les candidats les plus âgés sont élus. 
+
+Les résultats du vote sur place aux sites autres que le site siège du centre sont consignés dans un procès-verbal signé par
+le président et ses assesseurs. Ce procès-verbal est immédiatement communiqué, par fax ou document scanné transmis par
+courriel, au président du bureau de vote du site siège du centre. 
+
+Les résultats définitifs sont proclamés par le président du bureau de vote du site siège du centre et consignés dans un
+procès-verbal récapitulatif du scrutin signé par le président et les assesseurs. Les bulletins nuls ainsi que les enveloppes
+qui ont été écartées sans être ouvertes sont annexés au procès-verbal. 
+
+Le procès-verbal mentionne : 
+
+1. Le nombre d'électeurs inscrits ; 
+
+2. Le nombre d'électeurs votants ; 
+
+3. Le nombre de bulletins blancs ou nuls ; 
+
+4. Le nombre de suffrages exprimés ; 
+
+5. Le nombre de suffrages recueillis par chaque candidat ; 
+
+6. Les difficultés et incidents survenus. 
+
+La copie de ce procès-verbal est affichée par les soins du directeur du centre de ressources, d'expertise et de performance
+sportive. 
+
+III-2. Contestations. 
+
+Les contestations sur la validité des opérations électorales sont portées devant le directeur du centre de ressources,
+d'expertise et de performance sportive dans un délai de cinq jours à compter de la proclamation des résultats. 
+
+Celui-ci doit statuer dans un délai de huit jours, à l'issue duquel la demande est réputée rejetée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 7 avril 2016 - art. 2
+
+
 ###### Article Annexe I-1 (art. A142-0)
 
 NOTICE D'IMPACT PRÉVUE AUX ARTICLES R. 142-8 À R. 142-10 
@@ -66370,214 +66244,6 @@ Celui-ci doit statuer dans un délai de huit jours, à l'issue duquel la demande
 	**Cite**:
 
 	  - Code du sport. - art. A211-50
-
-
-###### Article Annexe II-18 (art. A211-73)
-
-TITRE Ier 
-
-ÉTABLISSEMENT DES LISTES ÉLECTORALES 
-
-I-1. Le directeur du          centre de ressources, d'expertise et de performance sportive établit pour chaque collège la
-liste des électeurs et des personnes éligibles conformément aux dispositions de la présente annexe et des articles A. 211-71
-à A. 211-73. 
-
-I-2. Le directeur du          centre de ressources, d'expertise et de performance sportive organise la publicité de ces
-listes, notamment par voie d'affichage. Toute réclamation doit être adressée par lettre recommandée avec avis de réception,
-dans les huit jours suivant la date de publicité, au directeur du          centre de ressources, d'expertise et de
-performance sportive. Celui-ci statue sur le bien-fondé des réclamations et arrête dans le même délai la liste électorale
-définitive. 
-
-TITRE II 
-
-ORGANISATION DES OPÉRATIONS DE VOTE 
-
-II-1. Calendrier des opérations de vote. 
-
-Le calendrier des opérations électorales est fixé ainsi qu'il suit :
-
-- affichage et publication des listes électorales au moins trente jours avant la date du scrutin ;
-
-- dépôt des actes de candidature au moins vingt et un jours avant la date du scrutin ;
-
-- distribution du matériel de vote, au sein de l'établissement, au moins quinze jours avant la date du scrutin ;
-
-- dépouillement de tous les bulletins de vote le jour même du scrutin ;
-
-- proclamation des résultats le jour même du scrutin. 
-
-II-2 a. Organisation matérielle. 
-
-Les déclarations de candidatures, précisant les noms des candidats titulaires et suppléants, doivent être adressées par
-lettre recommandée avec avis de réception ou déposées auprès du directeur contre récépissé. 
-
-Chaque candidature doit comprendre à la fois un membre titulaire et un membre suppléant. 
-
-Les candidats peuvent accompagner leur candidature d'une profession de foi. 
-
-II-2 b. Matériels de vote. 
-
-La confection des bulletins de vote et des enveloppes destinées au vote, qui doivent être d'un modèle unique, notamment
-lorsque le          centre de ressources, d'expertise et de performance sportive comprend plusieurs sites, incombe au
-directeur du          centre de ressources, d'expertise et de performance sportive. 
-
-Le          centre de ressources, d'expertise et de performance sportive fait parvenir, en temps utile, aux électeurs, sous
-enveloppe libellée à leur nom :
-
-- les bulletins de vote ;
-
-- un exemplaire de la présente annexe ;
-
-- le cas échéant, les professions de foi des candidats. 
-
-Pour les personnes absentes de l'établissement, à cette période, pour quelque raison que ce soit, il sera procédé à un envoi
-avec avis de réception au domicile de l'électeur sept jours au moins avant la date de clôture du scrutin. 
-
-II-2 c. Bureau de vote. 
-
-Les électeurs doivent exclusivement utiliser le matériel de vote fourni par le          centre de ressources, d'expertise et
-de performance sportive. 
-
-Le vote, sous peine de nullité, doit être exprimé à l'aide d'un seul bulletin de vote ne comportant ni rature, ni signe
-distinctif, ni surcharge. Ce bulletin est glissé par l'électeur dans une enveloppe qui, également, ne doit comporter aucun
-signe de reconnaissance. 
-
-Le vote sur place a lieu sur chacun des sites du          centre de ressources, d'expertise et de performance sportive le
-jour du scrutin. 
-
-Le vote par correspondance est admis pour l'ensemble des électeurs. Tous les votes par correspondance sont adressés à la
-poste du site siège du          centre de ressources, d'expertise et de performance sportive. 
-
-Les votes par correspondance sont retirés en bloc à la poste du siège du          centre de ressources, d'expertise et de
-performance sportive, la veille de la date fixée pour le vote sur place. 
-
-Pour les votes transmis par la poste, l'enveloppe extérieure (enveloppe n° 1), préaffranchie, ne doit comporter aucune autre
-mention que celles préimprimées. Une seconde enveloppe (enveloppe n° 2), dans laquelle est glissée une troisième enveloppe
-(enveloppe n° 3) contenant le bulletin de vote, doit comporter, lisiblement écrits : le nom, le prénom, le collège auquel il
-appartient et la signature de l'électeur. 
-
-Les électeurs qui ne peuvent voter personnellement ont la possibilité d'exercer leur droit de vote par un mandataire, en lui
-donnant procuration écrite pour voter en leur lieu et place. 
-
-Le mandataire doit être inscrit sur la même liste électorale que le mandant. Nul ne peut être porteur de plus de deux
-procurations. 
-
-Les opérations électorales se déroulent publiquement dans un local d'accès facile où la liberté et le secret du vote sont
-assurés, sous le contrôle d'un bureau de vote constitué, pour chacun des sites du          centre de ressources, d'expertise
-et de performance sportive, d'un président et de deux assesseurs choisis par le directeur du          centre de ressources,
-d'expertise et de performance sportive parmi les électeurs. 
-
-Les bulletins de vote et les enveloppes nécessaires sont déposés sur une table distincte de celle où est déposée l'urne. 
-
-Le passage par l'isoloir est obligatoire. 
-
-Les votants sont appelés à apposer leur signature sur une liste d'émargement, avant que le bulletin ne soit introduit dans
-l'urne. Les votants doivent pouvoir justifier de leur identité. 
-
-Avant le début du vote sur place au site siège du          centre de ressources, d'expertise et de performance sportive, il
-est procédé au recensement des votes par correspondance. 
-
-Le nom des électeurs dont émanent ces enveloppes est émargé sur les listes. 
-
-Sont mises à part sans être ouvertes :
-
-- les enveloppes n° 2 non signées ou ne comportant pas le nom, le prénom et le collège de l'électeur ou sur lesquelles ces
-mentions sont illisibles ;
-
-- les enveloppes n° 3 ou les bulletins de vote trouvés dans l'enveloppe n° 1 sans l'enveloppe n° 2. 
-
-Entraînent la nullité du suffrage de l'électeur :
-
-- les enveloppes n° 2 multiples parvenues sous la signature d'un même électeur ;
-
-- les enveloppes n° 3 portant une mention ou un signe distinctif ;
-
-- les enveloppes n° 3 parvenues en nombre multiple sous une même enveloppe n° 2 ;
-
-- les bulletins trouvés dans l'enveloppe n° 2 sans l'enveloppe n° 3. 
-
-L'enveloppe contenant le bulletin de vote est introduite dans l'urne. 
-
-TITRE III 
-
-RÉSULTATS 
-
-III-1. Opérations de dépouillement. 
-
-Les opérations de dépouillement des votes s'effectuent publiquement au bureau de vote. 
-
-Le président du bureau de vote veille à ce que le nombre des scrutateurs soit suffisant pour assurer le dépouillement des
-votes. Le nombre de scrutateurs doit être au moins égal au nombre de personnes constituant le bureau. 
-
-Dès la clôture du scrutin, le bureau vérifie que le nombre d'enveloppes recueillies dans l'urne est bien égal au nombre des
-émargements effectués sur la liste des électeurs. 
-
-Chaque membre du bureau signe la liste des électeurs. 
-
-Le dépouillement intervient aussitôt après. 
-
-Sont notamment considérés comme nuls :
-
-- les enveloppes vides ;
-
-- les bulletins trouvés dans l'urne sans enveloppe ;
-
-- les bulletins ou enveloppes non conformes au modèle type ;
-
-- les bulletins ou enveloppes portant un signe distinctif, des surcharges ou des ratures ;
-
-- les bulletins différents contenus dans une même enveloppe. 
-
-Sont déclarés élus, pour chacun des collèges, le candidat, ainsi que son suppléant, ayant obtenu le plus grand nombre de
-voix ; en cas d'égalité du nombre de suffrages obtenus, le candidat le plus âgé est élu. 
-
-Les résultats du vote sur place aux sites autres que le site siège du          centre de ressources, d'expertise et de
-performance sportive sont consignés dans un procès-verbal signé par le président et ses assesseurs. Ce procès-verbal est
-immédiatement communiqué, par fax ou document scanné transmis par courriel, au président du bureau de vote du site siège du
-centre de ressources, d'expertise et de performance sportive. 
-
-Les résultats définitifs sont proclamés par le président du bureau de vote du site siège du          centre de ressources,
-d'expertise et de performance sportive et consignés dans un procès-verbal récapitulatif du scrutin signé par le président et
-les assesseurs. Les bulletins nuls ainsi que les enveloppes qui ont été écartées sans être ouvertes sont annexés au procès-
-verbal. 
-
-Le procès-verbal mentionne : 
-
-1. Le nombre d'électeurs inscrits ; 
-
-2. Le nombre d'électeurs votants ; 
-
-3. Le nombre de bulletins blancs ou nuls ; 
-
-4. Le nombre de suffrages exprimés ; 
-
-5. Le nombre de suffrages recueillis par chaque candidat ; 
-
-6. Les difficultés et incidents survenus. 
-
-La copie de ce procès-verbal est affichée par les soins du directeur du          centre de ressources, d'expertise et de
-performance sportive. 
-
-III-2. Contestations. 
-
-Les contestations sur la validité des opérations électorales sont portées devant le directeur du          centre de
-ressources, d'expertise et de performance sportive dans un délai de cinq jours à compter de la proclamation des résultats. 
-
-Celui-ci doit statuer dans un délai de huit jours, à l'issue duquel la demande est réputée rejetée.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2016-152 du 11 février 2016 - art. 4
-
-	**Abrogé par**:
-
-	  - Arrêté du 7 avril 2016 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. A211-71 (Ab)
 
 
 ###### Article Annexe II-19 (art. A222-14)
