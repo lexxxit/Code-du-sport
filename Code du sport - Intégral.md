@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-04-17
+Version Consolidée au 2016-04-21
 
 # Partie législative
 
@@ -33447,130 +33447,131 @@ partie du code de la santé publique.
 
 Les dispositions de la présente section, prises en application de l'article L. 221-3 du code de la consommation, s'appliquent
 aux cages de buts de football, de handball, de hockey sur gazon et en salle et aux buts de basket-ball destinés à être
-utilisés en plein air ou en salle couverte, à des fins d'activité sportive ou de jeu.
+utilisés en plein air ou en salle couverte, à des fins d'activité sportive ou de jeu. 
 
-Sont exclus du champ d'application de la présente section les équipements de taille réduite, spécifiquement conçus et adaptés
-aux capacités des jeunes enfants.
+Sont exclus du champ d'application de la présente section les buts légers dont le poids total est inférieur à 10 kg.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 1er du décret n°96-495 du 4 juin 1996 fixant les exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball
 	  - Décret n°96-495 du 4 juin 1996 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code de la consommation - art. L221-3 (M)
+	  - Code de la consommation - art. L221-3
 
 	**Cité par**:
 
 	  - Code du sport. - art. R322-20 (V)
 	  - Code du sport. - art. R322-25 (V)
+	  - Code du sport. - art. R322-26 (V)
 
 
 ###### Article R322-20
 
-Il est interdit de fabriquer, d'importer, de détenir en vue de la vente, de mettre en vente, de vendre, de distribuer à titre
-gratuit, de donner en location ou de mettre à la disposition du public les équipements visés à l'article R. 322-19 qui ne
-répondent pas aux exigences de sécurité fixées à la présente section.
+Il est interdit d'importer, de détenir en vue de la vente, de mettre en vente, de vendre, de distribuer à titre gratuit ou
+onéreux, de donner en location ou de mettre à la disposition du public les équipements mentionnés à l'article R. 322-19 qui
+ne répondent pas aux exigences de sécurité fixées à la présente section.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 2 du décret n°96-495 du 4 juin 1996 fixant les exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball
 	  - Décret n°96-495 du 4 juin 1996 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. R322-19 (V)
+	  - Code du sport. - art. R322-19
 
 
 ###### Article R322-21
 
-Les équipements mis sur le marché doivent être munis d'un dispositif d'installation permettant d'assurer leur fixation.
+Dès leur mise sur le marché, les équipements non mobiles sont munis d'un dispositif d'installation permettant d'assurer leur
+fixation permanente.
 
-Le dispositif de fixation doit permettre d'éviter la chute, le renversement ou le basculement de l'équipement dans des
-conditions raisonnablement prévisibles d'utilisation. Il doit notamment assurer la stabilité de l'équipement dans le cas de
-suspension et de balancement à la barre supérieure de la cage de but de football, de handball, de hockey ou au panier du but
-de basket-ball. Le dispositif de fixation et l'équipement doivent pouvoir résister à ces sollicitations sans subir de
-déformation ou de rupture.
+Dès leur mise sur le marché, les équipements mobiles sont munis d'un dispositif, permanent et solidaire de la structure, de
+fixation ou de contrepoids. 
 
-Un système de contrepoids permanent et solidaire de la structure peut être considéré comme équivalant à un dispositif de
-fixation pour les manifestations mentionnées au second alinéa de l'article R. 322-24 si ce système permet d'assurer la
-stabilité du matériel et d'éviter son renversement ou son basculement dans les mêmes conditions que celles imposées au
-précédent alinéa.
+Le dispositif de fixation  ou de contrepoids  doit permettre d'éviter la chute, le renversement ou le basculement de
+l'équipement dans des conditions raisonnablement prévisibles d'utilisation. Il doit notamment assurer la stabilité de
+l'équipement dans le cas de suspension et de balancement à la barre supérieure de la cage de but de football, de handball, de
+hockey ou au panier du but de basket-ball. Le dispositif de fixation ou de contrepoids  et l'équipement doivent pouvoir
+résister à ces sollicitations sans subir de déformation ou de rupture.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 3 du décret n°96-495 du 4 juin 1996 fixant les exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball
 	  - Décret n°96-495 du 4 juin 1996 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code du sport. - art. R322-24 (V)
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
 
 	**Cité par**:
 
-	  - Code du sport. - art. R322-26 (M)
+	  - Code du sport. - art. R322-24 (M)
+	  - Code du sport. - art. R322-26 (V)
 
 
 ###### Article R322-22
 
 Sont réputés satisfaire aux exigences de sécurité de la présente section les équipements fabriqués conformément aux normes de
-sécurité françaises ou étrangères les concernant, dont les références sont publiées au Journal officiel de la République
-française. Jusqu'à la publication de telles normes, les équipements peuvent être commercialisés s'ils satisfont aux essais
-énumérés et définis dans l'annexe III-1.
+sécurité les concernant, dont les références sont publiées au Journal officiel de la République française. 
 
-Le responsable de la première mise sur le marché des équipements tient à la disposition des agents chargés du contrôle et
-habilités par l'article L. 215-1 du code de la consommation un dossier comprenant une description détaillée du produit et des
-moyens par lesquels le fabricant s'assure de la conformité de sa production aux normes susmentionnées ou, à titre provisoire,
-aux exigences des essais définis dans l'annexe III-1, ainsi que l'adresse des lieux de fabrication ou d'entreposage.
+Le responsable de la première mise sur le marché des équipements tient à la disposition des agents chargés du contrôle un
+dossier comprenant une description détaillée du produit et des moyens par lesquels le fabricant s'assure de la conformité de
+sa production aux normes susmentionnées ainsi que l'adresse des lieux de fabrication ou d'entreposage.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°96-495 du 4 juin 1996 fixant les exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball
 	  - Décret n°96-495 du 4 juin 1996 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L215-1 (M)
-	  - Code du sport annexe III-1
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. Annexe III-1 (art. R322-22) (Ab)
+	  - Code du sport. - art. R322-26 (V)
 
 
 ###### Article R322-23
 
 Lors de leur mise sur le marché et jusqu'au stade de l'acheteur final, les cages de buts de football, de handball, de hockey
 et les buts de basket-ball sont accompagnés d'une notice d'emploi précisant leurs conditions de montage, d'installation,
-d'entretien et, le cas échéant, de rangement.
+d'utilisation, d'entretien et, le cas échéant, de rangement.
 
-Les équipements comportent, inscrite en caractères de couleur contrastée et de manière visible, lisible et indélébile, une
-mention d'avertissement destinée aux utilisateurs et rappelant le mode d'installation de l'équipement.
+Les équipements comportent, inscrite de manière visible, lisible et indélébile, une mention d'avertissement destinée aux
+utilisateurs et rappelant le mode d'installation et d'utilisation de l'équipement ainsi que les risques liés ces opérations.
 
 Les équipements comportent également le nom et l'adresse du responsable de la première mise sur le marché ainsi que l'année
 et le mois de leur fabrication.
@@ -33579,97 +33580,144 @@ et le mois de leur fabrication.
 
 	**Anciens textes**:
 
-	  - Art. 5 du décret n°96-495 du 4 juin 1996 fixant les exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball
 	  - Décret n°96-495 du 4 juin 1996 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
 
 	**Cité par**:
 
-	  - Code du sport. - art. R322-26 (M)
+	  - Code du sport. - art. R322-26 (V)
 
 
 ###### Article R322-24
 
 La mise à la disposition des usagers à des fins d'activité sportive ou de jeu, gratuitement ou à titre onéreux, des cages de
 buts de football, de handball, de hockey et des buts de basket-ball en plein air ou en salle couverte est interdite si ces
-équipements ne sont pas fixés et s'ils ne répondent pas aux exigences de sécurité déterminées par la présente section.
-
-Cette disposition n'est cependant pas applicable dans le cas de manifestations ponctuelles organisées hors des installations
-sportives traditionnelles et placées sous la surveillance constante de l'organisateur lorsque lesdits équipements sont munis
-d'un contrepoids tel que défini à l'article R. 322-21.
+équipements ne répondent pas aux exigences de sécurité déterminées par la présente section.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 6 du décret n°96-495 du 4 juin 1996 fixant les exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball
 	  - Décret n°96-495 du 4 juin 1996 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. R322-21 (M)
-	  - Code du sport. - art. R322-26 (M)
+	  - Code du sport. - art. R322-26 (V)
 
 
 ###### Article R322-25
 
-Lors de la première installation, les équipements mis au service des usagers font l'objet d'une vérification de leur
-stabilité et de leur solidité par le responsable de l'installation selon les modalités d'essai définies dans l'annexe III-2.
+Les équipements mentionnés à l'article R. 322-19 sont régulièrement entretenus par les exploitants ou les gestionnaires, de
+telle sorte qu'ils répondent en permanence aux exigences de sécurité définies par la présente section. 
 
-Les équipements sont régulièrement entretenus par leur propriétaire de telle sorte qu'ils répondent en permanence aux
-exigences de sécurité fixées par la présente section. Un contrôle de la stabilité et de la solidité est effectué à chaque
-mise en place de l'équipement.
+Dès la première installation, ils sont contrôlés par les exploitants ou les gestionnaires conformément aux prescriptions des
+normes les concernant dont les références sont publiées au Journal officiel de la République française. 
 
-Les propriétaires des équipements installés établissent un plan de vérification et d'entretien qui précise notamment la
-périodicité des vérifications. Ils tiennent ce plan ainsi qu'un registre comportant, pour chaque site, la date et les
-résultats des essais et contrôles effectués à la disposition des agents chargés du contrôle et habilités par l'article L.
-215-1 du code de la consommation.
+Les exploitants ou les gestionnaires des équipements installés établissent un plan de vérification et d'entretien qui précise
+notamment la périodicité des vérifications. Ils tiennent à la disposition des agents chargés du contrôle ce plan ainsi qu'un
+registre comportant, pour chaque site, la date et les résultats des essais et contrôles effectués. 
+
+Après utilisation, les buts non fixés de manière permanente sont rendus inutilisables par le public et sont sécurisés de
+manière à éviter tout risque de chute, de renversement ou de basculement. 
 
 Tout équipement non conforme aux exigences de sécurité de la présente section est immédiatement rendu inaccessible aux
-usagers par le propriétaire ou l'exploitant.
+usagers par l'exploitant ou le gestionnaire.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Al. 1 et 3 à 5 de l'article 7 du décret n°96-495 du 4 juin 1996 fixant les exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball
 	  - Décret n°96-495 du 4 juin 1996 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la consommation - art. L215-1 (M)
-	  - Code du sport annexe III-2
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. Annexe III-2 (art. R322-25) (Ab)
-	  - Code du sport. - art. R322-26 (M)
+	  - Code du sport. - art. R322-26 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. R322-19
+
+
+###### Article R322-25-1
+
+Les exploitants ou les gestionnaires sont tenus de signaler sans délai au préfet de département les accidents graves dont la
+cause est liée à un équipement mentionné à la présente section.
+
+Un accident grave est un accident mortel ou un accident ayant provoqué des lésions corporelles.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
+
+	**Cité par**:
+
+	  - Code du sport. - art. R322-26 (V)
+
+
+###### Article R322-25-2
+
+Les dispositions de la présente section ne font pas obstacle à la libre circulation des cages de buts de football, de
+handball, de hockey et des buts de basket-ball conformes aux normes ou spécifications techniques ou aux procédés de
+fabrication d'un autre Etat membre de l'Union européenne, ou partie à l'accord sur l'Espace économique européen ou de la
+Turquie, assurant un niveau de sécurité équivalent à celui garanti par la présente section.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
 
 
 ###### Article R322-26
 
-Sont punis de l'amende prévue pour les contraventions de la cinquième classe le fait de :
+Sont punis de l'amende prévue pour les contraventions de la cinquième classe le fait de : 
 
-1° Fabriquer, importer, détenir en vue de la vente, mettre en vente, vendre ou distribuer à titre gratuit, louer ou mettre à
-disposition du public un équipement sportif non muni d'un dispositif de fixation ou de contrepoids tel que prévu à l'article
-R. 322-21 du présent code ou muni d'un dispositif non conforme aux prescriptions du même article ;
+1° Importer, détenir en vue de la vente, mettre en vente, vendre, distribuer à titre gratuit ou onéreux, donner en location
+ou mettre à la disposition du public un équipement sportif non muni d'un dispositif de fixation ou de contrepoids tel que
+prévu à l'article R. 322-21 du présent code ou muni d'un dispositif non conforme aux prescriptions du même article ; 
 
-2° Mettre sur le marché des cages de buts de football, de handball, de hockey et des buts de basket-ball non munis d'une
-notice d'installation et de montage ou ne comportant pas les mentions prévues à l'article R. 322-23 du présent code ;
+2° Mettre sur le marché des cages de buts de football, de handball, de hockey et des buts de basket-ball non conformes aux
+prescriptions de l'article R. 322-23 du présent code ; 
 
-3° Mettre à la disposition des usagers, à titre gratuit ou onéreux, des matériels sportifs sans respecter l'une ou l'autre
-des conditions prévues aux articles R. 322-24 et R. 322-25 du présent code.
+3° Mettre à la disposition des usagers, à titre gratuit ou onéreux, des matériels sportifs sans respecter les conditions
+prévues aux articles R. 322-24 et R. 322-25 du présent code ; 
+
+4° Pour le responsable de la première mise sur le marché des équipements mentionnés à l'article R. 322-19, ne pas présenter
+aux agents chargés du contrôle le dossier mentionné à l'article R. 322-22 du présent code ; 
+
+5° Pour les exploitants ou les gestionnaires des équipements mentionnés à l'article R. 322-19, ne pas présenter aux agents
+chargés du contrôle le plan de vérification et d'entretien ainsi que le registre des essais et contrôles effectués, en
+violation des dispositions de l'article R. 322-25 du présent code ; 
+
+6° Pour les exploitants ou les gestionnaires des équipements mentionnés à l'article R. 322-19, ne pas procéder aux
+signalements en cas d'accident grave en méconnaissance des dispositions de l'article R. 322-25-1 du présent code. 
 
 La récidive de ces contraventions est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
 
@@ -33677,21 +33725,27 @@ La récidive de ces contraventions est réprimée conformément aux articles 132
 
 	**Anciens textes**:
 
-	  - Art. 8 du décret n°96-495 du 4 juin 1996 fixant les exigences de sécurité auxquelles doivent répondre les cages de buts de football, de handball, de hockey sur gazon et en salle et les buts de basket-ball
 	  - Décret n°96-495 du 4 juin 1996 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-481 du 18 avril 2016 - art. 1
 
 	**Cite**:
 
-	  - Code pénal - art. 132-11 (M)
-	  - Code pénal - art. 132-15 (V)
+	  - Code pénal - art. 132-11
+	  - Code pénal - art. 132-15
+	  - Code du sport. - art. R322-19 (V)
 	  - Code du sport. - art. R322-21 (V)
+	  - Code du sport. - art. R322-22 (V)
 	  - Code du sport. - art. R322-23 (V)
 	  - Code du sport. - art. R322-24 (V)
 	  - Code du sport. - art. R322-25 (V)
+	  - Code du sport. - art. R322-25-1
 
 
 ##### Section 4 : Prévention des risques résultant de l'usage des équipements de protection individuelle pour la pratique sportive ou de loisirs
@@ -53868,83 +53922,6 @@ et si elle le souhaite (opportunité de la sanction).
 
 
 ### Annexes III
-
-###### Article Annexe III-1 (art. R322-22)
-
-Pour l'application de l'article R. 322-22 du code du sport, la résistance des équipements et des dispositifs de fixation ou
-de contrepoids devra être vérifiée par des essais dont les modalités sont précisées ci-après :
-
-1° Pour les cages de buts de football, de handball et de hockey :
-
-- un premier essai statique sera réalisé en suspendant une charge de 180 kilogrammes verticalement au milieu de la barre
-transversale de la cage de but pendant une durée d'une minute, la charge devant être distante du sol de 20 centimètres ;
-
-- un second essai sera réalisé en appliquant une force horizontale de 110 kilogrammes pendant une minute au milieu de la
-barre transversale, au niveau de la partie supérieure, au moyen d'une corde de 3 mètres de long ;
-
-- après les essais, l'équipement et le système de fixation ou de contrepoids ne devront pas avoir subi de rupture,
-déplacement ou déformation.
-
-2° Pour les buts de basket-ball :
-
-- un essai statique sera réalisé en suspendant une charge de 320 kilogrammes verticalement à partir du point d'ancrage
-reliant le cercle du panier au panneau pendant une durée d'une minute, la charge devant être distante de 20 centimètres du
-sol ;
-
-- après l'essai, l'équipement et le système de fixation ou de contrepoids ne devront pas avoir subi de rupture, déplacement
-ou déformation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2016-481 du 18 avril 2016 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. R322-22
-
-
-###### Article Annexe III-2 (art. R322-25)
-
-Pour l'application de l'article R. 322-25 du code du sport, la résistance des équipements et des dispositifs de fixation ou
-de contrepoids devra être vérifiée selon les modalités d'essais précisées ci-après :
-
-1° Pour les cages de buts de football, de handball et de hockey :
-
-- un essai statique sera réalisé en suspendant une charge de 180 kilogrammes verticalement au milieu de la barre transversale
-de la cage de but pendant une durée d'une minute, la charge devant être distante du sol de 20 centimètres ;
-
-- après l'essai, l'équipement et le système de fixation ou de contrepoids ne devront pas avoir subi de rupture, déplacement
-ou déformation.
-
-2° Pour les buts de basket-ball :
-
-- un essai statique sera réalisé en suspendant une charge de 320 kilogrammes verticalement à partir du point d'ancrage
-reliant le cercle du panier au panneau pendant une durée d'une minute, la charge devant être distante de 20 centimètres du
-sol ;
-
-- après l'essai, l'équipement et le système de fixation ou de contrepoids ne devront pas avoir subi de rupture, déplacement
-ou déformation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2016-481 du 18 avril 2016 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. R322-25
-
 
 ###### Article Annexe III-3 (art. R322-27)
 
