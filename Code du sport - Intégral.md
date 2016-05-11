@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-05-01
+Version Consolidée au 2016-05-12
 
 # Partie législative
 
@@ -5304,6 +5304,70 @@ lien de subordination caractéristique du contrat de travail au sens des article
 	  - Code du travail - art. L1221-3 (V)
 
 
+#### Chapitre IV : Supporters
+
+
+
+###### Article L224-1
+
+Les  supporters et les associations de supporters, par leur comportement et  leur activité, participent au bon déroulement
+des manifestations et  compétitions sportives et concourent à la promotion des valeurs du  sport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-564 du 10 mai 2016 - art. 6
+
+
+###### Article L224-2
+
+Est  instituée une instance nationale du supportérisme, placée auprès du  ministre chargé des sports, ayant pour mission de
+contribuer au dialogue  entre les supporters et les autres acteurs du sport et de réfléchir à  la participation des
+supporters, au bon déroulement des compétitions  sportives et à l'amélioration de leur accueil. 
+
+Un décret détermine la composition, le fonctionnement et les missions de cette instance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-564 du 10 mai 2016 - art. 6
+
+
+###### Article L224-3
+
+Les associations sportives ou les sociétés mentionnées aux articles L. 122-2 et L. 122-12 qui participent aux compétitions
+organisées par une ligue professionnelle, au sens de l'article L. 132-1, assurent le dialogue avec leurs supporters et les
+associations de supporters. 
+
+A cet effet, elles désignent, après avis des associations de supporters agréées par le ministre chargé des sports, une ou
+plusieurs personnes référentes chargées des relations avec leurs supporters. Un décret détermine les compétences et les
+conditions de désignation de ces personnes, ainsi que les conditions de leur formation.
+
+**Nota:**
+
+Conformément à l'article 7 de la loi n° 2016-564 du 10 mai 2016, le second alinéa de l'article L. 224-3, dans sa rédaction
+résultant de l'article 6 de la présente loi, entre en vigueur le 10 août 2016.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-564 du 10 mai 2016 - art. 6
+
+	**Cité par**:
+
+	  - Code du sport. - art. D224-5 (V)
+	  - Code du sport. - art. D224-9 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L122-12
+	  - Code du sport. - art. L122-2
+	  - Code du sport. - art. L132-1
+
+
 ### TITRE III : SANTÉ DES SPORTIFS ET LUTTE CONTRE LE DOPAGE
 
 #### Chapitre préliminaire
@@ -10048,6 +10112,15 @@ garanties d'assurance prévues à cet article est puni de six mois d'emprisonnem
 Les organisateurs de manifestations sportives à but lucratif peuvent être tenus d'y assurer un service d'ordre dans les
 conditions prévues à l'article L. 211-11 du code de la sécurité intérieure.
 
+Aux fins de contribuer à la sécurité des manifestations sportives, les organisateurs de ces manifestations peuvent refuser ou
+annuler la délivrance de titres d'accès à ces manifestations ou en refuser l'accès aux personnes qui ont contrevenu ou
+contreviennent aux dispositions des conditions générales de vente ou du règlement intérieur relatives à la sécurité de ces
+manifestations.
+
+A cet effet, les organisateurs peuvent établir un traitement automatisé de données à caractère personnel relatives aux
+manquements énoncés à l'avant-dernier alinéa du présent article, dans des conditions fixées par décret en Conseil d'Etat pris
+après avis motivé et publié de la Commission nationale de l'informatique et des libertés.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -10056,7 +10129,7 @@ conditions prévues à l'article L. 211-11 du code de la sécurité intérieure.
 
 	**Modifié par**:
 
-	  - Ordonnance n°2012-351 du 12 mars 2012 - art. 2 (V)
+	  - Loi n°2016-564 du 10 mai 2016 - art. 1
 
 	**Cité par**:
 
@@ -10066,21 +10139,36 @@ conditions prévues à l'article L. 211-11 du code de la sécurité intérieure.
 
 	**Cite**:
 
-	  - Code de la sécurité intérieure - art. L211-11 (V)
+	  - Code de la sécurité intérieure - art. L211-11
+
+
+###### Article L332-1-1
+
+Les cartes annuelles d'abonnement donnant accès aux compétitions sportives professionnelles auxquelles participe une
+association sportive ou une société mentionnée aux articles L. 122-2 et L. 122-12 ne peuvent être vendues que par celles-ci,
+par une société commerciale mandatée par elle à cet effet ou par un comité d'entreprise. 
+
+Ces titres d'accès peuvent être nominatifs.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2016-564 du 10 mai 2016 - art. 5
+
+	**Cite**:
+
+	  - Code du sport. - art. L122-12
+	  - Code du sport. - art. L122-2
 
 
 ###### Article L332-2
 
-Les sociétés visées par l'article 1er de la loi n° 83-629 du 12 juillet 1983 réglementant les activités privées de sécurité
-assurent la surveillance de l'accès aux enceintes dans lesquelles est organisée une manifestation sportive rassemblant plus
-de 300 spectateurs dans les conditions prévues à l'article 3-2 de cette loi.
+Les sociétés mentionnées au 1° de l'article L. 611-1 du code de la sécurité intérieure assurent la surveillance de l'accès
+aux enceintes dans lesquelles est organisée une manifestation sportive rassemblant plus de 300 spectateurs dans les
+conditions prévues aux articles L. 613-1 à L. 613-7 du même code.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Loi n°83-629 du 12 juillet 1983 - art. 1
-	  - Loi n°83-629 du 12 juillet 1983 - art. 3-2
 
 	**Anciens textes**:
 
@@ -10092,7 +10180,12 @@ de 300 spectateurs dans les conditions prévues à l'article 3-2 de cette loi.
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 95
+	  - Loi n°2016-564 du 10 mai 2016 - art. 2
+
+	**Cite**:
+
+	  - Code de la sécurité intérieure - art. L611-1
+	  - Code de la sécurité intérieure - art. L613-1
 
 
 ###### Article L332-2-1
@@ -10429,7 +10522,8 @@ communique aux associations et sociétés sportives ainsi qu'aux fédérations s
 Il peut la communiquer aux associations de supporters mentionnées à l'article L. 332-17.
 
 L'identité des personnes mentionnées au premier alinéa peut également être communiquée aux autorités d'un pays étranger
-lorsque celui-ci accueille une manifestation sportive à laquelle participe une équipe française.
+lorsque celui-ci accueille une manifestation sportive à laquelle participe une équipe française, ainsi qu'aux organismes
+sportifs internationaux lorsqu'ils organisent une manifestation sportive à laquelle participe une équipe française.
 
 **Liens relatifs à cet article**
 
@@ -10441,14 +10535,14 @@ lorsque celui-ci accueille une manifestation sportive à laquelle participe une 
 
 	  - Ordonnance n°2006-596 du 23 mai 2006
 
-	**Modifié par**:
-
-	  - Loi n°2011-267 du 14 mars 2011 - art. 63
-
 	**Cité par**:
 
 	  - Décret n°2011-1696 du 1er décembre 2011 (V)
 	  - Code du sport. - art. D224-9 (V)
+
+	**Modifié par**:
+
+	  - Loi n°2016-564 du 10 mai 2016 - art. 4
 
 	**Cite**:
 
@@ -10467,14 +10561,15 @@ peuvent, par arrêté motivé, prononcer à son encontre une mesure d'interdicti
 enceintes où de telles manifestations se déroulent ou sont retransmises en public.
 
 L'arrêté, valable sur le territoire national, fixe le type de manifestations sportives concernées. Il ne peut excéder une
-durée de douze mois. Toutefois, cette durée peut être portée à vingt-quatre mois si, dans les trois années précédentes, cette
-personne a fait l'objet d'une mesure d'interdiction. 
+durée de vingt-quatre mois. Toutefois, cette durée peut être portée à trente-six  mois si, dans les trois années précédentes,
+cette personne a fait l'objet d'une mesure d'interdiction. 
 
 Le représentant de l'Etat dans le département et, à Paris, le préfet de police peuvent également imposer, par le même arrêté,
 à la personne faisant l'objet de cette mesure l'obligation de répondre, au moment des manifestations sportives objet de
 l'interdiction, aux convocations de toute autorité ou de toute personne qualifiée qu'il désigne. Le même arrêté peut aussi
 prévoir que l'obligation de répondre à ces convocations s'applique au moment de certaines manifestations sportives, qu'il
-désigne, se déroulant sur le territoire d'un Etat étranger. 
+désigne, se déroulant sur le territoire d'un Etat étranger. Cette obligation doit être proportionnée au regard du
+comportement de la personne. 
 
 Le fait, pour la personne, de ne pas se conformer à l'un ou à l'autre des arrêtés pris en application des alinéas précédents
 est puni d'un an d'emprisonnement et de 3 750 euros d'amende. 
@@ -10484,7 +10579,8 @@ fédérations sportives agréées l'identité des personnes faisant l'objet de l
 alinéa. En outre, il peut la communiquer aux associations de supporters mentionnées à l'article L. 332-17.
 
 L'identité des personnes mentionnées au premier alinéa peut également être communiquée aux autorités d'un pays étranger
-lorsque celui-ci accueille une manifestation sportive à laquelle participe une équipe française. 
+lorsque celui-ci accueille une manifestation sportive à laquelle participe une équipe française, ainsi qu'aux organismes
+sportifs internationaux lorsqu'ils organisent une manifestation sportive à laquelle participe une équipe française.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
@@ -10509,7 +10605,8 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 
 	**Modifié par**:
 
-	  - Loi n°2011-267 du 14 mars 2011 - art. 64
+	  - Loi n°2016-564 du 10 mai 2016 - art. 3
+	  - Loi n°2016-564 du 10 mai 2016 - art. 4
 
 	**Cite**:
 
