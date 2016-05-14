@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-05-12
+Version Consolidée au 2016-05-15
 
 # Partie législative
 
@@ -45974,6 +45974,29 @@ aux règles de sécurité prévues au premier alinéa.
 	  - Code du sport. - art. A322-42
 
 
+###### Article A322-3-5
+
+Dans chaque établissement organisant la pratique d'activités nautiques mentionné à la sous-section 2, en un lieu visible de
+tous, un tableau affiche une carte des espaces de pratique couramment utilisés mentionnant :
+
+- les zones interdites, dangereuses, ou réservées à différents usages ;
+
+- les limites autorisées de la navigation et leur balisage. 
+
+Pour les parcours en rivière, cette carte mentionne la classe du parcours en référence aux critères de classement prévus à
+l'annexe III-12.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 31 mars 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. Annexe III-12 (art. A322-43). (V)
+
+
 ##### Sous-section 1 : Etablissements organisant la pratique d'activités aquatiques et de baignade
 
 ##### Paragraphe 1 : Obligation de déclaration
@@ -46749,24 +46772,23 @@ modifiée conforme aux dispositions du présent code.
 
 ##### Sous-section 2 : Etablissements organisant la pratique  de certaines activités nautiques
 
-##### Paragraphe 1 : Champ d'application
+##### Paragraphe 1 : Dispositions préliminaires
 
 ###### Article A322-42
 
-Relèvent de la présente section les établissements visés à l'article L. 322-2, qui organisent la pratique du canoë, du kayak,
-du raft, de la nage en eau vive ainsi que la navigation à l'aide de toute autre embarcation propulsée à la pagaie.
+Relèvent de la présente sous-section les établissements mentionnés à l'article L. 322-2, qui organisent la pratique du canoë,
+du kayak, du raft, de la nage en eau vive ainsi que la navigation à l'aide de toute autre embarcation propulsée à la pagaie,
+à l'exception du stand-up paddle board. 
 
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+Les fédérations ayant reçu délégation pour les disciplines mentionnées au premier alinéa et qui ont défini les normes de
+sécurité ne relèvent pas de la présente sous-section pour les activités organisées pour leurs licenciés. Il en est de même
+pour les membres ainsi que les organes déconcentrés de ces fédérations.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 31 mars 2016 - art. 2
 
 	**Cité par**:
 
@@ -46781,59 +46803,35 @@ vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionné
 	  - Code du sport. - art. L322-2 (V)
 
 
-##### Paragraphe 2 : Pratique du canoë, du kayak et de la nage en eau vive
-
 ###### Article A322-43
 
-Dans chaque établissement, en un lieu visible de tous, un tableau affiche les règlements en vigueur ainsi qu'une carte du
-plan d'eau ou de la rivière couramment utilisés mentionnant : 
-
-― les zones interdites, dangereuses, ou réservées à différents usages ; 
-
-― les limites autorisées de la navigation et leur balisage ; 
-
-― les caractéristiques des parcours de rivière accessibles, compte tenu des différentes conditions hydrologiques, en
-référence aux critères de classement prévus à l'annexe III-12 au présent code ainsi que la copie de cette annexe. 
-
-Est en outre dispensée aux pratiquants une information portant sur les capacités requises, compte tenu des risques que peut
-présenter l'activité dans laquelle ils s'engagent.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Code du sport. - art. A322-53 (VT)
-
-	**Cite**:
-
-	  - Code du sport. - art. Annexe III-12 (V)
-
-
-###### Article A322-44
-
-Les enfants de moins de douze ans sont encadrés ou accompagnés.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+Est considéré comme une embarcation toute construction ou objet flottant.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 9 septembre 2015 - art. 2
+	  - Arrêté du 31 mars 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code du sport. - art. A322-53 (VT)
+
+
+##### Paragraphe 2 : Conditions de pratique
+
+###### Article A322-44
+
+L'organisation des activités tient compte des conditions météorologiques et hydrologiques et du niveau des pratiquants.
+
+Dans le cas où l'évolution des conditions météorologiques ou hydrologiques est susceptible de mettre en péril la santé ou la
+sécurité des pratiquants, l'exploitant de l'établissement adapte ou annule les activités.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 31 mars 2016 - art. 2
 
 	**Cité par**:
 
@@ -46841,81 +46839,87 @@ vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionné
 	  - Code du sport. - art. A322-58 (VT)
 
 
+##### Paragraphe 3 : Dispositions relatives au matériel et équipement
+
 ###### Article A322-45
 
-L'organisation des activités tient compte des conditions météorologiques et hydrologiques et du niveau des pratiquants et des
-cadres. Lorsque les conditions d'isolement l'exigent, le responsable de l'activité détermine avant le départ le parcours
-qu'il projette ainsi que l'heure probable de retour et communique ces informations à une personne chargée de l'assistance à
-terre.
-
-Dans le cas où l'évolution des conditions météorologiques ou hydrologiques est susceptible de mettre en péril la sécurité et
-la santé des pratiquants, le responsable de l'activité ou l'encadrant adapte ou annule le programme.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+Les matériels et les équipements sont bien entretenus.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 25 avril 2012 - art. Annexe 3 (M)
 	  - Code du sport. - art. A322-53 (VT)
+
+	**Modifié par**:
+
+	  - Arrêté du 31 mars 2016 - art. 2
 
 
 ###### Article A322-46
 
-Le nombre de pratiquants pour un cadre est déterminé en fonction du niveau des pratiquants, de la compétence de
-l'encadrement, des conditions du milieu et des caractéristiques de l'activité.
+Une embarcation est :
 
-Dans un périmètre abrité et délimité, le nombre maximal de pratiquants peut atteindre seize par cadre.
+- équipée et aménagée pour flotter même pleine d'eau ;
 
-Ce nombre est réduit dans tous les autres cas.
+- conçue pour permettre au pratiquant de se désolidariser facilement de son embarcation en cas de retournement et protéger le
+pratiquant des risques d'enfoncement et de coincement consécutifs à un choc.
 
-En rivière, à partir de la classe III, une réduction importante des effectifs et une organisation spécifique visant à faire
-participer les pratiquants à la sécurité doivent être mises en place.
+En outre, une embarcation gonflable :
 
-A l'exclusion de celles qui sont organisées dans les aires aménagées et délimitées, l'effectif d'une séance ne peut en aucun
-cas dépasser six pratiquants par cadre dans les rivières de classe IV et plus.
+- ne doit pas accueillir plus de treize personnes ;
 
-**Nota:**
+- est conçue pour résister aux chocs prévisibles ;
 
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+- comporte un nombre suffisant de compartiments afin de flotter, en cas de destruction de l'un d'eux, horizontalement en
+soutenant le poids de l'équipage et les charges embarquées ;
+
+- est équipée de lignes de vie extérieures tendues ainsi que d'un cordage d'amarrage lorsque celle-ci est destinée à
+embarquer plus de trois personnes.
+
+En mer, pour les embarcations spécifiques au kayak de vague, un système d'attache élastique relie le pagayeur à son
+embarcation.
+
+Le flotteur de nage en eau vive est insubmersible.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 25 avril 2012 - art. Annexe 3 (M)
 
+	**Modifié par**:
+
+	  - Arrêté du 31 mars 2016 - art. 2
+
 
 ###### Article A322-47
 
-L'encadrement s'effectue à partir ou à proximité d'une embarcation adaptée à l'animation et à la sécurité.
+Les pratiquants sont équipés :
 
-**Nota:**
+1° D'un gilet de sécurité répondant aux normes :
 
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+a) ISO 12402-5 ou NF EN 393 ;
+
+b) ISO 12402-4 ou NF EN 395 pour les personnes de moins de 25 kg ou les pratiquants utilisant une embarcation gonflable en
+rivière à partir de la classe III ;
+
+2° De chaussures fermées ;
+
+3° D'un casque de protection répondant à la norme NF EN 1385 pour les activités en rivière à partir de la classe III ;
+
+4° De vêtements de protection adaptés aux conditions de pratique du moment.
+
+Pour les activités encadrées sur un plan d'eau calme ou en mer, l'encadrant peut rendre le port de ces équipements
+facultatifs lorsque les conditions de pratique le permettent.
+
+Quelles que soient les circonstances, à l'exception des embarcations qui ne le permettent pas, le gilet est disponible à
+bord.
+
+Les pratiquants de nage en eau vive sont toujours revêtus d'une combinaison et de chaussons isothermiques.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
 
 	**Cité par**:
 
@@ -46923,460 +46927,90 @@ vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionné
 	  - Code du sport. - art. A322-53 (VT)
 	  - Code du sport. - art. A322-58 (VT)
 
+	**Modifié par**:
+
+	  - Arrêté du 31 mars 2016 - art. 2
+
+
+##### Paragraphe 4 : Dispositions relatives à l'encadrement de la pratique
 
 ###### Article A322-48
 
-Les matériels et les équipements sont conformes à la réglementation en vigueur et bien entretenus.
+Le nombre de pratiquants pour un encadrant est déterminé par celui-ci en fonction de sa compétence, du niveau des
+pratiquants, des conditions du milieu ainsi que des caractéristiques de l'activité.
 
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+Ce nombre ne peut toutefois excéder seize personnes.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 25 avril 2012 - art. Annexe 10 (V)
 	  - Arrêté du 25 avril 2012 - art. Annexe 3 (V)
 
+	**Modifié par**:
+
+	  - Arrêté du 31 mars 2016 - art. 2
+
 
 ###### Article A322-49
 
-L'embarcation est équipée et aménagée pour flotter même pleine d'eau, en soutenant le poids de l'équipage et les charges
-embarquées.
-
-Le flotteur de nage en eau vive est insubmersible.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+Dans le cas où l'évolution des conditions météorologiques ou hydrologiques est susceptible de mettre en péril la santé ou la
+sécurité des pratiquants, l'encadrant adapte ou annule les activités.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 31 mars 2016 - art. 2
 
 
 ###### Article A322-50
 
-A l'exception des flotteurs de nage en eau vive, des embarcations de course en ligne et des kayaks de polo, l'embarcation est
-munie à chaque extrémité d'un système de préhension permettant de tirer facilement l'embarcation pleine d'eau.
+L'encadrement s'effectue à partir ou à proximité d'une embarcation adaptée.
 
-L'équipement intérieur protège le pratiquant des risques d'enfoncement et de coincement consécutifs à un choc.
+L'encadrant a en permanence à sa disposition :
 
-La conception de l'embarcation et l'équipement permettent une sortie facile du bateau.
+- un bout de remorquage pour les activités organisées en mer ;
 
-**Nota:**
+- une corde de sécurité flottante, un système de remorquage largable et un couteau pour les activités organisées en rivière,
+à partir de la classe III ;
 
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+- une corde de sécurité flottante, un système de remorquage largable, un couteau, des mousquetons et une longe de
+redressement pour les activités organisées en rivière avec des embarcations gonflables.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 31 mars 2016 - art. 2
 
 
 ###### Article A322-51
 
-Les pratiquants sont équipés :
-
-1° D'un gilet de sécurité répondant aux conditions prévues en annexe III-13 au présent code ;
-
-2° De chaussures fermées ;
-
-3° D'un casque de protection à partir de la classe III ou si les conditions le rendent nécessaire.
-
-En rivière de classe IV et plus, le casque recouvre l'ensemble de la boîte crânienne ;
-
-4° De vêtements de protection adaptés aux conditions de pratique du moment.
-
-En outre, les pratiquants de nage en eau vive sont toujours revêtus d'une combinaison isothermique.
-
-Lorsque les conditions de pratique le permettent, la personne qui encadre la séance peut rendre ces équipements facultatifs
-en eau calme.
-
-Dans tous les cas, le gilet doit être disponible à bord.
-
-Les gilets et les casques sont munis du marquage « CE ».
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+Lorsque les conditions l'exigent, l'encadrant dispose d'un moyen de communication.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
 
 	**Cité par**:
 
 	  - Arrêté du 25 avril 2012 - art. Annexe 3 (M)
 	  - Code du sport. - art. A322-53 (VT)
 
+	**Modifié par**:
+
+	  - Arrêté du 31 mars 2016 - art. 2
+
 
 ###### Article A322-52
 
-Lorsque l'activité est encadrée, le cadre est équipé comme les pratiquants.
-
-En rivière à partir de la classe III, ou lorsque les conditions hydrologiques l'exigent, il a en permanence à sa disposition
-une corde de sécurité flottante, un système de remorquage largable et un couteau.
-
-Lorsque les conditions d'isolement l'exigent, il a à sa disposition une trousse de secours.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
+En l'absence de classement publié au bulletin officiel de la fédération délégataire compétente, l'encadrant détermine lui-
+même, au regard des critères de classement prévus à l'annexe III-12, le classement du parcours en rivière sur lequel il
+s'engage.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-
-##### Paragraphe 3 : Pratique avec des embarcations gonflables
-
-###### Article A322-53
-
-Les dispositions de l'article A. 322-43 et du 2e alinéa de l'article A. 322-44 ainsi que les dispositions des articles A.
-322-45, A. 322-47 et A. 322-51 s'appliquent au présent paragraphe.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. A322-43
-	  - Code du sport. - art. A322-44
-	  - Code du sport. - art. A322-45
-	  - Code du sport. - art. A322-47
-	  - Code du sport. - art. A322-51
-
-
-###### Article A322-54
-
-Le nombre de pratiquants pour un cadre est déterminé en fonction du niveau des pratiquants, de la compétence de
-l'encadrement, des conditions du milieu et des caractéristiques de l'activité.
-
-Dans un périmètre abrité et délimité, le nombre maximal de pratiquants peut atteindre seize par cadre.
-
-Ce nombre est réduit dans les autres cas.
-
-En rivière, à partir de la classe III, une réduction importante des effectifs et une organisation spécifique visant à faire
-participer les pratiquants à la sécurité doivent être mises en place.
-
-A l'exclusion de celles qui sont organisées dans les aires aménagées et délimitées, l'effectif d'une séance organisée avec
-des embarcations de moins de quatre personnes embarquées ne peut en aucun cas dépasser six pratiquants par cadre dans les
-rivières de classe IV et plus.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 25 avril 2012 - art. Annexe 3 (M)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-
-###### Article A322-55
-
-Les matériels et les équipements sont conformes à la réglementation en vigueur et bien entretenus.
-
-Les embarcations gonflables et insubmersibles non motorisées, conduites à l'aviron ou à la pagaie, et notamment les rafts, ne
-doivent pas accueillir plus de douze personnes.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-
-###### Article A322-56
-
-Le tissu composant l'embarcation permet à celle-ci, en fonction de l'utilisation pour laquelle elle est prévue, de résister
-aux chocs.
-
-L'embarcation comporte un nombre suffisant de compartiments afin de flotter, en cas de destruction de l'un d'eux,
-horizontalement en soutenant le poids de l'équipage et les charges embarquées.
-
-L'embarcation destinée à embarquer plus de trois personnes est équipée de lignes de vie extérieures tendues ainsi que d'un
-cordage d'amarrage.
-
-L'équipement intérieur ne retient pas les passagers en cas de chavirage.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-
-###### Article A322-57
-
-Lorsque l'activité est encadrée, le cadre est équipé comme les pratiquants.
-
-Il a en permanence à sa disposition une corde de sécurité flottante, un système de remorquage largable, un couteau, des
-mousquetons et une longe de redressement.
-
-Le responsable de l'établissement doit prévoir pour chaque embarcation ou groupe d'embarcations :
-
-― un gonfleur et un kit de réparation, suivant l'accessibilité de la rivière ;
-
-― une pagaie ou un aviron de rechange ;
-
-― une trousse de secours lorsque les conditions d'isolement l'exigent.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-
-##### Paragraphe 4 : Pratique en mer
-
-###### Article A322-58
-
-Les dispositions des articles A. 322-44 à A. 322-45 ainsi que les dispositions de l'article A. 322-47 s'appliquent aux
-établissements concernés par le présent paragraphe.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. A322-44
-	  - Code du sport. - art. A322-47
-
-
-###### Article A322-59
-
-Dans chaque établissement, en un lieu visible de tous, un tableau affiche les règlements en vigueur concernant la navigation
-maritime pratiquée, ainsi qu'une carte de l'espace couramment utilisé mentionnant :
-
-Les zones interdites ou dangereuses ;
-
-Les limites autorisées de navigation et le plan de balisage ;
-
-Les données météorologiques du moment.
-
-Est en outre dispensée aux pratiquants une information portant notamment sur les capacités requises de ces derniers, compte
-tenu des risques que peut présenter l'activité dans laquelle ils s'engagent.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-
-###### Article A322-60
-
-Le nombre de pratiquants pour un cadre est déterminé en fonction du niveau des pratiquants, de la compétence de
-l'encadrement, des conditions du milieu et des caractéristiques de l'activité.
-
-Dans un périmètre abrité et délimité, le nombre maximal de pratiquants peut atteindre seize par cadre.
-
-Ce nombre est réduit dans tous les autres cas.
-
-De plus, par vent de force supérieure à 3 Beaufort ou par mer agitée, une réduction importante des effectifs et une
-organisation spécifique visant à faire participer les pratiquants à la sécurité doivent être mises en place.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cité par**:
-
-	  - Arrêté du 25 avril 2012 - art. Annexe 3 (M)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-
-###### Article A322-61
-
-Les matériels et les équipements sont conformes à la réglementation en vigueur.
-
-Pour les embarcations spécifiques au kayak de vague, un système d'attache élastique relie le pagayeur à son embarcation.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-
-###### Article A322-62
-
-Les pratiquants sont équipés : 
-
-1° D'un gilet de sécurité répondant aux conditions prévues en annexe III-13 au présent code ; 
-
-2° De chaussures fermées ; 
-
-3° De vêtements de protection adaptés aux conditions de pratique du moment. Lorsque les conditions de pratique le permettent,
-la personne qui encadre la séance peut rendre le port de ces équipements facultatif. 
-
-Quelles que soient les circonstances, sauf pour certains engins de plage qui ne le permettent pas, le gilet est disponible à
-bord.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. Annexe III-13 (VT)
-
-
-###### Article A322-63
-
-Lorsque l'activité est encadrée, le cadre est équipé comme les pratiquants.
-
-Il a en permanence à sa disposition un bout de remorquage et, lorsque les conditions d'isolement l'exigent, une trousse de
-secours et une pagaie de rechange.
-
-**Nota:**
-
-Arrêté du 31 mars 2016, Article 4 :  les dispositions des articles A. 322-42 à A. 322-63 du code du sport, actuellement en
-vigueur, restent applicables jusqu'au 1er juillet 2016 aux activités mentionnées aux annexes 3 et 10 de l'arrêté du 25 avril
-2012 portant application de l'article R. 227-13 du code de l'action sociale et des familles.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Arrêté du 31 mars 2016 - art. 2
 
@@ -49700,6 +49334,14 @@ l'arrière pour les véhicules de catégorie M, à l'arrière ou sur un dossard 
 catégorie L, au sens de l'article R. 311-1 du code de la route. A défaut du respect de l'ensemble des dispositions définies
 par le présent alinéa, la dérogation prévue à l'article R. 411-29 du même code n'est pas applicable. 
 
+Lorsque la demande d'autorisation porte sur une manifestation se déroulant sur des terrains ou des parcours fermés de manière
+permanente à la circulation publique et non soumis à la procédure prévue à l'article L. 421-2 du code de l'urbanisme, le
+dossier de demande d'autorisation comprend un formulaire, complétant l'évaluation des incidences Natura 2000 prévue en
+application de l'article R. 414-19 du code de l'environnement, décrivant les impacts de la manifestation sur l'environnement
+ainsi que les mesures proposées dès lors que le budget de la manifestation dépasse 100 000 €. Les mesures préventives et
+correctives sont à la charge de l'organisateur et sont prescrites par le préfet territorialement compétent. Le formulaire
+reprend le modèle figurant à l'annexe III-21-2 du code du sport
+
 L'organisateur de cette manifestation est tenu de transmettre le dossier complet de demande d'autorisation au préfet
 territorialement compétent au plus tard trois mois avant la date prévue pour son organisation. Si cette manifestation se
 déroule sur un terrain homologué, ce délai est réduit à deux mois. 
@@ -49731,8 +49373,7 @@ territorialement compétent au plus tard trois mois avant la date prévue pour s
 
 	**Modifié par**:
 
-	  - Arrêté du 28 mars 2012 - art. 1
-	  - Arrêté du 3 mai 2012 - art. 3
+	  - Arrêté du 4 mai 2016 - art. 1
 
 	**Cité par**:
 
@@ -69083,116 +68724,6 @@ vent ou par bateaux, des tourbillons derrière les piles de pont ;
 	  - Code du sport. - art. A322-43 (V)
 
 
-###### Article Annexe III-13
-
-FIABILITÉ MINIMALE REQUISE POUR LES GILETS DE SÉCURITÉ EN FONCTION DU SUPPORT D'ACTIVITÉ, DU POIDS DU PRATIQUANT OU DU CADRE
-ET DE LA CLASSE DE RIVIÈRE 
-
-(art. A322-51 et A322-62).
-
-<table>
-  <tbody>
-    <tr>
-      <td>
-
-SUPPORT D'ACTIVITÉ/POIDS DU PORTEUR
-
-</td>
-      <td>
-
-― 30 kg
-
-</td>
-      <td>
-
-30 - 40 kg
-
-</td>
-      <td>
-
-40 - 60 kg
-
-</td>
-      <td>
-
-+ 60 kg
-
-</td>
-    </tr>
-    <tr>
-      <td valign="top" align="left">
-
-Canoë ; kayak (mer et eaux intérieures) nage en eau vive.
-
-Embarcations gonflables jusqu'à la classe II ou dont les passagers ne risquent pas d'être éjectés en cas de retournement
-
-</td>
-      <td valign="top" align="left">
-
-30 N (*)
-
-</td>
-      <td valign="top" align="left">
-
-40 N
-
-</td>
-      <td align="left" valign="top">
-
-55 N
-
-</td>
-      <td align="left" valign="top">
-
-70 N
-
-</td>
-    </tr>
-    <tr>
-      <td align="center">
-
-Embarcations gonflables à partir de la classe III lorsque les passagers sont susceptibles d'être éjectés en cas de
-retournement
-
-</td>
-      <td align="center">60 N
-
-</td>
-      <td align="center">80 N
-
-</td>
-      <td align="center">110 N
-
-</td>
-      <td align="center">140 N
-
-</td>
-    </tr>
-    <tr>
-      <td colspan="5">
-
-(*) N = Newton : mesure la flottabilité inhérente du gilet.
-
-</td>
-    </tr>
-  </tbody>
-</table>
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 31 mars 2016 - art. 3
-
-	**Cité par**:
-
-	  - Code du sport. - art. A322-62 (VT)
-
-
 ###### Article Annexe III-14 a (art. A322-77)
 
 Aptitudes des pratiquants à utiliser de l'air
@@ -71949,6 +71480,335 @@ véhicules de toute nature et les engins aériens de surveillance-mis à la disp
 	**Cité par**:
 
 	  - Code du sport. - art. A331-3 (VD)
+
+
+###### Article Annexe III-21-2
+
+Formulaire d'évaluation des impacts sur l'environnement pour les épreuves et compétitions de sports motorisés sur les voies
+non ouvertes à la circulation publique en complément de la demande d'autorisation et complétant l'évaluation des incidences
+Natura 2000 (en application de l'article R. 331-24-1 du code du sport)
+
+Nom de l'épreuve ou de la compétition de sports motorisés :
+
+Demande au titre de la demande d'autorisation de concentration ou de manifestation d'une épreuve ou d'une compétition de
+sports motorisés en date du 
+
+Ce document complète l'évaluation des incidences Natura 2000 dès lors que le budget de la manifestation sportive dépasse 100
+000 €. Il doit donc être impérativement annexé à l'évaluation des incidences Natura 2000 en complément de la demande
+d'autorisation.
+
+1. Analyse des impacts potentiels de la manifestation sur l'environnement
+
+Analyse des incidences sur l'environnement notamment celles relatives à la qualité de vie des riverains, de l'air, de l'eau,
+du sol si elles n'ont pas été fournies préalablement dans le cadre de la demande d'autorisation ou de l'évaluation des
+incidences Natura 2000. Elles servent ainsi d'éléments complémentaires dans le cadre de l'instruction de la demande
+d'autorisation.
+
+Nota. - Informations disponibles sur les sites :
+
+http://inpn.mnhn.fr/site/natura2000/listeSites
+
+http://www.geoportail.gouv.fr/actualite/219/carte-des-espaces-proteges-de-la-france-metropolitaine
+
+ou en mairie/établissement intercommunal en charge de l'urbanisme (pour mémoire : informations également disponibles en
+DREAL, DDT[M] ou auprès d'associations locales de protection de l'environnement).
+
+Les différents éléments composant la manifestation (parcours, cheminement, lieux de stationnement, localisation des
+spectateurs...) se situent-ils dans ou à proximité de ?
+
+<table>
+  <tbody>
+    <tr>
+      <th>
+      </th><th>
+
+OUI
+
+</th>
+      <th>
+
+NON
+
+</th>
+      <th>
+
+COMMENTAIRES
+
+</th>
+    </tr>
+    <tr>
+      <td>
+
+Zone naturelle d'intérêt écologique faunistique et floristique de type 1 (ZNIEFF 1) ou 2 (ZNIEFF 2)
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Sites gérés par un conservatoire d'espaces naturels ou le Conservatoire du littoral
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Réserve nationale de chasse et de faune sauvage
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Arrêtés de protection de biotope
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Zone importante pour la conservation des oiseaux (ZICO)
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Réserve biologique
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Zone humide d'importance internationale (Ramsar) ou zone humide prioritaire identifiée dans un SAGE
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Parc naturel national ou régional ou réserve naturelle nationale ou régionale
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Monument historique (site classé ou inscrit) ou site classé au patrimoine mondial de l'UNESCO
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Zone de montagne
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Territoire d'une commune du littoral ou bande littorale des 100 m
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td>
+
+Territoire couvert par un plan de prévention du bruit arrêté ou en cours d'élaboration
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+  </tbody>
+</table>
+
+Impacts potentiels et mesures prévues :
+
+<table>
+  <tbody>
+    <tr>
+      <th rowspan="2">
+
+LA MANIFESTATION SPORTIVE...
+
+</th>
+      <th colspan="2">
+
+INCIDENCES 
+
+</th>
+      <th rowspan="2" colspan="2">
+
+DE QUELLE NATURE ? 
+
+appréciez l'impact potentiel
+
+DESCRIPTION DES MESURES 
+
+préventives et/ou correctives 
+
+prévues
+
+</th>
+    </tr>
+    <tr>
+      <th>
+
+oui
+
+</th>
+      <th>
+
+non
+
+</th>
+    </tr>
+    <tr>
+      <td>
+
+Est-elle susceptible d'entraîner des perturbations, des dégradations, des destructions de la biodiversité existante : faune,
+flore, habitats, sols, eau, continuités écologiques ?
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Est-elle source de bruit ?
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Engendre-t-elle des nuisances olfactives ?
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Engendre-t-elle des vibrations ?
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Engendre-t-elle des émissions lumineuses ?
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Engendre-t-elle des rejets polluants dans l'air ?
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Produit-elle des déchets ?
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+    <tr>
+      <td align="left">
+
+Autres (à préciser) 
+
+</td>
+      <td align="left">
+      </td><td align="left">
+      </td><td align="left">
+      </td><td align="left">
+    </td></tr>
+  </tbody>
+</table>
+
+2. Consignes environnementales spécifiques
+
+Indication des consignes environnementales spécifiques données aux participants, aux spectateurs et aux encadrants - Hors
+cahier des charges de cette manifestation ou règles techniques et de sécurité (RTS) mises en place par les différentes
+fédérations concernées (joints à la demande d'autorisation)
+
+Peuvent ainsi être notamment concernés : la protection des riverains, le balisage amovible, la collecte des déchets, le
+stationnement des véhicules (encadrants, participants, spectateurs) prévus en dehors des espaces naturels sensibles ou
+protégés, la mise en place éventuellement d'une navette temporaire, etc.
+
+A (lieu) : le (date) : Signature :
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 4 mai 2016 - art.
 
 
 ###### Article Annexe III-22
