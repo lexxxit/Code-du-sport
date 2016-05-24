@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-05-15
+Version Consolidée au 2016-05-25
 
 # Partie législative
 
@@ -41124,6 +41124,19 @@ en centre de formation.
 	  - Code du sport. - art. D212-37
 
 
+###### Article A212-49-1
+
+L'avis consultatif du directeur technique national mentionné à l'article R. 212-10-12 est exigé pour l'habilitation des
+organismes de formation préparant à la spécialité "perfectionnement sportif" du diplôme d'Etat de la jeunesse, de l'éducation
+populaire et du sport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 2 mai 2016 - art. 1
+
+
 ###### Article A212-50
 
 La spécialité "perfectionnement sportif" du diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport est organisée
@@ -41204,6 +41217,34 @@ Le processus de certification doit permettre l'évaluation distincte de chaque u
 	  - Arrêté du 21 décembre 2015 - art. 3
 
 
+###### Article A212-52-1
+
+Pour l'inscription dans une formation préparant à la spécialité "perfectionnement sportif" du diplôme d'Etat de la jeunesse,
+de l'éducation populaire et du sport, le dossier du candidat mentionné à l'article A. 212-36 est complété par la production
+de l'attestation "prévention et secours civiques de niveau 1" (PSC 1) ou de l'une des attestations suivantes :
+
+- "attestation de formation aux premiers secours" (AFPS) ;
+
+- "premiers secours en équipe de niveau 1" (PSE 1) en cours de validité ;
+
+- "premiers secours en équipe de niveau 2" (PSE 2) en cours de validité ;
+
+- "attestation de formation aux gestes et soins d'urgence" (AFGSU) de niveau 1 ou de niveau 2 en cours de validité ;
+
+- "certificat de sauveteur secouriste du travail (STT)" en cours de validité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 27 décembre 2007 - art. 3 (V)
+	  - Arrêté du 6 mars 2017 - art. 2
+
+	**Créé par**:
+
+	  - Arrêté du 2 mai 2016 - art. 1
+
+
 ##### Sous-section 5 : Diplôme d'Etat supérieur de la jeunesse,  de l'éducation populaire et du sport
 
 ##### Paragraphe 1 : Spécialité “animation socio-éducative ou culturelle”
@@ -41262,6 +41303,19 @@ en centre de formation.
 	**Cite**:
 
 	  - Code du sport. - art. D212-53
+
+
+###### Article A212-54-1
+
+L'avis consultatif du directeur technique national mentionné à l'article R. 212-10-12 est exigé pour l'habilitation des
+organismes de formation préparant à la spécialité "performance sportive" du diplôme d'Etat supérieur de la jeunesse, de
+l'éducation populaire et du sport.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 2 mai 2016 - art. 2
 
 
 ###### Article A212-55
@@ -41337,6 +41391,34 @@ Le processus de certification doit permettre l'évaluation distincte de chaque u
 	**Modifié par**:
 
 	  - Arrêté du 21 décembre 2015 - art. 4
+
+
+###### Article A212-57-1
+
+Pour l'inscription dans une formation préparant à la spécialité "performance sportive" du diplôme d'Etat supérieur de la
+jeunesse, de l'éducation populaire et du sport, le dossier du candidat mentionné à l'article A. 212-36 est complété par la
+production de l'attestation "prévention et secours civiques de niveau 1" (PSC 1) ou de l'une des attestations suivantes :
+
+- "attestation de formation aux premiers secours" (AFPS) ;
+
+- "premiers secours en équipe de niveau 1" (PSE 1) en cours de validité ;
+
+- "premiers secours en équipe de niveau 2" (PSE 2) en cours de validité ;
+
+- "attestation de formation aux gestes et soins d'urgence" (AFGSU) de niveau 1 ou de niveau 2 en cours de validité ;
+
+- "certificat de sauveteur secouriste du travail (STT)" en cours de validité.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 27 décembre 2007 - art. 3 (V)
+	  - Arrêté du 6 mars 2017 - art. 2
+
+	**Créé par**:
+
+	  - Arrêté du 2 mai 2016 - art. 2
 
 
 ##### Sous-section 6 : Brevet d'Etat d'éducateur sportif
