@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-05-25
+Version Consolidée au 2016-06-05
 
 # Partie législative
 
@@ -6994,10 +6994,11 @@ décision de diligenter un contrôle prévu à l'article L. 232-14-1.
 ###### Article L232-14-4
 
 Lorsque le sportif a refusé son consentement aux opérations de contrôle mentionnées à l'article L. 232-14-1, le juge des
-libertés et de la détention du tribunal de grande instance dans le ressort duquel s'effectue le contrôle peut, à la requête
-du directeur du département des contrôles de l'Agence française de lutte contre le dopage, de l'organisation nationale
-antidopage étrangère compétente ou d'un organisme sportif international compétent, autoriser les opérations mentionnées à
-l'article L. 232-14-1. 
+libertés et de la détention du tribunal de grande instance dans le ressort duquel s'effectue le contrôle ou le juge des
+libertés et de la détention du tribunal de grande instance prévu par le décret mentionné au I de l'article 706-2 du code de
+procédure pénale peut, à la requête du directeur du département des contrôles de l'Agence française de lutte contre le
+dopage, de l'organisation nationale antidopage étrangère compétente ou d'un organisme sportif international compétent,
+autoriser les opérations mentionnées à l'article L. 232-14-1. 
 
 Le juge des libertés et de la détention peut également autoriser des opérations de contrôle mentionnées à l'article L.
 232-14-1 sur un sportif dont le consentement n'aura pas été sollicité, selon les mêmes modalités que celles mentionnées à
@@ -7010,10 +7011,11 @@ ordonnance, qui n'est pas susceptible d'appel, est motivée par référence aux 
 l'opération est nécessaire. Les opérations sont faites sous le contrôle du magistrat qui les a autorisées, et qui peut se
 déplacer sur les lieux pour veiller au respect des dispositions légales. 
 
-Le procureur de la République territorialement compétent est, préalablement à la saisine du juge des libertés et de la
-détention, informé par le directeur du département des contrôles de l'Agence française de lutte contre le dopage, par
-l'organisation nationale antidopage étrangère compétente ou par l'organisme sportif international compétent du projet de
-contrôle et peut s'y opposer. 
+Le procureur de la République territorialement compétent ou le procureur de la République mentionné à l'avant-dernier alinéa
+du I de l'article 706-2 du code de procédure pénale est, préalablement à la saisine du juge des libertés et de la détention,
+informé par le directeur du département des contrôles de l'Agence française de lutte contre le dopage, par l'organisation
+nationale antidopage étrangère compétente ou par l'organisme sportif international compétent du projet de contrôle et peut
+s'y opposer. 
 
 Les opérations prévues ne peuvent, à peine de nullité, avoir un autre objet que le prélèvement visé dans la décision du juge
 des libertés et de la détention. 
@@ -7025,11 +7027,12 @@ constitue pas une cause de nullité des procédures incidentes.
 
 	**Modifié par**:
 
-	  - Loi n°2016-41 du 26 janvier 2016 - art. 221
+	  - Loi n°2016-731 du 3 juin 2016 - art. 102
 
 	**Cite**:
 
-	  - Code du sport. - art. L232-14-1 (V)
+	  - Code de procédure pénale - art. 706-2 (VT)
+	  - Code du sport. - art. L232-14-1
 
 	**Cité par**:
 
@@ -15758,9 +15761,19 @@ La délégation prévue à l'article L. 131-14 est accordée à une fédération
 discipline sportive ou de disciplines connexes.
 
 L'arrêté du ministre chargé des sports accordant la délégation est pris après avis du Comité national olympique et sportif
-français, et publié au Journal officiel de la République française.
+français et,  le cas échéant, du Comité paralympique et sportif français quand la  discipline est spécifiquement dédiée à la
+pratique sportive des  personnes en situation de handicap, et publié au Journal officiel de la République française.
 
 **Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°2002-761 du 2 mai 2002 - art. 1 (Ab)
+	  - Décret n°2002-761 du 2 mai 2002 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°2007-1133 du 24 juillet 2007
 
 	**Cité par**:
 
@@ -15768,20 +15781,13 @@ français, et publié au Journal officiel de la République française.
 	  - Arrêté du 27 février 2017 - art. 10 (V)
 	  - Arrêté du 27 février 2017 - art. 3 (V)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Art. 1er du décret n°2002-761 du 2 mai 2002 pris pour l'application de l'article 17 de la loi n°84-610 du 16 juillet 1984 et fixant les conditions d'attribution et de retrait d'une délégation aux fédérations sportives
-	  - Art. 4 du décret n°2002-761 du 2 mai 2002 pris pour l'application de l'article 17 de la loi n°84-610 du 16 juillet 1984 et fixant les conditions d'attribution et de retrait d'une délégation aux fédérations sportives
-	  - Décret n°2002-761 du 2 mai 2002 - art. 1 (Ab)
-	  - Décret n°2002-761 du 2 mai 2002 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2016-737 du 2 juin 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. L131-14 (V)
+	  - Code du sport. - art. L131-14
 
 
 ###### Article R131-26
@@ -15909,7 +15915,8 @@ constatée par arrêté du ministre chargé des sports dont un extrait est insé
 ###### Article R131-31
 
 La délégation peut être retirée par le ministre chargé des sports, après avis du Comité national olympique et sportif
-français : 
+français et,  le cas échéant, du Comité paralympique et sportif français quand la  discipline est spécifiquement dédiée à la
+pratique sportive des  personnes en situation de handicap: 
 
 1° Lorsque la fédération sportive concernée ne justifie plus du respect des conditions mentionnées aux articles R. 131-26 et
 R. 131-27 ; 
@@ -15931,21 +15938,24 @@ La délégation est retirée par arrêté motivé, dont un extrait est inséré 
 
 	**Anciens textes**:
 
-	  - Art. 8 du décret n°2002-761 du 2 mai 2002 pris pour l'application de l'article 17 de la loi n°84-610 du 16 juillet 1984 et fixant les conditions d'attribution et de retrait d'une délégation aux fédérations sportives
 	  - Décret n°2002-761 du 2 mai 2002 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
 	**Cité par**:
 
 	  - Arrêté du 14 décembre 2015 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-737 du 2 juin 2016 - art. 2
+
 	**Cite**:
 
-	  - Code du sport. - art. L333-6 (V)
-	  - Code du sport. - art. R131-26 (V)
+	  - Code du sport. - art. L333-6
+	  - Code du sport. - art. R131-26
 
 
 ##### Sous-section 2 : Compétences des fédérations délégataires
@@ -17557,6 +17567,48 @@ en application de la présente section.
 	**Codifié par**:
 
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+
+
+#### Chapitre Ier bis : Le Comité paralympique et sportif français
+
+###### Article R141-26
+
+Le  Comité paralympique et sportif français mène des activités d'intérêt  commun au nom des fédérations ou avec elles, dans
+le respect des  prérogatives reconnues à chacune d'elles par le présent code. 
+
+Il est associé à la promotion des différentes disciplines sportives  dans les programmes des sociétés de communication
+audiovisuelle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-737 du 2 juin 2016 - art. 3
+
+
+###### Article R141-27
+
+Le  Comité paralympique et sportif français a compétence exclusive pour  constituer, organiser et diriger la délégation
+française aux Jeux  paralympiques et aux compétitions multisports patronnées par le Comité  international paralympique. Sur
+proposition des fédérations intéressées,  il procède à l'inscription des sportifs puis à leur engagement  définitif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-737 du 2 juin 2016 - art. 3
+
+
+###### Article R141-28
+
+Aux  termes d'une convention conclue avec l'Etat, le Comité paralympique et  sportif français peut recevoir un concours
+financier et en personnel  pour accomplir ses missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-737 du 2 juin 2016 - art. 3
 
 
 #### Chapitre II : Autres organismes de concertation
