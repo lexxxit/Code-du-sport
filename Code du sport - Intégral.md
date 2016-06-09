@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-06-06
+Version Consolidée au 2016-06-10
 
 # Partie législative
 
@@ -16119,7 +16119,7 @@ autorisent des compétitions sportives pouvant servir de support à des paris en
 automatisé de données à caractère personnel relatives aux acteurs de ces compétitions. 
 
 La finalité de ce traitement est le contrôle de l'interdiction de parier prévue par le c de l'article L. 131-16, en vue de la
-mise en œuvre d'une éventuelle procédure disciplinaire. 
+mise en œuvre d'une éventuelle procédure de sanction. 
 
 L'Autorité de régulation des jeux en ligne est destinataire du traitement mentionné au premier alinéa. 
 
@@ -16131,11 +16131,11 @@ aux libertés ne s'applique pas à ce traitement.
 	**Cite**:
 
 	  - Loi n°78-17 du 6 janvier 1978 - art. 38
-	  - Code du sport. - art. L131-16 (V)
+	  - Code du sport. - art. L131-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+	  - Décret n°2016-760 du 8 juin 2016 - art. 1
 
 	**Cité par**:
 
@@ -16204,7 +16204,9 @@ concernent les acteurs :
 
 2° D'une compétition sportive organisée par la ligue professionnelle que cette fédération a constituée ; 
 
-3° D'une compétition sportive mentionnée à l'article L. 331-5. 
+3° D'une compétition sportive mentionnée à l'article L. 331-5 ; 
+
+4° Titulaires d'une licence sportive au sens de l'article L. 131-6 et participant à une compétition internationale. 
 
 Lorsque les compétitions mentionnées aux 2° et 3° font l'objet de paris sportifs, les ligues professionnelles et les
 personnes physiques ou morales de droit privé mentionnées à l'article L. 331-5 sont tenues de transmettre aux fédérations
@@ -16212,12 +16214,13 @@ délégataires les informations prévues aux 1°, 2° et 3° de l'article R. 131
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°2013-947 du 22 octobre 2013 - art. 1
+	  - Décret n°2016-760 du 8 juin 2016 - art. 1
 
 	**Cite**:
 
+	  - Code du sport. - art. L131-6
 	  - Code du sport. - art. L331-5
 	  - Code du sport. - art. R131-38
 
@@ -16344,6 +16347,55 @@ l'article R. 132-9.
 	**Cite**:
 
 	  - Code du sport. - art. R132-9
+
+
+###### Article R131-46
+
+Le fichier transmis par l'agent habilité de la fédération sportive à l'Autorité de régulation des jeux en ligne ainsi que les
+résultats des opérations informatiques de rapprochement sont conservés par l'Autorité de régulation des jeux en ligne durant
+un an à compter de l'envoi des résultats à la fédération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2016-1286 du 29 septembre 2016 - art. 14
+
+	**Nouveaux textes**:
+
+	  - Code du sport. - art. R131-45-1 (V)
+
+
+###### Article R131-47
+
+Les droits d'accès aux données mentionnées à l'article R. 131-46 et de rectification de ces données s'exercent auprès du
+président de l'Autorité de régulation des jeux en ligne dans les conditions prévues aux articles 39 et 40 de la loi n° 78-17
+du 6 janvier 1978. 
+
+Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas à ces données.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 1
+
+	**Liens**:
+
+	  - TRANSFERE: Décret n°2016-1286 du 29 septembre 2016 - art. 14
+
+	**Nouveaux textes**:
+
+	  - Code du sport. - art. R131-45-2 (V)
 
 
 ##### Sous-section 4 : Dispositions relatives au régime des décisions prises par les fédérations délégataires
@@ -36510,6 +36562,204 @@ lors qu'aucun éditeur de cet Etat n'a acquis ce droit d'exploitation.
 	  - Code du sport. - art. L333-7
 
 
+#### Chapitre IV : Dispositions relatives aux paris sportifs 
+
+##### Section 1 : Dispositions autorisant les organisateurs de manifestations et compétitions sportives à mettre en œuvre des traitements de données à caractère personnel pour l'application de l'article L. 333-1-4 
+
+
+
+###### Article R333-5
+
+Pour l'application des dispositions du premier alinéa de l'article L. 333-1-4, les organisateurs, mentionnés à l'article L.
+331-5, de manifestations ou de compétitions sportives pouvant servir de support à des paris peuvent mettre en œuvre un
+traitement automatisé de données à caractère personnel relatives aux acteurs de ces manifestations ou de ces compétitions. 
+
+La finalité de ce traitement est le contrôle de l'interdiction prévue au premier alinéa de l'article L. 333-1-4, en vue de la
+mise en œuvre d'une éventuelle procédure de sanction. 
+
+L'Autorité de régulation des jeux en ligne est destinataire des données mentionnées au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
+###### Article R333-6
+
+Les traitements autorisés par l'article R. 333-5 peuvent porter sur les catégories de données à caractère personnel
+relatives : 
+
+1° A l'identité de la personne soumise à l'interdiction prévue au premier alinéa de l'article L. 333-1-4 (nom de famille, nom
+d'usage, prénoms, date et lieu de naissance) ; 
+
+2° A sa domiciliation (adresse postale et, le cas échéant, adresse électronique) ; 
+
+3° Aux manifestations ou aux compétitions pour lesquelles elle est soumise à une interdiction de parier. 
+
+Les droits d'accès et de rectification prévus aux articles 39 et 40 de la loi n° 78-17 du 6 janvier 1978 relative à
+l'informatique, aux fichiers et aux libertés s'exercent auprès des organisateurs de manifestations ou de compétitions
+sportives dont relèvent les personnes concernées. 
+
+Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas au présent traitement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
+###### Article R333-7
+
+En application des dispositions du IV de l'article 26 de la loi du 6 janvier 1978 susmentionnée, l'organisateur d'une
+manifestation ou d'une compétition sportive responsable du traitement de données défini à l'article R. 333-5 adresse à la
+Commission nationale de l'informatique et des libertés, préalablement à sa mise en œuvre, un engagement de conformité de
+celui-ci à la description figurant aux articles R. 333-5 et R. 333-6.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
+###### Article R333-8
+
+L'organisateur de la manifestation ou de la compétition sportive habilite, parmi ses agents ou représentants disposant des
+compétences techniques et juridiques adéquates, une ou plusieurs personnes, afin de : 
+
+1° Traiter les données contenues dans le traitement mentionné à l'article R. 333-5 ; 
+
+2° Transmettre à l'Autorité de régulation des jeux en ligne les demandes de rapprochement mentionnées à l'article R.
+333-11 ; 
+
+3° Recevoir en réponse les éléments définis à l'article R. 333-12. 
+
+Une copie de la décision d'habilitation est transmise à l'Autorité de régulation des jeux en ligne.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
+###### Article R333-9
+
+Les résultats transmis par l'Autorité de régulation des jeux en ligne en application de l'article R. 333-12 sont conservés
+par l'organisateur de la manifestation ou de la compétition sportive durant cinq ans à compter de leur réception par celui-
+ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
+##### Section 2 : Dispositions relatives aux opérations de rapprochement de données à caractère personnel réalisées par l'Autorité de régulation des jeux en ligne pour l'application de l'article L. 333-1-4 
+
+
+###### Article R333-10
+
+L'Autorité de régulation des jeux en ligne définit : 
+
+1° La nomenclature des compétitions pouvant servir de support à l'organisation de paris sportifs en ligne qui doit être
+utilisée pour présenter les informations mentionnées dans le cadre de la demande prévue au 2° de l'article R. 333-8 ; 
+
+2° Les modalités techniques de transmission et de traitement de la demande prévue à l'article R. 333-11.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
+###### Article R333-11
+
+L'Autorité de régulation des jeux en ligne procède aux contrôles demandés par l'organisateur de manifestation ou de
+compétition sportive, en rapprochant le fichier transmis par celui-ci du traitement de données à caractère personnel
+relatives aux opérations de paris sportifs en ligne dont elle dispose en application de l'article 38 de la loi n° 2010-476 du
+12 mai 2010 relative à l'ouverture à la concurrence et à la régulation des jeux d'argent et de hasard en ligne.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-476 du 12 mai 2010 - art. 38
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
+###### Article R333-12
+
+Lorsque les opérations informatiques de rapprochement font apparaître que l'un des acteurs de l'une ou de plusieurs des
+manifestations ou compétitions concernées a méconnu l'interdiction prévue au premier alinéa de l'article L. 333-1-4,
+l'Autorité de régulation des jeux en ligne transmet les résultats de ces rapprochements aux agents ou représentants
+mentionnés à l'article R. 333-8. 
+
+Ces résultats comportent la mention : 
+
+1° Des noms, prénoms, date et lieu de naissance de la personne concernée ; 
+
+2° De la manifestation ou de la compétition et de la ou des épreuves sur lesquelles elle a engagé des paris sportifs ; 
+
+3° Du détail des opérations de paris sportifs en ligne engagées, notamment leur date de réalisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
+###### Article R333-13
+
+Le fichier transmis par l'agent ou le représentant de l'organisateur d'une manifestation ou compétition sportive à l'Autorité
+de régulation des jeux en ligne ainsi que les résultats des opérations informatiques de rapprochement sont conservés par
+l'Autorité de régulation des jeux en ligne durant un an à compter de l'envoi des résultats à l'organisateur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
+###### Article R333-14
+
+Les droits d'accès aux données mentionnées à l'article R. 333-13 et de rectification de ces données s'exercent auprès du
+président de l'Autorité de régulation des jeux en ligne dans les conditions prévues aux articles 39 et 40 de la loi n° 78-17
+du 6 janvier 1978. 
+
+Le droit d'opposition prévu à l'article 38 de la même loi ne s'applique pas à ces données.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39
+	  - Loi n°78-17 du 6 janvier 1978 - art. 40
+
+	**Créé par**:
+
+	  - Décret n°2016-760 du 8 juin 2016 - art. 2
+
+
 ## LIVRE IV : DISPOSITIONS DIVERSES
 
 ### TITRE Ier : FINANCEMENT DU SPORT
@@ -43830,17 +44080,18 @@ date de la dernière révision si la qualification est soumise à révision. Le 
 d'exercice, de l'équivalence de diplôme ou, pour les personnes en formation, de la qualification préparée, des stages
 pratiques et des dates du livret de formation. 
 
-Sont jointes à cette déclaration une copie d'une pièce d'identité, une photographie d'identité, une déclaration sur l'honneur
-attestant de l'exactitude des informations figurant dans le formulaire de déclaration et une copie simple de chacun des
-diplômes, titres, certificats invoqués. Le cas échéant, sont jointes une copie de l'autorisation d'exercice, de l'équivalence
-de diplôme ou, pour les personnes en formation, l'attestation justifiant des exigences minimales préalables à la mise en
-situation pédagogique et toute pièce justifiant du tutorat.
+Sont jointes à cette déclaration une copie d'une pièce d'identité en cours de validité, une photographie d'identité conforme
+aux spécifications de la norme ISO/IEC 19794-5:2005, une déclaration sur l'honneur attestant de l'exactitude des informations
+figurant dans le formulaire de déclaration et une copie de chacun des diplômes, titres, certificats invoqués. Le cas échéant,
+sont jointes une copie de l'autorisation d'exercice, de l'équivalence de diplôme ou, pour les personnes en formation,
+l'attestation justifiant des exigences minimales préalables à la mise en situation pédagogique et toute pièce justifiant du
+tutorat.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 23 octobre 2013 - art. 1
+	  - Arrêté du 26 mai 2016 - art. 1
 
 	**Cité par**:
 
@@ -43854,48 +44105,39 @@ situation pédagogique et toute pièce justifiant du tutorat.
 
 ###### Article A212-177
 
-Il appartient au préfet de département de s'assurer que les personnes désirant déclarer leur activité n'ont pas fait l'objet
-d'une condamnation pour crime ou pour l'un des délits mentionnés à l'article L. 212-9, en demandant aux services judiciaires
-un extrait du casier judiciaire (bulletin n° 2) datant de moins de trois mois.
+Il appartient à l'autorité administrative, en demandant la délivrance du bulletin n° 2 du casier judiciaire et les
+informations contenues dans le fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes, de
+s'assurer que la personne qui déclare exercer contre rémunération l'activité mentionnée à l'article L. 212-1 n'a pas fait
+l'objet d'une condamnation pour crime ou pour l'un des délits mentionnés à l'article L. 212-9.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 27 juin 2005 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 26 mai 2016 - art. 2
 
 	**Cité par**:
 
 	  - Code du sport. - art. A212-179 (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. L212-9 (V)
 
 
 ###### Article A212-178
 
 Toute personne exerçant ou désirant exercer les fonctions relevant de l'article L. 212-1 doit être en mesure de présenter au
 service chargé de l'instruction du dossier de déclaration un certificat médical de non contre-indication à la pratique et à
-l'encadrement de ces activités physiques ou sportives datant de moins d'un an au jour du dépôt du dossier.
+l'encadrement de ces activités physiques ou sportives datant de moins d'un an au jour du dépôt du dossier. Elle doit être en
+mesure de présenter à l'autorité administrative l'original du certificat médical présenté lors de la déclaration pendant la
+durée de validité de sa carte professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Arrêté du 27 juin 2005 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 26 mai 2016 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. L212-1 (V)
+	  - Code du sport. - art. L212-1
 
 
 ###### Article A212-179
@@ -45896,45 +46138,20 @@ documents annexés et de l'avis de la commission consultative départementale de
 
 ##### Section 1 : Dispositions générales
 
-##### Paragraphe unique : Obligation de déclarer l'exploitation  d'un établissement d'activités physiques ou sportives
+##### Paragraphe 1 : Contrôle de l'exploitant d'un établissement d'activités physiques ou sportives
 
 ###### Article A322-1
 
-La déclaration prévue aux articles R. 322-1 et R. 322-2 mentionne : 
-
-1° Les nom, prénoms, domicile, date et lieu de naissance de l'exploitant ou du représentant légal si l'exploitant est une
-personne morale ainsi que, dans ce cas, la forme juridique, la dénomination sociale et le siège de celle-ci ; 
-
-2° L'objet principal de l'école ou de l'établissement déclaré, la nature des disciplines qui y sont enseignées ou pratiquées
-et le lieu où elles sont enseignées ou pratiquées ; 
-
-3° Le cas échéant, les nom, prénoms, domicile, date et lieu de naissance, titres et diplômes ou autorisations d'exercice de
-chacune des personnes devant, dans l'établissement, enseigner, animer ou encadrer les activités physiques ou sportives, ou
-entraîner ses pratiquants contre rémunération, à quelque titre que ce soit.
-
-A cette déclaration doivent être joints : 
-
-a) En ce qui concerne l'exploitant : 
-
-― s'il s'agit d'une personne physique : une photocopie d'une pièce d'identité et une déclaration sur l'honneur attestant
-qu'il satisfait à ses obligations législatives et réglementaires. En outre, s'il doit enseigner, animer ou encadrer
-personnellement les activités physiques ou sportives, ou entraîner ses pratiquants, contre rémunération, une copie de sa
-déclaration faite en application de l'article R. 212-85 ; 
-
-― s'il s'agit d'une personne morale : la copie de ses derniers statuts. 
-
-b) Le cas échéant, en ce qui concerne chacune des personnes devant, dans l'établissement, enseigner, animer ou encadrer les
-activités physiques ou sportives, ou entraîner ses pratiquants, contre rémunération, une copie de la déclaration prévue à
-l'article R. 212-85. 
-
-Toute modification d'un des éléments énoncés ci-dessus doit être déclarée dans les mêmes formes et dans le délai maximum d'un
-mois à compter du jour où elle est intervenue.
+Il appartient à l'autorité administrative, en demandant la délivrance du bulletin n° 2 du casier judiciaire et les
+informations contenues dans le fichier judiciaire national automatisé des auteurs d'infractions sexuelles ou violentes, de
+s'assurer que l'exploitant d'un établissement mentionné à l'article L. 322-1 n'a pas fait l'objet d'une condamnation pour
+crime ou pour l'un des délits mentionnés à l'article L. 212-9.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 26 mai 2016 - art. 4
 
 	**Cité par**:
 
@@ -45942,48 +46159,45 @@ mois à compter du jour où elle est intervenue.
 
 	**Cite**:
 
-	  - Code du sport. - art. R212-85 (V)
-	  - Code du sport. - art. R322-1 (V)
+	  - Code du sport. - art. L212-9
+	  - Code du sport. - art. L322-1
 
 
 ###### Article A322-2
 
-La déclaration souscrite par les personnes désirant exploiter un établissement mentionné à l'article L. 322-2 est établie sur
-l'un des deux formulaires de déclaration figurant en annexes III-5 et III-6 au présent code.
+L'autorité administrative peut s'opposer à l'ouverture ou prononcer la fermeture temporaire ou définitive d'un établissement
+dont l'exploitant a refusé de lui transmettre les informations permettant de contrôler le respect, par ce dernier, de la
+garantie prévue à l'article L. 322-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 26 mai 2016 - art. 4
 
 	**Cite**:
 
-	  - Code du sport. -   DÉCLARATION DES PERSONNES DÉSIRANT EXPLOITER U... (V)
-	  - Code du sport. -   DÉCLARATION EFFECTUÉE PAR LES COLLECTIVITÉS TE... (V)
-	  - Code du sport. - art. L322-2 (V)
+	  - Code du sport.
+	  - Code du sport. - art. L322-1
 
+
+##### Paragraphe 2 : Information des pratiquants 
 
 ###### Article A322-3
 
-Il appartient au préfet de s'assurer que les exploitants, personnes physiques, désirant procéder à la déclaration prévue par
-les articles R. 322-1 et R. 322-2, n'ont pas fait l'objet d'une condamnation pour crime ou pour l'un des délits mentionnés à
-l'article L. 212-9, en demandant aux services judiciaires un extrait du casier judiciaire (bulletin n° 2) datant de moins de
-trois mois au jour de la déclaration. 
-
-Lorsque l'exploitant est une personne morale, l'autorité administrative procède aux mêmes vérifications pour chacun de ses
-administrateurs ou de ses gérants.
+Le pratiquant est informé, par tout moyen, des capacités requises pour la pratique d'une activité physique ou sportive
+organisée par l'établissement.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 26 mai 2016 - art. 4
 
 	**Cite**:
 
-	  - Code du sport. - art. L212-9 (V)
-	  - Code du sport. - art. R322-1 (V)
+	  - Code du sport. - art. L212-9
+	  - Code du sport. - art. R322-1
 
 
 ##### Section 2 : Etablissements d'activités aquatiques et nautiques
@@ -46421,16 +46635,16 @@ de simulation de la phase d'alarme, permettant l'entraînement des personnels au
 
 ###### Article A322-16
 
-Le plan d'organisation de la surveillance et des secours, partie intégrante de la déclaration mentionnée à l'article R.
-322-1, doit être obligatoirement connu de tous les personnels permanents ou occasionnels de l'établissement.
+Le plan d'organisation de la surveillance et des secours,              transmis dans les conditions prévues à l'article D.
+322-16, doit être obligatoirement connu de tous les personnels permanents ou occasionnels de l'établissement. 
 
 L'exploitant doit s'assurer que ces personnels sont en mesure de mettre en application ledit plan.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 26 mai 2016 - art. 5
 
 	**Cité par**:
 
@@ -46438,7 +46652,7 @@ L'exploitant doit s'assurer que ces personnels sont en mesure de mettre en appli
 
 	**Cite**:
 
-	  - Code du sport. - art. R322-1 (V)
+	  - Code du sport. - art. R322-1
 
 
 ###### Article A322-17
@@ -48534,29 +48748,28 @@ rester sellés et bridés en dehors des heures de travail.
 ###### Article A322-142
 
 Les établissements permanents ou les installations temporaires dans lesquels sont pratiquées des activités de tir aux armes
-de chasse constituent des établissements d'activités physiques ou sportives au sens de l'article L. 322-2. 
-
-Leur ouverture fait l'objet de la déclaration prévue à l'article R. 322-1. 
-
-Pour les installations temporaires, la date de dépôt de la déclaration est ramenée à quinze jours avant l'ouverture.
+de chasse constituent des établissements d'activités physiques ou sportives au sens de l'article L. 322-2.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 26 mai 2016 - art. 7
 
 	**Cite**:
 
-	  - Code du sport. - art. L322-2 (V)
-	  - Code du sport. - art. R322-1 (V)
+	  - Code du sport. - art. L322-2
+	  - Code du sport. - art. R322-1
 
 
 ###### Article A322-143
 
-La déclaration mentionnée à l'article L. 322-3 comporte, outre ce qui est prévu à l'article A. 322-1, la désignation de
-l'emplacement retenu, les dates d'utilisation et un croquis indiquant la situation des appareils de lancement, l'orientation
-des tirs, les voies d'accès, les protections prévues et l'emplacement réservé au public. 
+L'exploitant réalise un plan comportant la désignation de l'emplacement retenu, les dates d'utilisation et un croquis
+indiquant la situation des appareils de lancement, l'orientation des tirs, les voies d'accès, les protections prévues et
+l'emplacement réservé au public. 
+
+Ce plan est transmis au préfet de département quinze jours avant l'ouverture de l'établissement ainsi qu'après chaque
+modification.  
 
 Si aucun obstacle ne fait office d'écran protecteur, une distance minimale de deux cent cinquante mètres dans la direction
 normale du tir doit séparer des routes et habitations riveraines tout établissement d'activités physiques ou sportives où
@@ -48564,14 +48777,14 @@ sont pratiquées des activités de tir aux armes de chasse.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 26 mai 2016 - art. 7
 
 	**Cite**:
 
-	  - Code du sport. - art. A322-1 (V)
-	  - Code du sport. - art. L322-3 (V)
+	  - Code du sport. - art. A322-1
+	  - Code du sport. - art. L322-3
 
 
 ###### Article A322-144
@@ -54905,12 +55118,12 @@ LIMITES DES CONDITIONS D'EXERCICE
 </th>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 BEES du 3e degré, toutes options.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Enseignement de l'activité visée par l'option considérée, dans tout établissement.
 
@@ -54918,13 +55131,13 @@ Enseignement de l'activité visée par l'option considérée, dans tout établis
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Diplôme d'AMM du brevet d'Etat d'alpinisme délivré en application de l'arrêté du 10 mai 1993 relatif au brevet d'Etat
 d'alpinisme.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
 type nordique excluant tout accident de terrain et situés en moyenne montagne. 
@@ -54932,7 +55145,7 @@ type nordique excluant tout accident de terrain et situés en moyenne montagne.
 Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion : 
 
@@ -54979,7 +55192,7 @@ Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du brevet national de pisteu
 degré ou option ski nordique 2e degré.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
 type nordique excluant tout accident de terrain et situés en moyenne montagne. 
@@ -54987,7 +55200,7 @@ type nordique excluant tout accident de terrain et situés en moyenne montagne.
 Animation de groupes et enseignement des connaissances et savoir-faire propres à l'activité et au milieu.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion : 
 
@@ -55001,12 +55214,12 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du BEES du 1er degré, option "ski alpin" ou option "ski nordique".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Conduite et encadrement de personnes en espace rural montagnard ainsi que sur des terrains enneigés faciles, vallonnés, de
 type nordique excluant tout accident de terrain et situés en moyenne montagne. 
@@ -55041,7 +55254,7 @@ Conduite et encadrement de personnes en moyenne montagne tropicale, animation de
 savoir-faire propres à l'activité et au milieu.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion des rochers, des canyons, des terrains nécessitant pour la progression l'utilisation du matériel ou des
 techniques de l'alpinisme.
@@ -55049,13 +55262,13 @@ techniques de l'alpinisme.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'AMM du brevet d'Etat d'alpinisme, option "moyenne montagne tropicale" assorti du CQC "encadrement du canyon en
 milieu tropical".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement de personnes dans les canyons situés en milieu tropical.
 
@@ -55073,7 +55286,7 @@ Diplôme d'AMM du brevet d'Etat d'alpinisme assorti du CQC "VTT en milieu montag
 Enseignement de l'activité VTT en milieu montagnard.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
   </tbody>
 </table>
@@ -55110,14 +55323,14 @@ BAPAAT, options "loisirs du jeune et de l'enfant" ; "loisirs tout public dans le
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Supports techniques du BAPAAT
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Bicross.
 
@@ -55128,7 +55341,7 @@ Initiation au bicross, avec les prérogatives et dans les conditions prévues pa
 l'organisation et aux conditions de préparation et de délivrance du BAPAAT.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -55354,14 +55567,14 @@ Randonnée équestre et brevet d'études professionnelles agricoles, option "act
 équestre".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Conduite de randonnées équestres dans les conditions prévues par l'arrêté du 14 septembre 1993 créant une spécialité
 "accompagnement de randonnée équestre" du brevet d'études professionnelles agricoles, option "activités hippiques", et fixant
 les modalités de certification conjointe avec le BAPAAT, support technique "randonnée équestre".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
   </tbody>
 </table>
@@ -55393,7 +55606,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 BP JEPS, spécialité "activités équestres".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Conduite de séances et de cycles d'initiation, de découverte et d'animation sportive dans toutes les activités équestres.
 
@@ -55408,7 +55621,7 @@ Mentions de la spécialité "activités équestres"
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Equitation
 
@@ -55418,7 +55631,7 @@ Equitation
 Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -55426,7 +55639,7 @@ Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de comp
 Tourisme équestre
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en tourisme équestre. Accompagnement
 de randonnées pour tout public et sur tout itinéraire.
@@ -55440,12 +55653,12 @@ de randonnées pour tout public et sur tout itinéraire.
 Equitation western
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Conduite de séances et de cycles d'enseignement jusqu'au premier niveau de compétition en équitation western.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -55484,33 +55697,33 @@ BP JEPS, spécialité "activités nautiques".
       </td><td>
     </td></tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions monovalentes de la spécialité "activités nautiques"
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Aviron et disciplines associées.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron et
 disciplines associées.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Canoë-kayak et disciplines associées.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en canoë-
 kayak et disciplines associées sur tout support ou embarcation propulsée à la pagaie ou à la nage. 
@@ -55536,14 +55749,14 @@ En eau vive jusqu'en classe III incluse et dans les canyons cotés jusqu'à V1, 
 Char à voile.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en char à
 voile. Char à voile en pratique assise et allongée, en pratique debout, en pratique tractée, pour tout lieu de pratique de
 l'activité aménagé et ouvert.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -55551,7 +55764,7 @@ l'activité aménagé et ouvert.
 Glisse aérotractée.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en glisse
 aérotractée.
@@ -55566,12 +55779,12 @@ l'activité.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Motonautisme.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en
 motonautisme.
@@ -55584,12 +55797,12 @@ Activités de jet, bateau à moteur, engins tractés, pour tout public et sur to
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Ski nautique et disciplines associées.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en ski
 nautique et disciplines associées.
@@ -55621,12 +55834,12 @@ pratique de l'activité.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Voile.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en voile.
 
@@ -55640,14 +55853,14 @@ sein d'une flottille et sous la responsabilité d'un chef de flottille possédan
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions plurivalentes de la spécialité "activités nautiques"
 
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe A
 
@@ -55665,7 +55878,7 @@ Encadrement et animation d'activités de découverte et d'initiation incluant le
 mer.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sur des bateaux d'aviron utilisables en mer, pour tout public, sur le milieu marin.
 
@@ -55689,32 +55902,32 @@ Sur tout type de bateau, pour tout public, sur des plans d'eau calmes, abrités 
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Groupe B
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Canoë-kayak "eau calme et rivière d'eau vive".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en canoë-
 kayak "eau calme et rivière d'eau vive".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour tout public en eau calme et en rivière jusqu'en classe III incluse.
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Canoë-kayak "eau clame, mer et vagues".
 
@@ -55757,7 +55970,7 @@ Sur tout support (à l'exception des activités tractées), sur des parcours éc
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe D
 
@@ -55784,7 +55997,7 @@ possédant les diplômes requis.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Multicoques et dériveurs.
 
@@ -55795,32 +56008,32 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 multicoques et dériveurs.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour tout public et sur tout lieu de pratique de l'activité.
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Planche à voile.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de découverte et d'initiation incluant les premiers niveaux de compétition en planche à
 voile.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour tout public et sur tout lieu de pratique de l'activité.
 
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe E
 
@@ -55904,7 +56117,7 @@ de l'activité.
 </td>
     </tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Groupe G
 
@@ -56075,13 +56288,13 @@ Mentions de la spécialité "sport automobile"
 Circuit.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
 compétition en circuit.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -56098,12 +56311,12 @@ compétition en karting.
       <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Perfectionnement du pilotage.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
 compétition en perfectionnement du pilotage.
@@ -56112,18 +56325,18 @@ compétition en perfectionnement du pilotage.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Rallye
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation à un premier niveau de
 compétition en rallye.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td>
@@ -56354,17 +56567,17 @@ Mentions de la spécialité "vol libre"
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Parapente.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en parapente.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -56377,10 +56590,10 @@ Deltaplane.
 Encadrement d'actions d'animation, d'initiation et de progression jusqu'à l'autonomie en deltaplane.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 BP JEPS, spécialité "activités aquatiques et de la natation".
 
@@ -56393,7 +56606,7 @@ enseignement des différentes nages.
 Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur
 en cours de validité.
@@ -56401,7 +56614,7 @@ en cours de validité.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 BP JEPS, spécialité "escrime".
 
@@ -56412,7 +56625,7 @@ Encadrement et animation d'activités d'éveil à l'escrime et de découverte de
 d'apprentissage et d'enseignement à deux armes, jusqu'au premier niveau de compétition.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -56428,7 +56641,7 @@ Enseignement et encadrement de la plongée subaquatique, dans les conditions tec
 A. 322-71 et suivants du code du sport.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Autorisation d'exercer pour une durée de cinq ans, renouvelée à l'issue d'un stage de recyclage.
 
@@ -56444,19 +56657,19 @@ BP JEPS, spécialité "parachutisme".
       </td><td>
     </td></tr>
     <tr>
-      <td colspan="3" align="center">
+      <td align="center" colspan="3">
 
 Mentions de la spécialité "parachutisme"
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Tandem.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie du tandem, dans les conditions techniques et de sécurité définies aux articles A. 322-147 et
 suivants du code du sport.
@@ -56470,12 +56683,12 @@ parachutisme.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Progression accompagnée en chute libre.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de la progression accompagnée en chute libre, dans les conditions techniques et de sécurité définies
 aux articles A. 322-147 et suivants du code du sport.
@@ -56489,7 +56702,7 @@ parachutisme.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Progression traditionnelle.
 
@@ -56500,7 +56713,7 @@ Encadrement en autonomie de la progression traditionnelle, dans les conditions t
 articles A. 322-147 et suivants du code du sport.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Autorisation d'exercer pour une durée d'une année, renouvelée sur proposition du directeur technique national du
 parachutisme.
@@ -56513,36 +56726,36 @@ parachutisme.
 BP JEPS, spécialité "activités du cyclisme".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Préparation et mise en œuvre de cycles d'animation et d'initiation en vélo.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion de toute pratique compétitive.
 
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "activités du cyclisme"
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 BMX.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Préparation et mise en œuvre de cycles d'apprentissage en BMX.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td>
@@ -56589,19 +56802,19 @@ A l'exclusion de toute pratique compétitive au-delà du niveau régional.
 </td>
     </tr>
     <tr>
-      <td align="center" colspan="3">
+      <td colspan="3" align="center">
 
 Mentions de la spécialité "lutte et disciplines associées"
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Lutte.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
 compétition régionale en lutte.
@@ -56610,7 +56823,7 @@ compétition régionale en lutte.
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sambo.
 
@@ -56621,10 +56834,10 @@ Encadrement et animation d'activités de loisir, d'initiation, de découverte et
 compétition régionale en sambo.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Grappling.
 
@@ -56635,15 +56848,15 @@ Encadrement et animation d'activités de loisir, d'initiation, de découverte et
 compétition régionale en grappling.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Lutte bretonne (gouren).
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement et animation d'activités de loisir, d'initiation, de découverte et de préparation aux premiers niveaux de
 compétition régionale en lutte bretonne (gouren).
@@ -56667,18 +56880,18 @@ niveaux de compétition. Encadrement et conduite de cycles d'apprentissage perme
       <td align="left" valign="top">
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 BP JEPS, spécialité "basket-ball".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
 d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -56686,13 +56899,13 @@ d'apprentissage jusqu'aux premiers niveaux de compétition en basket-ball.
 BP JEPS, spécialité "patinage sur glace".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement, enseignement et animation d'activités de découverte, de loisir et d'initiation. Conduite de cycles
 d'apprentissage jusqu'aux premiers niveaux de compétition en patinage sur glace.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td valign="top" align="left">
@@ -56706,7 +56919,7 @@ Encadrement, enseignement et animation d'activités de découverte, de loisir et
 d'apprentissage jusqu'aux premiers niveaux de compétition en rugby à XV.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td>
@@ -56727,14 +56940,14 @@ Encadrement et animation de l'activité golf.
 BP JEPS, spécialité "volley-ball et volley-ball de plage (beach-volley)".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités d'éveil, de découverte et d'initiation en volley-ball et volley-ball de plage (beach-
 volley) pour tous les publics. Conduite de cycles d'apprentissage, d'enseignement et d'entraînement jusqu'aux premiers
 niveaux de compétition.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="center" colspan="3">
@@ -56744,12 +56957,12 @@ Unités capitalisables complémentaires (UCC) et certificats de spécialisation 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 UCC "aviron de mer".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en aviron de
 mer.
@@ -56798,7 +57011,7 @@ reconnus, au maximum par vent de force 4 sur le site d'évolution. Conduite de s
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 UCC "canoë-kayak, eau calme et rivière d'eau vive".
 
@@ -56809,7 +57022,7 @@ Encadrement et animation d'activités de découverte et d'initiation, incluant l
 kayak, eau calme et rivière d'eau vive.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour tout public, en eau calme et en rivière, jusqu'en classe III incluse.
 
@@ -56833,18 +57046,18 @@ Sur tout support (à l'exception des activités tractées), sur des parcours éc
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 UCC "croisière côtière".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et animation d'activités de découverte et d'initiation, incluant les premiers niveaux de compétition en croisière
 côtière.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sur des voiliers autres que les embarcations légères de plaisance, pour tout public, jusqu'à 12 milles nautiques d'un abri.
 Au-delà, possibilité d'encadrer en croisière au sein d'une flottille et sous la responsabilité d'un chef de flottille
@@ -57230,7 +57443,7 @@ Encadrement et conduite de séances de découverte et d'initiation des différen
 disciplines associées.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion de toute pratique compétitive.
 
@@ -57242,7 +57455,7 @@ A l'exclusion de toute pratique compétitive.
 CS "activités d'escalade".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Conduite de cycles de découverte, d'animation, d'initiation et d'apprentissage jusqu'au premier niveau de compétition en
 escalade.
@@ -57280,7 +57493,7 @@ en cours de validité.
 CS "accompagnement et intégration des personnes en situation de handicap".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Animation des activités physiques ou sportives : 
 
@@ -57290,7 +57503,7 @@ une souffrance psychique ou éprouvant des difficultés d'adaptation du fait de 
 - auprès de groupes constitués exclusivement de ces publics.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Auprès de groupes constitués exclusivement de ces publics, cette intervention est réalisée : 
 
@@ -57361,13 +57574,13 @@ Conduite de cycles d'animation en tir à l'arc.
 CS "croisière".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement de la croisière côtière ou hauturière pour tout public, de jour comme de nuit, dans les limites de navigation du
 ou des voilier(s) utilisé(s) jusqu'à 200 milles nautiques d'un abri.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td>
@@ -57435,7 +57648,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 </th>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spécialité "perfectionnement sportif", toutes mentions.
 
@@ -57445,7 +57658,7 @@ Diplôme d'Etat de la jeunesse, de l'éducation populaire et du sport, spéciali
 Enseignement, animation, encadrement de l'activité visée par la mention considérée ou entraînement de ses pratiquants.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -57454,7 +57667,7 @@ Diplôme d'Etat supérieur de la jeunesse, de l'éducation populaire et du sport
 mentions.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Enseignement, animation, encadrement de l'activité visée par la mention considérée ou entraînement de ses pratiquants.
 
@@ -57472,7 +57685,7 @@ DE JEPS, spécialité "perfectionnement sportif", mention "canyonisme".
 Enseignement, animation, encadrement du canyonisme ou entraînement de ses pratiquants".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un stage de recyclage.
 
@@ -57484,7 +57697,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 DE JEPS, spécialité "perfectionnement sportif", mention "parachutisme."
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Enseignement, animation, encadrement du parachutisme ou entraînement de ses pratiquants dans les conditions techniques et de
 sécurité définies aux articles A. 322-147 et suivants du code du sport.
@@ -57498,7 +57711,7 @@ sécurité définies aux articles A. 322-147 et suivants du code du sport.
 DES JEPS, spécialité "performance sportive", mention "parachutisme".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Enseignement, animation, encadrement du parachutisme ou entraînement de ses pratiquants dans les conditions techniques et de
 sécurité définies aux articles A. 322-147 et suivants du code du sport.
@@ -57562,7 +57775,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 DE JEPS, spécialité "perfectionnement sportif", mention "escalade".
 
@@ -57611,7 +57824,7 @@ A l'exclusion de l'escalade pratiquée sur les sites sportifs au-delà du premie
 DE JEPS, spécialité "perfectionnement sportif", mention "spéléologie".
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Enseignement, animation, encadrement de la spéléologie ou entraînement de ses pratiquants.
 
@@ -57643,7 +57856,7 @@ Enseignement, animation, encadrement du baby et du mini-volley.
       <td>
     </td></tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CS "sauvetage et sécurité en milieu aquatique".
 
@@ -57653,7 +57866,7 @@ CS "sauvetage et sécurité en milieu aquatique".
 Surveillance de tout lieu de pratique des activités aquatiques et sauvetage de tout public en milieu aquatique.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Sous réserve de la présentation du certificat quinquennal d'aptitude à l'exercice de la profession de maître nageur sauveteur
 en cours de validité.
@@ -57711,7 +57924,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 </th>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'Etat de ski-moniteur national de ski alpin.
 
@@ -57738,7 +57951,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 Diplôme d'Etat de ski-moniteur national de ski nordique de fond.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement, animation, enseignement et entraînement du ski nordique de fond et de ses activités dérivées en application de
 l'ensemble des classes de la progression du ski nordique de fond et de ses activités dérivées définies par la commission de
@@ -57752,7 +57965,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Diplôme d'Etat d'alpinisme-guide de haute montagne.
 
@@ -57781,7 +57994,7 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne montagne enneigée".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités
 assimilées en moyenne montagne ainsi qu'en terrain enneigé sur des reliefs vallonnés excluant tout accident de terrain
@@ -57805,19 +58018,19 @@ Autorisation d'exercer pour une durée de six ans, renouvelée à l'issue d'un s
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme d'Etat d'alpinisme-accompagnateur en moyenne montagne, option "moyenne montagne tropicale et équatoriale".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement, conduite, animation, enseignement, entraînement en sécurité de tout public en randonnée pédestre et activités
 assimilées en moyenne montagne ainsi que dans les régions à climat tropical et équatorial en périodes de fortes
 précipitations fixées par l'autorité publique compétente, sur des terrains escarpés et détrempés.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion : 
 
@@ -57864,7 +58077,7 @@ LIMITES DES CONDITIONS D'EXERCICE
 Aide-moniteur d'entraînement physique, militaire et sportif. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Participation à l'animation des activités physiques ou sportives. 
 
@@ -57876,7 +58089,7 @@ Sous le contrôle d'un titulaire de diplôme ou titre de niveau IV.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Moniteur d'entraînement physique, militaire et sportif. 
 
@@ -57887,7 +58100,7 @@ Animation auprès de tout public des activités physiques ou sportives à des fi
 développement et de maintien des capacités physiques individuelles. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Toute activité physique ou sportive auprès de tout public, à l'exclusion des groupes constitués de personnes ayant un
 handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psychique. 
@@ -57895,12 +58108,12 @@ handicap physique ou sensoriel, une déficience intellectuelle ou un trouble psy
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Moniteur-chef d'entraînement physique, militaire et sportif. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement et coordination auprès de tout public des activités physiques ou sportives. 
 
@@ -57937,17 +58150,17 @@ LIMITES DES CONDITIONS D'EXERCICE
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Animateur poney délivré jusqu'au 1er septembre 2012. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation au poney dans tout établissement. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Sous l'autorité d'un titulaire du brevet d'Etat d'éducateur sportif du 1er degré, option équitation-activités équestres, ou
 du brevet d'Etat d'éducateur sportif du 2e degré, option équitation, ou du brevet professionnel de la jeunesse, de
@@ -57971,7 +58184,7 @@ A l'exclusion des pratiques compétitives de niveau amateur et plus.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Accompagnateur de tourisme équestre. 
 
@@ -58019,15 +58232,15 @@ Moniteur de football.
 Conduite de cycles d'apprentissage et entraînement de la pratique du football jusqu'au niveau régional.
 
 </td>
-      <td valign="top" width="276">
+      <td width="276" valign="top">
     </td></tr>
     <tr>
-      <td width="157" valign="top">
+      <td valign="top" width="157">
 
 Entraîneur de football. 
 
 </td>
-      <td valign="top" width="315">
+      <td width="315" valign="top">
 
 Entraînement en football jusqu'au niveau régional pour tous les publics. Entraînement en football au niveau national pour les
 publics mineurs. 
@@ -58036,20 +58249,20 @@ publics mineurs.
       <td valign="top" width="276">
     </td></tr>
     <tr>
-      <td valign="top" width="157">
+      <td width="157" valign="top">
 
 Entraîneur formateur de football. 
 
 </td>
-      <td width="315" valign="top">
+      <td valign="top" width="315">
 
 Encadrement et entraînement de joueurs de haut niveau en football dans une structure de préformation ou de formation. 
 
 </td>
-      <td width="276" valign="top">
+      <td valign="top" width="276">
     </td></tr>
     <tr>
-      <td valign="top" width="157">
+      <td width="157" valign="top">
 
 Entraîneur professionnel de football.
 
@@ -58059,7 +58272,7 @@ Entraîneur professionnel de football.
 Encadrement et entraînement de joueurs de haut niveau en football dans un club professionnel.
 
 </td>
-      <td valign="top" width="276">
+      <td width="276" valign="top">
     </td></tr>
   </tbody>
 </table>
@@ -58096,13 +58309,13 @@ LIMITES DES CONDITIONS D'EXERCICE
 Certificat de qualification professionnelle (CQP) "animateur-soigneur assistant". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Participation à l'encadrement des pratiquants dans le cadre d'une action d'animation en équitation cheval, en équitation
 poney ou en tourisme équestre. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour les mentions "équitation public poney" et "équitation public cheval", sous le contrôle d'un titulaire du brevet d'Etat
 d'éducateur sportif option "équitation" ou du brevet professionnel de la jeunesse, de l'éducation populaire et du sport
@@ -58138,7 +58351,7 @@ CQP "organisateur de randonnées équestres".
 Initiation aux techniques de la randonnée équestre et conduite de promenades et de randonnées équestres en autonomie. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
   </tbody>
 </table>
@@ -58167,12 +58380,12 @@ LIMITES DES CONDITIONS D'EXERCICE
   </tbody>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "guide de véhicules terrestres motorisés à guidon" (guide de VTM à guidon), option "quad".
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de randonnées en véhicules terrestres motorisés à guidon (VTM) pour des publics titulaires d'un
 permis ou d'un brevet délivré par l'Etat permettant la conduite des VTM à guidon utilisés conformément à l'article R. 221-1
@@ -58205,7 +58418,7 @@ Sur des parcours connus et reconnus.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur de tir à l'arc". 
 
@@ -58229,7 +58442,7 @@ Dans les structures de loisirs sportifs, socio-éducatives et de tourisme.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "assistant moniteur de voile". </td>
       <td valign="top" align="left">
@@ -58248,7 +58461,7 @@ A l'exclusion du temps scolaire contraint.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP animateur de savate, option "boxe française". 
 
@@ -58257,7 +58470,7 @@ CQP animateur de savate, option "boxe française".
 
 Encadrement en autonomie de la boxe française auprès de tout public, incluant la mise en œuvre des procédures de passage des
 grades : kangourous, gants bleu, vert, rouge et blanc. </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td>
@@ -58274,7 +58487,7 @@ passage des pommeaux bleu, vert, rouge, blanc et jaune.
       <td>
     </td></tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP animateur de savate, option "savate forme". 
 
@@ -58285,7 +58498,7 @@ Encadrement en autonomie de la savate forme auprès de tout public, incluant la 
 grades : kangourous, gants bleu, vert et rouge. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
     </td></tr>
     <tr>
       <td align="left" valign="top">
@@ -58299,7 +58512,7 @@ Encadrement en autonomie de la savate bâton défense, incluant la mise en œuvr
 kangourous, gants bleu, vert et rouge et savates bâton bleu, vert, rouge, blanc et jaune 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour des publics de plus de 16 ans.
 
@@ -58311,7 +58524,7 @@ Pour des publics de plus de 16 ans.
 CQP "animateur des activités gymniques", mention "activités gymniques acrobatiques". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques acrobatiques, à visée compétitive ou
 non : 
@@ -58329,12 +58542,12 @@ Activité exercée à titre secondaire.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur des activités gymniques", mention "activités d'éveil gymnique pour la petite enfance". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités d'éveil gymnique pour la petite enfance : 
 
@@ -58345,19 +58558,19 @@ Encadrement en autonomie, par la découverte et l'initiation, des activités d'�
 - activités gymniques d'expression avec ou sans support musical. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Activité exercée à titre secondaire. 
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "animateur des activités gymniques", mention "activités gymniques d'expression et d'entretien". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie, par la découverte et l'initiation, des activités gymniques d'expression et d'entretien : 
 
@@ -58372,7 +58585,7 @@ Encadrement en autonomie, par la découverte et l'initiation, des activités gym
 - stretching. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Activité exercée à titre secondaire. 
 
@@ -58402,7 +58615,7 @@ rythmique ;
 CQP "animateur de loisirs sportifs", option "activités gymniques d'entretien et d'expression". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie par la découverte et l'animation des activités gymniques d'entretien et d'expression : 
 
@@ -58440,7 +58653,7 @@ Encadrement en autonomie par la découverte et l'animation des jeux sportifs et 
 - jeux de ballons, petits et grands terrains. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion des pratiques compétitives. 
 
@@ -58485,14 +58698,14 @@ CQP "éducateur de grimpe d'arbres".
 Animation et encadrement en autonomie de la grimpe dans les arbres. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Dans la limite de 8 pratiquants. 
 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "technicien sportif régional de basket-ball". 
 
@@ -58502,7 +58715,7 @@ CQP "technicien sportif régional de basket-ball".
 Entraînement et encadrement en compétition d'équipes évoluant majoritairement aux niveaux régional et départemental. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Activité exercée à titre secondaire ; 
 
@@ -58523,12 +58736,12 @@ A l'exclusion du temps scolaire contraint.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "assistant moniteur char à voile". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Initiation à la pratique du char à voile de loisirs dans le support certifié (char assis/allongé, char debout ou char
 tracté). 
@@ -58548,12 +58761,12 @@ Jusqu'au niveau 3 des niveaux de la Fédération française de char à voile.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "assistant professeur arts martiaux". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie jusqu'au premier niveau de compétition dans la mention considérée (aïkido, aïkibudo, arts martiaux
 chinois internes, arts martiaux chinois externes, arts énergétiques chinois, judo-jujitsu, karaté et disciplines associées,
@@ -58614,7 +58827,7 @@ A l'exclusion du temps scolaire contraint pour le public scolaire.
 CQP "moniteur de roller skating" option "patinage artistique et danse". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". Encadrement en autonomie du patinage artistique et de la danse jusqu'aux premiers
@@ -58630,12 +58843,12 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "moniteur de roller skating" option "course". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". 
@@ -58657,14 +58870,14 @@ Dans tous espaces.
 CQP "moniteur de roller skating", option "rink-hockey". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". Encadrement en autonomie du rink-hockey jusqu'aux premiers niveaux de compétition
 inclus. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de vingt pratiquants par titulaire du CQP. 
 
@@ -58678,7 +58891,7 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 CQP "moniteur de roller skating", option "roller in line hockey". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". Encadrement en autonomie du roller in line hockey jusqu'aux premiers niveaux de
@@ -58699,14 +58912,14 @@ Dans des espaces dédiés : gymnase, plateau sportif, piste de roller et skatepa
 CQP "moniteur de roller skating", option "roller acrobatique". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Initiation aux activités du roller skating dans les options "patinage artistique et danse", "course", "rink-hockey", "roller
 in line hockey", "roller acrobatique". Encadrement en autonomie du roller acrobatique jusqu'aux premiers niveaux de
 compétition inclus. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de vingt pratiquants par titulaire du CQP. 
 
@@ -58758,17 +58971,17 @@ Pour l'encadrement en autonomie du roller randonnée jusqu'aux premiers niveaux 
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "moniteur d'aviron". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie des activités de l'aviron jusqu'aux premiers niveaux de compétition inclus. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de vingt pratiquants. Cette limite est ramenée à dix pour la pratique en embarcations individuelles, sauf dans
 le cas où la zone d'évolution est un périmètre calme, abrité et délimité. 
@@ -58778,7 +58991,7 @@ Sur les eaux intérieures ou maritimes en fonction de l'option du permis plaisan
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "moniteur de rugby à XV". 
 
@@ -58851,13 +59064,13 @@ Encadrement de séances collectives de tennis de table, de l'initiation jusqu'au
 CQP "moniteur de tir sportif". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie du tir sportif à des fins de découverte et d'initiation, pour tout public, jusqu'au premier niveau
 de compétition. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour l'activité de découverte : dans la limite de six pratiquants sur le même pas de tir. 
 
@@ -58883,7 +59096,7 @@ Encadrement en autonomie de séances collectives en badminton, de l'initiation j
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "moniteur de football américain et de flag". 
 
@@ -58916,19 +59129,19 @@ Encadrement en autonomie de séances d'entraînement en cheerleading pour tout p
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en eau vive". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie du canoë-kayak en eau calme et en eau vive pour tout public, sur tout support ou embarcation
 propulsée à la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du
 sport.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 A l'exclusion du raft. 
 
@@ -58937,7 +59150,7 @@ Jusqu'en classe II incluse, avec des passages de classe III non successifs.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "moniteur de canoë-kayak", option "canoë-kayak en eau calme et en mer".
 
@@ -58948,7 +59161,7 @@ Encadrement en autonomie du canoë-kayak en eau calme et en mer pour tout public
 la pagaie dans les conditions techniques et de sécurité définies aux articles A. 322-42 et suivants du code du sport.
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Jusqu'à 1 mille d'un abri. 
 
@@ -58985,7 +59198,7 @@ Encadrement en autonomie du hockey sur glace jusqu'aux premiers niveaux de comp�
 ans.
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 </td>
     </tr>
@@ -59015,20 +59228,20 @@ Dans la limite de vingt pratiquants.
 CQP "animateur d'athlétisme", option "athlé loisirs". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités de découverte, d'initiation et d'entretien pour
 tout public pratiquant l'athlétisme loisirs, dont la marche nordique. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 A l'exclusion des pratiques compétitives
 
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "technicien sportif d'athlétisme", option "sprint/haies". 
 
@@ -59040,7 +59253,7 @@ perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 
 100 m haies, 110 m haies et 400 m haies. 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour des publics de plus de 14 ans. 
 
@@ -59049,18 +59262,18 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "technicien sportif d'athlétisme", option "sauts". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
 perfectionnement jusqu'au niveau national, dans les spécialités de l'option : longueur, hauteur, triple saut et perche. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour des publics de plus de 14 ans. 
 
@@ -59069,18 +59282,18 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP "technicien sportif d'athlétisme", option "lancers". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
 perfectionnement jusqu'au niveau national dans les spécialités de l'option : "disque, poids, marteau et javelot". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Pour des publics de plus de 14 ans. 
 
@@ -59089,7 +59302,7 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "technicien sportif d'athlétisme", option "demi-fond/ marche athlétique". 
 
@@ -59101,7 +59314,7 @@ perfectionnement jusqu'au niveau national, dans les spécialités de l'option : 
 steeple, 5 000 m, 10 000 m, 5 000 m marche, 20 km marche et 50 km marche. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Pour des publics de plus de 14 ans. 
 
@@ -59115,7 +59328,7 @@ Dans la limite de 12 pratiquants.
 CQP "technicien sportif d'athlétisme", option "fond/hors stade". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie de séances collectives et individuelles d'activités d'apprentissage, d'entraînement et de
 perfectionnement jusqu'au niveau national, dans les spécialités de l'option : courses supérieures au 10 000 m piste et
@@ -59131,7 +59344,7 @@ Dans la limite de 12 pratiquants.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP "technicien sportif d'athlétisme", option "épreuves combinées". 
 
@@ -59156,13 +59369,13 @@ Dans la limite de 12 pratiquants.
 CQP moniteur d'escrime, option "fleuret". 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Encadrement en autonomie des activités de l'escrime sportive au fleuret par la découverte et l'initiation, jusqu'au niveau de
 compétition régional. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de 20 pratiquants. 
 
@@ -59171,18 +59384,18 @@ A l'exclusion du temps scolaire contraint.
 </td>
     </tr>
     <tr>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 CQP moniteur d'escrime, option "épée". 
 
 </td>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Encadrement en autonomie des activités de l'escrime sportive à l'épée par la découverte et l'initiation, jusqu'au niveau de
 compétition régional. 
 
 </td>
-      <td valign="top" align="left">
+      <td align="left" valign="top">
 
 Dans la limite de 20 pratiquants. 
 
@@ -59191,7 +59404,7 @@ A l'exclusion du temps scolaire contraint.
 </td>
     </tr>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 CQP moniteur d'escrime, option "sabre". 
 
@@ -59257,7 +59470,7 @@ LIMITES DES CONDITIONS D'EXERCICE
   </thead>
   <tbody>
     <tr>
-      <td align="left" valign="top">
+      <td valign="top" align="left">
 
 Diplôme de masseur-kinésithérapeute. 
 
@@ -59265,7 +59478,7 @@ Diplôme de masseur-kinésithérapeute.
       <td valign="top" align="left">
 
 Encadrement de la pratique de la gymnastique hygiénique d'entretien ou préventive dans les établissements d'activités
-physiques et sportives déclarés. 
+physiques et sportives.
 
 </td>
       <td align="left" valign="top">
@@ -59295,7 +59508,7 @@ vigueur au 17 juillet 2007.
 
 	**Modifié par**:
 
-	  - Arrêté du 18 avril 2016 - art. 1
+	  - Arrêté du 26 mai 2016 - art. 8
 
 
 ###### Article Annexe II-2 (art. A212-2)
@@ -64135,134 +64348,135 @@ prévues au présent arrêté doivent avoir satisfait avec succès à un examen 
 ###### Article Annexe II-12 (art. A212-176)
 
 DÉCLARATION DES PERSONNES DÉSIRANT ENSEIGNER, ANIMER OU ENCADRER UNE OU DES ACTIVITÉS PHYSIQUES OU SPORTIVES OU ENTRAÎNER SES
-PRATIQUANTS CONTRE RÉMUNÉRATION
+PRATIQUANTS CONTRE RÉMUNÉRATION 
 
 A déposer à la direction départementale de la cohésion sociale (ou direction départementale de la cohésion sociale et de la
-protection des populations) du département d'exercice ou de l'exercice principal.
+protection des populations) du département d'exercice ou de l'exercice principal. 
 
-I. - Etat civil.
+I.-Etat civil. 
 
-Nom de naissance :
+Nom de naissance : 
 
-Nom d'usage :
+Nom d'usage : 
 
-Prénom(s) :
+Prénom (s) : 
 
-Date et lieu de naissance :
+Date et lieu de naissance : 
 
-Nationalité :
+Nationalité : 
 
-Pour les personnes nées à l'étranger, noms et prénoms du père et de la mère :
+Pour les personnes nées à l'étranger, noms et prénoms du père et de la mère : 
 
-II. - Coordonnées
+II.-Coordonnées 
 
-Adresse :
+Adresse : 
 
-Téléphone :
+Téléphone : 
 
-Portable :
+Portable : 
 
-Télécopie :
+Télécopie : 
 
-Courriel :
+Courriel : 
 
-III. - Qualification.
+III.-Qualification. 
 
 Pour les titulaires de qualifications françaises (diplômes, titres à finalité professionnelle, certificats de qualification
-professionnelle) :
+professionnelle) : 
 
-Type de qualification :
+Type de qualification : 
 
-Activité, spécialité :
+Activité, spécialité : 
 
-Numéro du diplôme, titre ou certificat :
+Numéro du diplôme, titre ou certificat : 
 
-Date et lieu d'obtention :
+Date et lieu d'obtention : 
 
-Si diplôme soumis à révision, date de la dernière révision :
+Si diplôme soumis à révision, date de la dernière révision : 
 
 Pour les bénéficiaires d'une équivalence de diplôme (diplômes étrangers hors Union européenne et Espace économique
-européen) :
+européen) : 
 
-Indiquer l'intitulé du diplôme français équivalent au diplôme du titulaire (se référer à l'attestation d'équivalence)
+Indiquer l'intitulé du diplôme français équivalent au diplôme du titulaire (se référer à l'attestation d'équivalence) 
 
-Type de qualification :
+Type de qualification : 
 
-Activité, spécialité :
+Activité, spécialité : 
 
-Pour les personnes en formation (préparation d'un diplôme français) :
+Pour les personnes en formation (préparation d'un diplôme français) : 
 
-Intitulé du diplôme préparé :
+Intitulé du diplôme préparé : 
 
-Dates de début et de fin du livret de formation :
+Dates de début et de fin du livret de formation : 
 
-Nom et adresse de l'établissement de stage :
+Nom et adresse de l'établissement de stage : 
 
-Date et fin du stage :
+Date et fin du stage : 
 
-Nom du tuteur de stage :
+Nom du tuteur de stage : 
 
-Pour les bénéficiaires d'une autorisation d'exercice :
+Pour les bénéficiaires d'une autorisation d'exercice : 
 
-Date de la délivrance de l'autorisation d'exercice (date du courrier ministériel) :
+Date de la délivrance de l'autorisation d'exercice (date du courrier ministériel) : 
 
-En application de l'article R. 212-84 du code du sport, les diplômes étrangers sont admis en équivalence par le ministre
-chargé des sports après avis d'une commission.
+En application de l'
+article R. 212-84 du code du sport
+, les diplômes étrangers sont admis en équivalence par le ministre chargé des sports après avis d'une commission. 
 
-Par ailleurs, les personnes titulaires de qualifications soumises à recyclage doivent être à jour de cette obligation.
+Par ailleurs, les personnes titulaires de qualifications soumises à recyclage doivent être à jour de cette obligation. 
 
-IV. - Activités physiques ou sportives encadrées (à ne pas remplir pour les personnes en formation).
+IV.-Activités physiques ou sportives encadrées (à ne pas remplir pour les personnes en formation). 
 
-Pour les salariés :
+Pour les salariés : 
 
-Métier d'éducateur sportif exercé à titre : principal ou secondaire
+Métier d'éducateur sportif exercé à titre : principal ou secondaire 
 
-Nom et adresse de l'établissement d'exercice :
+Nom et adresse de l'établissement d'exercice : 
 
-Activité encadrée :
+Activité encadrée : 
 
-Discipline :
+Discipline : 
 
-Dates de début et de fin d'exercice :
+Dates de début et de fin d'exercice : 
 
 Seules les informations connues au moment de la déclaration doivent être renseignées. Les autres informations devront être
-communiquées à l'administration dès qu'elles seront connues.
+communiquées à l'administration dès qu'elles seront connues. 
 
-Pour les indépendants :
+Pour les indépendants : 
 
-Métier d'éducateur sportif exercé à titre : principal ou secondaire
+Métier d'éducateur sportif exercé à titre : principal ou secondaire 
 
-Dénomination sociale :
+Dénomination sociale : 
 
-Forme juridique :
+Forme juridique : 
 
-Numéro SIRET :
+Numéro SIRET : 
 
-Adresse :
+Adresse : 
 
-Téléphone fixe :
+Téléphone fixe : 
 
-Portable :
+Portable : 
 
-Télécopie :
+Télécopie : 
 
-Courriel :
+Courriel : 
 
-Activité encadrée :
+Activité encadrée : 
 
-Discipline :
+Discipline : 
 
-Lieu d'exercice principal :
+Lieu d'exercice principal : 
 
-Adresse du lieu d'exercice principal :
+Adresse du lieu d'exercice principal : 
 
-Date de début d'exercice :
+Date de début d'exercice : 
 
-Nota. - Doivent être jointes à cette déclaration :
+Nota.-Doivent être jointes à cette déclaration :
 
-- une photographie d'identité ;
+- une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005 ;
 
-- une copie d'une pièce d'identité ;
+- une copie d'une pièce d'identité en cours de validité ;
 
 - une copie de chacun des diplômes, titres ou certificats invoqués et, le cas échéant, de l'attestation de révision en cours
 de validité pour les qualifications soumises à l'obligation de recyclage ;
@@ -64274,41 +64488,41 @@ situation pédagogique et toute pièce justifiant du tutorat (convention de stag
 
 - pour les bénéficiaires d'une autorisation d'exercice, une copie de l'autorisation d'exercice ;
 
-- une déclaration sur l'honneur attestant l'exactitude des informations figurant dans la déclaration.
+- une déclaration sur l'honneur attestant l'exactitude des informations figurant dans la déclaration. 
 
-L'intéressé(e) doit toujours être en mesure de présenter à l'autorité administrative un certificat médical de non-contre-
-indication à la pratique et à l'encadrement des activités physiques ou sportives de moins d'un an. Il doit également être en
-mesure de présenter une pièce d'identité ainsi que les originaux des diplômes, titres à finalité professionnelle et
-certificats de qualification professionnelle attestant de sa qualification.
+Il doit également être en mesure de présenter une pièce d'identité ainsi que les originaux des diplômes, titres à finalité
+professionnelle et certificats de qualification professionnelle attestant de sa qualification. 
 
 Toute personne procédant à cette déclaration fera l'objet d'une demande d'extrait de casier judiciaire (bulletin n° 2) auprès
-du service du casier judiciaire national, conformément à l'article 776 du code de procédure pénale. Le fichier judiciaire
-automatisé des auteurs d'infractions sexuelles (FIJAIS) sera également consulté, conformément à l'article 706-53-7 du même
-code.
+du service du casier judiciaire national, conformément à l'
+article 776 du code de procédure pénale
+. Le fichier judiciaire automatisé des auteurs d'infractions sexuelles (FIJAIS) sera également consulté, conformément à
+l'article 706-53-7 du même code. 
 
-DÉCLARATION SUR L'HONNEUR
+DÉCLARATION SUR L'HONNEUR 
 
-Je soussigné(e), éducateur(trice) sportif(ive) exerçant ou souhaitant exercer (1) les fonctions prévues à l'article L. 212-1
-du code du sport, déclare remplir les conditions fixées par ces dispositions et ne pas avoir fait l'objet d'une condamnation
-m'interdisant l'exercice de ces fonctions, en application de l'article L. 212-9 du même code.
+Je soussigné (e), éducateur (trice) sportif (ive) exerçant ou souhaitant exercer (1) les fonctions prévues à l'
+article L. 212-1 du code du sport
+, déclare remplir les conditions fixées par ces dispositions et ne pas avoir fait l'objet d'une condamnation m'interdisant
+l'exercice de ces fonctions, en application de l'article L. 212-9 du même code. 
 
-J'atteste l'exactitude des informations portées dans la présente déclaration.
+J'atteste l'exactitude des informations portées dans la présente déclaration. 
 
-Date et signature
+Date et signature 
 
-_(1) Rayer la mention inutile.  _
+_(1) Rayer la mention inutile._
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 203
-	  - Code du sport. - art. D212-52
-	  - Code du sport. - art. L212-1
-
 	**Modifié par**:
 
-	  - Arrêté du 23 octobre 2013 - art. 2
+	  - Arrêté du 26 mai 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 776
+	  - Code du sport. - art. L212-1
+	  - Code du sport. - art. R212-84
 
 	**Cité par**:
 
@@ -64360,9 +64574,9 @@ département dans lequel il compte exercer son activité à titre principal.
 
 Documents à joindre à la déclaration 
 
-1. Photographie d'identité. 
+1.   Une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005. 
 
-2. Copie d'une pièce d'identité. 
+2. Une copie d'une pièce d'identité en cours de validité.
 
 3. Certificat médical de non-contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant
 de moins d'un an, traduit, le cas échéant, en français par un traducteur ou un organisme assermentés. 
@@ -64378,7 +64592,7 @@ traducteur ou un organisme assermentés.
 en équivalence dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen qui réglemente l'activité. 
 
-7.L'un des trois documents suivants justifiant d'une connaissance suffisante de la langue française (2) :
+7. L'un des trois documents suivants justifiant d'une connaissance suffisante de la langue française (2) :
 
 - copie d'une attestation de qualification délivrée à l'issue d'une formation assurée en français ;
 
@@ -64405,14 +64619,14 @@ mesure où cela pourrait faciliter la reconnaissance de sa qualification profess
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté du 30 octobre 2009 - art.
-
 	**Cité par**:
 
 	  - Arrêté du 11 avril 2012 - art. 29-2 (V)
 	  - Code du sport. - art. A212-182 (V)
+
+	**Modifié par**:
+
+	  - Arrêté du 26 mai 2016 - art. 10
 
 	**Cite**:
 
@@ -64458,7 +64672,7 @@ Fait à, le
 
 Documents à joindre à la déclaration 
 
-1. Photographie d'identité. 
+1.   Une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005. 
 
 2. Certificat médical de non-contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant
 de moins d'un an. 
@@ -64469,9 +64683,9 @@ département dans lequel il compte exercer son activité à titre principal. (2)
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 30 octobre 2009 - art.
+	  - Arrêté du 26 mai 2016 - art. 11
 
 	**Cité par**:
 
@@ -67998,205 +68212,6 @@ Effectif maximal de spectateurs debout hors tribune et par zone :
 	**Créé par**:
 
 	  - Arrêté du 28 février 2008 - art. (V)
-
-
-###### Article Annexe III-5 (art. A322-2)
-
-DÉCLARATION DES PERSONNES DÉSIRANT EXPLOITER UN ÉTABLISSEMENT
-
-MENTIONNÉ AUX ARTICLES L. 322-1 et L. 322-2 DU CODE DU SPORT
-
-A déposer deux mois avant l'ouverture de l'établissement à la préfecture du siège de celui-ci. A remplir en autant
-d'exemplaires qu'il y a d'établissements exploités par le déclarant.
-
-Partie 1
-
-I. - Etat civil
-
-(pour les personnes physiques)
-
-Nom : 
-
-Prénom : 
-
-Domicile : 
-
-Date et lieu de naissance : 
-
-Nationalité : 
-
-Dénomination de l'établissement : 
-
-II. - Dénomination sociale
-
-(pour les personnes morales)
-
-Dénomination sociale : 
-
-Forme juridique : 
-
-Siège : 
-
-Nom, prénom, date et lieu de naissance, domicile du représentant légal : 
-
-Domicile de l'exploitant : 
-
-III. - Activité
-
-Objet principal de l'école ou de l'établissement déclaré : 
-
-Nature des disciplines enseignées ou pratiquées : 
-
-Lieu d'enseignement ou de pratique de ces disciplines : 
-
-Descriptif sommaire de l'établissement : 
-
-Existence de locaux à sommeil (rayer la mention inutile) :
-
-Oui Non 
-
-Pour chaque personne devant, dans l'établissement, enseigner, animer ou encadrer les activités physiques ou sportives, ou
-entraîner ses pratiquants contre rémunération, à quelque titre que ce soit :
-
-Nom : 
-
-Prénoms : 
-
-Domicile : 
-
-Date et lieu de naissance : 
-
-Qualification (titres, diplômes, autorisation, diplôme préparé pour les personnes en formation) : 
-
-Date et signature 
-
-Nota. - A cette déclaration doivent être jointes : 
-
-a) Pour l'exploitant : 
-
-Cas d'une personne physique : 
-
-- une copie d'une pièce d'identité ; 
-
-- une photographie d'identité ; 
-
-- s'il enseigne, encadre ou anime des activités physiques ou sportives, ou entraîne ses pratiquants contre rémunération : une
-copie de sa déclaration faite en application de l'article R. 212-85 du code du sport. 
-
-Toute personne procédant à cette déclaration fera l'objet d'une demande d'extrait de casier judiciaire (bulletin n° 2) auprès
-du service du casier judiciaire national, comme prévu à l'article A. 212-180 du code du sport et conformément à l'article 203
-de la loi n° 2004-204 du 9 mars 2004.
-
-Partie 2
-
-Déclaration sur l'honneur
-
-Je soussigné, exploitant d'établissement d'activités physiques ou sportives, déclare que mon établissement remplit les
-conditions fixées par le code du sport.
-
-Notamment :
-
-- l'établissement se conforme aux règlements d'hygiène et de sécurité ;
-
-- en un lieu visible de tous et accessible à tous, l'établissement comporte :
-
-- un affichage des cartes professionnelles mentionnées à l'article R. 212-86 du code du sport modifié attestant de la
-qualification et de l'aptitude des personnes employées à l'enseignement, l'animation, l'encadrement, ou l'entraînement,
-contre rémunération, conformément aux dispositions de l'article L. 212-1 du code du sport, ainsi qu'un affichage des
-diplômes, titres, certificats de qualification professionnelle, autorisation ou, pour les personnes en formation, de
-l'attestation de stagiaire justifiant des exigences minimales préalables à la mise en situation pédagogique et de toute pièce
-justifiant du tutorat. Tout affichage de diplômes fédéraux non homologués ou de titres de championnat doit faire l'objet d'un
-affichage bien distinct des diplômes et titres mentionnés à l'article L. 212-1 du code du sport ;
-
-- un affichage des garanties d'hygiène et de sécurité et des normes techniques particulières applicables à l'encadrement des
-activités physiques ou sportives enseignées ;
-
-- un affichage du contrat d'assurance couvrant la responsabilité civile de l'exploitant, de ses préposés et des pratiquants ;
-
-- une trousse de secours pour les premiers soins en cas d'accident ainsi qu'un moyen de communication permettant
-l'intervention rapide des secours ;
-
-- un tableau d'organisation des secours avec les adresses et numéros de téléphone des personnes et organismes susceptibles
-d'intervenir en cas d'urgence.
-
-Je m'engage à informer de tout accident grave survenu dans un établissement.
-
-Je m'engage à déclarer dans les mêmes formes toute modification d'un des éléments mentionnés dans la présente déclaration.
-
-A le 
-
-Signature de l'exploitant
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 26 mai 2016 - art. 12
-
-
-###### Article Annexe III-6 (art. A322-2)
-
-DÉCLARATION EFFECTUÉE PAR LES COLLECTIVITÉS TERRITORIALES DÉSIRANT EXPLOITER UN OU PLUSIEURS ÉTABLISSEMENTS MENTIONNÉS AUX
-ARTICLES L. 322-1 et L. 322-2 DU CODE DU SPORT OU SOUHAITANT EFFECTUER CETTE DÉCLARATION POUR LE COMPTE DE PLUSIEURS
-ORGANISMES UTILISATEURS
-
-Partie 1
-
-Collectivité territoriale
-
-Partie 2
-
-A remplir en autant d'exemplaires qu'il y a d'établissements
-
-pour le compte desquels est effectuée la déclaration
-
-1. Nom ou dénomination sociale de l'exploitant : 
-
-2. Domicile ou siège social de l'exploitant : 
-
-3. Activité :
-
-a) Objet principal de l'école ou de l'établissement déclaré : 
-
-b) Nature des disciplines enseignées ou pratiquées : 
-
-c) Lieux d'enseignement ou de pratique de ces disciplines : 
-
-4. Pour chaque personne devant, dans l'établissement, enseigner, encadrer ou animer les activités physiques ou sportives, ou
-entraîner ses pratiquants, contre rémunération, à quelque titre que ce soit :
-
-Nom : 
-
-Prénoms : 
-
-Domicile : 
-
-Date et lieu de naissance : 
-
-Qualification : 
-
-Date et signature
-
-**Nota:**
-
-Il appartient aux exploitants pour le compte desquels la déclaration est effectuée de transmettre à la direction
-départementale de la jeunesse et des sports, pour chacune des personnes devant, dans l'établissement, enseigner, animer ou
-encadrer les activités physiques ou sportives, ou entraîner ses pratiquants, contre rémunération, une copie de la déclaration
-prévue à l'article R. 212-85 du code du sport.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 26 mai 2016 - art. 12
 
 
 ###### Article Annexe III-7 (art. A322-4)

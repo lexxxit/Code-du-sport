@@ -33,7 +33,7 @@ Fait à, le
 
 Documents à joindre à la déclaration 
 
-1. Photographie d'identité. 
+1.   Une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005. 
 
 2. Certificat médical de non-contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant
 de moins d'un an. 
@@ -44,9 +44,9 @@ département dans lequel il compte exercer son activité à titre principal. (2)
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 30 octobre 2009 - art.
+	  - Arrêté du 26 mai 2016 - art. 11
 
 	**Cité par**:
 

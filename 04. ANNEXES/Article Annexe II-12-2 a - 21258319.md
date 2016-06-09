@@ -42,9 +42,9 @@ département dans lequel il compte exercer son activité à titre principal.
 
 Documents à joindre à la déclaration 
 
-1. Photographie d'identité. 
+1.   Une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005. 
 
-2. Copie d'une pièce d'identité. 
+2. Une copie d'une pièce d'identité en cours de validité.
 
 3. Certificat médical de non-contre-indication à la pratique et à l'encadrement des activités physiques ou sportives datant
 de moins d'un an, traduit, le cas échéant, en français par un traducteur ou un organisme assermentés. 
@@ -60,7 +60,7 @@ traducteur ou un organisme assermentés.
 en équivalence dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace
 économique européen qui réglemente l'activité. 
 
-7.L'un des trois documents suivants justifiant d'une connaissance suffisante de la langue française (2) :
+7. L'un des trois documents suivants justifiant d'une connaissance suffisante de la langue française (2) :
 
 - copie d'une attestation de qualification délivrée à l'issue d'une formation assurée en français ;
 
@@ -87,14 +87,14 @@ mesure où cela pourrait faciliter la reconnaissance de sa qualification profess
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté du 30 octobre 2009 - art.
-
 	**Cité par**:
 
 	  - Arrêté du 11 avril 2012 - art. 29-2 (V)
 	  - Code du sport. - art. A212-182 (V)
+
+	**Modifié par**:
+
+	  - Arrêté du 26 mai 2016 - art. 10
 
 	**Cite**:
 

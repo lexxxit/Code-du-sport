@@ -1,134 +1,135 @@
 # Article Annexe II-12 (art. A212-176)
 
 DÉCLARATION DES PERSONNES DÉSIRANT ENSEIGNER, ANIMER OU ENCADRER UNE OU DES ACTIVITÉS PHYSIQUES OU SPORTIVES OU ENTRAÎNER SES
-PRATIQUANTS CONTRE RÉMUNÉRATION
+PRATIQUANTS CONTRE RÉMUNÉRATION 
 
 A déposer à la direction départementale de la cohésion sociale (ou direction départementale de la cohésion sociale et de la
-protection des populations) du département d'exercice ou de l'exercice principal.
+protection des populations) du département d'exercice ou de l'exercice principal. 
 
-I. - Etat civil.
+I.-Etat civil. 
 
-Nom de naissance :
+Nom de naissance : 
 
-Nom d'usage :
+Nom d'usage : 
 
-Prénom(s) :
+Prénom (s) : 
 
-Date et lieu de naissance :
+Date et lieu de naissance : 
 
-Nationalité :
+Nationalité : 
 
-Pour les personnes nées à l'étranger, noms et prénoms du père et de la mère :
+Pour les personnes nées à l'étranger, noms et prénoms du père et de la mère : 
 
-II. - Coordonnées
+II.-Coordonnées 
 
-Adresse :
+Adresse : 
 
-Téléphone :
+Téléphone : 
 
-Portable :
+Portable : 
 
-Télécopie :
+Télécopie : 
 
-Courriel :
+Courriel : 
 
-III. - Qualification.
+III.-Qualification. 
 
 Pour les titulaires de qualifications françaises (diplômes, titres à finalité professionnelle, certificats de qualification
-professionnelle) :
+professionnelle) : 
 
-Type de qualification :
+Type de qualification : 
 
-Activité, spécialité :
+Activité, spécialité : 
 
-Numéro du diplôme, titre ou certificat :
+Numéro du diplôme, titre ou certificat : 
 
-Date et lieu d'obtention :
+Date et lieu d'obtention : 
 
-Si diplôme soumis à révision, date de la dernière révision :
+Si diplôme soumis à révision, date de la dernière révision : 
 
 Pour les bénéficiaires d'une équivalence de diplôme (diplômes étrangers hors Union européenne et Espace économique
-européen) :
+européen) : 
 
-Indiquer l'intitulé du diplôme français équivalent au diplôme du titulaire (se référer à l'attestation d'équivalence)
+Indiquer l'intitulé du diplôme français équivalent au diplôme du titulaire (se référer à l'attestation d'équivalence) 
 
-Type de qualification :
+Type de qualification : 
 
-Activité, spécialité :
+Activité, spécialité : 
 
-Pour les personnes en formation (préparation d'un diplôme français) :
+Pour les personnes en formation (préparation d'un diplôme français) : 
 
-Intitulé du diplôme préparé :
+Intitulé du diplôme préparé : 
 
-Dates de début et de fin du livret de formation :
+Dates de début et de fin du livret de formation : 
 
-Nom et adresse de l'établissement de stage :
+Nom et adresse de l'établissement de stage : 
 
-Date et fin du stage :
+Date et fin du stage : 
 
-Nom du tuteur de stage :
+Nom du tuteur de stage : 
 
-Pour les bénéficiaires d'une autorisation d'exercice :
+Pour les bénéficiaires d'une autorisation d'exercice : 
 
-Date de la délivrance de l'autorisation d'exercice (date du courrier ministériel) :
+Date de la délivrance de l'autorisation d'exercice (date du courrier ministériel) : 
 
-En application de l'article R. 212-84 du code du sport, les diplômes étrangers sont admis en équivalence par le ministre
-chargé des sports après avis d'une commission.
+En application de l'
+article R. 212-84 du code du sport
+, les diplômes étrangers sont admis en équivalence par le ministre chargé des sports après avis d'une commission. 
 
-Par ailleurs, les personnes titulaires de qualifications soumises à recyclage doivent être à jour de cette obligation.
+Par ailleurs, les personnes titulaires de qualifications soumises à recyclage doivent être à jour de cette obligation. 
 
-IV. - Activités physiques ou sportives encadrées (à ne pas remplir pour les personnes en formation).
+IV.-Activités physiques ou sportives encadrées (à ne pas remplir pour les personnes en formation). 
 
-Pour les salariés :
+Pour les salariés : 
 
-Métier d'éducateur sportif exercé à titre : principal ou secondaire
+Métier d'éducateur sportif exercé à titre : principal ou secondaire 
 
-Nom et adresse de l'établissement d'exercice :
+Nom et adresse de l'établissement d'exercice : 
 
-Activité encadrée :
+Activité encadrée : 
 
-Discipline :
+Discipline : 
 
-Dates de début et de fin d'exercice :
+Dates de début et de fin d'exercice : 
 
 Seules les informations connues au moment de la déclaration doivent être renseignées. Les autres informations devront être
-communiquées à l'administration dès qu'elles seront connues.
+communiquées à l'administration dès qu'elles seront connues. 
 
-Pour les indépendants :
+Pour les indépendants : 
 
-Métier d'éducateur sportif exercé à titre : principal ou secondaire
+Métier d'éducateur sportif exercé à titre : principal ou secondaire 
 
-Dénomination sociale :
+Dénomination sociale : 
 
-Forme juridique :
+Forme juridique : 
 
-Numéro SIRET :
+Numéro SIRET : 
 
-Adresse :
+Adresse : 
 
-Téléphone fixe :
+Téléphone fixe : 
 
-Portable :
+Portable : 
 
-Télécopie :
+Télécopie : 
 
-Courriel :
+Courriel : 
 
-Activité encadrée :
+Activité encadrée : 
 
-Discipline :
+Discipline : 
 
-Lieu d'exercice principal :
+Lieu d'exercice principal : 
 
-Adresse du lieu d'exercice principal :
+Adresse du lieu d'exercice principal : 
 
-Date de début d'exercice :
+Date de début d'exercice : 
 
-Nota. - Doivent être jointes à cette déclaration :
+Nota.-Doivent être jointes à cette déclaration :
 
-- une photographie d'identité ;
+- une photographie d'identité conforme aux spécifications de la norme ISO/IEC 19794-5:2005 ;
 
-- une copie d'une pièce d'identité ;
+- une copie d'une pièce d'identité en cours de validité ;
 
 - une copie de chacun des diplômes, titres ou certificats invoqués et, le cas échéant, de l'attestation de révision en cours
 de validité pour les qualifications soumises à l'obligation de recyclage ;
@@ -140,41 +141,41 @@ situation pédagogique et toute pièce justifiant du tutorat (convention de stag
 
 - pour les bénéficiaires d'une autorisation d'exercice, une copie de l'autorisation d'exercice ;
 
-- une déclaration sur l'honneur attestant l'exactitude des informations figurant dans la déclaration.
+- une déclaration sur l'honneur attestant l'exactitude des informations figurant dans la déclaration. 
 
-L'intéressé(e) doit toujours être en mesure de présenter à l'autorité administrative un certificat médical de non-contre-
-indication à la pratique et à l'encadrement des activités physiques ou sportives de moins d'un an. Il doit également être en
-mesure de présenter une pièce d'identité ainsi que les originaux des diplômes, titres à finalité professionnelle et
-certificats de qualification professionnelle attestant de sa qualification.
+Il doit également être en mesure de présenter une pièce d'identité ainsi que les originaux des diplômes, titres à finalité
+professionnelle et certificats de qualification professionnelle attestant de sa qualification. 
 
 Toute personne procédant à cette déclaration fera l'objet d'une demande d'extrait de casier judiciaire (bulletin n° 2) auprès
-du service du casier judiciaire national, conformément à l'article 776 du code de procédure pénale. Le fichier judiciaire
-automatisé des auteurs d'infractions sexuelles (FIJAIS) sera également consulté, conformément à l'article 706-53-7 du même
-code.
+du service du casier judiciaire national, conformément à l'
+article 776 du code de procédure pénale
+. Le fichier judiciaire automatisé des auteurs d'infractions sexuelles (FIJAIS) sera également consulté, conformément à
+l'article 706-53-7 du même code. 
 
-DÉCLARATION SUR L'HONNEUR
+DÉCLARATION SUR L'HONNEUR 
 
-Je soussigné(e), éducateur(trice) sportif(ive) exerçant ou souhaitant exercer (1) les fonctions prévues à l'article L. 212-1
-du code du sport, déclare remplir les conditions fixées par ces dispositions et ne pas avoir fait l'objet d'une condamnation
-m'interdisant l'exercice de ces fonctions, en application de l'article L. 212-9 du même code.
+Je soussigné (e), éducateur (trice) sportif (ive) exerçant ou souhaitant exercer (1) les fonctions prévues à l'
+article L. 212-1 du code du sport
+, déclare remplir les conditions fixées par ces dispositions et ne pas avoir fait l'objet d'une condamnation m'interdisant
+l'exercice de ces fonctions, en application de l'article L. 212-9 du même code. 
 
-J'atteste l'exactitude des informations portées dans la présente déclaration.
+J'atteste l'exactitude des informations portées dans la présente déclaration. 
 
-Date et signature
+Date et signature 
 
-_(1) Rayer la mention inutile.  _
+_(1) Rayer la mention inutile._
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Loi n°2004-204 du 9 mars 2004 - art. 203
-	  - Code du sport. - art. D212-52
-	  - Code du sport. - art. L212-1
-
 	**Modifié par**:
 
-	  - Arrêté du 23 octobre 2013 - art. 2
+	  - Arrêté du 26 mai 2016 - art. 9
+
+	**Cite**:
+
+	  - Code de procédure pénale - art. 776
+	  - Code du sport. - art. L212-1
+	  - Code du sport. - art. R212-84
 
 	**Cité par**:
 
