@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-06-23
+Version Consolidée au 2016-06-26
 
 # Partie législative
 
@@ -45486,127 +45486,43 @@ ne peut excéder le pourcentage ainsi fixé.
 
 ####  Chapitre Ier : Suivi médical des sportifs
 
-##### Section 1 : Examen médical approfondi pour la délivrance  de la première licence dans certaines disciplines sportives
+##### Section 2 : Sportifs inscrits sur liste
 
-###### Article A231-1
-
-En application de l'article L. 231-2, la liste des disciplines sportives nécessitant un examen médical approfondi et
-spécifique en vue d'obtenir la délivrance d'une première licence sportive est fixée ainsi qu'il suit : 
-
-1° Sports de combat pour lesquels la mise « hors de combat » est autorisée ; 
-
-2° Alpinisme de pointe ; 
-
-3° Sports utilisant des armes à feu ; 
-
-4° Sports mécaniques ; 
-
-5° Sports aériens, à l'exception de l'aéromodélisme ; 
-
-6° Sports sous-marins. 
-
-Cet examen donne lieu à un certificat médical attestant l'absence de contre-indication à la pratique des activités physiques
-et sportives.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 13 juin 2016 - art. 2
-
-	**Cité par**:
-
-	  - Code du sport. - art. A231-2 (Ab)
-
-	**Cite**:
-
-	  - Code du sport. - art. L231-2
-
-
-###### Article A231-2
-
-Les qualifications reconnues par l'ordre ainsi que les diplômes nationaux ou d'université que doivent posséder les médecins
-amenés à réaliser les examens dans les disciplines prévues à l'article A. 231-1 sont précisés par le règlement préparé par la
-commission médicale de chaque fédération sportive concernée, adopté par le comité directeur de la fédération ou, le cas
-échéant, par le conseil fédéral et approuvé par le ministre chargé des sports.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 13 juin 2016 - art. 2
-
-	**Cite**:
-
-	  - Code du sport. - art. A231-1 (Ab)
-
-
-##### Section 2 : Sportifs de haut niveau
+##### Sous-section 1 : Sportifs de haut niveau
 
 ###### Article A231-3
 
-Pour être inscrits sur la liste des sportifs de haut niveau ou sur la liste des sportifs Espoirs prévues aux articles R.
-221-2 et R. 221-11, les sportifs doivent effectuer les examens suivants : 
+Dans les deux mois qui suivent la première inscription sur la liste des sportifs de haut niveau et annuellement pour les
+inscriptions suivantes, les sportifs de haut niveau doivent se soumettre à : 
 
-1° Un examen médical réalisé, selon les recommandations de la Société française de médecine du sport et des autres sociétés
-savantes concernées, par un médecin diplômé en médecine du sport ; 
+1° Un examen médical réalisé par un médecin du sport comprenant : 
 
-2° Une recherche par bandelette urinaire de protéinurie, glycosurie, hématurie, nitrites ; 
+a) Un examen clinique avec interrogatoire et examen physique selon les recommandations de la Société française de médecine de
+l'exercice et du sport ; 
 
-3° Un électrocardiogramme standardisé de repos avec compte rendu médical ; 
+b) Un bilan diététique et des conseils nutritionnels ; 
 
-4° Une échocardiographie transthoracique de repos avec compte rendu médical ; 
+c) Un bilan psychologique visant à dépister des difficultés psychopathologiques pouvant être liées à la pratique sportive
+intensive ; 
 
-5° Une épreuve d'effort d'intensité maximale (couplée, le cas échéant, à la mesure des échanges gazeux et à des épreuves
-fonctionnelles respiratoires) réalisée par un médecin, selon des modalités en accord avec les données scientifiques
-actuelles, en l'absence d'anomalie apparente à l'examen clinique cardio-vasculaire de repos et aux deux examens précédents.
-Cette épreuve d'effort vise à dépister d'éventuelles anomalies ou inadaptations survenant à l'effort, lesquelles imposeraient
-alors un avis spécialisé. 
+d) La recherche indirecte d'un état de surentraînement via un questionnaire élaboré selon les recommandations de la Société
+française de médecine de l'exercice et du sport ; 
 
-Chez les sportifs licenciés ayant un handicap physique ou mental ne permettant pas la réalisation de cette épreuve d'effort
-dans des conditions habituelles, une adaptation méthodologique est à prévoir ; 
+2° Un électrocardiogramme de repos. 
 
-6° Un examen dentaire certifié par un spécialiste ; 
-
-7° Un examen par imagerie par résonance magnétique du rachis cervical, dans le but de dépister un canal cervical étroit, pour
-les disciplines suivantes : 
-
-― football américain ; 
-
-― plongeon de haut vol ; 
-
-― rugby à XV (uniquement pour les postes de première ligne à partir de 16 ans) ; 
-
-― rugby à XIII (uniquement pour les postes de première ligne). 
-
-Une information des sportifs est à prévoir lors de l'examen médical quant au risque de développer ou d'aggraver (si
-préexistant) : 
-
-― un canal cervical étroit lors de la pratique des disciplines citées au 7° ; 
-
-― des pathologies du rachis lombaire, notamment une lyse isthmique avec ou sans spondylolisthésis lors de la pratique de
-certaines disciplines. 
-
-Les examens ci-dessus doivent être réalisés dans les six mois qui précèdent la première inscription sur la liste des sportifs
-de haut niveau ou sur la liste des sportifs Espoirs.
+A la demande du médecin du sport et sous sa responsabilité, les bilans psychologique et diététique mentionnés au 1° peuvent
+être effectués respectivement par un psychologue clinicien ou un diététicien.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 18 juillet 2008 - art. 4
+	  - Arrêté du 13 juin 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. A231-4 (M)
+	  - Code du sport. - art. A231-5 (Ab)
 
 	**Cite**:
 
@@ -45614,188 +45530,34 @@ de haut niveau ou sur la liste des sportifs Espoirs.
 	  - Code du sport. - art. R221-2
 
 
+##### Sous-section 2 : Sportifs Espoirs et des collectifs nationaux
+
 ###### Article A231-4
 
-Le contenu des examens permettant la surveillance médicale des sportifs visés à l'article L. 231-6 du code du sport
-comprend : 
+Le contenu et la mise en œuvre de la surveillance médicale des sportifs Espoirs et des sportifs des collectifs nationaux
+mentionnés à l'article L. 221-2 doivent tenir compte : 
 
-1° Deux fois par an : 
+1° De l'âge du sportif ; 
 
-Un examen médical réalisé par un médecin diplômé en médecine du sport comprenant : 
+2° De la charge d'entraînement du sportif ; 
 
-― un entretien ; 
+3° Des contraintes physiques spécifiques de la discipline sportive ; 
 
-― un examen physique ; 
-
-― des mesures anthropométriques ; 
-
-― un bilan diététique, des conseils nutritionnels, aidés si besoin par des avis spécialisés coordonnés par le médecin selon
-les règles de la profession ; 
-
-― une recherche par bandelette urinaire de protéinurie, glycosurie, hématurie, nitrites ; 
-
-2° Une fois par an : 
-
-a) Un examen dentaire certifié par un spécialiste ; 
-
-b) Un examen électrocardiographique standardisé de repos avec compte rendu médical ; 
-
-c) Un examen biologique pour les sportifs de plus de 15 ans mais avec autorisation parentale pour les mineurs, comprenant : 
-
-― numération-formule sanguine ; 
-
-― réticulocytes ; 
-
-― ferritine ; 
-
-3° Deux fois par an chez les sportifs mineurs et une fois par an chez les sportifs majeurs, un bilan psychologique est
-réalisé, lors d'un entretien spécifique, par un médecin ou par un psychologue sous responsabilité médicale. 
-
-Ce bilan psychologique vise à : 
-
-― détecter des difficultés psychopathologiques et des facteurs personnels et familiaux de vulnérabilité ou de protection ; 
-
-― prévenir des difficultés liées à l'activité sportive intensive ; 
-
-― orienter vers une prise en charge adaptée si besoin ; 
-
-4° Une fois tous les quatre ans, une épreuve d'effort maximale telle que précisée à l'article A. 231-3 ; 
-
-5° Les candidats à l'inscription sur la liste des sportifs de haut niveau ou sur la liste des sportifs Espoirs qui ont
-bénéficié de l'échocardiographie alors qu'ils étaient âgés de moins de 15 ans, doivent renouveler cet examen entre 18 et 20
-ans.
+4° De la morbidité et des risques inhérents à la pratique de la discipline sportive.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A231-3 (V)
-	  - Code du sport. - art. L231-6 (V)
-
-
-###### Article A231-5
-
-Les examens prévus une fois par an à l'article A. 231-4 ne seront pas réalisés une nouvelle fois chez un même sportif s'ils
-ont déjà été effectués, la même année, lors du bilan médical prévu à l'article A. 231-3.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Arrêté du 13 juin 2016 - art. 1
 
-	**Cite**:
+	**Cité par**:
 
-	  - Code du sport. - art. A231-3 (V)
-	  - Code du sport. - art. A231-4 (V)
-
-
-###### Article A231-6
-
-Selon les disciplines, les sportifs visés à l'article L. 231-6 sont soumis aux examens suivants : 
-
-1° Un examen ophtalmologique annuel effectué par un spécialiste pour les disciplines suivantes : 
-
-a) Sports mécaniques ; 
-
-b) Sports aériens (sauf aéromodélisme) ; 
-
-c) Disciplines alpines (ski alpin et acrobatique, snowboard) et ski-alpinisme ; 
-
-d) Sports de combats (pieds-poings). 
-
-2° Un examen ORL annuel effectué par un spécialiste pour les disciplines suivantes : 
-
-a) Sports aériens (sauf aéromodélisme) ; 
-
-b) Sports sous-marins. 
-
-3° Un examen biologique, trois fois par an, comprenant : numération-formule sanguine, réticulocytes, ferritine pour les
-disciplines suivantes : 
-
-― athlétisme (courses uniquement) ; 
-
-― aviron ; 
-
-― biathlon ; 
-
-― course d'orientation ; 
-
-― cyclisme ; 
-
-― natation ; 
-
-― pentathlon moderne ; 
-
-― roller skating ; 
-
-― ski de fond ; 
-
-― triathlon.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 13 juin 2016 - art. 1
+	  - Code du sport. - art. A231-5 (Ab)
 
 	**Cite**:
 
-	  - Code du sport. - art. L231-6
-
-
-###### Article A231-7
-
-La réalisation des examens radiologiques prévus à l'article A. 231-6 s'effectue dans les conditions prévues par les articles
-R. 1333-55 à R. 1333-74 du code de la santé publique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 13 juin 2016 - art. 1
-
-	**Cite**:
-
-	  - Code de la santé publique - art. R1333-55
-
-
-###### Article A231-8
-
-Dans le but de prévenir les risques sanitaires liés à la pratique sportive intensive, notamment d'origine iatrogène ou liés à
-des conduites dopantes, d'autres examens complémentaires (notamment biologiques), définis dans le cadre des conventions
-d'objectifs signées avec le ministère des sports, peuvent être effectués par les fédérations sportives mentionnées à
-l'article L. 231-6.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Abrogé par**:
-
-	  - Arrêté du 13 juin 2016 - art. 1
-
-	**Cite**:
-
-	  - Code du sport. - art. L231-6
+	  - Code du sport. - art. L221-2 (V)
 
 
 ##  LIVRE III : PRATIQUE SPORTIVE
