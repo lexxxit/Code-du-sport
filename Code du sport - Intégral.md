@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-08-04
+Version Consolidée au 2016-08-10
 
 # Partie législative
 
@@ -27111,6 +27111,82 @@ programme de travail arrêté.
 	**Cite**:
 
 	  - Code des relations entre le public et l'administration
+
+
+##### Section 2 : Relations entre les associations et sociétés sportives et leurs supporters
+
+###### Article D224-5
+
+Les associations sportives ou sociétés sportives qui participent aux compétitions organisées par une ligue professionnelle
+désignent, en application de l'article L. 224-3, une ou plusieurs personnes référentes, ayant la qualité de bénévole ou de
+salarié, chargées des relations avec leurs supporters. 
+
+Elles informent la ligue professionnelle concernée de la ou des personnes référentes désignées. 
+
+Toute personne référente chargée des relations avec les supporters ne peut être membre de la ou des associations de
+supporters qui soutiennent l'association ou la société sportive qui l'a désignée, ni en charge des missions de sécurité des
+manifestations et compétitions sportives au sein ou pour le compte de cette association ou société sportive.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-957 du 12 juillet 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L224-3
+
+
+###### Article D224-6
+
+Toute personne référente chargée des relations avec les supporters est désignée par l'association ou, le cas échéant, la
+société sportive après que cette dernière a sollicité, à titre indicatif, l'avis des associations de supporters agréées par
+le ministre chargé des sports qui la soutiennent, par lettre recommandée avec demande d'avis de réception. 
+
+Ces associations de supporters disposent d'un délai de quinze jours à partir de la date de première présentation de la lettre
+recommandée pour formuler leur avis. En l'absence d'avis dans ce délai, l'association sportive ou la société sportive peut
+procéder à la désignation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-957 du 12 juillet 2016 - art. 1
+
+
+###### Article D224-7
+
+La personne référente chargée des relations avec les supporters assure le dialogue entre tous les supporters et les
+associations de supporters qui soutiennent l'association ou la société sportive. 
+
+Elle conseille et informe les dirigeants de l'association ou de la société sportive sur toutes questions ou demandes
+concernant les supporters ou les associations de supporters. 
+
+Elle assure également le dialogue avec les personnes référentes des autres associations ou sociétés sportives de la ligue
+professionnelle concernée et avec le représentant de l'Etat dans le département et, à Paris, le préfet de police, dans le
+cadre de la préparation des manifestations et compétitions sportives. 
+
+Elle assure, le cas échéant, la médiation entre les supporters, les associations de supporters, l'association ou la société
+sportive en cas de conflit les opposant.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-957 du 12 juillet 2016 - art. 1
+
+
+###### Article D224-8
+
+L'association ou la société sportive, en lien avec les ligues professionnelles, s'assure que la personne référente chargée
+des relations avec les supporters suit périodiquement une formation de "référent des supporters".
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-957 du 12 juillet 2016 - art. 1
 
 
 ##### Section 3 : Agrément des associations de supporters
