@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-08-13
+Version Consolidée au 2016-08-27
 
 # Partie législative
 
@@ -9377,6 +9377,30 @@ exposer.
 	**Cité par**:
 
 	  - Code du sport. - art. L321-4-1 (V)
+
+
+###### Article L321-4-1
+
+Les fédérations sportives délégataires souscrivent des contrats d'assurance de personnes au bénéfice de leurs licenciés
+inscrits sur la liste des sportifs de haut niveau mentionnée au premier alinéa de l'article L. 221-2, couvrant les dommages
+corporels auxquels leur pratique sportive de haut niveau peut les exposer. 
+
+Ces contrats ne peuvent être conclus qu'après appel à la concurrence. 
+
+La souscription des contrats d'assurance de personnes dispense les fédérations sportives délégataires, à l'égard de leurs
+licenciés inscrits sur la liste des sportifs de haut niveau précitée, de leur obligation d'information prévue à l'article L.
+321-4.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2015-1541 du 27 novembre 2015 - art. 12
+
+	**Cite**:
+
+	  - Code du sport. - art. L221-2 (V)
+	  - Code du sport. - art. L321-4 (V)
 
 
 ###### Article L321-5
