@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-08-27
+Version Consolidée au 2016-09-01
 
 # Partie législative
 
@@ -22584,19 +22584,26 @@ domaines d'activités physiques, sportives, socio-éducatives ou culturelles.
 
 ###### Article D212-21
 
-Le diplôme du brevet professionnel est délivré au titre d'une spécialité, disciplinaire, pluridisciplinaire ou liée à un
-champ particulier. Dans le cas d'une spécialité pluridisciplinaire, il peut être délivré au titre d'une mention. 
+Le brevet professionnel est délivré au titre de la spécialité "animateur" ou de la spécialité "éducateur sportif" et d'une
+mention disciplinaire, pluridisciplinaire ou liée à un champ particulier. Dans le cas d'une mention pluridisciplinaire, il
+peut être délivré au titre d'une option. 
 
-Chaque spécialité est créée après avis de la commission professionnelle consultative des métiers du sport et de
-l'animation : 
+Chaque mention est créée après avis de la commission professionnelle consultative des métiers du sport et de l'animation : 
 
 - soit par un arrêté du ministre chargé des sports ; 
 
 - soit par un arrêté des ministres chargés de la jeunesse et des sports ; 
 
-- soit dans le cas de création commune d'une spécialité, par un arrêté des ministres intéressés. 
+- soit dans le cas de la création commune d'une mention, par un arrêté des ministres intéressés. 
 
-Ces arrêtés définissent le référentiel professionnel et le référentiel de certification.
+Ces arrêtés définissent le référentiel professionnel et le référentiel de certification. Ils peuvent fixer des mesures
+d'équivalence ou de dispense.
+
+**Nota:**
+
+Décret n° 2016-527 du 27 avril 2016, aarticle 8 II : Les dispositions du présent article, dans leur rédaction issue du décret
+n° 2016-527 du 27 avril 2016 ne sont pas applicables aux spécialités du brevet professionnel de la jeunesse, de l'éducation
+populaire et du sport existantes avant son entrée en vigueur
 
 **Liens relatifs à cet article**
 
@@ -22607,10 +22614,6 @@ Ces arrêtés définissent le référentiel professionnel et le référentiel de
 	**Codifié par**:
 
 	  - Décret n°2007-1133 du 24 juillet 2007
-
-	**Modifié par**:
-
-	  - Décret n°2012-165 du 1er février 2012 - art. 1
 
 	**Cité par**:
 
@@ -22629,6 +22632,10 @@ Ces arrêtés définissent le référentiel professionnel et le référentiel de
 	  - Arrêté du 6 mars 2017 - art. 5 (V)
 	  - Code du sport. - art. D212-27 (V)
 	  - Code du sport. - art. D212-34 (VT)
+
+	**Modifié par**:
+
+	  - Décret n°2016-527 du 27 avril 2016 - art. 1
 
 
 ###### Article D212-22
@@ -22702,20 +22709,25 @@ fiche descriptive d'activités.
 
 ###### Article D212-23
 
-Le référentiel de certification est composé de l'ensemble des unités constitutives du diplôme. Le référentiel de
-certification fixe pour chaque unité les compétences professionnelles, l'objectif terminal d'intégration, les objectifs
-intermédiaires des premier et second rangs ainsi que les modalités de l'évaluation certificative.
+Le référentiel de certification est composé de l'ensemble des unités constitutives du diplôme. Il fixe pour chaque unité les
+compétences professionnelles, les objectifs intermédiaires de premier rang ainsi que les épreuves certificatives de ces
+objectifs.
+
+**Nota:**
+
+Décret n° 2016-527 du 27 avril 2016, aarticle 8 II : Les dispositions du présent article, dans leur rédaction issue du décret
+n° 2016-527 du 27 avril 2016 ne sont pas applicables aux spécialités du brevet professionnel de la jeunesse, de l'éducation
+populaire et du sport existantes avant son entrée en vigueur
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°2001-792 du 31 août 2001 - art. 4 (Ab)
-	  - Art. 4 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
 
 	**Cité par**:
 
@@ -22741,6 +22753,10 @@ intermédiaires des premier et second rangs ainsi que les modalités de l'évalu
 	  - Arrêté du 27 février 2017 - art. 4 (VD)
 	  - Arrêté du 6 mars 2017 - art. 3 (V)
 
+	**Modifié par**:
+
+	  - Décret n°2016-527 du 27 avril 2016 - art. 2
+
 
 ###### Article D212-24
 
@@ -22748,22 +22764,29 @@ Le diplôme du brevet professionnel est délivré :
 
 1° Soit par la voie d'unités capitalisables ;
 
-2° Soit par la validation d'acquis de l'expérience ;
-
-3° Soit par un examen composé d'épreuves ponctuelles.
+2° Soit par la validation d'acquis de l'expérience.
 
 Ces modalités peuvent être cumulées.
+
+**Nota:**
+
+Décret n° 2016-527 du 27 avril 2016, aarticle 8 II : Les dispositions du présent article, dans leur rédaction issue du décret
+n° 2016-527 du 27 avril 2016 ne sont pas applicables aux spécialités du brevet professionnel de la jeunesse, de l'éducation
+populaire et du sport existantes avant son entrée en vigueur
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 5 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
 	  - Décret n°2001-792 du 31 août 2001 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-527 du 27 avril 2016 - art. 3
 
 	**Cité par**:
 
@@ -22772,13 +22795,18 @@ Ces modalités peuvent être cumulées.
 
 ###### Article D212-25
 
-Le diplôme du brevet professionnel est obtenu par capitalisation de dix unités, dont : 
+Le brevet professionnel est obtenu par capitalisation de quatre unités définies par arrêté du ministre chargé de la jeunesse
+et des sports, dont : 
 
-- quatre sont transversales ; 
+- deux sont transversales quelle que soit la spécialité ; 
 
-- cinq sont spécifiques à la spécialité, dont trois au maximum à une éventuelle mention ; 
+- deux sont spécifiques à la mention, l'une d'entre elles étant spécifique à une éventuelle option.
 
-- et une d'adaptation.
+**Nota:**
+
+Décret n° 2016-527 du 27 avril 2016, aarticle 8 II : Les dispositions du présent article, dans leur rédaction issue du décret
+n° 2016-527 du 27 avril 2016 ne sont pas applicables aux spécialités du brevet professionnel de la jeunesse, de l'éducation
+populaire et du sport existantes avant son entrée en vigueur
 
 **Liens relatifs à cet article**
 
@@ -22790,10 +22818,6 @@ Le diplôme du brevet professionnel est obtenu par capitalisation de dix unités
 
 	  - Décret n°2007-1133 du 24 juillet 2007
 
-	**Modifié par**:
-
-	  - Décret n°2012-165 du 1er février 2012 - art. 3
-
 	**Cité par**:
 
 	  - Arrêté du 27 avril 2016 - art. 3 (V)
@@ -22801,27 +22825,36 @@ Le diplôme du brevet professionnel est obtenu par capitalisation de dix unités
 	  - Code du sport. - art. A212-47 (VD)
 	  - Code du sport. - art. D212-28 (VD)
 
+	**Modifié par**:
+
+	  - Décret n°2016-527 du 27 avril 2016 - art. 4
+
 
 ###### Article D212-26
 
-Des unités capitalisables complémentaires respectant les mêmes exigences que pour celles constitutives du diplôme peuvent
-être associées au diplôme du brevet professionnel de la jeunesse, de l'éducation populaire et du sport. Ces unités
-capitalisables complémentaires peuvent être regroupées sous la forme d'un certificat de spécialisation.
+Des certificats complémentaires, qui attestent de compétences professionnelles répondant à un besoin spécifique et respectant
+les mêmes exigences que celles fixées pour le diplôme, peuvent être associés au brevet professionnel de la jeunesse de
+l'éducation populaire et du sport. Ils sont délivrés dans les mêmes conditions que celles figurant dans le diplôme.
 
-Elles attestent de compétences professionnelles répondant à un besoin spécifique.
+**Nota:**
 
-Elles sont délivrées dans les mêmes conditions que celles figurant dans le diplôme.
+Décret n° 2016-527 du 27 avril 2016, aarticle 8 II : Les dispositions du présent article, dans leur rédaction issue du décret
+n° 2016-527 du 27 avril 2016 ne sont pas applicables aux spécialités du brevet professionnel de la jeunesse, de l'éducation
+populaire et du sport existantes avant son entrée en vigueur
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 7 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
 	  - Décret n°2001-792 du 31 août 2001 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-527 du 27 avril 2016 - art. 5
 
 
 ###### Article D212-27
@@ -22860,15 +22893,20 @@ d'identifier les compétences déjà acquises à l'entrée en formation.
 
 ###### Article D212-28
 
-Des exigences préalables définies dans l'arrêté de spécialité peuvent être requises pour accéder aux formations proposées à
-l'article D. 212-27 ou à la certification prévue à l'article D. 212-24.
+Les situations d'évaluation certificative, au nombre de deux, doivent comporter : 
+
+1° La production d'un document écrit personnel suivi d'un entretien ; 
+
+2° Une ou deux épreuves dont l'une au moins consiste en une mise en situation professionnelle. 
+
+Chaque situation d'évaluation certificative permet l'évaluation distincte des unités capitalisables spécifiques mentionnées à
+l'article D. 212-25.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
 	  - Décret n°2001-792 du 31 août 2001 - art. 9 (Ab)
-	  - Art. 9 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
 
 	**Codifié par**:
 
@@ -22904,70 +22942,13 @@ l'article D. 212-27 ou à la certification prévue à l'article D. 212-24.
 	  - Arrêté du 28 janvier 2014 - art. 4 (V)
 	  - Arrêté du 27 avril 2016 - art. 4 (V)
 
-	**Abrogé par**:
-
-	  - Décret n°2015-1527 du 24 novembre 2015 - art. 3
-
-	**Cite**:
-
-	  - Code du sport. - art. D212-24
-	  - Code du sport. - art. D212-27
-
-
-###### Article D212-33
-
-Le cursus de formation mis en oeuvre par un organisme habilité respecte le principe de l'alternance prévoyant les séquences
-de formation en centre et en entreprise, sous tutorat pédagogique. La séquence en entreprise est une situation de formation
-professionnelle qui n'ouvre pas de prérogatives professionnelles particulières pour le stagiaire. Elle est construite dans le
-respect du plan de formation mis en oeuvre par l'organisme habilité et respecte une évolution liée à l'acquisition
-progressive et à la validation de compétences.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-792 du 31 août 2001 - art. 14 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 du 24 juillet 2007
-
 	**Modifié par**:
 
-	  - Décret n°2012-165 du 1er février 2012 - art. 2
-
-	**Abrogé par**:
-
-	  - Décret n°2016-527 du 27 avril 2016 - art. 7
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-27 (Ab)
-
-
-###### Article D212-34
-
-Pour l'application de l'article D. 212-21, l'arrêté créant une spécialité peut fixer des mesures d'équivalence ou de
-dispense.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°2001-792 du 31 août 2001 - art. 15 (Ab)
-	  - Art. 15 du décret n°2001-792 du 31 août 2001 portant règlement général du brevet professionnel de la jeunesse, de l'éducation populaire et du sport délivré par le ministère de la jeunesse et des sports
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 du 24 juillet 2007
-
-	**Abrogé par**:
-
-	  - Décret n°2016-527 du 27 avril 2016 - art. 7
+	  - Décret n°2016-527 du 27 avril 2016 - art. 6
 
 	**Cite**:
 
-	  - Code du sport. - art. D212-21
+	  - Code du sport. - art. D212-25 (VT)
 
 
 ###### Article R212-30
@@ -27334,6 +27315,117 @@ La décision est publiée au Journal officiel de la République française.
 #### Chapitre Ier : Suivi médical des sportifs
 
 ##### Section 1 : Certificat médical
+
+###### Article D231-1-1
+
+Les dispositions des articles L. 231-2 à L. 231-2-3 s'appliquent à toute licence délivrée par une fédération sportive ouvrant
+droit à la pratique d'une ou plusieurs disciplines sportives qu'elle organise, ainsi qu'aux licences d'arbitres. 
+
+La durée d'un an mentionnée aux articles L. 231-2 à L. 231-2-3 s'apprécie au jour de la demande de la licence ou de
+l'inscription à la compétition par le sportif. 
+
+Le certificat médical mentionné aux articles L. 231-2 et L. 231-2-1 qui permet d'établir l'absence de contre-indication à la
+pratique du sport mentionne, s'il y a lieu, la ou les disciplines dont la pratique est contre-indiquée. Il peut, à la demande
+du licencié, ne porter que sur une discipline ou un ensemble de disciplines connexes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1157 du 24 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L231-2
+	  - Code du sport. - art. L231-2-1
+	  - Code du sport. - art. L231-2-3
+
+
+###### Article D231-1-2
+
+Le renouvellement d'une licence s'entend comme la délivrance d'une nouvelle licence, sans discontinuité dans le temps avec la
+précédente, au sein de la même fédération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1157 du 24 août 2016 - art. 1
+
+
+###### Article D231-1-3
+
+Sous réserve des dispositions des articles D. 231-1-4 et D. 231-1-5, la présentation d'un certificat médical d'absence de
+contre-indication est exigée tous les trois ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1157 du 24 août 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-1387 du 12 octobre 2016 - art. 3 (V)
+
+
+###### Article D231-1-4
+
+A compter du 1er juillet 2017, le sportif renseigne, entre chaque renouvellement triennal, un questionnaire de santé dont le
+contenu est précisé par arrêté du ministre chargé des sports. 
+
+Il atteste auprès de la fédération que chacune des rubriques du questionnaire donne lieu à une réponse négative. A défaut, il
+est tenu de produire un nouveau certificat médical attestant de l'absence de contre-indication pour obtenir le renouvellement
+de la licence.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1157 du 24 août 2016 - art. 1
+
+	**Cité par**:
+
+	  - Décret n°2016-1387 du 12 octobre 2016 - art. 3 (V)
+	  - Code du sport. - art. A231-1 (V)
+
+
+###### Article D231-1-5
+
+Les disciplines sportives qui présentent des contraintes particulières au sens de l'article L. 231-2-3 sont énumérées ci-
+après : 
+
+1° Les disciplines sportives qui s'exercent dans un environnement spécifique : 
+
+a) L'alpinisme ; 
+
+b) La plongée subaquatique ; 
+
+c) La spéléologie ; 
+
+2° Les disciplines sportives, pratiquées en compétition, pour lesquelles le combat peut prendre fin, notamment ou
+exclusivement lorsqu'à la suite d'un coup porté l'un des adversaires se trouve dans un état le rendant incapable de se
+défendre et pouvant aller jusqu'à l'inconscience ; 
+
+3° Les disciplines sportives comportant l'utilisation d'armes à feu ou à air comprimé ; 
+
+4° Les disciplines sportives, pratiquées en compétition, comportant l'utilisation de véhicules terrestres à moteur à
+l'exception du modélisme automobile radioguidé ; 
+
+5° Les disciplines sportives comportant l'utilisation d'un aéronef à l'exception de l'aéromodélisme ; 
+
+6° Le rugby à XV, le rugby à XIII et le rugby à VII.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1157 du 24 août 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L231-2-3
+
 
 ###### Article R231-1
 
@@ -41663,60 +41755,150 @@ d'exercice ouvertes par la possession du diplôme.
 	  - Code du sport. - art. A212-44 (V)
 
 
-#####  Sous-section 3 : Brevet professionnel de la jeunesse,  de l'éducation populaire et du sport
+##### Sous-section 3 : Brevet professionnel de la jeunesse, de l'éducation populaire et du sport
+
+##### Paragraphe 1: Spécialité “ animateur ”
 
 ###### Article A212-46
 
-Toute session de formation conduisant à l'obtention du brevet professionnel de la jeunesse, de l'éducation populaire et du
-sport doit comporter une durée minimale de 600 heures pour une formation en centre par la voie initiale.
+L'organisation de la spécialité " animateur " du brevet professionnel de la jeunesse, de l'éducation populaire et du sport
+mentionnée à l'article D. 212-21 est fixée par l'arrêté en date du 27 avril 2016 (NOR : VJSF1603369A) s'y rapportant.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 21 décembre 2015 - art. 2
+	  - Arrêté du 27 avril 2016 - art. 1
 
+
+##### Paragraphe 2 : Spécialité “ éducateur sportif ”
 
 ###### Article A212-47
 
-Les dix unités capitalisables constitutives du référentiel de certification du diplôme, définies à l'article D. 212-25, sont
-définies par les objectifs terminaux d'intégration suivants : 
+La spécialité " éducateur sportif " du brevet professionnel de la jeunesse, de l'éducation populaire et du sport est
+organisée en mention disciplinaire, ou pluridisciplinaire définie par arrêté. Dans le cas d'une mention pluridisciplinaire,
+le diplôme peut être délivré au titre d'une option. 
 
-Dans les quatre unités capitalisables transversales, quelle que soit la spécialité :
+Cet arrêté précise notamment : 
 
-- UC 1 : être capable de communiquer dans les situations de la vie professionnelle ;
+- les exigences préalables à l'entrée en formation ; 
 
-- UC 2 : être capable de prendre en compte les caractéristiques des publics pour préparer une action éducative ;
+- les exigences préalables à la mise en situation professionnelle ; 
 
-- UC 3 : être capable de préparer un projet ainsi que son évaluation ;
+- les modalités des épreuves certificatives au cours de la session de formation ; 
 
-- UC 4 : être capable de participer au fonctionnement de la structure et à la gestion de l'activité. 
+- les dispenses et équivalences avec d'autres certifications ; 
 
-Dans les cinq unités capitalisables de la spécialité :
+- le cas échéant, les conditions de la vérification du maintien des acquis professionnels liés à la sécurité des pratiquants
+et des tiers. 
 
-- UC 5 : être capable de préparer une action d'animation ;
-
-- UC 6 : être capable d'encadrer un groupe dans le cadre d'une action d'animation ;
-
-- UC 7 : être capable de mobiliser les connaissances nécessaires à la conduite des activités professionnelles ;
-
-- UC 8 : être capable de conduire une action éducative ;
-
-- UC 9 : être capable de maîtriser les outils ou techniques de la spécialité. 
-
-Dans une unité capitalisable d'adaptation :
-
-- UC 10 : elle vise l'adaptation à l'emploi et au contexte particulier.
+Lorsque le diplôme vise l'encadrement d'une discipline faisant l'objet d'une délégation à une fédération, l'arrêté prévoit
+l'avis consultatif du directeur technique mentionné à l'article R. 212-10-12.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Arrêté du 21 décembre 2015 - art. 2
+	  - Arrêté du 27 avril 2016 - art. 1
 
 	**Cite**:
 
 	  - Code du sport. - art. D212-25
+
+
+###### Article A212-47-1
+
+Lorsque la formation est suivie dans le cadre de la formation initiale, sa durée minimale est de 900 heures dont 600 heures
+en centre.
+
+Le parcours à l'entrée en formation est défini par l'organisme de formation à l'issue du positionnement. Le positionnement
+peut notamment permettre d'individualiser les parcours de formation par des contenus et des durées adaptés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 27 avril 2016 - art. 1
+
+
+###### Article A212-47-2
+
+Les quatre unités capitalisables (UC) constitutives du brevet professionnel de la jeunesse, de l'éducation populaire et du
+sport sont définies par les compétences professionnelles et les objectifs intermédiaires (OI) de premier rang suivants :
+
+Dans les deux unités capitalisables (UC) transversales :
+
+UC1 : Encadrer tout public dans tout lieu et toute structure :
+
+- OI-1-1 : Communiquer dans les situations de la vie professionnelle ;
+
+- OI-1-2 : Prendre en compte les caractéristiques des publics dans leurs environnements dans une démarche d'éducation à la
+citoyenneté ;
+
+- OI-1-3 : Contribuer au fonctionnement d'une structure.
+
+UC2 : Mettre en œuvre un projet d'animation s'inscrivant dans le projet de la structure :
+
+- OI-2-1 : Concevoir un projet d'animation ;
+
+- OI-2-1 : Conduire un projet d'animation ;
+
+- OI-2-3 : Evaluer un projet d'animation.
+
+Dans les deux unités capitalisables (UC) de la mention :
+
+UC3 : Conduire une séance, un cycle d'animation ou d'apprentissage dans le champ de la mention :
+
+- OI-3-1 : Concevoir la séance, le cycle d'animation ou d'apprentissage ;
+
+- OI-3-2 : Conduire la séance, le cycle d'animation ou d'apprentissage ;
+
+- OI-3-3 : Evaluer la séance, le cycle d'animation ou d'apprentissage ;
+
+UC4 : Mobiliser les techniques de la mention ou de l'option pour mettre en œuvre une séance, un cycle d'animation ou
+d'apprentissage :
+
+- OI-4-1 : Conduire une séance ou un cycle en utilisant les techniques de la mention ou de l'option ;
+
+- OI-4-2 : Maîtriser et faire appliquer les règlements de la mention ou de l'option ;
+
+- OI-4-3 : Garantir des conditions de pratique en sécurité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 27 avril 2016 - art. 1
+
+
+###### Article A212-47-3
+
+La situation d'évaluation certificative des unités capitalisables transversales 1 (UC 1) et 2 (UC 2) est réalisée au moyen de
+la production d'un document écrit personnel et d'un entretien prévus au 1° de l'article D. 212-28. Dans les conditions fixées
+par le directeur régional de la jeunesse des sports et de la cohésion sociale ou par le directeur de la jeunesse, des sports
+et de la cohésion sociale, le candidat transmet au directeur ou à l'organisme de formation un document écrit personnel
+explicitant la conception, la mise en œuvre et la réalisation d'un projet d'animation dans la structure d'alternance
+pédagogique. Ce document constitue le support de l'entretien qui permet de vérifier l'acquisition des compétences.
+L'entretien se déroule sur une durée de 40 minutes au maximum comprenant une présentation orale par le candidat d'une durée
+de vingt minutes au maximum.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 27 avril 2016 - art. 1
+
+
+###### Article A212-47-4
+
+Pour chaque épreuve certificative non validée, le candidat bénéficie d'une seconde session d'évaluation au cours de la
+session de formation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 27 avril 2016 - art. 1
 
 
 #####  Sous-section 4 : Diplôme d'Etat de la jeunesse,  de l'éducation populaire et du sport
