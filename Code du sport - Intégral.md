@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-10-17
+Version Consolidée au 2016-11-01
 
 # Partie législative
 
@@ -32899,22 +32899,30 @@ offertes hors de ces tribunes.
 
 ###### Article R312-9
 
-Huit mois au moins avant la date prévue pour l'ouverture au public d'une enceinte sportive soumise aux dispositions des
-articles L. 312-5 et L. 312-12, le propriétaire adresse une demande d'homologation au préfet du département dans lequel
-l'enceinte est implantée. La forme que doit revêtir cette demande et les documents qui y sont annexés sont fixés, après avis
-de la Commission nationale de sécurité des enceintes sportives, par arrêté du ministre de l'intérieur et des ministres
-chargés de l'équipement, de la construction et des sports.
+Lors du dépôt de la demande d'autorisation d'urbanisme portant sur l'ouvrage faisant l'objet de la demande d'homologation
+d'une enceinte sportive soumise aux dispositions des articles L. 312-5 et L. 312-12, le propriétaire adresse une demande
+d'homologation au préfet du département dans lequel l'enceinte est implantée. La forme que doit revêtir cette demande et les
+documents qui y sont annexés sont fixés, après avis de la Commission nationale de sécurité des enceintes sportives, par
+arrêté du ministre de l'intérieur et des ministres chargés de la construction et des sports.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-590 du 11 mai 2016, les présentes dispositions s'appliquent à l'homologation des
+enceintes pour lesquelles la demande d'autorisation d'urbanisme est déposée à compter du 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 2 du décret n°93-711 du 27 mars 1993 pris pour l'application de l'article 42-1 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
 	  - Décret n°93-711 du 27 mars 1993 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-590 du 11 mai 2016 - art. 1
 
 	**Cité par**:
 
@@ -32922,30 +32930,37 @@ chargés de l'équipement, de la construction et des sports.
 
 	**Cite**:
 
-	  - Code du sport. - art. L312-12 (V)
-	  - Code du sport. - art. L312-5 (V)
+	  - Code du sport. - art. L312-5
 
 
 ###### Article R312-10
 
 L'homologation prévue à l'article L. 312-5 est accordée par le préfet, après avis de la commission consultative
-départementale de sécurité et d'accessibilité ou, dans les conditions prévues par arrêté du ministre chargé des sports, de la
+départementale de sécurité et d'accessibilité, puis, dans les cas prévus par l'arrêté mentionné à l'article R. 312-11, de la
 Commission nationale de sécurité des enceintes sportives.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-590 du 11 mai 2016, les présentes dispositions s'appliquent à l'homologation des
+enceintes pour lesquelles la demande d'autorisation d'urbanisme est déposée à compter du 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - 1er alinéa, 2e phrase de l'article 42-1 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42-1 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-590 du 11 mai 2016 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. L312-5 (V)
+	  - Code du sport. - art. L312-5
 
 
 ###### Article R312-11
@@ -32993,31 +33008,44 @@ l'usage auquel elle est destinée.
 
 ###### Article R312-13
 
-Dans un délai de six mois après la réception de la demande d'homologation, le préfet, après avis de la commission
-consultative départementale de sécurité et d'accessibilité ou, dans les cas prévus par l'arrêté mentionné à l'article R.
-312-11, de la Commission nationale de sécurité des enceintes sportives, notifie sa décision au propriétaire de l'équipement.
+Dans un délai de quatre mois après la réception de la demande d'homologation, le préfet, après avis de la commission
+consultative départementale de sécurité et d'accessibilité et, dans les cas prévus par l'arrêté mentionné à l'article R.
+312-11, de la Commission nationale de sécurité des enceintes sportives, notifie au propriétaire de l'équipement son avis sur
+le dossier de demande d'homologation conforme à l'arrêté mentionné à l'article R. 312-9.
 
-La décision d'homologation peut être subordonnée à l'accomplissement de travaux destinés à mettre l'enceinte sportive en
-conformité avec les règles de sécurité résultant du code de la construction et de l'habitation. L'autorisation d'ouverture
-n'est alors accordée qu'après levée des réserves par le préfet après avis de la commission compétente.
+L'avis du préfet peut être subordonné à l'accomplissement de travaux destinés à mettre l'enceinte sportive en conformité avec
+les règles de sécurité résultant du code de la construction et de l'habitation. L'autorisation d'ouverture n'est alors
+accordée qu'après levée des réserves par le préfet après avis de la commission compétente.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-590 du 11 mai 2016, les présentes dispositions s'appliquent à l'homologation des
+enceintes pour lesquelles la demande d'autorisation d'urbanisme est déposée à compter du 1er novembre 2016.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°93-711 du 27 mars 1993 pris pour l'application de l'article 42-1 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives
 	  - Décret n°93-711 du 27 mars 1993 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-590 du 11 mai 2016 - art. 3
 
 	**Cite**:
 
-	  - Code du sport. - art. R312-11 (V)
+	  - Code du sport. - art. R312-11
 
 
 ###### Article R312-14
+
+Le dossier complémentaire conforme à l'arrêté mentionné à l'article R. 312-9 est adressé au préfet à la réception des
+travaux. Après consultation de la commission consultative départementale de sécurité et d'accessibilité, le préfet notifie au
+propriétaire de l'équipement l'arrêté d'homologation
 
 L'arrêté d'homologation :
 
@@ -33038,15 +33066,20 @@ ou l'usage auquel elle est destinée ;
 Les dispositions de l'arrêté d'homologation s'imposent au propriétaire et à l'exploitant de l'enceinte ainsi qu'à tout
 organisateur d'une manifestation sportive publique dans l'enceinte.
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2016-590 du 11 mai 2016, les présentes dispositions s'appliquent à l'homologation des
+enceintes pour lesquelles la demande d'autorisation d'urbanisme est déposée à compter du 1er novembre 2016.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Art. 5 du décret n°93-711 du 27 mars 1993 pris pour l'application de l'article 42-1 de la loi n°84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives Alinéa 5, phrases 2 et 3, alinéas 6, 7 et 8 d
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-590 du 11 mai 2016 - art. 3
 
 
 ###### Article R312-15
@@ -36337,135 +36370,255 @@ application de l'article R. 331-18 du présent code.
 	  - Code de la route. - art. L411-7 (M)
 
 
-##### Section 6 : Organisation de manifestations publiques de boxe
+##### Section 6 : Organisation de manifestations publiques de sports de combat
 
 ###### Article R331-46
 
-Toute manifestation publique de boxe doit être autorisée préalablement par le préfet du département.
+Constitue une manifestation publique de sports de combat régie par la présente section tout combat ou démonstration ouvert ou
+diffusé au public dans les disciplines pour lesquelles le combat ou la démonstration peut prendre fin, notamment ou
+exclusivement, lorsqu'à la suite d'un coup porté l'un des adversaires se trouve dans un état le rendant incapable de se
+défendre et pouvant aller jusqu'à l'inconscience.
 
-L'autorisation délivrée en application du premier alinéa ne fait pas obstacle à l'exercice des pouvoirs de police du maire.
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-843 du 24 juin 2016, les présentes dispositions s'appliquent aux manifestations
+organisées à compter du 1er novembre 2016. Toutefois, les manifestations sportives de boxe autorisées avant cette date
+restent régies par les dispositions antérieurement en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 1er du décret n°62-1321 du 7 novembre 1962 réglementant l'organisation des manifestations publiques de boxe
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-843 du 24 juin 2016 - art. 1
 
 
 ###### Article R331-47
 
-Constitue une manifestation publique de boxe tout combat ou démonstration de boxe, de tout style, auquel le public est convié
-à assister, même gratuitement.
+Les manifestations publiques de sports de combat : 
+
+1° Organisées par une fédération sportive délégataire, ses organes régionaux ou départementaux ou par l'un de ses membres ; 
+
+2° Relevant d'une discipline dans laquelle cette fédération a reçu la délégation prévue à l'article L. 131-14 ; 
+
+3° Et inscrites au calendrier de cette fédération, 
+
+ne sont pas soumises à l'obligation d'être préalablement déclarées auprès du préfet du département dans lequel la
+manifestation est organisée. 
+
+Toute autre manifestation publique de sports de combat doit être préalablement déclarée auprès du préfet.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-843 du 24 juin 2016, les présentes dispositions s'appliquent aux manifestations
+organisées à compter du 1er novembre 2016. Toutefois, les manifestations sportives de boxe autorisées avant cette date
+restent régies par les dispositions antérieurement en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 2 du décret n°62-1321 du 7 novembre 1962 réglementant l'organisation des manifestations publiques de boxe
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-843 du 24 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L131-14 (V)
 
 
 ###### Article R331-48
 
-Les boxeurs, juges, arbitres, managers, soigneurs, organisateurs et, d'une manière générale, toutes personnes concourant à
-l'organisation de manifestations publiques de boxe doivent respecter les dispositions réglementaires visant à limiter les
-risques auxquels la pratique de la boxe expose la santé et la sécurité des boxeurs.
+Les sportifs, juges, arbitres, entraîneurs, organisateurs et, d'une manière générale, toute personne concourant à
+l'organisation de ces manifestations doivent respecter les règles édictées par les fédérations en application de l'article R.
+131-32 et, lorsqu'elles existent, les dispositions prises par arrêté du ministre chargé des sports visant à limiter les
+risques auxquels la pratique des sports de combat expose les participants.
 
-Ces dispositions sont prises par arrêté du ministre chargé des sports sur avis de la fédération française de boxe.
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-843 du 24 juin 2016, les présentes dispositions s'appliquent aux manifestations
+organisées à compter du 1er novembre 2016. Toutefois, les manifestations sportives de boxe autorisées avant cette date
+restent régies par les dispositions antérieurement en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 3 du décret n°62-1321 du 7 novembre 1962 réglementant l'organisation des manifestations publiques de boxe
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-843 du 24 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R131-32 (V)
 
 	**Cité par**:
 
-	  - Code du sport. - art. R331-51 (V)
+	  - Code du sport. - art. R331-51 (VD)
 
 
 ###### Article R331-49
 
-Les demandes d'autorisation de manifestations publiques de boxe sont adressées aux préfets des départements où sont prévues
-les manifestations, au moins vingt jours avant la date prévue pour la manifestation, par lettres recommandées avec accusé de
-réception.
+Le préfet peut interdire la tenue d'une manifestation publique de sports de combat dans les cas et conditions prévus à
+l'article L. 331-2.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-843 du 24 juin 2016, les présentes dispositions s'appliquent aux manifestations
+organisées à compter du 1er novembre 2016. Toutefois, les manifestations sportives de boxe autorisées avant cette date
+restent régies par les dispositions antérieurement en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 4 du décret n°62-1321 du 7 novembre 1962 réglementant l'organisation des manifestations publiques de boxe
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-843 du 24 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L331-2 (V)
 
 
 ###### Article R331-50
 
-Les décisions des autorités saisies sont notifiées aux organisateurs au plus tard dix jours après réception de la demande. Le
-défaut de réponse dans ce délai équivaut à autorisation.
+La déclaration est accompagnée de l'avis de la fédération délégataire compétente pour édicter les règles techniques et de
+sécurité de la discipline dans laquelle elle a reçu délégation. 
+
+La demande d'avis est adressée, par lettre recommandée avec demande d'avis de réception ou remise en main propre contre
+récépissé, à la fédération délégataire compétente, préalablement à la déclaration auprès du préfet. La fédération doit rendre
+son avis dans un délai de quinze jours. Faute d'avoir été émis dans ce délai, l'avis est réputé favorable. 
+
+Lorsque la manifestation est organisée par une fédération agréée, ses organes régionaux ou départementaux ou l'un de ses
+membres, l'avis prévu au premier alinéa est réputé favorable dès lors qu'est en vigueur, dans la discipline faisant l'objet
+de la manifestation, une convention conclue entre cette fédération et la fédération délégataire compétente garantissant la
+mise en œuvre par la fédération agréée des règles techniques et de sécurité édictées par la fédération délégataire concernée.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-843 du 24 juin 2016, les présentes dispositions s'appliquent aux manifestations
+organisées à compter du 1er novembre 2016. Toutefois, les manifestations sportives de boxe autorisées avant cette date
+restent régies par les dispositions antérieurement en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 5 du décret n°62-1321 du 7 novembre 1962 réglementant l'organisation des manifestations publiques de boxe
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-843 du 24 juin 2016 - art. 1
 
 
 ###### Article R331-51
 
-Le ministre chargé des sports fixe par arrêté les conditions dans lesquelles doivent être présentées les demandes
-d'autorisation ainsi que les garanties d'ordre moral, technique et médical exigées des personnes mentionnées à l'article R.
-331-48.
+Dans les disciplines dans lesquelles aucune fédération n'a reçu délégation, la déclaration est accompagnée d'une déclaration
+sur l'honneur de l'organisateur de se conformer aux règles techniques et de sécurité prévues par arrêté du ministre chargé
+des sports.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-843 du 24 juin 2016, les présentes dispositions s'appliquent aux manifestations
+organisées à compter du 1er novembre 2016. Toutefois, les manifestations sportives de boxe autorisées avant cette date
+restent régies par les dispositions antérieurement en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 6 du décret n°62-1321 du 7 novembre 1962 réglementant l'organisation des manifestations publiques de boxe
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-843 du 24 juin 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. R331-48 (V)
+	  - Code du sport. - art. R331-48 (VD)
 
 
 ###### Article R331-52
 
-Le fait d'organiser une manifestation publique de boxe sans en avoir demandé l'autorisation est puni de l'amende prévue pour
-les contraventions de la quatrième classe.
+La déclaration de la manifestation est adressée au préfet : 
 
-Le fait de fournir de faux renseignements dans la demande d'autorisation ou d'organiser une manifestation publique de boxe
-malgré un refus d'autorisation est puni des peines prévues pour les contraventions de la cinquième classe.
+1° Au moins quinze jours avant la date prévue pour la manifestation lorsque celle-ci est organisée par une fédération agréée,
+ses organes régionaux ou départementaux ou l'un de ses membres ; 
+
+2° Au moins un mois avant la date prévue pour la manifestation lorsque celle-ci n'est pas organisée par une personne
+mentionnée au 1°.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-843 du 24 juin 2016, les présentes dispositions s'appliquent aux manifestations
+organisées à compter du 1er novembre 2016. Toutefois, les manifestations sportives de boxe autorisées avant cette date
+restent régies par les dispositions antérieurement en vigueur.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 7 du décret n°62-1321 du 7 novembre 1962 réglementant l'organisation des manifestations publiques de boxe
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-843 du 24 juin 2016 - art. 1
+
+
+###### Article R331-53
+
+La composition du dossier de déclaration et les modalités de son dépôt sont fixées par arrêté du ministre chargé des sports
+et du ministre de l'intérieur.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-843 du 24 juin 2016, les présentes dispositions s'appliquent aux manifestations
+organisées à compter du 1er novembre 2016. Toutefois, les manifestations sportives de boxe autorisées avant cette date
+restent régies par les dispositions antérieurement en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-843 du 24 juin 2016 - art. 1
+
+
+###### Article R331-54
+
+Sans préjudice des dispositions des articles L. 331-3 et L. 331-6, sont punis des peines prévues pour les contraventions de
+la cinquième classe : 
+
+1° Le fait d'organiser une manifestation publique de sports de combat sans l'avoir déclarée préalablement selon les règles et
+dans les délais requis ; 
+
+2° Le fait de fournir de faux renseignements dans la déclaration préalable.
+
+**Nota:**
+
+Conformément à l'article 2 du décret n° 2016-843 du 24 juin 2016, les présentes dispositions s'appliquent aux manifestations
+organisées à compter du 1er novembre 2016. Toutefois, les manifestations sportives de boxe autorisées avant cette date
+restent régies par les dispositions antérieurement en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-843 du 24 juin 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L331-3 (V)
+	  - Code du sport. - art. L331-6 (V)
 
 
 #### Chapitre II : Sécurité des manifestations sportives
@@ -50244,102 +50397,104 @@ par sinistre.
 	  - Code du sport. - art. A331-30 (V)
 
 
-##### Section 4 : Organisation de manifestations publiques de boxe
+##### Section 4 : Organisation de manifestations publiques de sports de combat
 
 ###### Article A331-33
 
-Toute demande d'autorisation d'organiser une manifestation publique de boxe doit mentionner :
+Toute déclaration d'organisation d'une manifestation publique de sports de combat organisée dans une discipline pour laquelle
+une fédération a reçu délégation mentionne : 
 
-1° La date, l'heure, l'intitulé et le lieu fixés pour la manifestation ;
+1° La date, l'heure, l'intitulé et le lieu fixés pour la manifestation ; 
 
-2° Les nom, prénoms, profession, nationalité, date et lieu de naissance et domicile :
+2° Les nom, prénom, profession, nationalité, date et lieu de naissance, adresse électronique, téléphone et domicile : 
 
-a) De l'organisateur de la manifestation ;
+a) De l'organisateur de la manifestation ; 
 
-b) Des boxeurs engagés ;
+b) Des sportifs engagés ; 
 
-c) Des managers, soigneurs, prévôts, professeurs, arbitres, juges, chronométreurs, speakers et de toute autre personne
-désignée par l'organisateur pour apporter son concours au déroulement de la manifestation.
+c) Des juges, arbitres, entraîneurs, organisateurs et, d'une manière générale de toute personne qui concourt à l'organisation
+de la manifestation ; 
+
+3° L'avis favorable de la fédération délégataire compétente pour édicter les règles techniques et de sécurité ; 
+
+4° L'attestation que l'organisateur a souscrit les garanties d'assurance mentionnées à l'article L. 331-9. 
+
+Cette déclaration est transmise au préfet par lettre recommandée avec demande d'avis de réception ou par tout moyen
+permettant d'en garantir l'émission et la réception.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 3 octobre 2016 - art. 1
 
 	**Cité par**:
 
-	  - Code du sport. - art. A331-34 (V)
+	  - Code du sport. - art. A331-34 (VD)
 	  - Code du sport. - art. A331-36 (VT)
 
 
 ###### Article A331-34
 
-Le dossier de demande d'autorisation comprendra : 
+Dans les disciplines pour lesquelles aucune fédération n'a reçu délégation, outre le respect des formalités prévues à
+l'article A. 331-33, la déclaration comprend : 
 
-1° Une déclaration par laquelle les personnes visées à l'article A. 331-33 s'engagent à respecter les règlements édictés par
-la fédération délégataire compétente ; 
+1° Le bulletin numéro 3 du casier judiciaire pour chacune des personnes mentionnées à l'article A. 331-33 ; 
 
-2° Un extrait du casier judiciaire (bulletin n° 3) pour chacune des personnes visées à l'article A. 331-33 ; 
+2° Pour chaque sportif engagé, un certificat médical de moins de trois mois qui mentionne l'absence de contre-indication à la
+pratique de la discipline concernée ; 
 
-3° En ce qui concerne les boxeurs : 
+3° Le descriptif du dispositif de sécurité et de secours de la manifestation ; 
 
-a) Un certificat médical délivré par un médecin dans les conditions prévues par les règlements de la fédération ayant reçue
-délégation pour la discipline ; 
-
-b) Une attestation de la fédération délégataire compétente certifiant qu'ils n'ont pas fait l'objet d'une décision
-d'interdiction de boxer prise depuis la date de la délivrance du certificat médical prévu au a du 3° du présent article ; 
-
-c) Un document permettant de s'assurer que les boxeurs sont de valeur comparable.
+4° Le règlement technique et de sécurité de la manifestation accompagné d'une déclaration sur l'honneur de l'organisateur que
+ce règlement technique et de sécurité de la manifestation est conforme aux règles techniques et de sécurité mentionnées à
+l'article A. 331-36.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 3 octobre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. A331-33 (V)
+	  - Code du sport. - art. A331-33 (VD)
 
 
 ###### Article A331-35
 
-Les boxeurs participant à une manifestation publique de boxe sont tenus de fournir la justification de l'existence d'un
-contrat d'assurance de personnes, garantissant des prestations au moins équivalentes à celles prévues par les articles D.
-321-1 à D. 321-3, couvrant les dommages corporels auxquels leur pratique sportive peut les exposer.
+Sont dispensés de la formalité prévue au 3° de l'article A. 331-33, les fédérations sportives agréées, leurs organes
+régionaux ou départementaux et leurs membres, dès lors qu'il existe dans la discipline faisant l'objet de la manifestation la
+convention mentionnée à l'article R. 331-50. Cette convention doit être jointe au dossier. 
+
+Sont dispensés des formalités prévues aux 1° et 2° de l'article A. 331-34, les fédérations sportives agréées, leurs organes
+régionaux ou départementaux et leurs membres.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 3 octobre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. D321-1 (V)
+	  - Code du sport. - art. D321-1
 
 
 ###### Article A331-36
 
-Sont dispensés des formalités prévues aux articles A. 331-33, A. 331-34 et A. 331-35 : 
-
-1° Les fédérations sportives agréées, ainsi que leurs organes déconcentrés ; 
-
-2° Les associations et les membres individuels affiliés à ces fédérations, à la condition de déposer entre les mains du
-représentant de l'Etat huit jours au moins avant la manifestation une demande d'autorisation revêtue de l'avis favorable de
-la fédération intéressée et comportant l'indication de l'intitulé, du lieu, de la date et de l'heure de la manifestation et
-le nom de l'organisateur.
+Dans les disciplines pour lesquelles aucune fédération n'a reçu délégation les règles techniques et de sécurité applicables
+aux manifestations publiques de sports de combat sont prévues à l'annexe III-28.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Arrêté du 28 février 2008 - art. (V)
+	  - Arrêté du 3 octobre 2016 - art. 1
 
 	**Cite**:
 
-	  - Code du sport. - art. A331-33 (V)
+	  - Code du sport. - art. Annexe III-28 (VD)
 
 
 ####  Chapitre II : Sécurité des manifestations sportives
@@ -73121,5 +73276,161 @@ disposition ;
 	**Créé par**:
 
 	  - Arrêté du 16 février 2010 - art.
+
+
+###### Article Annexe III-28
+
+RÈGLES  TECHNIQUES ET DE SÉCURITÉ APPLICABLES AUX MANIFESTATIONS PUBLIQUES DE  SPORTS DE COMBAT DANS LES DISCIPLINES DANS
+LESQUELLES LA MISE HORS DE  COMBAT D'UN SPORTIF À LA SUITE D'UN COUP PORTÉ PAR UN ADVERSAIRE EST  AUTORISÉE ET NE FAISANT PAS
+L'OBJET D'UNE DÉLÉGATION À UNE FÉDÉRATION  PAR LE MINISTRE CHARGÉ DES SPORTS 
+
+1. L'aire de combat 
+
+Les combats se déroulent sur un tapis ou sur un ring à 3 ou 4 cordes.  Les coins du ring sont protégés par les protections
+usuelles. 
+
+2. Les sportifs 
+
+Les sportifs doivent être obligatoirement âgés de 18 ans révolus à la date du combat. 
+
+Les sportifs doivent être de niveau technique et sportif équivalent,  reconnu par les juges ou les arbitres avant chaque
+manifestation. Le  niveau technique et sportif est garanti par le système de classement qui  doit être intégralement décrit
+dans le règlement de la manifestation.  Il prend en compte l'âge et le poids des sportifs. Les sportifs ou leurs
+représentants sont obligatoirement présents lors de la réunion  explicative du règlement de combat. Un interprète est présent
+pour les  non-francophones. 
+
+3. L'assistance médicale 
+
+Un médecin doit être présent tout au long de la manifestation. L'organisateur doit mettre à la disposition du médecin : 
+
+- une ambulance ; 
+
+- un téléphone au bord de l'aire de combat ; 
+
+- une civière à proximité de l'aire de combat ; 
+
+- au moins deux personnes par aire de combat disposant d'une qualification en secourisme ; 
+
+- un local afin de pratiquer les premiers soins et la visite avant combat ; 
+
+- un local destiné à accueillir un contrôle relatif à la lutte contre le dopage. 
+
+Avant la manifestation, le médecin effectue pour l'ensemble des  sportifs une visite médicale afin de contrôler d'éventuelles
+lésions  récentes et leur aptitude à combattre en vérifiant, notamment, le  certificat médical obligatoire prévu au 2° de
+l'article A. 331-34 du code du sport. 
+
+La manifestation ne peut se dérouler sans la présence effective et  opérationnelle du médecin auprès de l'aire de combat. En
+cas d'absence  de celui-ci, aucun combat ne peut avoir lieu. 
+
+Lors de la manifestation, le médecin peut décider de stopper à tout  moment le combat afin d'examiner un combattant et de
+l'autoriser ou non à  poursuivre. 
+
+Le médecin peut examiner tout  sportif après le combat, s'il l'estime nécessaire, et en particulier  tout sportif mis hors de
+combat à la suite d'un coup porté, d'un  étranglement, d'une soumission ou d'un “ jet de l'éponge ”. 
+
+Après chaque manifestation, le médecin adresse à l'autorité  administrative auprès de laquelle la manifestation a été
+déclarée un  rapport comportant par combat les nom, prénom et âge des sportifs ainsi  que les conditions d'une éventuelle
+mise hors de combat. Après une mise  hors de combat avec perte de connaissance, toute reprise de l'activité  est interdite
+avant deux mois. La reprise de la compétition doit être  précédée d'un avis médical favorable et circonstancié. 
+
+4. Matériels de protection 
+
+La forme des gants, leur taille et leur capacité d'amortissement  doivent être spécifiées par l'organisateur. Seuls les gants
+en parfait  état (sans réparation apparente) peuvent être utilisés. Ils doivent être  de structure identique pour les 2
+sportifs. 
+
+Leur rembourrage ne doit être ni déplacé ni rompu. L'arbitre doit s'en assurer. 
+
+En cas de détérioration d'un gant pendant le combat, les 2 gants sont remplacés par des gants identiques. 
+
+En aucun cas, 2 paires de gants différentes ne sont autorisées dans un combat. 
+
+Pour les sportifs de sexe masculin, la coquille et le protège-dents sont obligatoires. 
+
+Pour les combattantes, le protège poitrine, la protection pubienne et le protège dents sont obligatoires. 
+
+Outre les éléments de protections décrits ci-dessus, les sportifs ne  peuvent pas revêtir d'objet comportant des matériaux
+durs. 
+
+Le port de lunettes, lentilles de contact dures, bijoux, piercing, bracelet, bague et collier n'est pas autorisé. 
+
+Les cheveux longs doivent être maintenus par un objet non rigide de  manière à ne pouvoir occasionner de blessures et à ne
+pouvoir gêner  l'adversaire. 
+
+5. Les arbitres ou les juges 
+
+Les arbitres ou les juges possèdent les compétences et l'expérience  requises pour arbitrer les combats en fonction du niveau
+de la  manifestation. 
+
+L'objectif principal des arbitres et juges est la préservation de l'intégrité physique des sportifs. 
+
+Lorsqu'un sportif est dans l'incapacité de se défendre correctement,  debout comme au sol, les arbitres stoppent alors le
+combat  immédiatement. 
+
+a) Compétences de l'arbitre  Il doit être titulaire au minimum : 
+
+- de l'unité d'enseignement prévention et secours civiques de niveau 1 ou d'une qualification équivalente ; 
+
+- d'une qualification de juge/ arbitre ; 
+
+b) Conduite de l'arbitre avant la rencontre 
+
+L'arbitre est la première personne à monter sur l'aire de combat avant le combat. Il doit procéder au contrôle de celle-ci. 
+
+L'arbitre contrôle : 
+
+- les gants ; 
+
+- les protections des sportifs. 
+
+Au début de la rencontre, l'arbitre réunit les sportifs et les  entraîneurs afin de leur expliciter les règles techniques et
+de  sécurité. 
+
+c) Rôle et commandements de l'arbitre pendant le combat 
+
+L'arbitre peut intervenir à tout moment pendant le combat. Dès lors que  l'un des sportifs a perdu l'une de ses protections,
+le combat est  suspendu. Tout coup interdit entraîne une sanction telle que prévue par  le règlement du combat. 
+
+6. Les techniques 
+
+Les techniques strictement interdites qui entraînent la disqualification immédiate des sportifs sont les suivantes : 
+
+- les coups de poings, coups de pieds, coups de coudes et coups de genoux visant un combattant au sol ; 
+
+- les coups de coudes (visant n'importe quelle cible et dans toutes les positions) ; 
+
+- les coups de tête ; 
+
+- les coups visant les parties génitales ; 
+
+- les coups visant la colonne vertébrale et le derrière de la tête ; 
+
+- les coups visant la gorge ; 
+
+- saisir la trachée artère avec les doigts ; 
+
+- mettre les doigts dans les yeux, la bouche, le nez ou une plaie ; 
+
+- griffer ou pincer intentionnellement ; 
+
+- attraper ou tirer les cheveux ; 
+
+- mordre ; 
+
+- projeter intentionnellement sur la tête et le cou ; 
+
+- projeter, pousser son adversaire hors du ring. 
+
+La plus grande vigilance des arbitres et des juges doit être portée sur un combattant au sol.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 3 octobre 2016 - art. 2
+
+	**Cité par**:
+
+	  - Code du sport. - art. A331-36 (VD)
 
 
