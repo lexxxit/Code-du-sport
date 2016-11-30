@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-11-18
+Version Consolidée au 2016-12-01
 
 # Partie législative
 
@@ -25013,7 +25013,7 @@ Conformément à l'article 4 du décret n° 2016-1287 du 29 septembre 2016, les 
 ###### Article R221-1
 
 La qualité de sportif de haut niveau s'obtient par l'inscription sur la liste des sportifs de haut niveau arrêtée par le
-ministre chargé des sports.
+ministre chargé des sports proposition de la fédération délégataire compétente, après avis du directeur technique national.
 
 **Nota:**
 
@@ -25032,7 +25032,7 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 
 	**Modifié par**:
 
-	  - Décret n°2013-289 du 4 avril 2013 - art. 2
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 2
 
 	**Cité par**:
 
@@ -25044,6 +25044,20 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 	  - Code du sport. - art. L221-2
 
 
+###### Article R221-1-1
+
+Sur la base des critères proposés par la Commission du sport de haut niveau mentionnée à l'article R. 142-15, le ministre
+chargé des sports arrête la liste des disciplines sportives reconnues de haut niveau avant le 31 décembre de l'année des Jeux
+olympiques et paralympiques d'été et, pour les disciplines relevant du programme des Jeux olympiques et paralympiques
+d'hiver, avant le 31 décembre de l'année de ces Jeux olympiques et paralympiques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 3
+
+
 ###### Article R221-2
 
 Nul ne peut être inscrit sur la liste des sportifs de haut niveau : 
@@ -25051,26 +25065,28 @@ Nul ne peut être inscrit sur la liste des sportifs de haut niveau :
 1° S'il n'a pas fait l'objet d'une proposition en ce sens par une fédération sportive délégataire ; 
 
 2° S'il ne pratique pas ou n'a pas pratiqué la compétition au plan international dans une discipline sportive dont le
-caractère de haut niveau a été reconnu par la Commission nationale du sport de haut niveau ; 
+caractère de haut niveau a été reconnu par le ministre chargé des sports ; 
 
 3° S'il ne justifie pas ou n'a pas justifié d'un niveau sportif suffisant dans les conditions prévues aux articles R. 221-4,
 R. 221-5 et R. 221-6 ; 
 
 4° S'il est âgé de moins de douze ans au cours de l'année de son inscription sur la liste ; 
 
-5° S'il n'a pas fait l'objet d'examens médicaux dont la nature est précisée par un arrêté des ministres chargés de la santé
-et des sports et dont les résultats sont transmis au sportif et à un médecin désigné par la fédération.
+5° S'il n'a pas conclu une convention avec une fédération sportive délégataire conformément à l'article L. 221-2-1.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 2 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-707 du 29 avril 2002 - art. 2 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 4
 
 	**Cité par**:
 
@@ -25078,32 +25094,34 @@ et des sports et dont les résultats sont transmis au sportif et à un médecin 
 
 	**Cite**:
 
-	  - Code du sport. - art. R221-4 (V)
+	  - Code du sport. - art. R221-4 (VD)
 
 
 ###### Article R221-3
 
 L'inscription sur la liste des sportifs de haut niveau est effectuée dans l'une des catégories suivantes : Elite, Senior,
-Jeune, Reconversion.
+Relève, Reconversion.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 3 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-707 du 29 avril 2002 - art. 3 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 7
 
 
 ###### Article R221-4
 
-Peut être inscrit dans la catégorie Elite le sportif qui réalise aux jeux Olympiques, aux championnats du monde, aux
-championnats d'Europe ou dans des compétitions dont la liste est fixée par la Commission nationale du sport de haut niveau
-une performance ou obtient un classement significatif soit à titre individuel, soit en qualité de membre titulaire d'une
-équipe de France, dans les conditions définies par la Commission nationale du sport de haut niveau.
+Peut être inscrit dans la catégorie " Elite " le sportif qui réalise une performance ou obtient un classement significatif
+lors des épreuves de référence internationale. Cette performance, ce classement et ces épreuves sont fixés dans le projet de
+performance fédéral de la fédération délégataire compétente. 
 
 L'inscription dans cette catégorie est valable deux ans. Elle peut être renouvelée dans les mêmes conditions.
 
@@ -25111,45 +25129,50 @@ L'inscription dans cette catégorie est valable deux ans. Elle peut être renouv
 
 	**Anciens textes**:
 
-	  - Art. 4 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-707 du 29 avril 2002 - art. 4 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 5
 
 	**Cité par**:
 
-	  - Code du sport. - art. R221-2 (V)
+	  - Code du sport. - art. R221-2 (VD)
 	  - Code du sport. - art. R221-8 (VD)
 
 
 ###### Article R221-5
 
-Peut être inscrit dans la catégorie Senior le sportif sélectionné par la fédération délégataire compétente dans une équipe de
-France pour préparer les compétitions internationales officielles figurant au calendrier des fédérations internationales
-durant l'olympiade en cours et conduisant à la délivrance d'un titre international ou à l'établissement d'un classement
-international.
+Peut être inscrit dans la catégorie "Senior" le sportif qui réalise une performance ou obtient un classement significatif
+lors des mêmes épreuves de référence internationales définies pour la catégorie "Elite" mais qui ne remplit pas les
+conditions requises pour figurer sur celle-ci. Cette performance, ce classement et ces épreuves sont fixés dans le projet de
+performance fédéral de la fédération délégataire compétente.
 
-L'inscription dans cette catégorie est valable un an. Elle peut être renouvelée dans les mêmes conditions.
+L'inscription dans cette catégorie est valable un an. Elle peut être renouvelée dans les mêmes conditions
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 5 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-707 du 29 avril 2002 - art. 5 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 6
 
 
 ###### Article R221-6
 
-Peut être inscrit dans la catégorie Jeune le sportif sélectionné dans une équipe de France par la fédération compétente pour
-préparer les compétitions internationales officielles de sa catégorie d'âge figurant au calendrier des fédérations
-internationales et conduisant à la délivrance d'un titre international ou à l'établissement d'un classement international.
+Peut être inscrit dans la catégorie "Relève" le sportif qui est sélectionné en équipe de France pour une compétition
+internationale inscrite dans le projet de performance fédéral de la fédération délégataire compétente.
 
 L'inscription dans cette catégorie est valable un an. Elle peut être renouvelée dans les mêmes conditions.
 
@@ -25157,12 +25180,15 @@ L'inscription dans cette catégorie est valable un an. Elle peut être renouvel�
 
 	**Anciens textes**:
 
-	  - Art. 6 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-707 du 29 avril 2002 - art. 6 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 7
 
 
 ###### Article R221-7
@@ -25170,7 +25196,7 @@ L'inscription dans cette catégorie est valable un an. Elle peut être renouvel�
 Peut être inscrit dans la catégorie Reconversion le sportif qui a été inscrit sur la liste des sportifs de haut niveau dans
 la catégorie Elite ou qui a été inscrit sur cette liste dans les catégories autres que la catégorie Reconversion pendant
 quatre ans, dont trois ans au moins dans la catégorie Senior, qui cesse de remplir les conditions d'inscription dans les
-catégories Elite, Senior ou Jeune et qui présente un projet d'insertion professionnelle.
+catégories Elite, Senior ou Relève et qui présente un projet d'insertion professionnelle.
 
 L'inscription dans la catégorie Reconversion est valable un an. Elle peut être renouvelée pour la même durée dans la limite
 de cinq ans.
@@ -25179,35 +25205,41 @@ de cinq ans.
 
 	**Anciens textes**:
 
-	  - Art. 7 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-707 du 29 avril 2002 - art. 7 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 7
 
 
 ###### Article R221-8
 
 La durée d'inscription sur la liste des sportifs de haut niveau dans l'une des catégories prévues aux articles R. 221-4, R.
 221-5 et R. 221-6 peut être prorogée pour une durée d'un an, après avis motivé du directeur technique national placé auprès
-de la fédération compétente, lorsque la personne intéressée a dû interrompre sa carrière sportive pour des raisons médicales
-dûment justifiées par le médecin fédéral ou pour des raisons liées à la maternité.
+de la fédération délégataire compétente, lorsque le sportif n'a pas, momentanément, réalisé les performances ou obtenu les
+classements requis, notamment pour des raisons médicales ou pour des raisons liées à la maternité.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 8 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-707 du 29 avril 2002 - art. 8 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 8
 
 	**Cite**:
 
-	  - Code du sport. - art. R221-4 (V)
+	  - Code du sport. - art. R221-4
 
 
 ##### Sous-section 2 : Inscription sur la liste des entraîneurs de haut niveau
@@ -25274,29 +25306,31 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 	  - Code du sport. - art. L221-2
 
 
-##### Sous-section 4 : Inscription sur la liste des sportifs Espoirs et sur la liste des partenaires d'entraînement
+##### Sous-section 4 : Inscription sur les listes des sportifs Espoirs et des collectifs nationaux
 
 ###### Article R221-11
 
-Une liste des sportifs Espoirs regroupe les sportifs âgés de douze ans au moins au cours de l'année de leur inscription sur
-cette liste présentant, dans les disciplines sportives reconnues de haut niveau, des compétences sportives attestées par le
-directeur technique national placé auprès de la fédération compétente mais ne remplissant pas encore les conditions requises
-pour figurer sur la liste des sportifs de haut niveau.
+Une liste des sportifs Espoirs regroupe les sportifs âgés de douze ans au moins ou inscrits dans un établissement
+d'enseignement secondaire au cours de l'année de leur inscription sur cette liste présentant, dans les disciplines sportives
+reconnues de haut niveau, des compétences sportives attestées par le directeur technique national placé auprès de la
+fédération délégataire compétente, en lien avec les critères d'inscription en liste sportif de haut niveau. 
 
-Nul ne peut être inscrit sur la liste des sportifs Espoirs s'il n'a fait l'objet d'examens médicaux dont la nature est
-précisée par un arrêté des ministres chargés de la santé et des sports et dont les résultats sont transmis au sportif et à un
-médecin désigné par la fédération.
+Les critères d'inscription à cette liste sont fixés dans le projet de performance fédéral de la fédération délégataire
+compétente. L'inscription dans cette catégorie est valable un an. Elle peut être renouvelée dans les mêmes conditions.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 11 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-707 du 29 avril 2002 - art. 11 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 9
 
 	**Cité par**:
 
@@ -25307,33 +25341,33 @@ médecin désigné par la fédération.
 
 ###### Article R221-12
 
-Une liste de partenaires d'entraînement est arrêtée dans les disciplines sportives reconnues de haut niveau et pour
-lesquelles l'entraînement avec des partenaires est obligatoire. Ne peuvent être inscrits sur cette liste que les sportifs
-âgés de douze ans au moins au cours de l'année de leur inscription et participant à la préparation des membres des équipes de
-France.
+Une liste des sportifs des Collectifs nationaux regroupe les sportifs qui concourent à la performance des équipes de France
+dans une discipline sportive reconnue de haut niveau sans justifier d'un niveau sportif suffisant prévu aux articles R.
+221-4, R. 221-5 et R. 221-6. 
+
+Les critères d'inscription à cette liste sont fixés dans le projet de performance fédéral de la fédération délégataire
+compétente.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 12 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-649 du 29 avril 2002 - art. 11 (Ab)
 	  - Décret n°2002-707 du 29 avril 2002 - art. 12 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 9
 
 
 ###### Article R221-13
 
-Les listes des sportifs Espoirs et des partenaires d'entraînement sont arrêtées pour une année par le ministre chargé des
-sports, sur proposition de la fédération compétente et après avis du directeur technique national.
-
-**Nota:**
-
-Décret n° 2013-289, article 5 : Le Conseil national du sport est créé pour une durée de cinq ans. Il peut être renouvelé dans
-les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
+Les listes des sportifs Espoirs et des collectifs nationaux sont arrêtées pour une année par le ministre chargé des sports,
+sur proposition de la fédération compétente et après avis du directeur technique national.
 
 **Liens relatifs à cet article**
 
@@ -25348,7 +25382,7 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 
 	**Modifié par**:
 
-	  - Décret n°2013-289 du 4 avril 2013 - art. 2
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 9
 
 
 ##### Sous-section 5 : Suspension, retrait des listes et interdiction d'inscription sur ces listes
@@ -25356,26 +25390,29 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 ###### Article R221-14
 
 La qualité de sportif de haut niveau, d'entraîneur de haut niveau, d'arbitre et juge sportif de haut niveau, de sportif
-espoir ou de partenaire d'entraînement est retirée lorsque le bénéficiaire cesse de satisfaire aux conditions requises pour
+espoir ou des Collectifs nationaux est retirée lorsque le bénéficiaire cesse de satisfaire aux conditions requises pour
 l'obtenir.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Art. 14 du décret n°2002-707 du 29 avril 2002 pris pour l'application de l'article 26 de la loi n°84-610 du 16 juillet 1984 et relatif au sport de haut niveau
 	  - Décret n°2002-707 du 29 avril 2002 - art. 14 (Ab)
 
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 10
 
 
 ###### Article R221-15
 
-La qualité de sportif de haut niveau, d'entraîneur de haut niveau, d'arbitre et juge sportif de haut niveau, de sportif
-espoir ou de partenaire d'entraînement peut être retirée ou suspendue à tout moment par décision motivée du ministre chargé
-des sports : 
+I. - La qualité de sportif de haut niveau, d'entraîneur de haut niveau, d'arbitre et juge sportif de haut niveau, de sportif
+espoir ou des Collectifs nationaux peut être retirée ou suspendue à tout moment par décision motivée du ministre chargé des
+sports : 
 
 1° Sur proposition de la fédération compétente, lorsque l'intéressé a fait l'objet d'une sanction disciplinaire grave prise
 conformément aux dispositions des statuts et règlements de la fédération ; 
@@ -25406,6 +25443,13 @@ prévus :
 
 - aux articles L. 3421-1 et L. 3421-4 du code de la santé publique.
 
+3° A l'initiative du ministre chargé des sports, lorsque l'état de santé d'un sportif ne lui permet plus la pratique de sa
+discipline sportive dans le cadre du projet de performance fédéral ou lorsque celui-ci ne s'est pas soumis à la surveillance
+médicale prévue à l'article L. 231-6.
+
+II. - Lorsque la demande de retrait est formulée par le sportif, le ministre chargé des sports lui en donne acte, après que
+le sportif en a informé la fédération délégataire compétente.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -25418,7 +25462,7 @@ prévus :
 
 	**Modifié par**:
 
-	  - Décret n°2016-83 du 29 janvier 2016 - art. 3
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 11
 
 	**Cite**:
 
@@ -25486,97 +25530,84 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 	  - Décret n°2013-289 du 4 avril 2013 - art. 2
 
 
-##### Section 2 : Les filières d'accès au sport de haut niveau
+##### Section 2 : Les projets de performances fédéraux
 
-###### Article D221-17
+###### Article R221-17
 
 Dans les disciplines reconnues de haut niveau, les fédérations sportives délégataires peuvent solliciter la validation, sous
-le terme de " filière d'accès au sport de haut niveau ", de la politique et des dispositifs qu'elles mettent en place pour
-permettre aux sportifs d'atteindre le plus haut niveau de leur discipline ainsi que pour assurer leur formation et leur
-préparation à la vie professionnelle.
+le terme de " Projet de performance fédéral ", de la politique et des dispositifs qu'elles mettent en place pour permettre
+aux sportifs d'atteindre le plus haut niveau de leur discipline ainsi que pour assurer leur formation et leur préparation à
+la vie professionnelle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 1er du décret n°2002-1010 du 18 juillet 2002 relatif aux filières d'accès au sport de haut niveau
-	  - Décret n°2002-1010 du 18 juillet 2002 - art. 1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2016-1286 du 29 septembre 2016 - art. 12
 
 
-###### Article D221-18
+###### Article R221-18
 
-La validation des filières d'accès au sport de haut niveau est subordonnée à la présentation, par la fédération délégataire
-compétente, d'une demande indiquant :
+La validation des projets de performance fédéraux est subordonnée à la présentation, par la fédération délégataire
+compétente, d'une demande présentant les deux programmes mentionnés au 3° de l'article L. 131-15 : 
 
-1° Les objectifs poursuivis ;
+1° Un programme d'excellence sportive qui définit la stratégie fédérale de préparation à la performance des équipes de
+France ; 
 
-2° Le nombre, la nature et le lieu d'implantation des structures mises en oeuvre ou à mettre en oeuvre pour atteindre ces
-objectifs ;
+2° Un programme d'accession au sport de haut niveau qui définit la stratégie fédérale de détection et de formation pour
+accéder au programme d'excellence. 
 
-3° Le cahier des charges auquel est soumis le fonctionnement de la filière, et, en particulier, des structures qu'elle
-regroupe.
+Les projets de performance fédéraux doivent indiquer : 
 
-Le cahier des charges mentionné à l'alinéa précédent comprend notamment les dispositions prévues par un arrêté des ministres
-chargés de l'agriculture, de l'éducation et des sports.
+a) Les objectifs sportifs et les moyens nécessaires ; 
 
-**Liens relatifs à cet article**
+b) Les performances, le classement et les épreuves permettant l'inscription sur liste ministérielle ; 
 
-	**Anciens textes**:
+c) La prise en compte de la stratégie de performance par public et par territoire ; 
 
-	  - Art. 2 du décret n°2002-1010 du 18 juillet 2002 relatif aux filières d'accès au sport de haut niveau
-	  - Décret n°2002-1010 du 18 juillet 2002 - art. 2 (Ab)
+d) Le dispositif d'information et de formation professionnelle continue des entraîneurs ; 
 
-	**Codifié par**:
+e) Les modalités du suivi socioprofessionnel des sportifs de haut niveau ; 
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+f) Les modalités de mise en œuvre de la formation sportive et citoyenne prévue à l'article L. 221-11 ; 
 
-	**Abrogé par**:
-
-	  - Décret n°2016-1286 du 29 septembre 2016 - art. 12
-
-
-###### Article D221-19
-
-Les filières dont la validation est demandée regroupent des structures gérées, séparément ou conjointement, notamment sur la
-base d'une convention, par la fédération délégataire concernée, par une association qui lui est affiliée, ou par une personne
-morale de droit public. 
-
-Elles sont composées, à titre principal, de structures ou de groupes de structures dénommés " pôles France " ou " pôles
-Espoirs " et répondant aux conditions fixées par les articles D. 221-20 à D. 221-22.
+g) Les modalités du suivi et de l'évaluation du projet de performance fédéral.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 3 du décret n°2002-1010 du 18 juillet 2002 relatif aux filières d'accès au sport de haut niveau
-	  - Décret n°2002-1010 du 18 juillet 2002 - art. 3 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2016-1286 du 29 septembre 2016 - art. 12
 
 	**Cite**:
 
-	  - Code du sport. - art. D221-20 (V)
+	  - Code du sport. - art. L131-15 (V)
+	  - Code du sport. - art. L221-11 (V)
 
 
-###### Article D221-20
+###### Article R221-19
 
-Constitue un " pôle France " toute structure permanente ou tout groupe de structures permanentes liées entre elles, notamment
-par convention, accueillant, à titre principal, des sportifs inscrits sur la liste des sportifs de haut niveau prévue à
-l'article R. 221-1 du présent code dans les catégories Elite, Senior ou Jeune et permettant à ces derniers de bénéficier : 
+Les projets de performance fédéraux regroupent les structures gérées, séparément ou conjointement, notamment sur la base
+d'une convention, par la fédération délégataire concernée, par une association qui lui est affiliée, ou par une personne
+morale de droit public. Ils sont composés, à titre principal, de structures ou de groupe de structures dénommés " pôles
+France " ou " pôles Espoirs " et répondant aux conditions fixées par les articles R. 221-20 et R. 221-21.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 12
+
+	**Cite**:
+
+	  - Code du sport. - art. R221-20 (V)
+
+
+###### Article R221-20
+
+Constitue un " pôle France " toute structure permanente ou tout groupe de structures liées entre elles, notamment par
+convention, accueillant, à titre principal, des sportifs inscrits sur la liste des sportifs de haut niveau prévue à l'article
+R. 221-1 du présent code dans les catégories Elite, Senior ou Relève et permettant à ces derniers de bénéficier : 
 
 1° D'une préparation sportive de haut niveau ; 
 
@@ -25585,21 +25616,12 @@ l'éducation, ou d'une formation professionnelle ;
 
 3° D'une surveillance médicale répondant aux conditions prévues par l'article L. 231-6 du présent code. 
 
-Les " pôles France " ne peuvent accueillir que des sportifs âgés de douze ans au moins au cours de l'année de leur
-inscription dans le pôle.
+Les " pôles France " ne peuvent accueillir que des sportifs âgés de douze ans au moins ou inscrits dans un établissement
+scolaire du secondaire au cours de l'année de leur inscription dans le pôle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. 4 du décret n°2002-1010 du 18 juillet 2002 relatif aux filières d'accès au sport de haut niveau
-	  - Décret n°2002-1010 du 18 juillet 2002 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2016-1286 du 29 septembre 2016 - art. 12
 
@@ -25612,77 +25634,64 @@ inscription dans le pôle.
 
 	**Cité par**:
 
-	  - Code du sport. - art. D221-19 (V)
-	  - Code du sport. - art. D221-21 (V)
+	  - Code du sport. - art. R221-19 (V)
+	  - Code du sport. - art. R221-21 (V)
 
 
-###### Article D221-21
+###### Article R221-21
 
-Constitue un " pôle Espoirs " toute structure permanente ou tout groupe de structures permanentes liées entre elles,
-notamment par convention, accueillant des sportifs inscrits sur la liste des sportifs Espoirs prévue à l'article R. 221-11 et
-permettant à ces derniers de bénéficier des formations et préparation prévues aux deuxième à quatrième alinéas de l'article
-D. 221-20.
+Constitue un " pôle Espoirs " toute structure ou tout groupe de structures liées entre elles, notamment par convention,
+accueillant, à titre principal, des sportifs inscrits sur la liste des sportifs Espoirs prévue à l'article R. 221-11 et
+permettant à ces derniers de bénéficier des formations et préparation prévues aux 1° à 3° de l'article R. 221-20. 
+
+Les " pôles Espoirs " ne peuvent accueillir que des sportifs âgés de douze ans au moins ou inscrits dans un établissement
+scolaire du secondaire au cours de l'année de leur inscription dans le pôle.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Al. 1 de l'article 5 du décret n°2002-1010 du 18 juillet 2002 relatif aux filières d'accès au sport de haut niveau
-	  - Décret n°2002-1010 du 18 juillet 2002 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2016-1286 du 29 septembre 2016 - art. 12
 
 	**Cite**:
 
-	  - Code du sport. - art. D221-20 (V)
 	  - Code du sport. - art. R221-11 (V)
+	  - Code du sport. - art. R221-20 (V)
 
 
-###### Article D221-22
+###### Article R221-22
 
-Les " pôles Espoirs " ne peuvent accueillir que des sportifs âgés de douze ans au moins au cours de l'année de leur
-inscription dans le pôle.
+La validation est accordée par arrêté du ministre chargé des sports après consultation de la commission du sport de haut
+niveau du Conseil national du sport prévue à l'article R. 142-14. Elle est valable pour une période de quatre ans commençant
+à courir à compter du 1er juillet qui suit immédiatement les Jeux olympiques et paralympiques d'été, et, pour les disciplines
+inscrites au programme des Jeux olympiques et paralympiques d'hiver, à compter du 1er janvier qui suit immédiatement ces Jeux
+olympiques et paralympiques.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Al. 2 de l'article 5 du décret n°2002-1010 du 18 juillet 2002 relatif aux filières d'accès au sport de haut niveau
-	  - Décret n°2002-1010 du 18 juillet 2002 - art. 5 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
-
-	**Abrogé par**:
+	**Créé par**:
 
 	  - Décret n°2016-1286 du 29 septembre 2016 - art. 12
 
+	**Cite**:
 
-###### Article D221-24
+	  - Code du sport. - art. R142-14 (V)
 
-La validation est accordée après avis de la commission du sport de haut niveau du Conseil national du sport, prévue à
-l'article R. 142-14. 
 
-Elle est valable pour la période de quatre ans commençant à courir à compter du 1er juillet qui suit immédiatement les jeux
-Olympiques d'été.
+###### Article R221-23
 
-**Nota:**
-
-Décret n° 2013-289, article 5 : Le Conseil national du sport est créé pour une durée de cinq ans. Il peut être renouvelé dans
-les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
+Le directeur technique national placé auprès de la fédération compétente veille au bon fonctionnement du projet de
+performance fédéral qui a obtenu sa validation dans les conditions prévues par la présente section.
 
 **Liens relatifs à cet article**
 
+	**Cité par**:
+
+	  - Décret n°97-1208 du 19 décembre 1997 - art. ANNEXE (V)
+
 	**Anciens textes**:
 
-	  - Décret n°2002-1010 du 18 juillet 2002 - art. 7 (Ab)
+	  - Décret n°2002-1010 du 18 juillet 2002 - art. 6 (Ab)
 
 	**Codifié par**:
 
@@ -25690,35 +25699,18 @@ les conditions prévues à l'article 2 du décret du 8 juin 2006 susvisé.
 
 	**Modifié par**:
 
-	  - Décret n°2013-289 du 4 avril 2013 - art. 2
-
-	**Abrogé par**:
-
 	  - Décret n°2016-1286 du 29 septembre 2016 - art. 12
 
-	**Cite**:
 
-	  - Code du sport. - art. R142-14
+###### Article R221-24
 
-
-###### Article R221-23
-
-La décision de validation d'une filière d'accès au sport de haut niveau est prise par le ministre chargé des sports.
+Chaque année, le ministre chargé des sports établit et rend publique la liste des " pôles France " et des " pôles Espoirs ".
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Créé par**:
 
-	  - Art. 6 du décret n°2002-1010 du 18 juillet 2002 relatif aux filières d'accès au sport de haut niveau
-	  - Décret n°2002-1010 du 18 juillet 2002 - art. 6 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°97-1208 du 19 décembre 1997 - art. ANNEXE (V)
-
-	**Codifié par**:
-
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 12
 
 
 ##### Section 3 : Autres mesures relatives aux sportifs de haut niveau
@@ -27606,24 +27598,27 @@ et adressé par la fédération au ministre chargé des sports.
 ###### Article R231-11
 
 Les personnes appelées à connaître, en application du présent chapitre, des données individuelles relatives à la surveillance
-médicale des licenciés inscrits sur la liste des sportifs de haut niveau ou dans les filières d'accès au sport de haut niveau
+médicale des licenciés inscrits sur la liste des sportifs de haut niveau ou reconnus dans le projet de performance fédéral
 sont tenues au secret professionnel dans les conditions et sous les réserves énoncées aux articles 226-13 et 226-14 du code
 pénal.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Art. R. 3621-9 du code de la santé publique
-	  - Code de la santé publique - art. R3621-9 (Ab)
-
 	**Codifié par**:
 
-	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+	  - Décret n°2007-1133 du 24 juillet 2007
+
+	**Modifié par**:
+
+	  - Décret n°2016-1286 du 29 septembre 2016 - art. 13
 
 	**Cite**:
 
-	  - Code pénal - art. 226-13 (V)
+	  - Code pénal - art. 226-13
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R3621-9 (Ab)
 
 
 #### Chapitre II : Lutte contre le dopage
