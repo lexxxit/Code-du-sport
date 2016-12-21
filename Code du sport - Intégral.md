@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-12-01
+Version Consolidée au 2016-12-22
 
 # Partie législative
 
@@ -41625,7 +41625,7 @@ Le dossier comprend les pièces suivantes :
 
 2° La photocopie d'une pièce d'identité en cours de validité ;
 
-3° Les copies de l'attestation de recensement et du certificat individuel de participation à la journée défense et
+3° Une copie de l'attestation de recensement ou du certificat individuel de participation à la journée défense et
 citoyenneté ;
 
 4° La ou les attestations justifiant de la satisfaction aux exigences préalables fixées par l'arrêté portant création de la
@@ -41648,12 +41648,11 @@ visée.
 
 	**Modifié par**:
 
-	  - Arrêté du 21 décembre 2015 - art. 1
+	  - Arrêté du 9 décembre 2016 - art. 1
 
 	**Cité par**:
 
 	  - Code du sport. - art. A212-37 (V)
-	  - Code du sport. - art. A212-44 (V)
 
 
 ###### Article A212-37
@@ -41812,7 +41811,7 @@ du jury du diplôme visé, au plus tard deux mois avant la date du jury.
 
 Ce dossier est composé des pièces suivantes : 
 
-1° Une copie de l'attestation de recensement et du certificat individuel de participation à la journée défense et
+1° Une copie de l'attestation de recensement ou du certificat individuel de participation à la journée défense et
 citoyenneté ; 
 
 2° L'attestation de l'unité d'enseignement " prévention et secours civiques de niveau 1 " (PSC1) ou tout titre équivalent
@@ -41831,15 +41830,11 @@ référentiel du diplôme visé et, le cas échéant, les valide intégralement 
 
 	**Modifié par**:
 
-	  - Arrêté du 21 décembre 2015 - art. 1
+	  - Arrêté du 9 décembre 2016 - art. 2
 
 	**Cite**:
 
-	  - Code du sport. - art. A212-41 (V)
-
-	**Cité par**:
-
-	  - Code du sport. - art. A212-44 (V)
+	  - Code du sport. - art. A212-41
 
 
 ###### Article A212-43
