@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2016-12-24
+Version Consolidée au 2016-12-31
 
 # Partie législative
 
@@ -36953,6 +36953,202 @@ fonctionnement de commissions administratives à caractère consultatif est adre
 	**Codifié par**:
 
 	  - Décret n°2007-1133 2007-07-24 JORF 25 juillet 2007
+
+
+##### Section 3 : Dispositions relatives à la mise en œuvre par les organisateurs de manifestations sportives à but lucratif de traitements automatisés de données à caractère personnel pour l'application de l'article L. 332-1
+
+###### Article R332-14
+
+Le traitement automatisé de données à caractère personnel, relatives aux manquements aux dispositions des conditions
+générales de vente ou du règlement intérieur concernant la sécurité, que peut mettre en œuvre tout organisateur de
+manifestations sportives à but lucratif mentionné à l'article L. 332-1 est soumis aux conditions suivantes. 
+
+Ce traitement a pour finalité de contribuer à la sécurité des manifestations sportives en permettant aux organisateurs de
+refuser ou d'annuler la délivrance de titres d'accès à ces manifestations ou en refuser l'accès aux personnes qui ont
+contrevenu ou contreviennent aux dispositions des conditions générales de vente ou du règlement intérieur relatives à la
+sécurité de ces manifestations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. L332-1 (V)
+
+	**Cité par**:
+
+	  - Code du sport. - art. R332-15 (V)
+	  - Code du sport. - art. R332-18 (V)
+	  - Code du sport. - art. R332-20 (V)
+
+
+###### Article R332-15
+
+Seules peuvent être enregistrées dans le traitement prévu à l'article R. 332-14 les données à caractère personnel et
+informations suivantes : 
+
+1° Données d'identification : nom ; prénom ; date et lieu de naissance ; adresse ou lieu de résidence ; adresse
+électronique ; numéro de téléphone ; numéro de carte d'abonnement et photographie associée, le cas échéant ; 
+
+2° Motifs de l'enregistrement constituant un manquement aux dispositions des conditions générales de vente ou du règlement
+intérieur concernant la sécurité des manifestations sportives, notamment ceux tirés des faits suivants : 
+
+a) Acte de provocation à la haine ou à la violence dans l'enceinte sportive ou à ses abords immédiats ; 
+
+b) Acte de nature à compromettre la sécurité des personnes et des biens dans l'enceinte sportive ou à ses abords immédiats
+lors de la manifestation sportive ; 
+
+c) Accès à l'enceinte sportive en état d'ivresse manifeste ou sous l'influence manifeste de produits stupéfiants ;
+introduction et consommation de boissons alcooliques et/ ou de produits stupéfiants dans l'enceinte sportive ; 
+
+d) Introduction dans l'enceinte sportive de tout objet pouvant constituer une arme ou mettre en péril la sécurité des
+personnes et des biens ; 
+
+3° Décisions prises : 
+
+a) Nature de la mesure : suspension, résiliation ou impossibilité de souscrire un nouvel abonnement ; refus de vente d'un
+titre d'accès ; annulation d'un tel titre ; refus d'accès à une enceinte sportive ; 
+
+b) Date de la décision ; 
+
+c) Durée de la mesure. 
+
+Ces données sont enregistrées par les personnes chargées de la sécurité sous l'autorité de l'organisateur de manifestations
+sportives à but lucratif.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R332-14 (V)
+
+	**Cité par**:
+
+	  - Code du sport. - art. R332-16 (V)
+	  - Code du sport. - art. R332-17 (V)
+
+
+###### Article R332-16
+
+Les données et informations à caractère personnel mentionnées à l'article R. 332-15 sont conservées pendant une durée qui ne
+peut excéder dix-huit mois à compter de leur enregistrement. Au terme de ce délai, ces données sont effacées automatiquement
+des traitements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R332-15 (V)
+
+
+###### Article R332-17
+
+I.-Ont accès à tout ou partie des données à caractère personnel et informations mentionnées à l'article R. 332-15, dans le
+cadre de leurs attributions et pour les besoins exclusifs des missions qui leur sont confiées, les employés individuellement
+désignés par le responsable du traitement et relevant des services chargés de la sécurité, de la billetterie, des affaires
+juridiques et de l'organisation des manifestations sportives. 
+
+II.-Peuvent être destinataires, dans le cadre de leurs attributions et dans la limite du besoin d'en connaître, de tout ou
+partie des mêmes données et informations : 
+
+1° Les agents du service central du renseignement territorial (SCRT) et de la division nationale de lutte contre le
+hooliganisme (DNLH) de la direction centrale de la sécurité publique (DCSP), individuellement désignés et dûment habilités
+par leur chef de service ; 
+
+2° Les agents des directions départementales de la sécurité publique, individuellement désignés et dûment habilités par le
+directeur départemental ; 
+
+3° Les fonctionnaires de la préfecture de police relevant de la direction de la sécurité de proximité de l'agglomération
+parisienne, de la direction de l'ordre public et de la circulation et de la direction du renseignement, individuellement
+désignés et dûment habilités par leur directeur ; 
+
+4° Les militaires des groupements de gendarmerie départementale, des régions de gendarmerie et de la sous-direction de
+l'anticipation opérationnelle (SDAO) de la direction générale de la gendarmerie nationale, individuellement désignés et
+dûment habilités, respectivement par le commandant de groupement, le commandant de région de gendarmerie ou le sous-directeur
+de l'anticipation opérationnelle ; 
+
+5° Les employés des fédérations sportives délégataires et des ligues professionnelles, relevant des services chargés de la
+sécurité, de la billetterie, des affaires juridiques et de l'organisation des manifestations sportives individuellement
+désignés et dûment habilités par leur président, pour les besoins liés aux rencontres organisées par ces organismes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. R332-15 (V)
+
+
+###### Article R332-18
+
+Le responsable du traitement procède à l'information des personnes concernées par affichage, envoi ou remise d'un document,
+ou par tout autre moyen équivalent, en indiquant l'identité du responsable de traitement, la finalité poursuivie par le
+traitement, le caractère obligatoire des réponses, les conséquences éventuelles d'un défaut de réponse, les destinataires des
+données, la durée de conservation et les modalités d'exercice des droits des personnes concernées. 
+
+Le droit d'opposition prévu à l'article 38 de la loi du 6 janvier 1978 ne s'applique pas au traitement mentionné à l'article
+R. 332-14. 
+
+Les droits d'accès et de rectification prévus par les articles 39 et 40 de la loi du 6 janvier 1978 s'exercent directement
+auprès du responsable de traitement.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 38 (V)
+	  - Loi n°78-17 du 6 janvier 1978 - art. 39 (V)
+	  - Code du sport. - art. R332-14 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+
+###### Article R332-19
+
+Les  créations, modifications et consultations font l'objet d'un  enregistrement comprenant l'identification du consultant
+ainsi que la  date, l'heure et l'objet de la consultation. Les informations relatives  aux consultations sont conservées dans
+le traitement pendant une durée  qui ne peut excéder trois ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
+
+
+###### Article R332-20
+
+Les traitements de données à caractère personnel mentionnés à l'article R. 332-14 mis en œuvre par les organisateurs de
+manifestations sportives à but lucratif font l'objet d'une déclaration auprès de la Commission nationale de l'informatique et
+des libertés suivant les modalités prévues par les dispositions de l'article 23 de la loi n° 78-17 du 6 janvier 1978 relative
+à l'informatique, aux fichiers et aux libertés.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 23 (V)
+	  - Code du sport. - art. R332-14 (V)
+
+	**Créé par**:
+
+	  - Décret n°2016-1954 du 28 décembre 2016 - art. 1
 
 
 #### Chapitre III : Retransmission des manifestations sportives
