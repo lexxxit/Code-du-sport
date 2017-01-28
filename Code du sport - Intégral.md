@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-01-22
+Version Consolidée au 2017-01-29
 
 # Partie législative
 
@@ -18,21 +18,23 @@ ainsi qu'à la santé.
 La promotion et le développement des activités physiques et sportives pour tous, notamment pour les personnes handicapées,
 sont d'intérêt général.
 
+L'égal accès des hommes et des femmes aux activités sportives, sous toutes leurs formes, est d'intérêt général.
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 1, alinéa 1, art. 20, alinéa 5
-	  - Loi n°84-610 du 16 juillet 1984 - art. 1, v. init.
 	  - Loi n°84-610 du 16 juillet 1984 - art. 1 (Ab)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 20 (Ab)
-	  - Loi n°98-657 du 29 juillet 1998 - art. 140 (V)
 	  - Code de l'éducation - art. L121-5 (V)
-	  - Code de l'action sociale et des familles - art. L114-1 (M)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 202
 
 	**Cité par**:
 
@@ -44,6 +46,8 @@ sont d'intérêt général.
 L'Etat, les collectivités territoriales et leurs groupements, les associations, les fédérations sportives, les entreprises et
 leurs institutions sociales contribuent à la promotion et au développement des activités physiques et sportives.
 
+Ils veillent à assurer un égal accès aux pratiques sportives sur l'ensemble du territoire.  
+
 L'Etat et les associations et fédérations sportives assurent le développement du sport de haut niveau, avec le concours des
 collectivités territoriales, de leurs groupements et des entreprises intéressées.
 
@@ -51,13 +55,15 @@ collectivités territoriales, de leurs groupements et des entreprises intéress�
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 1, alinéas 2 et 3
-	  - Loi n°84-610 du 16 juillet 1984 - art. 1, v. init.
 	  - Loi n°84-610 du 16 juillet 1984 - art. 1 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 202
 
 
 ###### Article L100-3
@@ -10706,8 +10712,8 @@ consultative de prévention des violences lors des manifestations sportives, tou
 pour objet le soutien à une association sportive mentionnée à l'article L. 122-1, dont des membres ont commis en réunion, en
 relation ou à l'occasion d'une manifestation sportive, des actes répétés ou un acte d'une particulière gravité et qui sont
 constitutifs de dégradations de biens, de violence sur des personnes ou d'incitation à la haine ou à la discrimination contre
-des personnes à raison de leur origine, de leur orientation ou identité sexuelle, de leur sexe ou de leur appartenance, vraie
-ou supposée, à une ethnie, une nation, une race ou une religion déterminée. 
+des personnes à raison de leur origine, de leur orientation  sexuelle ou identité de genre, de leur sexe ou de leur
+appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion déterminée. 
 
 Les représentants des associations ou groupements de fait et les dirigeants de club concernés peuvent présenter leurs
 observations à la commission. 
@@ -10733,12 +10739,12 @@ Les conditions de fonctionnement de la commission sont fixées par décret en Co
 	  - Décret n°2006-1550 du 8 décembre 2006 - art. 2 (Ab)
 	  - Code de la sécurité intérieure - art. L212-2 (VD)
 	  - Code du sport. - art. L332-16 (V)
-	  - Code du sport. - art. L332-19 (M)
+	  - Code du sport. - art. L332-19 (V)
 	  - Code du sport. - art. R332-11 (V)
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 207
 
 	**Cite**:
 
@@ -10757,9 +10763,9 @@ vu interdire en application du même article, sont punis de deux ans d'emprisonn
 
 Les peines prévues aux premier et deuxième alinéas sont portées respectivement à trois ans d'emprisonnement et 45 000 euros
 d'amende et à cinq ans d'emprisonnement et 75 000 euros d'amende si les infractions à l'origine de la dissolution ou de la
-suspension de l'association ou du groupement ont été commises à raison de l'origine de la victime, de son orientation ou
-identité sexuelle, de son sexe ou de son appartenance, vraie ou supposée, à une ethnie, une nation, une race ou une religion
-déterminée.
+suspension de l'association ou du groupement ont été commises à raison de l'origine de la victime, de son orientation
+sexuelle ou identité de genre, de son sexe ou de son appartenance, vraie ou supposée, à une ethnie, une nation, une race ou
+une religion déterminée.
 
 **Liens relatifs à cet article**
 
@@ -10769,7 +10775,7 @@ déterminée.
 
 	**Modifié par**:
 
-	  - Loi n°2012-954 du 6 août 2012 - art. 4
+	  - Loi n°2017-86 du 27 janvier 2017 - art. 207
 
 	**Cité par**:
 
@@ -10780,7 +10786,7 @@ déterminée.
 
 	**Cite**:
 
-	  - Code du sport. - art. L332-18
+	  - Code du sport. - art. L332-18 (V)
 
 
 ###### Article L332-20
