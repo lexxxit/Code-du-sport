@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-03-02
+Version Consolidée au 2017-03-03
 
 # Partie législative
 
@@ -256,8 +256,15 @@ Les collectivités territoriales ou leurs groupements ne peuvent accorder de gar
 associations sportives et aux sociétés sportives mentionnées aux articles L. 121-1 et L. 122-2. 
 
 Toutefois, les collectivités territoriales ou leurs groupements peuvent accorder leur garantie aux emprunts contractés en vue
-de l'acquisition de matériels ou de la réalisation d'équipements sportifs par des associations sportives dont le montant
-annuel des recettes n'excède pas 75 000 euros.
+de l'acquisition de matériels par des associations sportives dont le montant annuel des recettes n'excède pas 75 000 euros. 
+
+Ils peuvent également accorder leur garantie aux emprunts contractés en vue de l'acquisition, de la réalisation ou de la
+rénovation d'équipements sportifs par des associations ou des sociétés sportives. L'association ou la société sportive
+produit à l'appui de sa demande ses comptes certifiés sur trois exercices tels que transmis à l'organisme prévu à l'article
+L. 132-2. 
+
+Les garanties d'emprunts prévues au présent article ne peuvent être accordées que dans le respect des articles L. 2252-1, L.
+3231-4 et L. 4253-1 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
 
@@ -275,12 +282,16 @@ annuel des recettes n'excède pas 75 000 euros.
 
 	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 10
+	  - Loi n°2017-261 du 1er mars 2017 - art. 18
 
 	**Cite**:
 
+	  - Code général des collectivités territoriales - art. L2252-1 (V)
+	  - Code général des collectivités territoriales - art. L3231-4 (V)
+	  - Code général des collectivités territoriales - art. L4253-1 (V)
 	  - Code du sport. - art. L121-1
 	  - Code du sport. - art. L122-2
+	  - Code du sport. - art. L132-2 (V)
 
 
 ###### Article L113-2
@@ -1313,18 +1324,22 @@ conditions ou les effets seraient contraires aux dispositions de la présente se
 
 ###### Article L122-7
 
-Il est interdit à une même personne privée :  
+Il est interdit à une même personne privée : 
 
 1° De contrôler de manière exclusive ou conjointe plusieurs sociétés sportives dont l'objet social porte sur une même
-discipline ou d'exercer sur elles une influence notable, au sens de l'article L. 233-16 du code de commerce ; 
+discipline ou d'exercer sur elles une influence notable, au sens de l'article    L. 233-17-2 du code de commerce ; 
 
 2° D'être dirigeant de plus d'une société sportive dont l'objet social porte sur une même discipline sportive ; 
 
 3° De contrôler de manière exclusive ou conjointe une société sportive ou d'exercer sur elle une influence notable, au sens
-de l'article L. 233-16 du code de commerce, et d'être dirigeant d'une autre société sportive dont l'objet social porte sur
-une même discipline sportive. 
+de l'article    L. 233-17-2 du code de commerce, et d'être dirigeant d'une autre société sportive dont l'objet social porte
+sur une même discipline sportive. 
 
 Le non-respect de ces dispositions est puni d'une peine de 45 000 € d'amende.
+
+Le présent article n'est pas applicable à la personne privée qui contrôle, dirige ou exerce une influence notable sur deux
+sociétés sportives distinctes qui gèrent, respectivement, des activités sportives féminines et masculines au sein d'une même
+discipline.
 
 **Liens relatifs à cet article**
 
@@ -1338,11 +1353,12 @@ Le non-respect de ces dispositions est puni d'une peine de 45 000 € d'amende.
 
 	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 4
+	  - Loi n°2017-261 du 1er mars 2017 - art. 15
+	  - Loi n°2017-261 du 1er mars 2017 - art. 22
 
 	**Cite**:
 
-	  - Code de commerce - art. L233-16
+	  - Code de commerce - art. L233-17-2
 
 
 ###### Article L122-8
@@ -1376,7 +1392,7 @@ d'acquisition d'actifs destinés à renforcer leur stabilité et leur pérennit�
 ###### Article L122-9
 
 Il est interdit à toute personne privée qui contrôle de manière exclusive ou conjointe une société sportive ou exerce sur
-elle une influence notable, au sens de l'article L. 233-16 du code de commerce : 
+elle une influence notable, au sens de l'article    L. 233-17-2 du code de commerce : 
 
 1° De consentir un prêt à une autre société sportive dès lors que son objet social porterait sur la même discipline
 sportive ; 
@@ -1398,11 +1414,11 @@ aux dispositions du présent article sera punie d'une amende de 45 000 euros et 
 
 	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 11
+	  - Loi n°2017-261 du 1er mars 2017 - art. 15
 
 	**Cite**:
 
-	  - Code de commerce - art. L233-16
+	  - Code de commerce - art. L233-17-2
 
 
 ###### Article L122-10
@@ -1533,14 +1549,19 @@ territoriales.
 ###### Article L122-14
 
 L'association sportive et la société qu'elle a constituée définissent leurs relations par une convention approuvée par leurs
-instances statutaires respectives.
+instances statutaires respectives et d'une durée comprise entre dix et quinze ans.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 14 de la loi n° 2017-261 du 1er mars 2017, les dispositions du présent
+article, dans sa rédaction résultant dudit article 14, s'appliquent à toute nouvelle convention conclue à compter de la
+publication de ladite loi. Pour les conventions déjà conclues avant cette date, elles s'appliquent à tout renouvellement de
+convention ayant lieu à compter de la publication de la même loi.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 11, alinéa 9, 1ère phrase
-	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (Ab)
 
 	**Cité par**:
@@ -1548,13 +1569,17 @@ instances statutaires respectives.
 	  - Décret n°93-112 du 22 janvier 1993 - art. 1 (Ab)
 	  - Décret n°96-71 du 24 janvier 1996 - art. 3 (V)
 	  - Code du sport. - art. L122-15 (V)
-	  - Code du sport. - art. L122-19 (M)
+	  - Code du sport. - art. L122-19 (V)
 	  - Code du sport. - art. R122-8 (V)
 	  - Code du sport. - art. R122-9 (V)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 14
 
 
 ###### Article L122-15
@@ -1608,6 +1633,32 @@ cédés à elle.
 	**Codifié par**:
 
 	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+
+
+###### Article L122-16-1
+
+L'affiliation d'une association à une fédération donne lieu à la délivrance, par cette dernière, d'un numéro d'affiliation
+dont l'association est seule détentrice. 
+
+Dans le cadre de la convention prévue à l'article L. 122-14, la société sportive constituée par l'association dispose du
+droit d'usage du numéro d'affiliation de cette dernière pour la réalisation des activités qui lui ont été confiées.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 14 de la loi n° 2017-261 du 1er mars 2017, les dispositions du présent
+article, dans sa rédaction résultant dudit article 14, s'appliquent à toute nouvelle convention conclue à compter de la
+publication de ladite loi. Pour les conventions déjà conclues avant cette date, elles s'appliquent à tout renouvellement de
+convention ayant lieu à compter de la publication de la même loi.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 14
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-14 (V)
 
 
 ###### Article L122-17
@@ -1670,14 +1721,20 @@ redressement judiciaire.
 
 Un décret en Conseil d'Etat précise les stipulations que doit comporter la convention prévue à l'article L. 122-14, notamment
 les conditions d'utilisation par la société ou de cession à celle-ci des dénomination, marque ou autres signes distinctifs de
-l'association.
+l'association ainsi que les conditions financières accordées à l'association sportive par la société sportive au titre du
+principe de solidarité entre les activités à caractère professionnel et les activités à caractère amateur.
+
+**Nota:**
+
+Conformément aux dispositions du II de l'article 14 de la loi n° 2017-261 du 1er mars 2017, les dispositions du présent
+article, dans sa rédaction résultant dudit article 14, s'appliquent à toute nouvelle convention conclue à compter de la
+publication de ladite loi. Pour les conventions déjà conclues avant cette date, elles s'appliquent à tout renouvellement de
+convention ayant lieu à compter de la publication de la même loi.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 11, alinéa 9, 2e phrase
-	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 11 (Ab)
 
 	**Cité par**:
@@ -1687,7 +1744,11 @@ l'association.
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 14
 
 	**Cite**:
 
@@ -1951,23 +2012,6 @@ mentionné au premier alinéa et bénéficient des avantages associés à la rec
 	  - ORDONNANCE n°2015-904 du 23 juillet 2015 - art. 12 (V)
 
 
-###### Article L131-8-1
-
-Chaque fédération sportive agréée établit une charte éthique et veille à son application. Le contenu, les modalités d'entrée
-en vigueur et les conditions d'application de cette charte sont définis par décret pris après avis du Comité national
-olympique et sportif français.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°2012-158 du 1er février 2012 - art. 1
-
-	**Abrogé par**:
-
-	  - Loi n°2017-261 du 1er mars 2017 - art. 1 (V)
-
-
 ###### Article L131-9
 
 Les fédérations sportives agréées participent à la mise en oeuvre des missions de service public relatives au développement
@@ -1999,14 +2043,13 @@ Toute convention contraire est réputée nulle et non écrite.
 ###### Article L131-10
 
 Les fédérations agréées peuvent exercer les droits reconnus à la partie civile en ce qui concerne les infractions portant un
-préjudice direct ou indirect aux intérêts collectifs de leurs licenciés et de leurs associations sportives.
+préjudice direct ou indirect aux intérêts collectifs de leurs licenciés et des associations et sociétés sportives qui en sont
+membres.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 1984-07-16 art. 17, alinéa 9
-	  - Loi n°84-610 du 16 juillet 1984 - art. 17 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 17 (Ab)
 
 	**Cité par**:
@@ -2024,7 +2067,11 @@ préjudice direct ou indirect aux intérêts collectifs de leurs licenciés et d
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 3
 
 
 ###### Article L131-11
@@ -2246,7 +2293,8 @@ ou départementaux ;
 2° Procèdent aux sélections correspondantes ;
 
 3° Proposent un projet de performance fédéral constitué d'un programme d'excellence sportive et d'un programme d'accession au
-haut niveau ;
+haut niveau qui comprennent, notamment, des mesures visant à favoriser la détection, y compris en dehors du territoire
+national, des sportifs susceptibles d'être inscrits sur les listes mentionnées au 4° ;
 
 4° Proposent l'inscription sur la liste des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau, sur la liste
 des sportifs Espoirs et sur la liste des sportifs des collectifs nationaux.
@@ -2273,14 +2321,35 @@ des sportifs Espoirs et sur la liste des sportifs des collectifs nationaux.
 
 	**Modifié par**:
 
-	  - Loi n°2015-1541 du 27 novembre 2015 - art. 2
+	  - Loi n°2017-261 du 1er mars 2017 - art. 26
+
+
+###### Article L131-15-1
+
+Les fédérations délégataires, le cas échéant en coordination avec les ligues professionnelles qu'elles ont créées,
+établissent une charte d'éthique et de déontologie conforme aux principes définis par la charte prévue à l'article L. 141-3. 
+
+Elles instituent en leur sein un comité doté d'un pouvoir d'appréciation indépendant, habilité à saisir les organes
+disciplinaires compétents et chargé de veiller à l'application de cette charte et au respect des règles d'éthique, de
+déontologie, de prévention et de traitement des conflits d'intérêts.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L141-3 (V)
 
 
 ###### Article L131-16
 
 Les fédérations délégataires édictent : 
 
-1° Les règles techniques propres à leur discipline ; 
+1° Les règles techniques propres à leur discipline ainsi que les règles ayant pour objet de contrôler leur application et de
+sanctionner leur non-respect par les acteurs des compétitions sportives ; 
 
 2° Les règlements relatifs à l'organisation de toute manifestation ouverte à leurs licenciés ; 
 
@@ -2337,7 +2406,7 @@ Un décret en Conseil d'Etat fixe les conditions d'entrée en vigueur des règle
 
 	**Modifié par**:
 
-	  - Décret n°2013-264 du 28 mars 2013 - art. 1
+	  - Loi n°2017-261 du 1er mars 2017 - art. 6
 
 
 ###### Article L131-16-1
@@ -2617,14 +2686,51 @@ fédération.
 	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
 
 
+###### Article L132-1-1
+
+Les ligues professionnelles créées en application de l'article L. 132-1  peuvent exercer les droits reconnus à la partie
+civile en ce qui  concerne les infractions portant un préjudice direct ou indirect aux  intérêts collectifs des associations
+et sociétés sportives qui en sont  membres et aux intérêts des acteurs des compétitions sportives à  caractère professionnel
+de leurs disciplines.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 3
+
+
 ###### Article L132-2
 
-Les fédérations qui ont constitué une ligue professionnelle créent un organisme, doté d'un pouvoir d'appréciation
-indépendant, assurant le contrôle administratif, juridique et financier des associations et sociétés sportives participant
-aux compétitions qu'elles organisent. 
+En vue d'assurer la pérennité des associations et sociétés sportives, de favoriser le respect de l'équité sportive et de
+contribuer à la régulation économique des compétitions, les fédérations qui ont constitué une ligue professionnelle créent en
+leur sein un organisme, doté d'un pouvoir d'appréciation indépendant, habilité à saisir les organes disciplinaires compétents
+et ayant pour missions :
 
-Cet organisme a pour objectif d'assurer la pérennité des associations et sociétés sportives, de favoriser le respect de
-l'équité sportive et de contribuer à la régulation économique des compétitions.
+1° D'assurer le contrôle administratif, juridique et financier des associations et sociétés sportives qui sont membres de la
+fédération ou de la ligue professionnelle ou sollicitent l'adhésion à la fédération ou à la ligue ;
+
+2° D'assurer le contrôle financier de l'activité des agents sportifs ;
+
+3° D'assurer le contrôle et l'évaluation des projets d'achat, de cession et de changement d'actionnaires des sociétés
+sportives.
+
+Les contrôles portant sur les associations et sociétés sportives peuvent être effectués sur pièces et sur place. Lorsque
+l'association ou la société sportive est tenue de faire certifier ses comptes par un commissaire aux comptes, elle transmet
+sans délai à l'organisme mentionné au premier alinéa le rapport établi par le commissaire aux comptes sur ses comptes
+annuels. Lorsqu'un commissaire aux comptes engage une procédure d'alerte en application des articles L. 234-1 ou L. 234-2 du
+code de commerce, la société ou l'association en informe sans délai l'organisme mentionné au premier alinéa du présent
+article.
+
+Les agents sportifs, les associations et les sociétés sportives, ainsi que les organes des fédérations et de leurs ligues
+professionnelles, sont tenus de communiquer à l'organisme mentionné au même premier alinéa toute information ou tout document
+nécessaire à l'accomplissement de ses missions. Cet organisme peut également demander à toute personne physique ou morale
+ayant un lien juridique quelconque avec l'association ou la société sportive de lui communiquer toute information ou tout
+document nécessaire à l'accomplissement de ses missions.
+
+Les relevés de décisions de l'organisme mentionné audit premier alinéa sont rendus publics. Cet organisme établit chaque
+année, dans les neuf mois qui suivent la fin de la saison sportive telle qu'elle est déterminée par le règlement de la
+fédération ou, le cas échéant, de la ligue professionnelle, un rapport public faisant état de son activité.
 
 **Liens relatifs à cet article**
 
@@ -2656,7 +2762,12 @@ l'équité sportive et de contribuer à la régulation économique des compétit
 
 	**Modifié par**:
 
-	  - Loi n°2012-158 du 1er février 2012 - art. 3
+	  - Loi n°2017-261 du 1er mars 2017 - art. 12
+
+	**Cite**:
+
+	  - Code de commerce - art. L234-1
+	  - Code de commerce - art. L234-2
 
 
 ### TITRE IV : ORGANISMES DE REPRÉSENTATION ET DE CONCILIATION
@@ -2832,6 +2943,31 @@ français, est puni des peines prévues aux articles L. 716-9 à L. 716-13 du co
 	**Cite**:
 
 	  - articles L. 716-9 à L. 716-13 du code de la propriété intellectuelle
+
+
+#### Chapitre II : Autres organismes
+
+###### Article L142-1
+
+La Conférence permanente du sport féminin est une instance consultative, placée auprès du ministre chargé des sports, qui
+associe l'ensemble des acteurs participant au développement et à la promotion du sport féminin.
+
+Elle a pour missions :
+
+1° De contribuer à une meilleure connaissance des pratiques sportives féminines, notamment par la publication d'un rapport
+annuel ;
+
+2° De concourir à l'accompagnement des acteurs en vue de la structuration et de la professionnalisation du sport féminin ;
+
+3° De favoriser la médiatisation du sport féminin.
+
+Un décret détermine la composition et le fonctionnement de cette conférence et précise ses missions.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 21
 
 
 ## LIVRE II : ACTEURS DU SPORT
@@ -3209,6 +3345,26 @@ selon lesquelles est établie la liste mentionnée au III.
 	  - Code de l'éducation - art. L363-1 (V)
 
 
+###### Article L212-1-1
+
+La présente section et la section 3 du présent chapitre ne sont pas applicables aux personnes qui exercent les fonctions
+mentionnées à l'article L. 212-1 auprès des délégations et équipes sportives étrangères lors de manifestations sportives
+mentionnées à l'article L. 230-2. 
+
+Cette dérogation est limitée à l'encadrement des membres des équipes et délégations qui participent à ces manifestations,
+pendant la durée de celles-ci.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 23
+
+	**Cite**:
+
+	  - Code du sport. - art. L230-2 (V)
+
+
 ###### Article L212-2
 
 Lorsque l'activité mentionnée au premier alinéa de l'article L. 212-1 s'exerce dans un environnement spécifique impliquant le
@@ -3445,32 +3601,34 @@ tests auxquels l'autorité administrative l'a soumis.
 
 ###### Article L212-9
 
-I.-Nul ne peut exercer les fonctions mentionnées au premier alinéa de l'article L. 212-1 à titre rémunéré ou bénévole, s'il a
-fait l'objet d'une condamnation pour crime ou pour l'un des délits prévus : 
+I. – Nul ne peut exercer les fonctions mentionnées au premier alinéa de l'article L. 212-1 à titre rémunéré ou bénévole, s'il
+a fait l'objet d'une condamnation pour crime ou pour l'un des délits prévus : 
 
-1° Au paragraphe 2 de la section 1 du chapitre II du titre II du livre II du code pénal ; 
+1° Au chapitre Ier du titre II du livre II du code pénal, à l'exception du premier alinéa de l'article 221-6 ; 
 
-2° Au paragraphe 2 de la section 3 du chapitre II du titre II du livre II du même code ; 
+2° Au chapitre II du même titre II, à l'exception du premier alinéa de l'article 222-19 ; 
 
-3° A la section 4 du chapitre II du titre II du livre II du même code ; 
+3° Aux chapitres III, IV, V et VII dudit titre II ; 
 
-4° A la section 1 du chapitre III du titre II du livre II du même code ; 
+4° Au chapitre II du titre Ier du livre III du même code ; 
 
-5° A la section 2 du chapitre V du titre II du livre II du même code ; 
+5° Au chapitre IV du titre II du même livre III ; 
 
-6° A la section 5 du chapitre VII du titre II du livre II du même code ; 
+6° Au livre IV du même code ; 
 
-7° Aux articles L. 3421-1 et L. 3421-4 du code de la santé publique ; 
+7° Aux articles L. 235-1 et L. 235-3 du code de la route ; 
 
-8° Aux articles L. 232-25 à L. 232-29 du présent code ; 
+8° Aux articles L. 3421-1, L. 3421-4 et L. 3421-6 du code de la santé publique ; 
 
-9° A l'article 1750 du code général des impôts. 
+9° Au chapitre VII du titre Ier du livre III du code de la sécurité intérieure ; 
 
-II.-En outre, nul ne peut enseigner, animer ou encadrer une activité physique ou sportive auprès de mineurs s'il fait l'objet
-d'une mesure administrative d'interdiction de participer, à quelque titre que ce soit, à la direction et à l'encadrement
-d'institutions et d'organismes soumis aux dispositions législatives ou réglementaires relatives à la protection des mineurs
-accueillis en centre de vacances et de loisirs, ainsi que de groupements de jeunesse ou s'il fait l'objet d'une mesure
-administrative de suspension de ces mêmes fonctions.
+10° Aux articles L. 212-14, L. 232-25 à L. 232-27, L. 241-2 à L. 241-5 et L. 332-3 à L. 332-13 du présent code. 
+
+II. – En outre, nul ne peut enseigner, animer ou encadrer une activité physique ou sportive auprès de mineurs s'il fait
+l'objet d'une mesure administrative d'interdiction de participer, à quelque titre que ce soit, à la direction et à
+l'encadrement d'institutions et d'organismes soumis aux dispositions législatives ou réglementaires relatives à la protection
+des mineurs accueillis en centre de vacances et de loisirs, ainsi que de groupements de jeunesse ou s'il fait l'objet d'une
+mesure administrative de suspension de ces mêmes fonctions.
 
 **Liens relatifs à cet article**
 
@@ -3488,7 +3646,7 @@ administrative de suspension de ces mêmes fonctions.
 	  - Code du sport. - art. A322-3 (V)
 	  - Code du sport. - art. Annexe II-12-2 a (V)
 	  - Code du sport. - art. L121-4 (V)
-	  - Code du sport. - art. L212-10 (V)
+	  - Code du sport. - art. L212-10 (M)
 	  - Code du sport. - art. L322-1 (V)
 	  - Code du sport. - art. R212-85 (V)
 	  - Code du sport. - art. R212-86 (V)
@@ -3500,15 +3658,22 @@ administrative de suspension de ces mêmes fonctions.
 
 	**Modifié par**:
 
-	  - Loi n°2016-457 du 14 avril 2016 - art. 2
+	  - Loi n°2017-261 du 1er mars 2017 - art. 4
 
 	**Cite**:
 
-	  - Code général des impôts, CGI. - art. 1750
-	  - Code pénal
+	  - Code pénal - art. 221-6 (V)
+	  - Code pénal - art. 222-19 (V)
 	  - Code du sport. - art. L212-1
-	  - Code du sport. - art. L232-25
-	  - Code de la santé publique - art. L3421-1
+	  - Code du sport. - art. L212-14 (V)
+	  - Code du sport. - art. L232-25 (V)
+	  - Code du sport. - art. L241-2 (V)
+	  - Code du sport. - art. L332-3 (V)
+	  - Code de la santé publique - art. L3421-1 (V)
+	  - Code de la santé publique - art. L3421-4 (V)
+	  - Code de la santé publique - art. L3421-6 (V)
+	  - Code de la route. - art. L235-1 (V)
+	  - Code de la route. - art. L235-3 (V)
 
 	**Anciens textes**:
 
@@ -4271,21 +4436,15 @@ professionnel, il s'applique à tout renouvellement de contrat ayant lieu après
 ###### Article L222-2-1
 
 Le code du travail est applicable au sportif professionnel salarié et à l'entraîneur professionnel salarié, à l'exception des
-dispositions des articles L. 1221-2, L. 1241-1 à L. 1242-9, L. 1242-12, L. 1242-13, L. 1242-17, L. 1243-7 à L. 1243-10, L.
-1243-13 à L. 1245-1, L. 1246-1 et L. 1248-1 à L. 1248-11 relatives au contrat de travail à durée déterminée.
-
-**Nota:**
-
-Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-1 dans sa rédaction résultant de
-l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
-de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
-professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
+dispositions des articles L. 1221-2, L. 1241-1 à L. 1242-5, L. 1242-7 à L. 1242-9, L. 1242-12, L. 1242-13, L. 1242-17, L.
+1243-7 à L. 1243-10, L. 1243-13 à L. 1245-1, L. 1246-1 et L. 1248-1 à L. 1248-11 relatives au contrat de travail à durée
+déterminée.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
+	  - Loi n°2017-261 du 1er mars 2017 - art. 20
 
 	**Cité par**:
 
@@ -4294,41 +4453,38 @@ professionnel, il s'applique à tout renouvellement de contrat ayant lieu après
 
 	**Cite**:
 
-	  - Code du travail - art. L1221-2 (V)
+	  - Code du travail - art. L1221-2
 	  - Code du travail - art. L1241-1 (V)
-	  - Code du travail - art. L1242-12 (V)
-	  - Code du travail - art. L1242-13 (V)
-	  - Code du travail - art. L1242-17 (V)
-	  - Code du travail - art. L1243-13 (V)
-	  - Code du travail - art. L1243-7 (V)
-	  - Code du travail - art. L1246-1 (V)
-	  - Code du travail - art. L1248-1 (V)
+	  - Code du travail - art. L1242-12
+	  - Code du travail - art. L1242-13
+	  - Code du travail - art. L1242-17
+	  - Code du travail - art. L1242-7 (V)
+	  - Code du travail - art. L1243-13
+	  - Code du travail - art. L1243-7
+	  - Code du travail - art. L1246-1
+	  - Code du travail - art. L1248-1
 
 
 ###### Article L222-2-2
 
 Les articles L. 222-2-1, L. 222-2-3 à L. 222-2-5, L. 222-2-7 et L. 222-2-8 peuvent, avec l'accord des parties, s'appliquer
 aux sportifs qui sont salariés de leur fédération sportive en qualité de membre d'une équipe de France, ainsi qu'aux
-entraîneurs qui les encadrent à titre principal.
+entraîneurs  qui encadrent à titre principal les sportifs membres d'une équipe de France.
 
-**Nota:**
-
-Conformément à l'article 24 V de la loi n° 2015-1541 du 27 novembre 2015, l'article L. 222-2-2 dans sa rédaction résultant de
-l'article 14 de la présente loi, s'applique à tout contrat de travail à durée déterminée conclu à compter de la publication
-de ladite loi. Pour les contrats à durée déterminée d'usage conclus avant cette même date dans le secteur du sport
-professionnel, il s'applique à tout renouvellement de contrat ayant lieu après ladite date.
+Ces mêmes articles peuvent, avec l'accord des parties, s'appliquer aux arbitres ou juges professionnels qui sont salariés de
+leur fédération sportive.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2015-1541 du 27 novembre 2015 - art. 14
+	  - Loi n°2017-261 du 1er mars 2017 - art. 19
 
 	**Cite**:
 
-	  - Code du sport. - art. L222-1 (V)
-	  - Code du sport. - art. L222-2-3 (V)
-	  - Code du sport. - art. L222-2-7 (V)
+	  - Code du sport. - art. L222-1
+	  - Code du sport. - art. L222-2-3
+	  - Code du sport. - art. L222-2-7
 
 	**Cité par**:
 
@@ -4566,6 +4722,66 @@ suivi socioprofessionnel des sportifs professionnels salariés qu'elle emploie.
 
 	  - Code du sport. - art. L122-12 (V)
 	  - Code du sport. - art. L122-2 (V)
+
+
+###### Article L222-2-10-1
+
+Une association ou une société sportive mentionnée aux articles L. 122-1 ou L. 122-2 peut conclure avec un sportif ou un
+entraîneur professionnel qu'elle emploie un contrat relatif à l'exploitation commerciale de son image, de son nom ou de sa
+voix. 
+
+Les sportifs et entraîneurs professionnels ne peuvent être regardés, dans l'exécution du contrat mentionné au premier alinéa
+du présent article, comme liés à l'association ou à la société sportive par un lien de subordination juridique
+caractéristique du contrat de travail, au sens des articles L. 1221-1 et L. 1221-3 du code du travail, et la redevance qui
+leur est versée au titre de ce contrat ne constitue ni un salaire ni une rémunération versée en contrepartie ou à l'occasion
+du travail, au sens de l'article L. 242-1 du code de la sécurité sociale, dès lors que : 
+
+1° La présence physique des sportifs ou des entraîneurs professionnels n'est pas requise pour exploiter commercialement leur
+image, leur nom ou leur voix ; 
+
+2° La redevance des sportifs ou des entraîneurs professionnels n'est pas fonction du salaire reçu dans le cadre du contrat de
+travail mais fonction des recettes générées par cette exploitation commerciale de leur image, de leur nom ou de leur voix. 
+
+Le contrat mentionné au premier alinéa du présent article précise, à peine de nullité : 
+
+a) L'étendue de l'exploitation commerciale de l'image, du nom ou de la voix du sportif ou de l'entraîneur professionnel,
+notamment la durée, l'objet, le contexte, les supports et la zone géographique de cette exploitation commerciale ; 
+
+b) Les modalités de calcul du montant de la redevance versée à ce titre, notamment en fonction des recettes générées par
+cette exploitation commerciale ; 
+
+c) Le plafond de la redevance susceptible d'être versée au sportif ou à l'entraîneur professionnel ainsi que la rémunération
+minimale au titre du contrat de travail à partir de laquelle le contrat mentionné au même premier alinéa peut être conclu par
+le sportif ou l'entraîneur professionnel tels que définis par la convention ou l'accord collectif national mentionné au
+dernier alinéa. 
+
+L'association ou la société sportive transmet sans délai le contrat conclu en application du présent article à l'organisme
+mentionné à l'article L. 132-2 du présent code. 
+
+Un décret détermine les catégories de recettes générées par l'exploitation commerciale de l'image, du nom ou de la voix du
+sportif ou de l'entraîneur professionnel susceptibles de donner lieu au versement de la redevance. 
+
+Une convention ou un accord collectif national, conclu par discipline, fixe le plafond de la redevance susceptible d'être
+versée au sportif ou à l'entraîneur professionnel ainsi que la rémunération minimale au titre du contrat de travail à partir
+de laquelle le contrat mentionné au premier alinéa peut être conclu par le sportif ou l'entraîneur professionnel.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 17
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L136-6 (VT)
+
+	**Cite**:
+
+	  - Code du sport. - art. L122-1 (V)
+	  - Code du sport. - art. L132-2 (V)
+	  - Code du travail - art. L1221-1
+	  - Code du travail - art. L1221-3
+	  - Code de la sécurité sociale. - art. L242-1
 
 
 ###### Article L222-2-11
@@ -4866,6 +5082,8 @@ Nul ne peut obtenir ou détenir une licence d'agent sportif s'il :
 1° A été l'auteur de faits ayant donné lieu à condamnation pénale pour agissements contraires à l'honneur, à la probité ou
 aux bonnes mœurs ;
 
+1° bis A fait l'objet d'une condamnation pour un délit prévu à l'article 1741 du code général des impôts ; 
+
 2° A été frappé de faillite personnelle ou de l'une des mesures d'interdiction ou de déchéance prévues au livre VI du code de
 commerce ou, dans le régime antérieur à la loi n° 2005-845 du 26 juillet 2005 de sauvegarde des entreprises, en application
 du titre VI de la loi n° 85-98 du 25 janvier 1985 relative au redressement et à la liquidation judiciaires des entreprises
@@ -4881,6 +5099,7 @@ Le bulletin n° 2 du casier judiciaire est délivré à la fédération déléga
 	  - Loi n°67-563 du 13 juillet 1967
 	  - Loi n°85-98 du 25 janvier 1985
 	  - Loi n°2005-845 du 26 juillet 2005
+	  - Code général des impôts, CGI. - art. 1741
 
 	**Anciens textes**:
 
@@ -4888,7 +5107,7 @@ Le bulletin n° 2 du casier judiciaire est délivré à la fédération déléga
 
 	**Modifié par**:
 
-	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+	  - Loi n°2017-261 du 1er mars 2017 - art. 13
 
 	**Cité par**:
 
@@ -5017,6 +5236,31 @@ Conseil d'Etat.
 	  - Code du sport. - art. L222-7
 
 
+###### Article L222-15-1
+
+Le ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen
+autorisé à exercer l'activité d'agent sportif dans l'un de ces Etats peut passer une convention avec un agent sportif ayant
+pour objet la présentation d'une partie intéressée à la conclusion d'un contrat mentionné à l'article L. 222-7, dans la
+limite d'une convention au cours d'une même saison sportive. 
+
+La convention de présentation mentionnée au premier alinéa du présent article est transmise sans délai à la fédération
+délégataire compétente.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 11
+
+	**Cité par**:
+
+	  - Code du sport. - art. L222-19 (V)
+
+	**Cite**:
+
+	  - Code du sport. - art. L222-7 (V)
+
+
 ###### Article L222-16
 
 Le ressortissant d'un Etat qui n'est pas membre de l'Union européenne ou partie à l'accord sur l'Espace économique européen
@@ -5140,18 +5384,21 @@ a) Des contrats mentionnés à l'article L. 222-7 ;
 
 b) Des contrats mentionnés au deuxième alinéa de l'article L. 222-17 ; 
 
+c) Des conventions mentionnées aux articles L. 222-15-1 et L. 222-16 ; 
+
 2° Non-respect des articles L. 222-5 et L. 222-7 à L. 222-18 ; 
 
 3° Non-communication des documents nécessaires au contrôle de l'activité de l'agent.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-626 du 9 juin 2010 - art. 1
+	  - Loi n°2017-261 du 1er mars 2017 - art. 11
 
 	**Cite**:
 
+	  - Code du sport. - art. L222-15-1 (V)
 	  - Code du sport. - art. L222-17
 	  - Code du sport. - art. L222-5
 
@@ -5299,19 +5546,21 @@ l'occasion de l'exercice de leur mission sont réprimées par les peines aggrav�
 
 ###### Article L223-3
 
-Les arbitres et juges ne peuvent être regardés, dans l'accomplissement de leur mission, comme liés à la fédération par un
-lien de subordination caractéristique du contrat de travail au sens des articles L. 1221-1 et L. 1221-3 du code du travail.
+Sauf dans le cas prévu au second alinéa de l'article L. 222-2-2 du présent code, les arbitres et juges ne peuvent être
+regardés, dans l'accomplissement de leur mission, comme liés à la fédération par un lien de subordination caractéristique du
+contrat de travail au sens des articles L. 1221-1 et L. 1221-3 du code du travail.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
+	  - Loi n°2017-261 du 1er mars 2017 - art. 19
 
 	**Cite**:
 
-	  - Code du travail - art. L1221-1 (V)
-	  - Code du travail - art. L1221-3 (V)
+	  - Code du sport. - art. L222-2-2 (V)
+	  - Code du travail - art. L1221-1
+	  - Code du travail - art. L1221-3
 
 
 #### Chapitre IV : Supporters
@@ -9363,9 +9612,18 @@ exposer.
 
 Les fédérations sportives délégataires souscrivent des contrats d'assurance de personnes au bénéfice de leurs licenciés
 inscrits sur la liste des sportifs de haut niveau mentionnée au premier alinéa de l'article L. 221-2, couvrant les dommages
-corporels auxquels leur pratique sportive de haut niveau peut les exposer. 
+corporels, causés par un accident survenu à l'occasion de leur pratique sportive de haut niveau, dont ils peuvent être
+victimes. Un décret fixe le montant minimal des garanties devant être souscrites par les fédérations. 
 
 Ces contrats ne peuvent être conclus qu'après appel à la concurrence. 
+
+Les fédérations sportives délégataires ne sont pas soumises à l'obligation de souscription définie au premier alinéa du
+présent article lorsque leurs licenciés inscrits sur la liste des sportifs de haut niveau mentionnée au même premier alinéa
+sont déjà couverts par des garanties de même nature et de même montant. 
+
+Les licenciés inscrits sur cette liste sont informés du montant des garanties souscrites par la fédération à leur bénéfice
+dans le cadre de la convention prévue à l'article L. 221-2-1. Cette convention mentionne également, le cas échéant, le
+montant des garanties souscrites par les licenciés précités ou par leur employeur ou tout autre tiers. 
 
 La souscription des contrats d'assurance de personnes dispense les fédérations sportives délégataires, à l'égard de leurs
 licenciés inscrits sur la liste des sportifs de haut niveau précitée, de leur obligation d'information prévue à l'article L.
@@ -9373,14 +9631,15 @@ licenciés inscrits sur la liste des sportifs de haut niveau précitée, de leur
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2015-1541 du 27 novembre 2015 - art. 12
+	  - Loi n°2017-261 du 1er mars 2017 - art. 25
 
 	**Cite**:
 
-	  - Code du sport. - art. L221-2 (V)
-	  - Code du sport. - art. L321-4 (V)
+	  - Code du sport. - art. L221-2
+	  - Code du sport. - art. L221-2-1 (V)
+	  - Code du sport. - art. L321-4
 
 
 ###### Article L321-5
@@ -10675,22 +10934,26 @@ l'article L. 332-11 pour une durée d'un an est obligatoire, sauf décision cont
 
 ###### Article L332-17
 
-Les fédérations sportives agréées, les associations de supporters et les associations ayant pour objet la prévention de la
-violence à l'occasion de manifestations sportives agréées par le ministre chargé des sports et toute autre association ayant
-pour objet social la lutte contre le racisme, la xénophobie et l'antisémitisme et ayant été déclarées depuis au moins trois
-ans au moment des faits peuvent exercer les droits reconnus à la partie civile en ce qui concerne les infractions mentionnées
-aux articles L. 312-14 à L. 312-17 et L. 332-3 à L. 332-10.
+Les fédérations sportives agréées, les ligues professionnelles créées en application de l'article L. 132-1, les associations
+de supporters et les associations ayant pour objet la prévention de la violence à l'occasion de manifestations sportives
+agréées par le ministre chargé des sports et toute autre association ayant pour objet social la lutte contre le racisme, la
+xénophobie et l'antisémitisme et ayant été déclarées depuis au moins trois ans au moment des faits peuvent exercer les droits
+reconnus à la partie civile en ce qui concerne les infractions mentionnées aux articles L. 312-14 à L. 312-17 et L. 332-3 à
+L. 332-10.
 
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Loi n°84-610 du 16 juillet 1984 - art. 42-13 (M)
 	  - Loi n°84-610 du 16 juillet 1984 - art. 42-13 (Ab)
 
 	**Codifié par**:
 
-	  - Ordonnance 2006-596 2006-05-23 JORF 25 mai 2006
+	  - Ordonnance n°2006-596 du 23 mai 2006
+
+	**Modifié par**:
+
+	  - Loi n°2017-261 du 1er mars 2017 - art. 5
 
 	**Cité par**:
 
@@ -10701,8 +10964,9 @@ aux articles L. 312-14 à L. 312-17 et L. 332-3 à L. 332-10.
 
 	**Cite**:
 
-	  - Code du sport. - art. L312-14 (V)
-	  - Code du sport. - art. L332-3 (V)
+	  - Code du sport. - art. L132-1 (V)
+	  - Code du sport. - art. L312-14
+	  - Code du sport. - art. L332-3
 
 
 ###### Article L332-18
