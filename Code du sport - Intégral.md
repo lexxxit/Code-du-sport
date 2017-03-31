@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-03-03
+Version Consolidée au 2017-04-01
 
 # Partie législative
 
@@ -45252,6 +45252,89 @@ directeur des sports, à toute instance qu'il convoque relative à cet environne
 	**Créé par**:
 
 	  - Arrêté du 11 septembre 2013 - art. 1
+
+
+##### Sous-section 10 : Commissions spécialisées des dans et grades équivalents
+
+##### Paragraphe 1 : Fédérations sportives disposant d'une commission spécialisée des dans et grades équivalents 
+
+###### Article A212-175-15
+
+La liste des fédérations dont les commissions spécialisées des dans et grades équivalents délivrent des dans ou grades
+équivalents est la suivante : 
+
+Union des fédérations d'aïkido ; 
+
+Fédération française de judo, jujitsu, kendo et disciplines associées ; 
+
+Fédération française de taekwondo et disciplines associées ; 
+
+Fédération française de karaté et disciplines associées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 5 août 2016 - art. 1
+
+
+##### Paragraphe 2 :  Composition des commissions spécialisées des dans et grades équivalents
+
+###### Article A212-175-16
+
+Les fédérations mentionnées à l'article A. 212-175-15 désignent les membres des commissions spécialisées des dans et grades
+équivalents dont la composition est la suivante : 
+
+- deux tiers de membres représentant la fédération parmi lesquels un président désigné par la fédération et le directeur
+technique national ; 
+
+- un tiers de membres représentant les fédérations multisports, affinitaires, scolaires et universitaires concernées,
+proportionnellement au nombre de leurs licenciés respectifs. Cette répartition proportionnelle se fait au plus fort reste. A
+cette fin, les fédérations mentionnées à l'article A. 212-175-15 établissent un tableau récapitulatif du nombre de
+pratiquants licenciés de la ou des disciplines concernées pour chaque fédération multisports, affinitaire, scolaire et
+universitaire concernée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 5 août 2016 - art. 1
+
+
+###### Article A212-175-17
+
+Les membres des commissions spécialisées des dans et grades équivalents doivent être titulaires d'un 6e dan ou d'un grade
+équivalent. A défaut, des membres titulaires d'un 5e dan ou d'un 4e dan ou d'un grade équivalent peuvent être désignés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 5 août 2016 - art. 1
+
+
+###### Article A212-175-18
+
+La durée du mandat des membres des commissions spécialisées des dans et grades équivalents est identique à celle du mandat
+des instances dirigeantes des fédérations mentionnées à l'article A. 212-175-15.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 5 août 2016 - art. 1
+
+
+###### Article A212-175-19
+
+Les fédérations mentionnées à l'article A. 212-175-15 informent le ministre chargé des sports des conditions nécessaires à la
+présentation d'un passage de dan ou de grade équivalent.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Arrêté du 5 août 2016 - art. 1
 
 
 ##### Section 2 : Obligation de déclaration d'activité
