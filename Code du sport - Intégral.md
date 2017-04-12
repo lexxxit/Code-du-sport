@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-04-09
+Version Consolidée au 2017-04-13
 
 # Partie législative
 
@@ -27672,25 +27672,29 @@ précédente, au sein de la même fédération.
 
 ###### Article D231-1-3
 
-Sous  réserve des dispositions des articles D. 231-1-4 et D. 231-1-5, la  présentation d'un certificat médical d'absence de
-contre-indication  datant de moins d'un an est exigée : 
+Sous réserve des dispositions des articles D. 231-1-4 et D. 231-1-5, la présentation d'un certificat médical d'absence de
+contre-indication datant de moins d'un an est exigée :
 
-1° Tous les  trois ans lorsqu'elle permet la participation aux compétitions  organisées par la fédération sportive qui la
-délivre ; 
+1° Tous les trois ans lorsque la licence permet la participation aux compétitions organisées par la fédération sportive qui
+la délivre ;
 
-2° Selon une fréquence déterminée par les fédérations après avis de  leur commission médicale prévue au 2.4.2 de l'annexe
-I-5, qui ne peut  être inférieure à une fréquence d'une fois tous les trois ans, lorsque  la licence ne permet pas la
-participation aux compétitions.
+2° Tous les trois ans lorsque la licence ne permet pas la participation aux compétitions. Cette durée peut être allongée par
+les fédérations, après avis de leur commission médicale prévue au 2.4.2 de l'annexe I-5 ;
+
+3° Selon la fréquence prévue pour les certificats médicaux par le règlement (UE) n° 1178/2011 de la Commission du 3 novembre
+2011 modifié déterminant les exigences techniques et les procédures administratives applicables au personnel navigant de
+l'aviation civile conformément au règlement (CE) n° 216/2008 du Parlement européen et du Conseil, pour les pilotes d'aéronef
+qui ne participent à aucune compétition.
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°2016-1387 du 12 octobre 2016 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2016-1387 du 12 octobre 2016 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°2017-520 du 10 avril 2017 - art. 1
 
 
 ###### Article D231-1-4
@@ -27717,34 +27721,36 @@ indication pour obtenir le renouvellement de la licence.
 ###### Article D231-1-5
 
 Les disciplines sportives qui présentent des contraintes particulières au sens de l'article L. 231-2-3 sont énumérées ci-
-après : 
+après :
 
-1° Les disciplines sportives qui s'exercent dans un environnement spécifique : 
+1° Les disciplines sportives qui s'exercent dans un environnement spécifique :
 
-a) L'alpinisme ; 
+a) L'alpinisme ;
 
-b) La plongée subaquatique ; 
+b) La plongée subaquatique ;
 
-c) La spéléologie ; 
+c) La spéléologie ;
 
 2° Les disciplines sportives, pratiquées en compétition, pour lesquelles le combat peut prendre fin, notamment ou
 exclusivement lorsqu'à la suite d'un coup porté l'un des adversaires se trouve dans un état le rendant incapable de se
-défendre et pouvant aller jusqu'à l'inconscience ; 
+défendre et pouvant aller jusqu'à l'inconscience ;
 
-3° Les disciplines sportives comportant l'utilisation d'armes à feu ou à air comprimé ; 
+3° Les disciplines sportives comportant l'utilisation d'armes à feu ou à air comprimé ;
 
 4° Les disciplines sportives, pratiquées en compétition, comportant l'utilisation de véhicules terrestres à moteur à
-l'exception du modélisme automobile radioguidé ; 
+l'exception du modélisme automobile radioguidé ;
 
-5° Les disciplines sportives comportant l'utilisation d'un aéronef à l'exception de l'aéromodélisme ; 
+5° Les disciplines sportives aéronautiques pratiquées en compétition à l'exception de l'aéromodélisme ;
 
-6° Le rugby à XV, le rugby à XIII et le rugby à VII.
+6° Le parachutisme ;
+
+7° Le rugby à XV, le rugby à XIII et le rugby à VII.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Modifié par**:
 
-	  - DEPLACE: Décret n°2016-1286 du 29 septembre 2016 - art. 13
+	  - Décret n°2017-520 du 10 avril 2017 - art. 2
 
 	**Cite**:
 
