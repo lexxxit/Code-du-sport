@@ -1,5 +1,5 @@
 # Code du sport  
-Version Consolidée au 2017-05-08
+Version Consolidée au 2017-05-12
 
 # Partie législative
 
@@ -19018,6 +19018,133 @@ fixés par arrêté du ministre chargé de la jeunesse et du ministre chargé de
 	**Créé par**:
 
 	  - Décret n°2009-660 du 10 juin 2009 - art. 1
+
+
+##### Section 5 : La Conférence permanente du sport féminin
+
+###### Article D142-39
+
+La Conférence permanente du sport féminin peut être consultée à la demande du ministre chargé des sports, du ministre chargé
+des droits des femmes, du ministre chargé de l'économie ou du ministre chargé de la communication, ou se saisir de tout
+projet de loi ou projet de texte réglementaire relatif à l'organisation du sport en France ainsi que sur tout projet d'acte
+de l'Union européenne ou de convention internationale se rapportant à la pratique sportive.
+
+La Conférence permanente du sport féminin inscrit à son programme de travail les thèmes d'observation et d'étude relatifs à
+la place du public féminin dans le sport.
+
+Elle propose toute recommandation visant à contribuer à la structuration du sport professionnel féminin, à une meilleure
+médiatisation des épreuves sportives féminines et à un égal accès des femmes aux pratiques sportives, à leur gestion, à leur
+gouvernance et aux fonctions d'encadrement.
+
+Elle veille à favoriser les échanges et le partage d'informations entre les acteurs concernés. Elle peut adresser des
+recommandations à tous les acteurs qui interviennent dans le champ du sport.
+
+Elle présente chaque année au Gouvernement un rapport d'activité qui retrace la contribution de l'instance et celle des
+différents acteurs du sport. Ce rapport présente notamment un état de l'évolution de la place du public féminin dans le sport
+afin de contribuer à une meilleure connaissance des pratiques sportives féminines.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°2006-672 du 8 juin 2006
+
+	**Modifié par**:
+
+	  - Décret n°2017-1059 du 10 mai 2017 - art. 1
+
+
+###### Article D142-40
+
+La Conférence permanente du sport féminin est présidée par le ministre chargé des sports ou son représentant.
+
+Outre son président et le ministre chargé des droits des femmes, membre de droit, elle comprend :
+
+1° Onze représentants des acteurs du mouvement sportif :
+
+a) Deux représentants des sportifs et un représentant des entraîneurs et éducateurs sportifs, désignés par le ministre chargé
+des sports ;
+
+b) Un représentant des arbitres et juges sportifs, désigné par l'Association française du corps arbitral multisports ;
+
+c) Quatre représentants des fédérations sportives agréées dont deux désignés par le Comité national olympique et sportif
+français et deux désignés par le Comité paralympique et sportif français ;
+
+d) Deux représentants des ligues professionnelles désignés par l'Association nationale des ligues de sport professionnel ;
+
+e) Deux représentants d'associations ou de sociétés sportives qui participent aux compétitions féminines organisées par une
+fédération sportive ou une ligue professionnelle, désignés par le ministre chargé des sports ;
+
+2° Quatre représentants des acteurs de l'audiovisuel :
+
+a) Un représentant du Conseil supérieur de l'audiovisuel, désigné par son président ;
+
+b) Trois représentants des éditeurs de services audiovisuels, désignés sur proposition du ministre chargé de la
+communication ;
+
+3° Quatre représentants des acteurs économiques du sport, désignés sur proposition du ministre chargé de l'économie ;
+
+4° Trois personnalités qualifiées :
+
+a) Deux personnalités à raison de leur compétence en matière d'égalité entre les femmes et les hommes dans le sport,
+désignées sur proposition du ministre chargé des droits des femmes ;
+
+b) Une personnalité à raison de ses compétences en matière d'organisation et de gestion des institutions sportives, désignée
+par le ministre chargé des sports ;
+
+5° Quatre représentants de l'Etat désignés, respectivement, sur proposition des ministres chargés des sports, des droits des
+femmes, de l'économie et de la communication ;
+
+6° Quatre représentants élus désignés respectivement par l'Association des régions de France, l'Association des départements
+de France, l'Association des maires de France, et l'Association nationale des élus en charge du sport.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1059 du 10 mai 2017 - art. 1
+
+
+###### Article D142-41
+
+Les membres de la Conférence permanente du sport féminin sont nommés par arrêté du ministre chargé des sports pour une durée
+de trois ans.
+
+Le mandat est renouvelable une fois.
+
+Les dispositions de l'article 74 de la loi n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes et
+du décret n° 2015-354 du 27 mars 2015 relatif à l'égal accès des femmes et des hommes aux commissions et instances
+consultatives ou délibératives placées auprès du Premier ministre, des ministres ou de la Banque de France sont applicables à
+la Conférence permanente du sport féminin.
+
+Le secrétariat de la Conférence permanente du sport féminin est assuré par la direction des sports.
+
+Les fonctions de membre de la Conférence permanente du sport féminin sont exercées à titre gratuit.
+
+Les membres de la Conférence permanente du sport féminin peuvent se faire rembourser leurs frais de déplacement dans les
+conditions fixées par le décret n° 2006-781 du 3 juillet 2006 modifié fixant les conditions et les modalités de règlement des
+frais occasionnés par les déplacements temporaires des personnels civils de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1059 du 10 mai 2017 - art. 1
+
+
+###### Article D142-42
+
+La Conférence permanente du sport féminin se réunit et fonctionne dans les conditions prévues par les articles R. 133-3 à R*.
+133-13 du code des relations entre le public et l'administration.
+
+Elle se réunit au moins une fois par an en séance plénière. Elle peut se réunir en formation restreinte en fonction du
+programme de travail arrêté.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°2017-1059 du 10 mai 2017 - art. 1
 
 
 ## LIVRE II : ACTEURS DU SPORT
@@ -49504,55 +49631,7 @@ contrôle des établissements ouverts au public pour l'utilisation d'équidés.
 	  - Arrêté du 28 février 2008 - art. (V)
 
 
-##### Paragraphe 2 : Conditions à respecter
-
-###### Article A322-123
-
-Les établissements visés à l'article A. 322-116 sont placés sous la surveillance du représentant de l'Etat dans le
-département. Ils sont soumis à un contrôle de conformité et à des inspections ultérieures.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-	**Cite**:
-
-	  - Code du sport. - art. A322-116 (V)
-
-
-###### Article A322-124
-
-Les exploitants ou les personnels des établissements ouverts au public pour l'utilisation d'équidés doivent posséder des
-connaissances suffisantes pour l'entretien et l'utilisation des équidés. Ces connaissances, à défaut d'être attestées par un
-diplôme reconnu par le ministre chargé de l'agriculture, sont vérifiées par le directeur des haras de la circonscription
-concernée.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
-
 ##### Paragraphe 3 : Mesures de sécurité générale
-
-###### Article A322-125
-
-Les établissements ouverts au public pour l'utilisation des équidés devront, pour réaliser cette activité, respecter les
-règles suivantes : leur implantation doit être compatible avec le cadre de leur environnement, la circulation routière, les
-accès et les possibilités de sorties des cavaliers. La conception d'ensemble des locaux, écuries, manèges, des installations
-extérieures, carrière, piste d'entraînement, prairies et enclos et des voies de circulation intérieure, doit être compatible
-avec la nature de l'activité exercée. Les matériaux de construction et les clôtures doivent être conçus de façon à ne pas
-être une cause d'accident pour les personnes et les animaux : l'usage des fils de fer barbelés est en particulier interdit.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Arrêté du 28 février 2008 - art. (V)
-
 
 ###### Article A322-126
 
@@ -49646,6 +49725,50 @@ critère de sécurité dans le cadre de la réglementation relative au classemen
 
 
 ##### Paragraphe 4 : Mesures d'hygiène générale
+
+###### Article A322-123
+
+La conception d'ensemble des équipements, locaux, écuries, manèges, carrières, pistes d'entraînement ainsi que des
+installations extérieures, prairies, enclos, voies de circulation intérieure et des accès vers l'extérieur de l'établissement
+doit être compatible avec la nature de l'activité équestre pratiquée, la sécurité des pratiquants, des équidés et des tiers.
+
+Ces installations doivent être maintenues en bon état.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 5 mai 2017 - art. 1
+
+	**Cite**:
+
+	  - Code du sport. - art. A322-116
+
+
+###### Article A322-124
+
+Les lices et pare-bottes doivent être continus, sans aspérité et conçus de façon à prévenir les accidents pour les cavaliers
+et maintenus en bon état.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 5 mai 2017 - art. 1
+
+
+###### Article A322-125
+
+Pendant les heures d'ouverture au public, l'accès aux zones de stockage du matériel, de l'outillage et des produits
+d'entretien des installations, du fourrage et du fumier, des produits vétérinaires doit faire l'objet de mesures de
+sécurisation et d'une signalétique adaptée visant à assurer la sécurité des personnes.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Arrêté du 5 mai 2017 - art. 1
+
 
 ###### Article A322-131
 
